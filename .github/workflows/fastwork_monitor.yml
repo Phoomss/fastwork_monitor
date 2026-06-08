@@ -1,0 +1,40 @@
+name: Fastwork Monitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Needed to commit and push changes back to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run Fastwork Monitor
+        run: node fastwork_monitor.js --once
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit and push seen_jobs.json changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json
+          # Only commit and push if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update seen_jobs.json [skip ci]"
+            git push
+          else
+            echo "No new jobs found. seen_jobs.json is unchanged."
+          fi
