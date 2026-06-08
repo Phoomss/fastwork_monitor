@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  fastwork-monitor:
+    build: .
+    container_name: fastwork-monitor
+    restart: always
+    volumes:
+      # Mountseen_jobs.json to save the state on your host machine
+      - ./seen_jobs.json:/app/seen_jobs.json
+    env_file:
+      - .env
