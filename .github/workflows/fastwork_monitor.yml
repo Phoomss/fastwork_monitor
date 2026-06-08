@@ -34,7 +34,8 @@ jobs:
           # Only commit and push if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "chore: update seen_jobs.json [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No new jobs found. seen_jobs.json is unchanged."
           fi
