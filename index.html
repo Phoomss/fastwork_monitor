@@ -1280,6 +1280,11 @@
 
         // Trigger manual check
         async function triggerCheckNow() {
+            if (API_BASE === 'static') {
+                alert("⚠️ โหมด Static Web (GitHub Pages) ไม่สามารถกดเช็คจากหน้าเว็บได้โดยตรง\n\nเนื่องจากหน้าแสดงผลนี้ไม่มีหลังบ้าน Node.js รันอยู่จริง ระบบจึงทำการตรวจเช็คงานเป็นรอบๆ ทุก 15 นาทีผ่านระบบ GitHub Actions เสมอ\n\n💡 วิธีการสั่งตรวจเช็คงานทันที:\n1. ไปที่หน้า GitHub Repository ของคุณ\n2. คลิกแถบ 'Actions'\n3. เลือกเวิร์กโฟลว์ 'Fastwork Jobboard Monitor'\n4. คลิกปุ่ม 'Run workflow' แล้วเลือกกิ่งที่ต้องการเพื่อกดสั่งรันตรวจสอบได้ทันทีครับ!");
+                return;
+            }
+            
             const btn = document.getElementById('btnCheckNow');
             const icon = btn.querySelector('i');
             const text = btn.querySelector('span');
