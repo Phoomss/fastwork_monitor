@@ -936,11 +936,24 @@
         }
 
         // API Base URL config: Redirect requests to port 3000 if loaded from file://, Live Server (5500), etc.
-        const API_BASE = (window.location.port === '3000')
-            ? ''
-            : (window.location.hostname 
-                ? `${window.location.protocol}//${window.location.hostname}:3000` 
-                : 'http://localhost:3000');
+        // If hosted on GitHub Pages (*.github.io), we run in static mode directly without trying port 3000 to avoid timeouts.
+        const getApiBase = () => {
+            const hostname = window.location.hostname;
+            const port = window.location.port;
+            const protocol = window.location.protocol;
+            
+            if (hostname.endsWith('github.io')) {
+                return 'static';
+            }
+            if (protocol === 'file:') {
+                return 'http://localhost:3000';
+            }
+            if (port && port !== '3000') {
+                return `${protocol}//${hostname}:3000`;
+            }
+            return '';
+        };
+        const API_BASE = getApiBase();
 
         // Helper to render stats in UI
         function renderStatsUI(stats) {
@@ -1001,6 +1014,10 @@
 
         // Fetch Stats
         async function fetchStats() {
+            if (API_BASE === 'static') {
+                calculateStatsClientSide();
+                return;
+            }
             try {
                 const res = await fetch(`${API_BASE}/api/stats`);
                 if (!res.ok) throw new Error('Failed to fetch stats');
@@ -1044,6 +1061,18 @@
 
         // Fetch Logs
         async function fetchLogs() {
+            if (API_BASE === 'static') {
+                try {
+                    const fallbackRes = await fetch('./recent_logs.json');
+                    if (!fallbackRes.ok) throw new Error();
+                    const logs = await fallbackRes.json();
+                    renderLogsUI(logs);
+                } catch (fallbackErr) {
+                    const terminalConsole = document.getElementById('terminalConsole');
+                    terminalConsole.innerHTML = '<div class="log-line">ไม่สามารถดึงข้อมูลบันทึกได้ (ระบบรันแบบ Static Web)</div>';
+                }
+                return;
+            }
             try {
                 const res = await fetch(`${API_BASE}/api/logs`);
                 if (!res.ok) throw new Error('Failed to fetch logs');
@@ -1064,6 +1093,19 @@
 
         // Fetch Jobs
         async function fetchJobs() {
+            if (API_BASE === 'static') {
+                try {
+                    const fallbackRes = await fetch('./matched_jobs.json');
+                    if (!fallbackRes.ok) throw new Error();
+                    allJobs = await fallbackRes.json();
+                    renderJobs();
+                    calculateStatsClientSide();
+                } catch (fallbackErr) {
+                    console.error(fallbackErr);
+                    document.getElementById('jobsCountText').textContent = 'เกิดข้อผิดพลาดในการโหลดข้อมูล';
+                }
+                return;
+            }
             try {
                 const res = await fetch(`${API_BASE}/api/jobs`);
                 if (!res.ok) throw new Error('Failed to fetch jobs');
