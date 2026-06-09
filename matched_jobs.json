@@ -1,5 +1,50 @@
 [
   {
+    "id": "8f4fb73f-c01d-401e-8b92-cc0e0d9b907b",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ปัจจุบันมีเว็บชั่วคราวตามช่องตัวอย่างผลงานแต่อยากยกเครื่องใหม่ กำลังทำ backendกับเพื่อนแต่ขาดคนทำ fontend อยากได้แบบ interactive ใช้เครื่องมือเดียวกับเกมบนเว็บพวก Godot หรืออื่นๆ เรื่องราคาคุยกันได้ผมแค่เติมให้ครบเฉยๆ ไม่เอา AI ช่วยในผลงานนะ คือใช้เป็นผู้ช่วยในตอนต้นๆได้แต่ไม่อยากให้โผล่ในตอนสุดท้าย",
+    "title": "คนทำ fontend เว็ปไซต์",
+    "is_owner": null,
+    "files": [],
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-09T15:09:38.652949Z",
+    "updated_at": "2026-06-09T15:09:39.979464Z",
+    "user_id": "05f48c41-45a1-4add-b26a-c33c5e2446f3",
+    "brief_url": "https://at-group.makeweb.co",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;SM-S911B;7.0.0-6000765"
+    },
+    "expired_at": "2026-07-09T15:09:38.640894Z",
+    "already_offered": null,
+    "business_type": "ขนส่ง โลจิสติกส์",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-09T15:10:20.923Z"
+  },
+  {
     "id": "6cd47c62-443c-42e8-b8f4-6549564ef06c",
     "status": "open",
     "tag": {
