@@ -11,6 +11,7 @@ const SEEN_JOBS_FILE = "seen_jobs.json";
 const MATCHED_JOBS_FILE = "matched_jobs.json";
 const LOGS_FILE = "recent_logs.json";
 
+
 // In-memory logs cache for the Web Console
 const recentLogs = [];
 const originalConsoleLog = console.log;
