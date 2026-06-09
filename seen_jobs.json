@@ -51,8 +51,11 @@
   "b59d9da6-868f-4c24-92ec-15fcd0492112",
   "86a6f1fa-9411-4eca-b98a-4466baafe5d6",
   "8783e0f9-59fa-4338-9879-b382416bca2e",
+<<<<<<< HEAD
   "ae2166aa-880c-465c-b381-3c1efb7bf488",
   "495917b6-ae90-4cdc-b027-aae651d9097d",
+=======
+>>>>>>> d683911 (feat: add CI workflow for Fastwork monitor tests)
   "0129d9b2-456d-4b4d-a7a4-1a712f2b432d",
   "e9de3dae-fabf-4104-bc39-34144de5aba4",
   "1a1b9793-26a1-4348-8a8e-1d064e5885ce",
@@ -66,6 +69,10 @@
   "1495a94e-111e-4e2e-ae70-4996ccec4c78",
   "e9ec4f8f-e547-4164-957f-ad69206d0a00",
   "2bdc74de-5e8b-4a26-ab01-f3bdaa5161f7",
+<<<<<<< HEAD
   "c806246d-67ee-41ef-87b6-3eb5aa6f9afe",
   "fa7da5fa-f3ca-4dbe-87ba-8528d9e8c1a3"
+=======
+  "c806246d-67ee-41ef-87b6-3eb5aa6f9afe"
+>>>>>>> d683911 (feat: add CI workflow for Fastwork monitor tests)
 ]
