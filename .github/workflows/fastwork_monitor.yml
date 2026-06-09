@@ -2,19 +2,16 @@ name: Fastwork Monitor
 
 on:
   schedule:
+    # รันบอทตรวจงานใหม่ทุกๆ 5 นาที
     - cron: "*/5 * * * *"
-
-on:
-  schedule:
-    - cron: "*10 * * * *" # Every 10 minutes
-  workflow_dispatch:
+  workflow_dispatch: # เปิดให้กดรันตรวจสอบทันทีแบบ Manual ในแถบ Actions
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # Needed to commit and push changes back to the repository
+      contents: write # เพื่อให้ระบบบอทมีสิทธิ์บันทึกและพุชข้อมูลกลับเข้าคลัง GitHub ของคุณได้
 
     steps:
       - name: Checkout repository
@@ -30,16 +27,19 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
-      - name: Commit and push seen_jobs.json changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json
-          # Only commit and push if there are changes
+          
+          # ติดตามประวัติการตรวจสอบ, รายชื่อฟิลเตอร์ และล็อกการทำงาน
+          git add seen_jobs.json matched_jobs.json recent_logs.json
+          
+          # ดำเนินการ Commit และ Push ไปที่ GitHub Pages เฉพาะเมื่อมีความเปลี่ยนแปลงเกิดขึ้น
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update seen_jobs.json [skip ci]"
+            git commit -m "chore: update jobs history, seen list and recent logs [skip ci]"
             git pull --rebase origin main
             git push origin main
           else
-            echo "No new jobs found. seen_jobs.json is unchanged."
+            echo "No changes in jobs or logs. Skip committing."
           fi
