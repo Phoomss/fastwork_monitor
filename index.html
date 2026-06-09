@@ -1,0 +1,1341 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fastwork Jobboard Monitor Dashboard</title>
+    <!-- Google Fonts: Outfit (English) & Kanit (Thai) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --panel-bg: rgba(17, 24, 39, 0.7);
+            --panel-border: rgba(255, 255, 255, 0.06);
+            --text-primary: #f3f4f6;
+            --text-secondary: #9ca3af;
+            --accent-primary: #6366f1; /* Indigo */
+            --accent-primary-glow: rgba(99, 102, 241, 0.15);
+            --accent-success: #10b981; /* Emerald */
+            --accent-success-glow: rgba(16, 185, 129, 0.15);
+            --accent-web: #3b82f6; /* Blue */
+            --accent-app: #8b5cf6; /* Violet */
+            --accent-ux: #ec4899; /* Pink */
+            --card-hover-border: rgba(99, 102, 241, 0.3);
+            --font-family: 'Outfit', 'Kanit', sans-serif;
+            --shadow-glow: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            transition: background-color 0.25s, border-color 0.25s, transform 0.2s;
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            min-height: 100vh;
+            padding: 2rem 1rem;
+            position: relative;
+            overflow-x: hidden;
+            line-height: 1.5;
+        }
+
+        /* Gradient Glow Background Elements */
+        .ambient-glow-1 {
+            position: absolute;
+            top: -10%;
+            left: -10%;
+            width: 50vw;
+            height: 50vw;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.08) 0%, rgba(0,0,0,0) 70%);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .ambient-glow-2 {
+            position: absolute;
+            bottom: -10%;
+            right: -10%;
+            width: 50vw;
+            height: 50vw;
+            background: radial-gradient(circle, rgba(16, 185, 129, 0.06) 0%, rgba(0,0,0,0) 70%);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Glassmorphic Panel Styles */
+        .glass-panel {
+            background: var(--panel-bg);
+            border: 1px solid var(--panel-border);
+            border-radius: 16px;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 1.5rem;
+            box-shadow: var(--shadow-glow);
+            margin-bottom: 1.5rem;
+        }
+
+        /* Header Layout */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+            padding: 1.5rem 2rem;
+        }
+
+        .brand-section {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .logo-icon {
+            font-size: 2.2rem;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-success));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.3));
+        }
+
+        .brand-title h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            background: linear-gradient(to right, #ffffff, #e2e8f0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .brand-title p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 2px;
+        }
+
+        /* System Info Pill Panels */
+        .system-status-container {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .status-badge {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--panel-border);
+            padding: 0.5rem 0.85rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: var(--accent-success);
+            box-shadow: 0 0 10px var(--accent-success);
+            display: inline-block;
+        }
+
+        .status-dot.pulsing {
+            animation: pulse-glow 1.5s infinite ease-in-out;
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 0.5; transform: scale(0.9); }
+            50% { opacity: 1; transform: scale(1.1); box-shadow: 0 0 12px var(--accent-success); }
+        }
+
+        /* Metrics Grid */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .metric-card {
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+            padding: 1.5rem;
+            border: 1px solid var(--panel-border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .metric-card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background-color: var(--accent-primary);
+        }
+
+        .metric-card.web::after { background-color: var(--accent-web); }
+        .metric-card.app::after { background-color: var(--accent-app); }
+        .metric-card.ux::after { background-color: var(--accent-ux); }
+        .metric-card.budget::after { background-color: var(--accent-success); }
+
+        .metric-icon-box {
+            width: 48px;
+            height: 48px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .metric-card.web .metric-icon-box { color: var(--accent-web); background: rgba(59, 130, 246, 0.07); }
+        .metric-card.app .metric-icon-box { color: var(--accent-app); background: rgba(139, 92, 246, 0.07); }
+        .metric-card.ux .metric-icon-box { color: var(--accent-ux); background: rgba(236, 72, 153, 0.07); }
+        .metric-card.budget .metric-icon-box { color: var(--accent-success); background: rgba(16, 185, 129, 0.07); }
+
+        .metric-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .metric-val {
+            font-size: 1.8rem;
+            font-weight: 700;
+            letter-spacing: -1px;
+            color: #ffffff;
+            line-height: 1.2;
+        }
+
+        .metric-label {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 2px;
+        }
+
+        /* Controls Section (Filters, Search) */
+        .controls-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+        }
+
+        .controls-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .search-container {
+            position: relative;
+            flex-grow: 1;
+            max-width: 450px;
+            min-width: 280px;
+        }
+
+        .search-input {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--panel-border);
+            color: var(--text-primary);
+            padding: 0.75rem 1rem 0.75rem 2.75rem;
+            border-radius: 12px;
+            font-size: 0.95rem;
+            outline: none;
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-primary);
+            background: rgba(255, 255, 255, 0.06);
+            box-shadow: 0 0 15px var(--accent-primary-glow);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+            pointer-events: none;
+            font-size: 1rem;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.7rem 1.25rem;
+            font-family: var(--font-family);
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #ffffff;
+            background: linear-gradient(135deg, var(--accent-primary), #4f46e5);
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
+            filter: brightness(1.1);
+        }
+
+        .btn:disabled {
+            background: #374151;
+            box-shadow: none;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid var(--panel-border);
+            color: var(--text-primary);
+            box-shadow: none;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.15);
+            transform: translateY(-2px);
+            box-shadow: none;
+        }
+
+        /* Filter Pills Row */
+        .filter-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            padding-top: 1.25rem;
+        }
+
+        .pills-group {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .pill {
+            padding: 0.45rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--panel-border);
+            color: var(--text-secondary);
+            cursor: pointer;
+        }
+
+        .pill:hover {
+            background: rgba(255, 255, 255, 0.08);
+            color: var(--text-primary);
+        }
+
+        .pill.active {
+            background: var(--accent-primary-glow);
+            border-color: var(--accent-primary);
+            color: #ffffff;
+            font-weight: 600;
+        }
+
+        .dropdowns-group {
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-select {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--panel-border);
+            color: var(--text-primary);
+            padding: 0.45rem 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            font-family: var(--font-family);
+            outline: none;
+            cursor: pointer;
+        }
+
+        .filter-select:focus {
+            border-color: var(--accent-primary);
+        }
+
+        /* Jobs Grid Section */
+        .jobs-section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.25rem;
+            padding: 0 0.5rem;
+        }
+
+        .jobs-count-text {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+
+        .jobs-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        @media (min-width: 768px) {
+            .jobs-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        /* Job Card Styles */
+        .job-card {
+            border: 1px solid var(--panel-border);
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .job-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--card-hover-border);
+            box-shadow: 0 12px 24px -10px rgba(99, 102, 241, 0.15), var(--shadow-glow);
+        }
+
+        .job-card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .category-badges {
+            display: flex;
+            gap: 0.4rem;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            text-transform: uppercase;
+        }
+
+        .badge-web { color: #3b82f6; background: rgba(59, 130, 246, 0.12); border: 1px solid rgba(59, 130, 246, 0.2); }
+        .badge-app { color: #8b5cf6; background: rgba(139, 92, 246, 0.12); border: 1px solid rgba(139, 92, 246, 0.2); }
+        .badge-ux { color: #ec4899; background: rgba(236, 72, 153, 0.12); border: 1px solid rgba(236, 72, 153, 0.2); }
+
+        .job-budget-tag {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--accent-success);
+            background: var(--accent-success-glow);
+            padding: 0.25rem 0.75rem;
+            border-radius: 8px;
+            border: 1px solid rgba(16, 185, 129, 0.25);
+            white-space: nowrap;
+        }
+
+        .job-title {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: #ffffff;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .job-desc {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: 1.25rem;
+            line-height: 1.6;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: pre-line;
+        }
+
+        .job-desc.expanded {
+            display: block;
+            -webkit-line-clamp: unset;
+            overflow: visible;
+        }
+
+        .read-more-btn {
+            background: none;
+            border: none;
+            color: var(--accent-primary);
+            font-family: var(--font-family);
+            font-size: 0.8rem;
+            font-weight: 600;
+            cursor: pointer;
+            align-self: flex-start;
+            margin-top: -0.75rem;
+            margin-bottom: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .read-more-btn:hover {
+            text-decoration: underline;
+            color: #818cf8;
+        }
+
+        .meta-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.75rem;
+            padding: 0.85rem 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.04);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+            margin-bottom: 1rem;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .meta-item i {
+            color: var(--accent-primary);
+            width: 14px;
+        }
+
+        .job-card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: auto;
+            gap: 1rem;
+        }
+
+        .client-profile {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            overflow: hidden;
+        }
+
+        .client-avatar {
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            object-fit: cover;
+        }
+
+        .client-name {
+            font-size: 0.85rem;
+            color: var(--text-primary);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-weight: 500;
+        }
+
+        .open-job-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #ffffff;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--panel-border);
+            padding: 0.45rem 0.85rem;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+
+        .open-job-link:hover {
+            background: var(--accent-primary);
+            border-color: var(--accent-primary);
+            box-shadow: 0 4px 10px rgba(99, 102, 241, 0.2);
+        }
+
+        /* Empty State */
+        .empty-state {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--text-secondary);
+        }
+
+        .empty-state-icon {
+            font-size: 3rem;
+            color: rgba(255, 255, 255, 0.1);
+            margin-bottom: 1.5rem;
+        }
+
+        .empty-state h3 {
+            font-size: 1.25rem;
+            color: #ffffff;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Live Terminal Logs */
+        .terminal-panel {
+            margin-top: 2rem;
+        }
+
+        .terminal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .terminal-title {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            font-size: 0.95rem;
+            color: var(--text-primary);
+        }
+
+        .terminal-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .terminal-body {
+            background-color: #05070c;
+            border-radius: 8px;
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            padding: 1rem;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.8rem;
+            height: 180px;
+            overflow-y: auto;
+            color: #38bdf8; /* light blue console text */
+            box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.8);
+        }
+
+        .log-line {
+            margin-bottom: 0.35rem;
+            white-space: pre-wrap;
+            line-height: 1.4;
+            border-left: 2px solid transparent;
+            padding-left: 0.5rem;
+        }
+
+        .log-line.error { color: #f87171; border-color: #ef4444; }
+        .log-line.warn { color: #fbbf24; border-color: #f59e0b; }
+        .log-line.success { color: #34d399; border-color: #10b981; }
+
+        /* Loader Animation */
+        .spinner {
+            animation: spin 1s linear infinite;
+            display: inline-block;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /* Checkbox Custom Style */
+        .toggle-switch {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .toggle-switch input {
+            display: none;
+        }
+
+        .switch-rail {
+            width: 34px;
+            height: 20px;
+            background-color: #374151;
+            border-radius: 9999px;
+            position: relative;
+            display: inline-block;
+        }
+
+        .switch-knob {
+            width: 14px;
+            height: 14px;
+            background-color: #ffffff;
+            border-radius: 50%;
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            transition: left 0.2s;
+        }
+
+        .toggle-switch input:checked + .switch-rail {
+            background-color: var(--accent-primary);
+        }
+
+        .toggle-switch input:checked + .switch-rail .switch-knob {
+            left: 17px;
+        }
+    </style>
+</head>
+<body>
+    <div class="ambient-glow-1"></div>
+    <div class="ambient-glow-2"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="glass-panel">
+            <div class="brand-section">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-server"></i>
+                </div>
+                <div class="brand-title">
+                    <h1>Fastwork Monitor</h1>
+                    <p>ระบบตรวจจับและแจ้งเตือนงานพัฒนาเว็บ แอป และ UX/UI จาก Fastwork</p>
+                </div>
+            </div>
+            
+            <div class="system-status-container">
+                <div class="status-badge">
+                    <span class="status-dot pulsing" id="statusDot"></span>
+                    <span id="statusText" style="font-weight:600;">กำลังตรวจสอบอัตโนมัติ</span>
+                </div>
+                <div class="status-badge" id="webhookBadge" title="Discord Webhook Config Status">
+                    <i class="fa-brands fa-discord" style="color: #5865F2;"></i>
+                    <span id="webhookStatusVal">ตรวจจับ...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Metrics Grid -->
+        <div class="metrics-grid">
+            <div class="glass-panel metric-card" id="cardTotal">
+                <div class="metric-icon-box">
+                    <i class="fa-solid fa-briefcase"></i>
+                </div>
+                <div class="metric-info">
+                    <span class="metric-val" id="metricTotal">0</span>
+                    <span class="metric-label">งานเป้าหมายทั้งหมด</span>
+                </div>
+            </div>
+            <div class="glass-panel metric-card web" id="cardWeb">
+                <div class="metric-icon-box">
+                    <i class="fa-solid fa-code"></i>
+                </div>
+                <div class="metric-info">
+                    <span class="metric-val" id="metricWeb">0</span>
+                    <span class="metric-label">พัฒนาเว็บไซต์</span>
+                </div>
+            </div>
+            <div class="glass-panel metric-card app" id="cardApp">
+                <div class="metric-icon-box">
+                    <i class="fa-solid fa-mobile-screen-button"></i>
+                </div>
+                <div class="metric-info">
+                    <span class="metric-val" id="metricApp">0</span>
+                    <span class="metric-label">พัฒนาแอป</span>
+                </div>
+            </div>
+            <div class="glass-panel metric-card ux" id="cardUx">
+                <div class="metric-icon-box">
+                    <i class="fa-solid fa-palette"></i>
+                </div>
+                <div class="metric-info">
+                    <span class="metric-val" id="metricUx">0</span>
+                    <span class="metric-label">ออกแบบ UX/UI</span>
+                </div>
+            </div>
+            <div class="glass-panel metric-card budget" id="cardBudget">
+                <div class="metric-icon-box">
+                    <i class="fa-solid fa-wallet"></i>
+                </div>
+                <div class="metric-info">
+                    <span class="metric-val" id="metricBudget">฿0</span>
+                    <span class="metric-label">งบประมาณเฉลี่ย</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls (Filters, Scraper control) -->
+        <div class="glass-panel controls-panel">
+            <div class="controls-top">
+                <div class="search-container">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="searchInput" class="search-input" placeholder="ค้นหาชื่องาน รายละเอียด หรือผู้ประกาศ...">
+                </div>
+                <div class="action-buttons">
+                    <button id="btnCheckNow" class="btn">
+                        <i class="fa-solid fa-rotate"></i>
+                        <span>ตรวจสอบงานทันที</span>
+                    </button>
+                    <button id="btnRefreshUI" class="btn btn-secondary" title="ดึงข้อมูลจาก Server">
+                        <i class="fa-solid fa-arrows-rotate"></i>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="filter-row">
+                <div class="pills-group" id="categoryPills">
+                    <span class="pill active" data-category="all">ทั้งหมด</span>
+                    <span class="pill" data-category="พัฒนาเว็บไซต์"><i class="fa-solid fa-code" style="margin-right:4px;"></i> เว็บไซต์</span>
+                    <span class="pill" data-category="พัฒนาแอปพลิเคชัน"><i class="fa-solid fa-mobile-screen-button" style="margin-right:4px;"></i> แอปมือถือ</span>
+                    <span class="pill" data-category="ออกแบบ UX UI"><i class="fa-solid fa-palette" style="margin-right:4px;"></i> UX/UI</span>
+                </div>
+                
+                <div class="dropdowns-group">
+                    <select id="typeFilter" class="filter-select">
+                        <option value="all">รูปแบบจ้างงาน: ทั้งหมด</option>
+                        <option value="freelance">ฟรีแลนซ์ (จ้างโปรเจกต์)</option>
+                        <option value="contract">สัญญาจ้าง</option>
+                        <option value="part-time">พาร์ทไทม์</option>
+                        <option value="full-time">งานประจำ</option>
+                    </select>
+
+                    <select id="sortSelect" class="filter-select">
+                        <option value="newest">เรียง: งานล่าสุด</option>
+                        <option value="budget-desc">เรียง: งบประมาณ สูง -> ต่ำ</option>
+                        <option value="budget-asc">เรียง: งบประมาณ ต่ำ -> สูง</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Jobs Grid Header -->
+        <div class="jobs-section-header">
+            <h2 style="font-size: 1.25rem; font-weight:600;"><i class="fa-solid fa-list-check" style="color:var(--accent-primary); margin-right:8px;"></i> รายการงานที่ตรวจพบ</h2>
+            <div class="jobs-count-text" id="jobsCountText">กำลังโหลดข้อมูล...</div>
+        </div>
+
+        <!-- Jobs Grid -->
+        <div class="jobs-grid" id="jobsGrid">
+            <!-- Job cards will be inserted here dynamically -->
+        </div>
+
+        <!-- Live Terminal logs -->
+        <div class="glass-panel terminal-panel">
+            <div class="terminal-header">
+                <div class="terminal-title">
+                    <i class="fa-solid fa-terminal" style="color: #38bdf8;"></i>
+                    <span>ระบบบันทึกเหตุการณ์ (Console Logs)</span>
+                </div>
+                <div class="terminal-actions">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="autoRefreshCheckbox" checked>
+                        <span class="switch-rail"><span class="switch-knob"></span></span>
+                        <span>ดึงข้อมูลอัตโนมัติ (10 วินาที)</span>
+                    </label>
+                    <span style="opacity: 0.35;">|</span>
+                    <span id="lastUpdatedTime">อัปเดตล่าสุด: กำลังโหลด...</span>
+                </div>
+            </div>
+            <div class="terminal-body" id="terminalConsole">
+                <div class="log-line">กำลังเชื่อมต่อกับระบบบันทึก...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Client-side Javascript Logic -->
+    <script>
+        let allJobs = [];
+        let activeCategory = 'all';
+        let refreshInterval = null;
+
+        // Job type translations helper
+        const jobTypesTh = {
+            "freelance": "ฟรีแลนซ์",
+            "contract": "สัญญาจ้าง",
+            "part-time": "พาร์ทไทม์",
+            "full-time": "งานประจำ",
+            "other": "ไม่ระบุ"
+        };
+
+        // Format budget helper
+        function formatBudget(val) {
+            const num = parseFloat(String(val).replace(/,/g, ''));
+            if (isNaN(num)) return val;
+            return '฿' + num.toLocaleString('th-TH');
+        }
+
+        // Format relative time helper
+        function getRelativeTime(dateString) {
+            if (!dateString) return 'ไม่ระบุ';
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffMs = now - date;
+            
+            if (diffMs < 0) return 'เมื่อครู่นี้'; // Handling future time variations
+            
+            const diffMins = Math.floor(diffMs / 60000);
+            if (diffMins < 1) return 'เมื่อครู่นี้';
+            if (diffMins < 60) return `${diffMins} นาทีที่แล้ว`;
+            
+            const diffHoursActual = Math.floor(diffMs / 3600000);
+            if (diffHoursActual < 24) return `${diffHoursActual} ชั่วโมงที่แล้ว`;
+            
+            const diffDays = Math.floor(diffHoursActual / 24);
+            return `${diffDays} วันที่แล้ว`;
+        }
+
+        // API Base URL config: Redirect requests to port 3000 if loaded from file://, Live Server (5500), etc.
+        const API_BASE = (window.location.port === '3000')
+            ? ''
+            : (window.location.hostname 
+                ? `${window.location.protocol}//${window.location.hostname}:3000` 
+                : 'http://localhost:3000');
+
+        // Helper to render stats in UI
+        function renderStatsUI(stats) {
+            document.getElementById('metricTotal').textContent = stats.totalMatched;
+            document.getElementById('metricWeb').textContent = stats.webCount;
+            document.getElementById('metricApp').textContent = stats.appCount;
+            document.getElementById('metricUx').textContent = stats.uxUiCount;
+            document.getElementById('metricBudget').textContent = '฿' + stats.avgBudget.toLocaleString('th-TH');
+            
+            const webhookBadge = document.getElementById('webhookBadge');
+            const webhookStatusVal = document.getElementById('webhookStatusVal');
+            webhookStatusVal.textContent = `Discord: ${stats.webhookStatus}`;
+            webhookBadge.title = `Webhook: ${stats.maskedWebhook}\nรอบตรวจสอบ: ${stats.intervalSeconds} วินาที`;
+            
+            if (stats.webhookStatus === 'Enabled') {
+                webhookBadge.style.background = 'rgba(88, 101, 242, 0.1)';
+                webhookBadge.style.borderColor = 'rgba(88, 101, 242, 0.3)';
+            } else {
+                webhookBadge.style.background = 'rgba(239, 68, 68, 0.05)';
+                webhookBadge.style.borderColor = 'rgba(239, 68, 68, 0.15)';
+            }
+        }
+
+        // Calculate stats client side (fallback)
+        function calculateStatsClientSide() {
+            let webCount = 0;
+            let appCount = 0;
+            let uxUiCount = 0;
+            let totalBudget = 0;
+            let budgetCount = 0;
+            
+            allJobs.forEach(job => {
+                const cats = job.matchedCategories || [];
+                if (cats.includes("พัฒนาเว็บไซต์")) webCount++;
+                if (cats.includes("พัฒนาแอปพลิเคชัน")) appCount++;
+                if (cats.includes("ออกแบบ UX UI")) uxUiCount++;
+                
+                const budgetNum = parseFloat(String(job.budget).replace(/,/g, ''));
+                if (!isNaN(budgetNum)) {
+                    totalBudget += budgetNum;
+                    budgetCount++;
+                }
+            });
+            
+            const avgBudget = budgetCount > 0 ? Math.round(totalBudget / budgetCount) : 0;
+            
+            renderStatsUI({
+                totalMatched: allJobs.length,
+                webCount,
+                appCount,
+                uxUiCount,
+                avgBudget,
+                webhookStatus: 'Static Mode',
+                maskedWebhook: 'N/A (Static Host)',
+                intervalSeconds: 900
+            });
+        }
+
+        // Fetch Stats
+        async function fetchStats() {
+            try {
+                const res = await fetch(`${API_BASE}/api/stats`);
+                if (!res.ok) throw new Error('Failed to fetch stats');
+                const stats = await res.json();
+                renderStatsUI(stats);
+            } catch (err) {
+                console.log('Using client-side stats calculation fallback');
+                calculateStatsClientSide();
+            }
+        }
+
+        // Helper to render logs in UI
+        function renderLogsUI(logs) {
+            const terminalConsole = document.getElementById('terminalConsole');
+            terminalConsole.innerHTML = '';
+            
+            if (logs.length === 0) {
+                terminalConsole.innerHTML = '<div class="log-line">ไม่มีข้อมูลบันทึกในขณะนี้</div>';
+                return;
+            }
+            
+            logs.forEach(log => {
+                const line = document.createElement('div');
+                line.className = 'log-line';
+                
+                const text = log.toLowerCase();
+                if (text.includes('error') || text.includes('failed') || text.includes('critical')) {
+                    line.classList.add('error');
+                } else if (text.includes('warning') || text.includes('⚠️')) {
+                    line.classList.add('warn');
+                } else if (text.includes('success') || text.includes('found new target job') || text.includes('notification sent')) {
+                    line.classList.add('success');
+                }
+                
+                line.textContent = log;
+                terminalConsole.appendChild(line);
+            });
+
+            document.getElementById('lastUpdatedTime').textContent = `อัปเดตล่าสุด: ${new Date().toLocaleTimeString('th-TH')}`;
+        }
+
+        // Fetch Logs
+        async function fetchLogs() {
+            try {
+                const res = await fetch(`${API_BASE}/api/logs`);
+                if (!res.ok) throw new Error('Failed to fetch logs');
+                const logs = await res.json();
+                renderLogsUI(logs);
+            } catch (err) {
+                try {
+                    const fallbackRes = await fetch('./recent_logs.json');
+                    if (!fallbackRes.ok) throw new Error();
+                    const logs = await fallbackRes.json();
+                    renderLogsUI(logs);
+                } catch (fallbackErr) {
+                    const terminalConsole = document.getElementById('terminalConsole');
+                    terminalConsole.innerHTML = '<div class="log-line">ไม่สามารถดึงข้อมูลบันทึกได้ (ระบบรันแบบ Static Web)</div>';
+                }
+            }
+        }
+
+        // Fetch Jobs
+        async function fetchJobs() {
+            try {
+                const res = await fetch(`${API_BASE}/api/jobs`);
+                if (!res.ok) throw new Error('Failed to fetch jobs');
+                allJobs = await res.json();
+                renderJobs();
+                calculateStatsClientSide(); // Ensure stats are sync'd
+            } catch (err) {
+                try {
+                    const fallbackRes = await fetch('./matched_jobs.json');
+                    if (!fallbackRes.ok) throw new Error();
+                    allJobs = await fallbackRes.json();
+                    renderJobs();
+                    calculateStatsClientSide(); // Sync stats using fallback data
+                } catch (fallbackErr) {
+                    console.error(fallbackErr);
+                    document.getElementById('jobsCountText').textContent = 'เกิดข้อผิดพลาดในการโหลดข้อมูล';
+                }
+            }
+        }
+
+        // Filter and Render Jobs list
+        function renderJobs() {
+            const grid = document.getElementById('jobsGrid');
+            const searchVal = document.getElementById('searchInput').value.toLowerCase().trim();
+            const typeVal = document.getElementById('typeFilter').value;
+            const sortVal = document.getElementById('sortSelect').value;
+            
+            grid.innerHTML = '';
+            
+            // Apply Filters
+            let filtered = allJobs.filter(job => {
+                // Category Filter
+                if (activeCategory !== 'all') {
+                    const categories = job.matchedCategories || [];
+                    if (!categories.includes(activeCategory)) return false;
+                }
+                
+                // Job Type Filter
+                if (typeVal !== 'all') {
+                    if (job.type !== typeVal) return false;
+                }
+                
+                // Search Text Filter
+                if (searchVal) {
+                    const title = (job.title || '').toLowerCase();
+                    const desc = (job.description || '').toLowerCase();
+                    const displayName = (job.user_profile && job.user_profile.display_name || '').toLowerCase();
+                    const businessType = (job.business_type || '').toLowerCase();
+                    const tag = (job.tag && job.tag.name || '').toLowerCase();
+                    
+                    const matches = title.includes(searchVal) || 
+                                    desc.includes(searchVal) || 
+                                    displayName.includes(searchVal) || 
+                                    businessType.includes(searchVal) ||
+                                    tag.includes(searchVal);
+                                    
+                    if (!matches) return false;
+                }
+                
+                return true;
+            });
+
+            // Apply Sort
+            filtered.sort((a, b) => {
+                if (sortVal === 'newest') {
+                    return new Date(b.inserted_at || b.matchedAt) - new Date(a.inserted_at || a.matchedAt);
+                } else if (sortVal === 'budget-desc') {
+                    const budgetA = parseFloat(String(a.budget).replace(/,/g, '')) || 0;
+                    const budgetB = parseFloat(String(b.budget).replace(/,/g, '')) || 0;
+                    return budgetB - budgetA;
+                } else if (sortVal === 'budget-asc') {
+                    const budgetA = parseFloat(String(a.budget).replace(/,/g, '')) || 0;
+                    const budgetB = parseFloat(String(b.budget).replace(/,/g, '')) || 0;
+                    return budgetA - budgetB;
+                }
+                return 0;
+            });
+
+            // Update Count Text
+            document.getElementById('jobsCountText').textContent = `พบทั้งหมด ${filtered.length} รายการ จากที่บันทึกไว้ทั้งหมด ${allJobs.length} งาน`;
+
+            if (filtered.length === 0) {
+                grid.innerHTML = `
+                    <div class="glass-panel empty-state">
+                        <div class="empty-state-icon"><i class="fa-solid fa-briefcase"></i></div>
+                        <h3>ไม่พบงานที่ค้นหา</h3>
+                        <p>ลองเปลี่ยนคำค้นหา หรือเปลี่ยนหมวดหมู่ตัวกรอง</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Render cards
+            filtered.forEach(job => {
+                const card = document.createElement('div');
+                card.className = 'glass-panel job-card';
+                card.id = `job-card-${job.id}`;
+                
+                // Category badges
+                let badgeHTML = '';
+                const categories = job.matchedCategories || [];
+                categories.forEach(cat => {
+                    if (cat === 'พัฒนาเว็บไซต์') badgeHTML += '<span class="badge badge-web">Website</span>';
+                    else if (cat === 'พัฒนาแอปพลิเคชัน') badgeHTML += '<span class="badge badge-app">Mobile App</span>';
+                    else if (cat === 'ออกแบบ UX UI') badgeHTML += '<span class="badge badge-ux">UX / UI</span>';
+                    else badgeHTML += `<span class="badge" style="background:rgba(255,255,255,0.1); color:#fff;">${cat}</span>`;
+                });
+                
+                // Budget format
+                const budgetStr = formatBudget(job.budget);
+                const jobTypeStr = jobTypesTh[job.type] || job.type || 'ไม่ระบุ';
+                const relativeTime = getRelativeTime(job.inserted_at || job.matchedAt);
+                
+                // Description formatting
+                const description = job.description || 'ไม่มีรายละเอียดของงาน';
+                
+                // User Profile
+                const dispName = job.user_profile && job.user_profile.display_name || 'ผู้ประกาศทั่วไป';
+                const avatarUrl = job.user_profile && job.user_profile.image_url || '';
+                const avatarHTML = avatarUrl 
+                    ? `<img src="${avatarUrl}" class="client-avatar" alt="${dispName}" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22><rect width=%22100%25%22 height=%22100%25%22 fill=%22%23222%22/><text x=%2250%25%22 y=%2250%25%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23666%22>👤</text></svg>'">`
+                    : `<div class="client-avatar" style="display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.05);font-size:0.75rem;">👤</div>`;
+                
+                const jobLink = `https://jobboard.fastwork.co/jobs/${job.id}`;
+
+                card.innerHTML = `
+                    <div class="job-card-header">
+                        <div class="category-badges">${badgeHTML}</div>
+                        <div class="job-budget-tag">${budgetStr}</div>
+                    </div>
+                    <h3 class="job-title" title="${job.title}">${job.title}</h3>
+                    <div class="job-desc" id="desc-${job.id}">${description}</div>
+                    <button class="read-more-btn" onclick="toggleDescription('${job.id}')" id="btn-desc-${job.id}">
+                        <span>อ่านเพิ่มเติม</span> <i class="fa-solid fa-chevron-down"></i>
+                    </button>
+                    
+                    <div class="meta-grid">
+                        <div class="meta-item"><i class="fa-solid fa-briefcase"></i> <span>รูปแบบ: ${jobTypeStr}</span></div>
+                        <div class="meta-item"><i class="fa-solid fa-clock"></i> <span>โพสต์เมื่อ: ${relativeTime}</span></div>
+                        <div class="meta-item"><i class="fa-solid fa-building"></i> <span>ธุรกิจ: ${job.business_type || 'ทั่วไป'}</span></div>
+                        <div class="meta-item"><i class="fa-solid fa-tags"></i> <span>หมวดหมู่ย่อย: ${job.tag && job.tag.name || 'ทั่วไป'}</span></div>
+                    </div>
+                    
+                    <div class="job-card-footer">
+                        <div class="client-profile">
+                            ${avatarHTML}
+                            <span class="client-name" title="${dispName}">${dispName}</span>
+                        </div>
+                        <a href="${jobLink}" target="_blank" class="open-job-link">
+                            <span>เปิดดูบน Fastwork</span>
+                            <i class="fa-solid fa-external-link"></i>
+                        </a>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        // Toggle Expandable Description
+        window.toggleDescription = function(id) {
+            const desc = document.getElementById(`desc-${id}`);
+            const btn = document.getElementById(`btn-desc-${id}`);
+            
+            if (desc.classList.contains('expanded')) {
+                desc.classList.remove('expanded');
+                btn.innerHTML = '<span>อ่านเพิ่มเติม</span> <i class="fa-solid fa-chevron-down"></i>';
+            } else {
+                desc.classList.add('expanded');
+                btn.innerHTML = '<span>ย่อรายละเอียด</span> <i class="fa-solid fa-chevron-up"></i>';
+            }
+        };
+
+        // Trigger manual check
+        async function triggerCheckNow() {
+            const btn = document.getElementById('btnCheckNow');
+            const icon = btn.querySelector('i');
+            const text = btn.querySelector('span');
+            
+            btn.disabled = true;
+            icon.className = 'fa-solid fa-circle-notch spinner';
+            text.textContent = 'กำลังตรวจสอบ...';
+            
+            try {
+                const res = await fetch(`${API_BASE}/api/check`, { method: 'POST' });
+                if (!res.ok) throw new Error('Check failed');
+                const data = await res.json();
+                
+                // Play check animation or highlight
+                console.log('Manual check response:', data);
+            } catch (err) {
+                console.error(err);
+            } finally {
+                // Restore button
+                btn.disabled = false;
+                icon.className = 'fa-solid fa-rotate';
+                text.textContent = 'ตรวจสอบงานทันที';
+                
+                // Refresh data
+                await refreshData();
+            }
+        }
+
+        // Master Refresh function
+        async function refreshData() {
+            await Promise.all([
+                fetchStats(),
+                fetchJobs(),
+                fetchLogs()
+            ]);
+        }
+
+        // Setup Event Listeners
+        function setupEventListeners() {
+            // Search Input listener
+            document.getElementById('searchInput').addEventListener('input', renderJobs);
+            
+            // Dropdowns listeners
+            document.getElementById('typeFilter').addEventListener('change', renderJobs);
+            document.getElementById('sortSelect').addEventListener('change', renderJobs);
+            
+            // Refresh Button listener
+            document.getElementById('btnRefreshUI').addEventListener('click', async () => {
+                const btn = document.getElementById('btnRefreshUI');
+                btn.style.transform = 'rotate(180deg)';
+                await refreshData();
+                setTimeout(() => btn.style.transform = 'none', 300);
+            });
+
+            // Check Now Button listener
+            document.getElementById('btnCheckNow').addEventListener('click', triggerCheckNow);
+
+            // Category Pills listeners
+            const pills = document.querySelectorAll('#categoryPills .pill');
+            pills.forEach(pill => {
+                pill.addEventListener('click', (e) => {
+                    pills.forEach(p => p.classList.remove('active'));
+                    pill.classList.add('active');
+                    activeCategory = pill.getAttribute('data-category');
+                    renderJobs();
+                });
+            });
+
+            // Auto-Refresh checkbox control
+            const autoRefresh = document.getElementById('autoRefreshCheckbox');
+            
+            const startInterval = () => {
+                if (refreshInterval) clearInterval(refreshInterval);
+                refreshInterval = setInterval(refreshData, 10000); // 10 seconds
+            };
+            
+            autoRefresh.addEventListener('change', () => {
+                if (autoRefresh.checked) {
+                    startInterval();
+                    document.getElementById('statusDot').className = 'status-dot pulsing';
+                    document.getElementById('statusText').textContent = 'กำลังตรวจสอบอัตโนมัติ';
+                } else {
+                    if (refreshInterval) clearInterval(refreshInterval);
+                    refreshInterval = null;
+                    document.getElementById('statusDot').className = 'status-dot';
+                    document.getElementById('statusText').textContent = 'ปิดการอัปเดตอัตโนมัติ';
+                }
+            });
+            
+            // Start default auto-refresh
+            startInterval();
+        }
+
+        // Initialize Page
+        window.addEventListener('DOMContentLoaded', async () => {
+            setupEventListeners();
+            await refreshData();
+        });
+    </script>
+</body>
+</html>

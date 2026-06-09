@@ -3,10 +3,97 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http'); // Added http module for port binding
+const url = require('url');
 
 // API configuration
 const API_URL = "https://jobboard-api.fastwork.co/api/jobs";
 const SEEN_JOBS_FILE = "seen_jobs.json";
+const MATCHED_JOBS_FILE = "matched_jobs.json";
+const LOGS_FILE = "recent_logs.json";
+
+// In-memory logs cache for the Web Console
+const recentLogs = [];
+const originalConsoleLog = console.log;
+console.log = function(...args) {
+    originalConsoleLog.apply(console, args);
+    const msg = args.map(arg => typeof arg === 'object' ? JSON.stringify(arg) : String(arg)).join(' ');
+    let formatted = msg;
+    const hasTimestamp = /^\[\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}/.test(msg);
+    if (!hasTimestamp) {
+        formatted = `[${new Date().toISOString()}] ${msg}`;
+    }
+    recentLogs.unshift(formatted);
+    if (recentLogs.length > 100) {
+        recentLogs.pop();
+    }
+};
+
+function saveLogsToFile() {
+    const logsPath = path.join(process.cwd(), LOGS_FILE);
+    try {
+        fs.writeFileSync(logsPath, JSON.stringify(recentLogs, null, 2), 'utf-8');
+    } catch (e) {
+        originalConsoleLog(`Error saving logs to file: ${e.message}`);
+    }
+}
+
+// --- Matched Jobs Persistence Helpers ---
+function loadMatchedJobs() {
+    const matchedPath = path.join(process.cwd(), MATCHED_JOBS_FILE);
+    if (fs.existsSync(matchedPath)) {
+        try {
+            const data = fs.readFileSync(matchedPath, 'utf-8');
+            return JSON.parse(data);
+        } catch (e) {
+            console.log(`Error loading matched jobs: ${e.message}`);
+        }
+    }
+    return [];
+}
+
+function saveMatchedJobs(matchedJobs) {
+    const matchedPath = path.join(process.cwd(), MATCHED_JOBS_FILE);
+    try {
+        fs.writeFileSync(matchedPath, JSON.stringify(matchedJobs, null, 2), 'utf-8');
+    } catch (e) {
+        console.log(`Error saving matched jobs: ${e.message}`);
+    }
+}
+
+function addMatchedJob(job, matchedCategories) {
+    const matchedJobs = loadMatchedJobs();
+    if (matchedJobs.some(j => j.id === job.id)) {
+        return;
+    }
+    const jobWithMeta = {
+        ...job,
+        matchedCategories,
+        matchedAt: new Date().toISOString()
+    };
+    matchedJobs.unshift(jobWithMeta);
+    if (matchedJobs.length > 200) {
+        matchedJobs.pop();
+    }
+    saveMatchedJobs(matchedJobs);
+}
+
+async function bootstrapMatchedJobs() {
+    console.log("Bootstrapping matched jobs from current API feed...");
+    const jobs = await fetchJobs();
+    if (jobs && jobs.length > 0) {
+        let count = 0;
+        for (const job of jobs) {
+            const { isTarget, matchedCategories } = isTargetJob(job);
+            if (isTarget) {
+                addMatchedJob(job, matchedCategories);
+                count++;
+            }
+        }
+        console.log(`Bootstrapping completed. Checked ${jobs.length} jobs, identified ${count} matches.`);
+    }
+    saveLogsToFile();
+}
+
 
 // --- Target Categories and Keywords Configuration ---
 const TH_WEB = ["เขียนเว็บ", "พัฒนาเว็บไซต์", "ทำเว็บ", "เขียนโปรแกรม", "พัฒนาโปรแกรม", "ระบบเว็บ", "เว็บบอร์ด", "เว็บแอป"];
@@ -249,8 +336,11 @@ async function checkForNewJobs(webhookUrl, initLoad = false, consoleOnly = false
             const { isTarget, matchedCategories } = isTargetJob(job);
             if (!isTarget) continue;
             
+            // Save details to matched jobs database
+            addMatchedJob(job, matchedCategories);
+            
             if (initLoad) {
-                console.log(`  Pre-loaded historical target job: ${job.title} (Cats: ${matchedCategories.join(', ')}) (ID: {jobId})`);
+                console.log(`  Pre-loaded historical target job: ${job.title} (Cats: ${matchedCategories.join(', ')}) (ID: ${jobId})`);
             } else {
                 if (consoleOnly) {
                     console.log(`  [CONSOLE] Match found: ${job.title}`);
@@ -276,32 +366,161 @@ async function checkForNewJobs(webhookUrl, initLoad = false, consoleOnly = false
     } else {
         console.log(`[${new Date().toISOString()}] No new target jobs found.`);
     }
+    saveLogsToFile();
 }
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// Start HTTP Server if PORT environment variable is present (for Render.com compatibility)
-function startHttpServer() {
-    const port = process.env.PORT;
-    if (port) {
-        http.createServer((req, res) => {
-            res.writeHead(200, { 'Content-Type': 'text/plain' });
-            res.end('Fastwork Jobboard Monitor is running.\n');
-        }).listen(port, () => {
-            console.log(`[${new Date().toISOString()}] HTTP Health Check Server listening on port ${port}`);
-        });
-    }
+function startWebServer() {
+    const port = process.env.PORT || 3000;
+    
+    const server = http.createServer(async (req, res) => {
+        const parsedUrl = url.parse(req.url, true);
+        const method = req.method;
+        
+        // CORS Headers
+        res.setHeader('Access-Control-Allow-Origin', '*');
+        res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+        res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+        
+        if (method === 'OPTIONS') {
+            res.writeHead(204);
+            res.end();
+            return;
+        }
+        
+        if (method === 'GET' && parsedUrl.pathname === '/') {
+            // Serve index.html
+            const indexPath = path.join(process.cwd(), 'index.html');
+            if (fs.existsSync(indexPath)) {
+                res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
+                fs.createReadStream(indexPath).pipe(res);
+            } else {
+                res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+                res.end('index.html not found. Please create it.');
+            }
+        } 
+        else if (method === 'GET' && parsedUrl.pathname === '/api/jobs') {
+            const matchedJobs = loadMatchedJobs();
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            res.end(JSON.stringify(matchedJobs));
+        } 
+        else if (method === 'GET' && parsedUrl.pathname === '/api/logs') {
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            res.end(JSON.stringify(recentLogs));
+        } 
+        else if (method === 'GET' && parsedUrl.pathname === '/api/stats') {
+            const matchedJobs = loadMatchedJobs();
+            const seenJobs = loadSeenJobs();
+            
+            // Calculate stats
+            let webCount = 0;
+            let appCount = 0;
+            let uxUiCount = 0;
+            let totalBudget = 0;
+            let budgetCount = 0;
+            let maxBudget = 0;
+            let minBudget = Infinity;
+            
+            const typeCounts = {
+                freelance: 0,
+                contract: 0,
+                'part-time': 0,
+                'full-time': 0,
+                other: 0
+            };
+            
+            matchedJobs.forEach(job => {
+                const cats = job.matchedCategories || [];
+                if (cats.includes("พัฒนาเว็บไซต์")) webCount++;
+                if (cats.includes("พัฒนาแอปพลิเคชัน")) appCount++;
+                if (cats.includes("ออกแบบ UX UI")) uxUiCount++;
+                
+                const type = job.type || 'other';
+                if (typeCounts[type] !== undefined) {
+                    typeCounts[type]++;
+                } else {
+                    typeCounts.other++;
+                }
+                
+                // Parse budget if numeric
+                const budgetNum = parseFloat(String(job.budget).replace(/,/g, ''));
+                if (!isNaN(budgetNum)) {
+                    totalBudget += budgetNum;
+                    budgetCount++;
+                    if (budgetNum > maxBudget) maxBudget = budgetNum;
+                    if (budgetNum < minBudget) minBudget = budgetNum;
+                }
+            });
+            
+            const avgBudget = budgetCount > 0 ? Math.round(totalBudget / budgetCount) : 0;
+            
+            const webhookUrl = process.env.DISCORD_WEBHOOK_URL || '';
+            const maskedWebhook = webhookUrl 
+                ? (webhookUrl.startsWith("http") && webhookUrl.length > 40)
+                    ? webhookUrl.substring(0, 33) + '...' + webhookUrl.substring(webhookUrl.length - 8)
+                    : webhookUrl
+                : 'Not Set (Console Only)';
+            
+            const stats = {
+                totalMatched: matchedJobs.length,
+                totalSeen: seenJobs.size,
+                webCount,
+                appCount,
+                uxUiCount,
+                avgBudget,
+                maxBudget,
+                minBudget: minBudget === Infinity ? 0 : minBudget,
+                typeCounts,
+                webhookStatus: (webhookUrl && !webhookUrl.includes("your-webhook-url-here")) ? 'Enabled' : 'Disabled',
+                maskedWebhook,
+                intervalSeconds: parseInt(process.env.CHECK_INTERVAL_SECONDS || "60", 10),
+                uptime: process.uptime()
+            };
+            
+            res.writeHead(200, { 'Content-Type': 'application/json' });
+            res.end(JSON.stringify(stats));
+        }
+        else if (method === 'POST' && parsedUrl.pathname === '/api/check') {
+            console.log("Manual check triggered via Web Dashboard.");
+            const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
+            const consoleOnly = !webhookUrl || webhookUrl.startsWith("https://discord.com/api/webhooks/your-webhook-url-here") || webhookUrl.includes("your-webhook-url-here");
+            
+            try {
+                await checkForNewJobs(webhookUrl, false, consoleOnly);
+                res.writeHead(200, { 'Content-Type': 'application/json' });
+                res.end(JSON.stringify({ success: true, message: "Check completed successfully" }));
+            } catch (err) {
+                console.log(`Error in manual check: ${err.message}`);
+                res.writeHead(500, { 'Content-Type': 'application/json' });
+                res.end(JSON.stringify({ success: false, message: err.message }));
+            }
+        }
+        else {
+            res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
+            res.end('Not Found');
+        }
+    });
+    
+    server.listen(port, () => {
+        console.log(`Web Server & Dashboard running on port ${port}`);
+        console.log(`Open http://localhost:${port} in your browser to view the dashboard.`);
+    });
 }
 
 async function main() {
-    // Start the health check server immediately if PORT is specified
-    startHttpServer();
-
     const args = process.argv.slice(2);
     const hasTest = args.includes('--test');
     const hasOnce = args.includes('--once');
+    
+    // Start HTTP Server & Dashboard only in loop mode (default)
+    const isLoopMode = !hasTest && !hasOnce;
+    if (isLoopMode) {
+        await bootstrapMatchedJobs();
+        startWebServer();
+    }
     
     const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
     let consoleOnly = false;

@@ -5,8 +5,11 @@ services:
     build: .
     container_name: fastwork-monitor
     restart: always
+    ports:
+      - "3000:3000"
     volumes:
-      # Mountseen_jobs.json to save the state on your host machine
+      # Mount files to save the state on your host machine
       - ./seen_jobs.json:/app/seen_jobs.json
+      - ./matched_jobs.json:/app/matched_jobs.json
     env_file:
       - .env
