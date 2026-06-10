@@ -1,5 +1,49 @@
 [
   {
+    "id": "1f093b53-f418-47e0-951c-4ee7eaa1cb05",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจและการเงิน",
+      "sort": 5
+    },
+    "type": "full-time",
+    "description": "🌟ตำแห��่ง เจ้าหน้าที่แจ้งเตือนรอบจ่าย (WFH)\n\n📌สนใจส่งเรซูเม่/ไอดีไลน์ไว้ได้เลยนะคะ\nจะได้ง่ายต่อการติดต่อกลับค่ะ\n\n✨คุณสมบัติ✨\n✅ เพศชาย / หญิง / LGBTQ+\n✅ วุฒิการศึกษา ม.3 ขึ้นไป\n✅ อายุ 18-45 ปี\n✅ ทำงานอาทิตย์ละ 6 วัน 8:30-18:00น.\n✅ ไม่จำเป็นต้องมีประสบการณ์\n✅ มีโทรศัพท์ andriod / ios หรือ Pc/โน๊ตบุ๊ค Windows 10 ขึ้นไป\n✅ พร้อมเรียนรู้งาน/พร้อมเริ่มงานทันที\n\n✨รายละเอียดงาน✨\n✅ โทรติดต่อและสื่อสารกับลูกค้าทางโทรศัพท์เพื่อดำเนินการติดตามธุรกิจของบริษัทให้ทันเวลา\n\n✨การจ่ายเงินเดือน✨\n✅ ค่าแรงคิดตามวันทำงาน 400/วัน + ค่าคอมตามผลงาน\n✅ เงินเดือนจ่าย 2 ครั้งต่อเดือน ทุกๆวันที่ 5 และวันที่ 20\n\n✨สวัสดิการ✨\n💓 ประกันสังคม (กรณีผ่านทดลองงาน 6 เดือน)\n💓 ค่าคอมมิชชั่นตามผลงาน\n💓 ค่าแนะนำคนมาทำงานภายใน\n💓 ลาป่วย ลากิจ ลาพักร้อน ลาคลอด\n\nพร้อมเริ่มงานพิจารณาเป็นพิเศษ",
+    "title": "เจ้าหน้าที่แจ้งเตือนรอบจ่าย (WFH)",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "10440",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-10T02:37:01.493211Z",
+    "updated_at": "2026-06-10T02:37:03.093105Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": "เงินทุน หลักทรัพย์",
+    "deadline_at": null,
+    "expired_at": "2026-07-10T02:37:01.473438Z",
+    "freelance_offers_count": 11,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S918B;10.10.0-6002269"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3ee81b2f-e61e-4348-bbe5-504cc50ebcfe",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-10T04:39:49.814Z"
+  },
+  {
     "id": "6c32aaa8-5d3e-4a68-b4a9-f0e59a64367c",
     "status": "open",
     "tag": {
