@@ -28,6 +28,55 @@
             --card-hover-border: rgba(99, 102, 241, 0.3);
             --font-family: 'Outfit', 'Kanit', sans-serif;
             --shadow-glow: 0 10px 30px -10px rgba(0, 0, 0, 0.7);
+
+            --badge-bg: rgba(255, 255, 255, 0.04);
+            --input-bg: rgba(255, 255, 255, 0.04);
+            --btn-sec-bg: rgba(255, 255, 255, 0.06);
+            --btn-sec-hover-bg: rgba(255, 255, 255, 0.1);
+            --btn-sec-hover-border: rgba(255, 255, 255, 0.15);
+            --select-option-bg: #111827;
+            --accent-primary-text: #ffffff;
+            --switch-rail-bg: #374151;
+
+            --terminal-bg: #05070c;
+            --terminal-text: #38bdf8;
+            --terminal-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.8);
+            
+            --glow-1: rgba(99, 102, 241, 0.08);
+            --glow-2: rgba(16, 185, 129, 0.06);
+        }
+
+        body.light-theme {
+            --bg-color: #f8fafc; /* Slate 50 */
+            --panel-bg: rgba(255, 255, 255, 0.8);
+            --panel-border: rgba(15, 23, 42, 0.08); /* Slate 900 with opacity */
+            --text-primary: #0f172a; /* Slate 900 */
+            --text-secondary: #475569; /* Slate 600 */
+            --accent-primary: #4f46e5; /* Indigo 600 */
+            --accent-primary-glow: rgba(79, 70, 229, 0.1);
+            --accent-success: #059669; /* Emerald 600 */
+            --accent-success-glow: rgba(5, 150, 105, 0.1);
+            --accent-web: #2563eb; /* Blue 600 */
+            --accent-app: #7c3aed; /* Violet 600 */
+            --accent-ux: #db2777; /* Pink 600 */
+            --card-hover-border: rgba(79, 70, 229, 0.25);
+            --shadow-glow: 0 10px 30px -15px rgba(15, 23, 42, 0.12);
+
+            --badge-bg: rgba(15, 23, 42, 0.04);
+            --input-bg: rgba(15, 23, 42, 0.04);
+            --btn-sec-bg: rgba(15, 23, 42, 0.05);
+            --btn-sec-hover-bg: rgba(15, 23, 42, 0.08);
+            --btn-sec-hover-border: rgba(15, 23, 42, 0.12);
+            --select-option-bg: #ffffff;
+            --accent-primary-text: #4f46e5;
+            --switch-rail-bg: #cbd5e1;
+
+            --terminal-bg: #f1f5f9; /* Slate 100 */
+            --terminal-text: #0369a1; /* Sky 700 */
+            --terminal-shadow: inset 0 2px 6px rgba(15, 23, 42, 0.08);
+            
+            --glow-1: rgba(99, 102, 241, 0.05);
+            --glow-2: rgba(16, 185, 129, 0.04);
         }
 
         * {
@@ -55,7 +104,7 @@
             left: -10%;
             width: 50vw;
             height: 50vw;
-            background: radial-gradient(circle, rgba(99, 102, 241, 0.08) 0%, rgba(0,0,0,0) 70%);
+            background: radial-gradient(circle, var(--glow-1) 0%, rgba(0,0,0,0) 70%);
             z-index: -1;
             pointer-events: none;
         }
@@ -66,7 +115,7 @@
             right: -10%;
             width: 50vw;
             height: 50vw;
-            background: radial-gradient(circle, rgba(16, 185, 129, 0.06) 0%, rgba(0,0,0,0) 70%);
+            background: radial-gradient(circle, var(--glow-2) 0%, rgba(0,0,0,0) 70%);
             z-index: -1;
             pointer-events: none;
         }
@@ -119,7 +168,7 @@
             font-size: 1.6rem;
             font-weight: 700;
             letter-spacing: -0.5px;
-            background: linear-gradient(to right, #ffffff, #e2e8f0);
+            background: linear-gradient(to right, var(--text-primary), var(--text-secondary));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -142,7 +191,7 @@
             display: flex;
             align-items: center;
             gap: 0.5rem;
-            background: rgba(255, 255, 255, 0.04);
+            background: var(--badge-bg);
             border: 1px solid var(--panel-border);
             padding: 0.5rem 0.85rem;
             border-radius: 9999px;
@@ -208,8 +257,8 @@
             align-items: center;
             justify-content: center;
             font-size: 1.3rem;
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.05);
+            background: var(--badge-bg);
+            border: 1px solid var(--panel-border);
         }
 
         .metric-card.web .metric-icon-box { color: var(--accent-web); background: rgba(59, 130, 246, 0.07); }
@@ -226,7 +275,7 @@
             font-size: 1.8rem;
             font-weight: 700;
             letter-spacing: -1px;
-            color: #ffffff;
+            color: var(--text-primary);
             line-height: 1.2;
         }
 
@@ -263,7 +312,7 @@
 
         .search-input {
             width: 100%;
-            background: rgba(255, 255, 255, 0.04);
+            background: var(--input-bg);
             border: 1px solid var(--panel-border);
             color: var(--text-primary);
             padding: 0.75rem 1rem 0.75rem 2.75rem;
@@ -274,7 +323,7 @@
 
         .search-input:focus {
             border-color: var(--accent-primary);
-            background: rgba(255, 255, 255, 0.06);
+            background: var(--btn-sec-bg);
             box-shadow: 0 0 15px var(--accent-primary-glow);
         }
 
@@ -324,15 +373,15 @@
         }
 
         .btn-secondary {
-            background: rgba(255, 255, 255, 0.06);
+            background: var(--btn-sec-bg);
             border: 1px solid var(--panel-border);
             color: var(--text-primary);
             box-shadow: none;
         }
 
         .btn-secondary:hover {
-            background: rgba(255, 255, 255, 0.1);
-            border-color: rgba(255, 255, 255, 0.15);
+            background: var(--btn-sec-hover-bg);
+            border-color: var(--btn-sec-hover-border);
             transform: translateY(-2px);
             box-shadow: none;
         }
@@ -344,7 +393,7 @@
             justify-content: space-between;
             flex-wrap: wrap;
             gap: 1rem;
-            border-top: 1px solid rgba(255, 255, 255, 0.05);
+            border-top: 1px solid var(--panel-border);
             padding-top: 1.25rem;
         }
 
@@ -359,21 +408,21 @@
             border-radius: 9999px;
             font-size: 0.85rem;
             font-weight: 500;
-            background: rgba(255, 255, 255, 0.04);
+            background: var(--badge-bg);
             border: 1px solid var(--panel-border);
             color: var(--text-secondary);
             cursor: pointer;
         }
 
         .pill:hover {
-            background: rgba(255, 255, 255, 0.08);
+            background: var(--btn-sec-hover-bg);
             color: var(--text-primary);
         }
 
         .pill.active {
             background: var(--accent-primary-glow);
             border-color: var(--accent-primary);
-            color: #ffffff;
+            color: var(--accent-primary-text);
             font-weight: 600;
         }
 
@@ -385,7 +434,7 @@
         }
 
         .filter-select {
-            background: rgba(255, 255, 255, 0.04);
+            background: var(--input-bg);
             border: 1px solid var(--panel-border);
             color: var(--text-primary);
             padding: 0.45rem 1rem;
@@ -398,6 +447,11 @@
 
         .filter-select:focus {
             border-color: var(--accent-primary);
+        }
+
+        .filter-select option {
+            background-color: var(--select-option-bg);
+            color: var(--text-primary);
         }
 
         /* Jobs Grid Section */
@@ -482,7 +536,7 @@
         .job-title {
             font-size: 1.15rem;
             font-weight: 600;
-            color: #ffffff;
+            color: var(--text-primary);
             margin-bottom: 0.75rem;
             line-height: 1.4;
             display: -webkit-box;
@@ -537,8 +591,8 @@
             grid-template-columns: repeat(2, 1fr);
             gap: 0.75rem;
             padding: 0.85rem 0;
-            border-top: 1px solid rgba(255, 255, 255, 0.04);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+            border-top: 1px solid var(--panel-border);
+            border-bottom: 1px solid var(--panel-border);
             margin-bottom: 1rem;
             font-size: 0.8rem;
             color: var(--text-secondary);
@@ -574,8 +628,8 @@
             width: 28px;
             height: 28px;
             border-radius: 50%;
-            background-color: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            background-color: var(--badge-bg);
+            border: 1px solid var(--panel-border);
             object-fit: cover;
         }
 
@@ -594,8 +648,8 @@
             gap: 0.4rem;
             font-size: 0.8rem;
             font-weight: 600;
-            color: #ffffff;
-            background: rgba(255, 255, 255, 0.05);
+            color: var(--text-primary);
+            background: var(--btn-sec-bg);
             border: 1px solid var(--panel-border);
             padding: 0.45rem 0.85rem;
             border-radius: 8px;
@@ -605,6 +659,7 @@
         .open-job-link:hover {
             background: var(--accent-primary);
             border-color: var(--accent-primary);
+            color: #ffffff;
             box-shadow: 0 4px 10px rgba(99, 102, 241, 0.2);
         }
 
@@ -624,7 +679,7 @@
 
         .empty-state h3 {
             font-size: 1.25rem;
-            color: #ffffff;
+            color: var(--text-primary);
             margin-bottom: 0.5rem;
         }
 
@@ -637,7 +692,7 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid var(--panel-border);
             padding-bottom: 0.75rem;
             margin-bottom: 0.75rem;
         }
@@ -660,16 +715,16 @@
         }
 
         .terminal-body {
-            background-color: #05070c;
+            background-color: var(--terminal-bg);
             border-radius: 8px;
-            border: 1px solid rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--panel-border);
             padding: 1rem;
             font-family: 'Courier New', Courier, monospace;
             font-size: 0.8rem;
             height: 180px;
             overflow-y: auto;
-            color: #38bdf8; /* light blue console text */
-            box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.8);
+            color: var(--terminal-text); /* light blue console text */
+            box-shadow: var(--terminal-shadow);
         }
 
         .log-line {
@@ -711,7 +766,7 @@
         .switch-rail {
             width: 34px;
             height: 20px;
-            background-color: #374151;
+            background-color: var(--switch-rail-bg);
             border-radius: 9999px;
             position: relative;
             display: inline-block;
@@ -738,6 +793,15 @@
     </style>
 </head>
 <body>
+    <script>
+        // Immediately set theme to avoid flicker
+        (function() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            if (savedTheme === 'light') {
+                document.body.classList.add('light-theme');
+            }
+        })();
+    </script>
     <div class="ambient-glow-1"></div>
     <div class="ambient-glow-2"></div>
 
@@ -763,6 +827,10 @@
                     <i class="fa-brands fa-discord" style="color: #5865F2;"></i>
                     <span id="webhookStatusVal">ตรวจจับ...</span>
                 </div>
+                <button id="themeToggle" class="status-badge" style="cursor: pointer; border: 1px solid var(--panel-border); background: var(--badge-bg); color: var(--text-primary); transition: all 0.2s;">
+                    <i id="themeIcon" class="fa-solid fa-sun"></i>
+                    <span id="themeText" style="font-weight:600;">โหมดสว่าง</span>
+                </button>
             </div>
         </header>
 
@@ -1226,8 +1294,8 @@
                 const dispName = job.user_profile && job.user_profile.display_name || 'ผู้ประกาศทั่วไป';
                 const avatarUrl = job.user_profile && job.user_profile.image_url || '';
                 const avatarHTML = avatarUrl 
-                    ? `<img src="${avatarUrl}" class="client-avatar" alt="${dispName}" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22><rect width=%22100%25%22 height=%22100%25%22 fill=%22%23222%22/><text x=%2250%25%22 y=%2250%25%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23666%22>👤</text></svg>'">`
-                    : `<div class="client-avatar" style="display:flex;align-items:center;justify-content:center;background:rgba(255,255,255,0.05);font-size:0.75rem;">👤</div>`;
+                    ? `<img src="${avatarUrl}" class="client-avatar" alt="${dispName}" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22><rect width=%22100%25%22 height=%22100%25%22 fill=%22%2394a3b8%22/><text x=%2250%25%22 y=%2250%25%22 font-size=%2240%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23f1f5f9%22>👤</text></svg>'">`
+                    : `<div class="client-avatar" style="display:flex;align-items:center;justify-content:center;background:var(--badge-bg);font-size:0.75rem;">👤</div>`;
                 
                 const jobLink = `https://jobboard.fastwork.co/jobs/${job.id}`;
 
@@ -1376,6 +1444,37 @@
             
             // Start default auto-refresh
             startInterval();
+
+            // Theme Toggle listener
+            const themeToggle = document.getElementById('themeToggle');
+            const themeIcon = document.getElementById('themeIcon');
+            const themeText = document.getElementById('themeText');
+            
+            function updateThemeUI(isLight) {
+                if (isLight) {
+                    document.body.classList.add('light-theme');
+                    themeIcon.className = 'fa-solid fa-sun';
+                    themeIcon.style.color = '#f59e0b';
+                    themeText.textContent = 'โหมดสว่าง';
+                    themeToggle.title = 'คลิกเพื่อเปลี่ยนเป็นโหมดมืด';
+                    localStorage.setItem('theme', 'light');
+                } else {
+                    document.body.classList.remove('light-theme');
+                    themeIcon.className = 'fa-solid fa-moon';
+                    themeIcon.style.color = '#8582f6';
+                    themeText.textContent = 'โหมดมืด';
+                    themeToggle.title = 'คลิกเพื่อเปลี่ยนเป็นโหมดสว่าง';
+                    localStorage.setItem('theme', 'dark');
+                }
+            }
+            
+            // Initial UI update matching body class
+            updateThemeUI(document.body.classList.contains('light-theme'));
+            
+            themeToggle.addEventListener('click', () => {
+                const isLightNow = document.body.classList.contains('light-theme');
+                updateThemeUI(!isLightNow);
+            });
         }
 
         // Initialize Page
