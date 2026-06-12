@@ -79,6 +79,7 @@ function addMatchedJob(job, matchedCategories) {
 }
 
 async function bootstrapMatchedJobs() {
+    pruneOldData();
     console.log("Bootstrapping matched jobs from current API feed...");
     const jobs = await fetchJobs();
     if (jobs && jobs.length > 0) {
@@ -164,23 +165,86 @@ loadEnv();
 
 function loadSeenJobs() {
     const seenJobsPath = path.join(process.cwd(), SEEN_JOBS_FILE);
+    const seenMap = new Map();
     if (fs.existsSync(seenJobsPath)) {
         try {
             const data = fs.readFileSync(seenJobsPath, 'utf-8');
-            return new Set(JSON.parse(data));
+            const parsed = JSON.parse(data);
+            if (Array.isArray(parsed)) {
+                parsed.forEach(item => {
+                    if (typeof item === 'string') {
+                        seenMap.set(item, new Date().toISOString());
+                    } else if (item && typeof item === 'object' && item.id) {
+                        seenMap.set(item.id, item.seenAt || new Date().toISOString());
+                    }
+                });
+            }
         } catch (e) {
-            console.log(`[${new Date().toISOString()}] Error loading seen jobs: {e.message}. Starting fresh.`);
+            console.log(`[${new Date().toISOString()}] Error loading seen jobs: ${e.message}. Starting fresh.`);
         }
     }
-    return new Set();
+    return seenMap;
 }
 
 function saveSeenJobs(seenJobs) {
     const seenJobsPath = path.join(process.cwd(), SEEN_JOBS_FILE);
     try {
-        fs.writeFileSync(seenJobsPath, JSON.stringify(Array.from(seenJobs), null, 2), 'utf-8');
+        const arrayToSave = [];
+        for (const [id, seenAt] of seenJobs.entries()) {
+            arrayToSave.push({ id, seenAt });
+        }
+        fs.writeFileSync(seenJobsPath, JSON.stringify(arrayToSave, null, 2), 'utf-8');
     } catch (e) {
         console.log(`[${new Date().toISOString()}] Error saving seen jobs: ${e.message}`);
+    }
+}
+
+function pruneOldData() {
+    const thresholdDays = parseFloat(process.env.CLEANUP_THRESHOLD_DAYS || "2");
+    if (isNaN(thresholdDays) || thresholdDays <= 0) {
+        return;
+    }
+
+    const now = new Date();
+    const thresholdMs = thresholdDays * 24 * 60 * 60 * 1000;
+
+    // 1. Prune matched_jobs.json
+    const matchedJobs = loadMatchedJobs();
+    if (matchedJobs.length > 0) {
+        const filteredJobs = matchedJobs.filter(job => {
+            const timeStr = job.matchedAt || job.inserted_at;
+            if (!timeStr) return true;
+            const jobTime = new Date(timeStr);
+            const ageMs = now - jobTime;
+            return ageMs < thresholdMs;
+        });
+
+        const removedMatchedCount = matchedJobs.length - filteredJobs.length;
+        if (removedMatchedCount > 0) {
+            console.log(`[${new Date().toISOString()}] Auto-cleanup: Removed ${removedMatchedCount} matched jobs older than ${thresholdDays} day(s).`);
+            saveMatchedJobs(filteredJobs);
+        }
+    }
+
+    // 2. Prune seen_jobs.json
+    const seenJobs = loadSeenJobs();
+    if (seenJobs.size > 0) {
+        const prunedSeenJobs = new Map();
+        let removedSeenCount = 0;
+
+        for (const [id, seenAt] of seenJobs.entries()) {
+            const ageMs = now - new Date(seenAt);
+            if (ageMs < thresholdMs) {
+                prunedSeenJobs.set(id, seenAt);
+            } else {
+                removedSeenCount++;
+            }
+        }
+
+        if (removedSeenCount > 0) {
+            console.log(`[${new Date().toISOString()}] Auto-cleanup: Removed ${removedSeenCount} seen job tracking IDs older than ${thresholdDays} day(s).`);
+            saveSeenJobs(prunedSeenJobs);
+        }
     }
 }
 
@@ -314,6 +378,7 @@ async function sendDiscordNotification(webhookUrl, job, matchedCategories = null
 }
 
 async function checkForNewJobs(webhookUrl, initLoad = false, consoleOnly = false) {
+    pruneOldData();
     console.log(`[${new Date().toISOString()}] Checking Fastwork for new job posts...`);
     const jobs = await fetchJobs();
     if (!jobs || jobs.length === 0) {
@@ -331,7 +396,7 @@ async function checkForNewJobs(webhookUrl, initLoad = false, consoleOnly = false
         if (!jobId) continue;
         
         if (!seenJobs.has(jobId)) {
-            seenJobs.add(jobId);
+            seenJobs.set(jobId, new Date().toISOString());
             newJobsFound = true;
             
             const { isTarget, matchedCategories } = isTargetJob(job);
