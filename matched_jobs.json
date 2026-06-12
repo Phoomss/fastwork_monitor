@@ -1,5 +1,49 @@
 [
   {
+    "id": "095c15af-c8c0-4bae-922d-3794ea49f139",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "สร้างให้มันเป็นโปรแกรมที่ช่วยให้สามารถตัดคริปโดยลดเวลาได้เยอะขึ้น\nโยนไฟล์ดิบกดคลิกให้aiทำงาน\nตัดช่วย Dead air อ���ก ใส่ซับออโต้ ซับเด้งตามที่เราพูด สามารถเช็คซับได้ตามเวลาในคริปแก้ไขได้ และสามารถออโต้ใส่เอฟเฟคพร้อมลงคริป\n\nจะใช้aiทำก็ได้",
+    "title": "หาคนสร้างโปรแกรมaiช่วยตัดต่อคริปวีดีโอแบบออโต้",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "is_anonymous": true,
+    "budget": "1000",
+    "inserted_at": "2026-06-12T21:04:59.945746Z",
+    "updated_at": "2026-06-12T21:05:01.681606Z",
+    "user_id": "dc9bb14f-31df-41d0-9c06-0188163a03a8",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;RMX3941;10.12.0-6002405"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-12T21:04:59.934766Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-12T21:10:03.958Z"
+  },
+  {
     "id": "b90fa31c-59f1-44be-8f83-8e221b5de1a4",
     "status": "open",
     "tag": {
@@ -484,49 +528,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-11T07:00:00.139Z"
-  },
-  {
-    "id": "0702ed9b-6188-4dcb-8cd2-00089c7a0cd4",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "ต้องการคนช่วยจัดหน้า��ละเชื่อมลิงก์ Canva Portfolio Website (เราตกแต่งแล้วเหลือแค่จัดหน้า)\n\nรายละเอียดงาน:\nมี Portfolio ที่ออกแบบและตกแต่งใน Canva เรียบร้อยแล้ว\nต้องการให้ช่วยเชื่อมลิงก์ให้กดไปหน้าอื่นได้\nและตรวจสอบความเรียบร้อยก่อน Publish\n\nหมายเหตุ:\nไม่ต้องออกแบบใหม่หรือทำกราฟิกเพิ่มเติม\nไม่ต้องแก้ดีไซน์หลักของงาน\nแค่ช่วยจัดโครงสร้างเว็บไซต์และเชื่อมลิงก์ภายในให้ใช้งานได้สมบูรณ์\n\n**'งานไม่ยาก เราไม่เคยทำแบบเว็บไซต์เลยสับสนเรื่องการจัดหน้า",
-    "title": "คนจัดหน้าเว็บไซต์Portfolio(canva)",
-    "is_owner": null,
-    "files": [],
-    "source": "jobboard_web",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-10T18:27:39.339316Z",
-    "updated_at": "2026-06-10T18:27:40.956636Z",
-    "user_id": "cfff9598-c209-4048-8811-c56247c246d2",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15"
-    },
-    "expired_at": "2026-07-10T18:27:39.293095Z",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": "2026-06-13",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "cfff9598-c209-4048-8811-c56247c246d2",
-      "username": "prangrak",
-      "display_name": "Prangrak",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/cfff9598-c209-4048-8811-c56247c246d2/profile/576ddc1e-d565-4b2f-ab9c-0db2c2382ddb.JPG"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-10T20:00:10.897Z"
   }
 ]
