@@ -1,5 +1,49 @@
 [
   {
+    "id": "793f72d8-2523-4640-af37-831a573c5a84",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "1. ต้องการเปลี่ยนชื่อช่อง Tiktok แต่แก้ย้งไงก็ไม่หาย (ขึ้นว่าให้แก้ไขใน Seller Center)\n2. เปิดหน้าช่องมา สินค้าในตะกร้าไม่ขึ้นหน้าช่อง",
+    "title": "แก้ไขระบบหลังบ้านติ๊กต่อก (เปลี่ยนชื่อ/ทำให้เห็นตะกร้าหน้าช่อง)",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "500",
+    "inserted_at": "2026-06-12T12:00:44.341369Z",
+    "updated_at": "2026-06-12T12:00:45.710586Z",
+    "user_id": "6168b24f-a90f-4be9-a77e-e21479b9a8ae",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPhone;10.1.0-6001980"
+    },
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "expired_at": "2026-07-12T12:00:44.329415Z",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "6168b24f-a90f-4be9-a77e-e21479b9a8ae",
+      "username": "nutniphone",
+      "display_name": "Nutnicha Thaveengoen",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6168b24f-a90f-4be9-a77e-e21479b9a8ae/profile/83754dee-1db1-4baa-8c51-7ad67f00d475.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-12T14:25:19.363Z"
+  },
+  {
     "id": "6a918dd8-82b8-46fb-bac2-8410f2db45ba",
     "status": "open",
     "tag": {
@@ -395,137 +439,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-10T20:00:10.897Z"
-  },
-  {
-    "id": "7f32bd4c-2d8e-4ca0-88c6-c98ab4e38d0a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน (Requirement)\n\nต้องการผู้เชี่ยวชาญ WordPress เพื่อสร้างหน้า Landing Page สำหรับเก็บ Lead ลูกค้า \nโดยระบบต้องสามารถดึงข้อมูลแบบสอบถามและไฟล์รูปภาพ ส่งข้ามแพลตฟอร์มผ่าน Webhook ไม่มีการตกหล่น\n\nขอบเขตการทำงาน (Scope of Work)\n\n1. Setup & Design: ติดตั้ง WordPress, ธีมที่เน้นความเร็ว (Performance) ออกแบบ Landing Page 1 หน้า ให้ดูพรีเมียม น่าเชื่อถือ และต้องรองรับ Mobile First 100%\n** ธีมที่เน้น Performance เช่น GeneratePress หรือ Astra ห้ามเอาธีมสำเร็���รูปหนักๆมาใส่ เมื่อส่งมอบงาน ผมจะเอาลิงก์ไปวัดคะแนนบน Google PageSpeed Insights \n ต้องได้คะแนนสีเขียว (90+) หรือโหลดเสร็จใน 2-3 วินาที ถ้าระบบอืด ไม่กด approveรับงาน **\n\n2. Smart Form สร้างแบบสอบถาม (Quiz) 5-7 ข้อ พร้อมช่องอัปโหลดไฟล์รูปภาพ\n\n3. Data Routing  ต้องตั้งค่าให้ Form บนเว็บสามารถส่ง Data ทั้งหมด (รวมถึง URL ของไฟล์รูปภาพที่อัปโหลด) ยิงผ่าน Webhook ไปยัง Make.com ได้ทันทีแบบ Real-time\n\n4. Security & Anti-Spam ติดตั้งระบบป้องกัน Spam เช่น Google reCAPTCHA v3  เพื่อป้องกันไม่ให้บอทเข้ามากรอกข้อมูลขยะ ซึ่งจะทำให้เปลืองโควตา Automation ใน Make.com\n\n5 Tracking Ready  ติดตั้ง Google Tag Manager หรือ Facebook Pixel ให้พร้อมสำหรับการยิงแอดในอนาคต \n\n6. Blog & Content Structure จัดทำหน้าต่างรวมบทความ (Blog Archive) และหน้าอ่านบทความเดี่ยว (Single Post) ให้มี Layout ที่อ่านง่าย ดูคลีนและพรีเมียม พร้อมตั้งค่าหมวดหมู่ (Categories) เบื้องต้น\n\n7. REST API Read เปิดการใช้งานและตั้งค่า Application Passwords (สิทธิ์การเข้าถึงผ่าน REST API) ของ WordPress ให้พร้อม เพื่อให้ทีมงานสามารถใช้ Webhook จาก Make.com สั่งโพสต์บทความจาก AI เข้ามายังระบบได้โดยอัตโนมัติ\n\n\n\nสิ่งที่คุณไม่ต้องทำ (Out of Scope):\n\nไม่ต้องทำระบบ LINE OA หรือระบบตอบกลับอัตโนมัติใดๆ (ฝั่งเราจัดการต่อเองใน Make.com)\n\nไม่ต้องเขียนคอนเทนต์หรือหาภาพประกอบ (ฝั่งเราเตรียม Copywriting ไว้ให้หมดแล้ว)",
-    "title": "** ต้องการพัฒนาเว็บไซต์ WordPress  พร้อมระบบ Form อัจฉริยะ และเชื่อมต่อ Webhook ไปยัง Make.com **",
-    "is_owner": null,
-    "files": [],
-    "source": "jobboard_web",
-    "budget": "15000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-10T10:01:34.484024Z",
-    "updated_at": "2026-06-10T10:01:35.581198Z",
-    "user_id": "fa103762-7dc9-4013-b3ef-53b4707394da",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "expired_at": "2026-07-10T10:01:34.471352Z",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "fa103762-7dc9-4013-b3ef-53b4707394da",
-      "username": "theubiq",
-      "display_name": "theubiq",
-      "image_url": "https://storage.googleapis.com/fastwork-static/492c2df4-6e99-4c7a-b5d4-7119cf4e76d4.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-10T11:55:26.830Z"
-  },
-  {
-    "id": "cb7df3b4-b2fe-429a-a453-e8f09287aa5e",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "จ้างออกแบบบอร์ดเกมครบวงจร (Board Game Designer + Illustrator)\n\nรายละเอียดโปรเจกต์\nกำลังพัฒนาบอร์ดเกมธีม \"ล่าผีตำนานไทย\" ต้องการผู้รับงานที่สามารถดูแลโปรเจกต์ได้ครบวงจร ตั้งแต่การออกแบบระบบเกม การออกแบบภาพประกอบ การจัดเลย์เอาต์ และการเตรียมไฟล์สำหรับทำ Prototype\nเกมมีแนวคิดเกี่ยวกับการตามล่า สำรวจ และเผชิญหน้ากับผีจากตำนานไทย โดยเน้นความสนุก ความลุ้นระทึก และการตัดสินใจเชิงกลยุทธ์\nขอบเขตงาน\n\n1. ออกแบบระบบเกม\nพัฒนาแนวคิดเกมร่วมกัน\nออกแบบ Core Gameplay\nออกแบบกติกาเกม\nออกแบบระบบตัวละคร\nออกแบบระบบผีและเหตุการณ์\nออกแบบระบบไอเทม\nออกแบบระบบคะแนนและเงื่อนไขชนะ\nBalance เกมเบื้องต้น\nจัดทำ Rulebook\n\n2. ออกแบบ Artwork\nCharacter Design\nGhost Design\nCard Illustration\nBoard Illustration\nIcon และ Symbol ต่าง ๆ\n\n3. Graphic Design\nLayout การ์ด\nLayout กระดานเกม\nLayout กล่องเกม\nToken / Marker Design\nไฟล์พร้อมพิมพ์\n\n4. Prototype\nจัดทำ Prototype ฉบับทดสอบ\nจัดเตรียมไฟล์ Print-and-Play\nแนะนำการผลิตเบื้องต้น\nแนวเกมที่ต้องการ\nThai Horror\nAdventure\nStrategy\nExploration\nเล่นได้ 2–6 คน\nระยะเวลาเล่น 30–60 นาที\nเหมาะสำหรับอายุ 12 ปีขึ้นไป\nสิ่งที่ต้องส่งมอบ\nGame Design Document (GDD)\nRulebook\nCard Design\nBoard Design\nBox Design\nSource Files (AI / PSD หรือไฟล์ต้นฉบับ)\nPrint-ready Files\nPrototype Files\nคุณสมบัติที่ต้องการ\nมีประสบการณ์ออกแบบบอร์ดเกม\nมีประสบการณ์วาดภาพประกอบ\nมีความเข้าใจด้านการผลิตบอร์ดเกม\nสามารถนำเสนอแนวคิดและปรับแก้งานตาม Feedback ได้\n\nกรุณาแนบ\nPortfolio\nผลงานบอร์ดเกมที่เคยทำ\nผลงานภาพประกอบ\nระยะเวลาดำเนินงาน\nราคาเสนอ\nงบประมาณ : เปิดรับการเสนอราคา",
-    "title": "คนออกแบบบอร์ดเกมครบวงจร (Board Game Designer + Illustrator)",
-    "is_owner": null,
-    "files": [],
-    "source": "jobboard_web",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-10T09:36:32.488282Z",
-    "updated_at": "2026-06-10T09:36:33.993629Z",
-    "user_id": "ad6bbf48-8f03-4903-ab3d-459f61340aa0",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0"
-    },
-    "expired_at": "2026-07-10T09:36:32.474979Z",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-10T11:55:25.590Z"
-  },
-  {
-    "id": "224c5263-f39f-4f9c-aa44-600ce923e93c",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "1. จัดทำภาพจำลอง (Mockup) และภาพนำเสนอแนวคิดการจัดแสงสวน\n2. ตกแต่งภาพผลงานติดตั้งไฟสวน สนามหญ้า และระบบไฟโซล่าเซลล์ให้สวยงามน่าสนใจ\n3.ออกแบบแสงสว่างเพื่อเพิ่มความสวยงานภายนอกอาคาร และในอาคาร\n4.มีทีมช่างติดตั้งไฟโซล่าเซลล์ \n5. ค่าบริการ 1000 บาท สำรวจทำภาพ (ราคานี้ยังไม่รวมค่าสินค้าและติดตั้ง)",
-    "title": "รับจ้างออกแบบจัดไฟสวน สนามหญ้า ไฟโซล่าเซลล์",
-    "is_owner": null,
-    "files": [],
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-10T09:10:46.008644Z",
-    "updated_at": "2026-06-10T09:10:53.420684Z",
-    "user_id": "f5675737-1b39-406f-9b2c-49362b9477de",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.1;iPhone;11.0.3-6002477"
-    },
-    "expired_at": "2026-07-10T09:10:45.996337Z",
-    "already_offered": null,
-    "business_type": "อื่นๆ:ประกอบกิจการค้า นำเข้า ส่งออก โคมไฟ อุปกรณ์ส่องสว่าง โซล่าเซลล์",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "f5675737-1b39-406f-9b2c-49362b9477de",
-      "username": "xmlsolar",
-      "display_name": "XML Solar โคมไฟโซล่าเซลล์",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f5675737-1b39-406f-9b2c-49362b9477de/profile/335cf4bc-2165-4aac-bab6-d2f36b2bdeb1.png"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-10T11:55:24.375Z"
   }
 ]
