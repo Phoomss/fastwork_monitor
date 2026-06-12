@@ -1,5 +1,94 @@
 [
   {
+    "id": "b90fa31c-59f1-44be-8f83-8e221b5de1a4",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "full-time",
+    "description": "🌟ตำแหน่ง เจ้าหน้าที่แจ้งเตือนรอบจ่าย (WFH)\n✨คุณสมบัติ✨\n✅ เพศชาย / หญิง / LGBTQ+\n✅ วุฒิการศึกษา ม.3 ขึ้นไป\n✅ อายุ 18-45 ปี\n✅ ทำงานอาทิตย์ละ 6 วัน 8:30-18:00น.\n✅ ไม่จำเป็นต้องมีประสบการณ์\n✅ มีโทรศัพท์ andriod / ios หรือ Pc/โน๊ตบุ๊ค Windows 10 ขึ้นไป\n✅ พร้อมเรียนรู้งาน/พร้อมเริ่มงานทันที\n\n✨รา��ละเอียดงาน✨\n✅ โทรติดต่อและสื่อสารกับลูกค้าทางโทรศัพท์เพื่อดำเนินการติดตามธุรกิจของบริษัทให้ทันเวลา\n\n✨การจ่ายเงินเดือน✨\n✅ ค่าแรงคิดตามวันทำงาน 400/วัน + ค่าคอมตามผลงาน\n✅ เงินเดือนจ่าย 2 ครั้งต่อเดือน ทุกๆวันที่ 5 และวันที่ 20\n\n✨สวัสดิการ✨\n💓 ประกันสังคม (กรณีผ่านทดลองงาน 6 เดือน)\n💓 ค่าคอมมิชชั่นตามผลงาน\n💓 ค่าแนะนำคนมาทำงานภายใน\n💓 ลาป่วย ลากิจ ลาพักร้อน ลาคลอด\n\nพร้อมเริ่มงานพิจารณาเป็นพิเศษ",
+    "title": "เจ้าหน้าที่แจ้งเตือนรอบจ่าย (WFH)",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "is_anonymous": true,
+    "budget": "15000",
+    "inserted_at": "2026-06-12T18:10:51.422829Z",
+    "updated_at": "2026-06-12T18:10:52.356903Z",
+    "user_id": "3ee81b2f-e61e-4348-bbe5-504cc50ebcfe",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S918B;10.10.0-6002269"
+    },
+    "already_offered": null,
+    "business_type": "เงินทุน หลักทรัพย์",
+    "deadline_at": null,
+    "expired_at": "2026-07-12T18:10:51.345039Z",
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-12T19:24:37.367Z"
+  },
+  {
+    "id": "f50c1ace-3d0b-4331-9356-4fa4a4b45747",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ทำ WebApp ผ่าน Vscoed , หรือ AppScript เป็นเกี่ยวกับระบบภายในบริษัท พนักงานไม่เยอะ รายละเอียดคุยหลังไมค์ได้",
+    "title": "คนทำเว็บแอพ หรือ AppScript ",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "is_anonymous": true,
+    "budget": "2000",
+    "inserted_at": "2026-06-12T17:39:35.748300Z",
+    "updated_at": "2026-06-12T17:39:37.781952Z",
+    "user_id": "f9c822b3-f957-43d2-a6fd-958602aaaf86",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.3.2;iPhone;10.4.0-6002062"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-19",
+    "expired_at": "2026-07-12T17:39:35.736622Z",
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-12T19:24:36.186Z"
+  },
+  {
     "id": "793f72d8-2523-4640-af37-831a573c5a84",
     "status": "open",
     "tag": {
