@@ -1,5 +1,93 @@
 [
   {
+    "id": "f5e3f0c4-7034-42bc-a09b-f7065f3c226a",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "แก้ไขรายงาน 2 รายงานในระบบ ERP\n\nรายการ 1\n-เพิ่มจำนวนรวมท้าย report\n-เพิ่ม field ที่ต้องการ 1 field\n\nรายการ 2\n-เพิ่ม field ที่ต้องการ\n\n(งบประมาณที่แจ้งไว้เบื้องต้นระบบบังคับให้ใส่ รบกวนฟรีแลนซ์ทัก inbox มาเพื่อดูรายละเอียด report เพิ่มเติมเพื่อประเมินและเสนอราคาค่ะ )",
+    "title": "คนแก้ไข report ในระบบ ERP Dynamics 365 BC",
+    "is_owner": null,
+    "source": "jobboard_web_web_chat_profile-menu_jobboard",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "9999",
+    "inserted_at": "2026-06-13T07:49:15.499811Z",
+    "updated_at": "2026-06-13T07:49:16.808882Z",
+    "user_id": "0b213982-0491-4ab4-a9e3-d7a002c2e74d",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "แฟชั่น เครื่องประดับ",
+    "deadline_at": "2026-06-19",
+    "expired_at": "2026-07-13T07:49:15.488057Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "0b213982-0491-4ab4-a9e3-d7a002c2e74d",
+      "username": "gail.bohan",
+      "display_name": "Gail Bohan",
+      "image_url": "https://storage.googleapis.com/fastwork-static/2098468e-dcd7-4f4d-a6ae-2dd92db9b254.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-13T08:04:51.588Z"
+  },
+  {
+    "id": "ebe7e483-33e9-4016-b8c6-a59d03345294",
+    "status": "open",
+    "tag": {
+      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
+      "name": "รูปภาพและวิดีโอ",
+      "sort": 6
+    },
+    "type": "part-time",
+    "description": "📢 รับสมัคร Graphic Designer & AI Content Creator\n\nคุณสมบัติ\n• ออกแบบกราฟิกสำหรับ Social Media, Website และโฆษณาได้\n• ตัดต่อวิดีโอสั้นสำหรับ TikTok, Facebook, Reels และ Shorts ได้\n• ใช้ AI Tools เช่น ChatGPT, Midjourney, Flux, Ideogram, HeyGen, Runway, Kling, Veo หรือเครื่องมืออื่นๆ ได้\n• ทำงานรวดเร็ว ส่งงานตรงเวลา และใส่ใจคุณภาพงาน\n• ชอบเรียนรู้เทคโนโลยีใหม่ๆ และพัฒนาตัวเองอยู่เสมอ\n• รับ Feedback ได้ดี และสามารถปรับแก้งานได้\n• มีความรับผิดชอบ และทำงานเป็นทีมได้\n\nพิจารณาเป็นพิเศษ\n⭐ มี Portfolio ด้านกราฟิก วิดีโอ หรือ AI Content\n⭐ มีประสบการณ์ด้าน E-commerce หรือ Social Media Marketing\n\nสิ่งที่เราให้ความสำคัญ\n✅ คุณภาพงาน\n✅ ความรวดเร็วในการทำงาน\n✅ ความคิดสร้างสรรค์\n✅ การเรียนรู้และพัฒนาตัวเอง\n\nจ้างรายวันดูตามผลงาน ผลลัพธ์ที่ได้\n\n📩 ส่ง Resume และ Portfolio มาได้เลย",
+    "title": "รับสมัคร Graphic Designer & AI Content Creator",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "800",
+    "inserted_at": "2026-06-13T05:43:22.942177Z",
+    "updated_at": "2026-06-13T05:43:24.476680Z",
+    "user_id": "f86e2952-8e7c-4eae-a7ec-309388ce6c81",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.0.2;iPhone;6.2.0-6000087"
+    },
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "expired_at": "2026-07-13T05:43:22.930765Z",
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "f86e2952-8e7c-4eae-a7ec-309388ce6c81",
+      "username": "pollylean.ai",
+      "display_name": "pollylean.ai",
+      "image_url": "https://storage.googleapis.com/fastwork-static/8bddf006-2468-4699-8815-baff3670111b.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-13T08:04:50.296Z"
+  },
+  {
     "id": "f8b08756-34df-44ac-bfea-d04991190844",
     "status": "open",
     "tag": {
@@ -485,181 +573,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-11T11:23:53.521Z"
-  },
-  {
-    "id": "62b7b7d6-be54-46eb-a9f5-490a73403bc7",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "ต้องการคนที่ทำการตลาดแบบออนไลน์ ที่มีช่องทางของตนเองอยู่แล้ว จะเป็น platform ใดก็ได้\n\nเพื่อนำเสนอการให้บริการพัฒนาเว็บไซต์ด้วย WordPress ที่แตกต่างไปจากผู้ให้บริการทั่วไปโดยสิ้นเชิง เพราะ ....\n\n* เราสร้าง theme เฉพาะให้กับลูกค้า\n* เราปรับแต่งรูปแบบการใช้งานตามใจลูกค้าได้โดยอิสระ\n* เราสร้าง plugin เฉพาะของเราเอง (มี plugin จาก third-party เพียงบางตัวเท่านั้น)\n* ลูกค้าสามารถนำไปต่อยอดได้เอง เพราะ theme ของเราสร้างขึ้นบนมาตรฐานของ WordPress โปรแกรมเมอร์ที่ใช้ภาษา PHP & JavaScript ทั่วไปสามารถ customize ได้โดยง่าย\n\n## ที่สำคัญ บริการนี้ แทบไม่มีคู่แข่ง เพราะผู้ให้บริการทั่วไปมั���จะใช้ theme สำเร็จรูป + page builder ที่มีข้อจำกัดมากมาย\n\nFreelance ท่านใดสนใจทักมาคุยกันได้นะครับ โดยขอแจ้งเบื้องต้นว่า ** ผมไม่ต้องการเป็นแบบจ้างไลฟ์ หรือโฆษณา แต่ต้องการลักษณะความร่วมมือและแบ่งปันผลประโยชน์ร่วมกัน\n# งบประมาณที่ลงไว้ เพียงเพื่อความครบถ้วนของแบบฟอร์มเท่านั้น",
-    "title": "นักรีวิว influencer นักการตลาดออนไลน์ เพื่อโปรโมทบริการทำเว็บไซต์",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "is_anonymous": false,
-    "budget": "1000",
-    "inserted_at": "2026-06-11T06:49:28.790662Z",
-    "updated_at": "2026-06-11T06:49:29.866399Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
-    },
-    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-11T06:49:28.777905Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-      "username": "mrwat1835",
-      "display_name": "Mr.Wat WordPress and Marketing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-11T07:00:03.563Z"
-  },
-  {
-    "id": "32c09f06-294e-4459-a63a-ecb014206a2b",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "marketplace application, community, LINE customer care/chatbot, data, ….…………...........................",
-    "title": "หาคนทำ marketplace",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "is_anonymous": false,
-    "budget": "100000",
-    "inserted_at": "2026-06-11T06:34:02.015355Z",
-    "updated_at": "2026-06-11T06:34:03.728391Z",
-    "brief_url": "https://www.trip.com",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;2312DRAABG;10.12.0-6002405"
-    },
-    "user_id": "84f6834e-d284-4d0c-9d51-aa00a02f6ba0",
-    "already_offered": null,
-    "business_type": "การท่องเที่ยว นันทนาการ",
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-07-11T06:34:01.993791Z",
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "84f6834e-d284-4d0c-9d51-aa00a02f6ba0",
-      "username": "vwkc7zzq",
-      "display_name": "vwkc7zzq",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-11T07:00:02.471Z"
-  },
-  {
-    "id": "69548788-5329-4d44-87d7-7f54859ca646",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "full-time",
-    "description": "บริษัท JLED จำกัด เปิดรับสมัคร（Sales Assistant ) : ผู้ช่วยฝ่ายขาย (เพศหญิง) เงินเดือนตามประสบการณ์ (เริ่มต้น 15,000 – 20,000 บาท)\n\n✅หน้าที่และความรับผิดชอบ\n • ติดตามและสรุปรายงานการขายรายวัน / รายสัปดาห์\n • ตอบกลับลูกค้าในช่องทาง Chat Box (Line OA / Facebook / Website)\n • เตรียมใบเสนอราคาให้ฝ่ายขาย และช่วยประสานงานลูกค้า\n • จัดเก็บเอกสารที่เกี่ยวข้องกับงานขายให้เรียบร้อย\n • ทำงานร่วมกับทีมขายเพื่อสนับสนุนการขายให้ราบรื่น\n\n✅คุณสมบัติ\n • เพศหญิง อายุ 22-30 ปี\n • วุฒิปริญญาตรี สาขาการตลาด การจัดการ หรือที่เกี่ยวข้อง\n • มีทักษะการสื่อสารที่ดี ใช้โปรแกรม Microsoft Office ได้\n • มีความละเอียดรอบคอบ รับผิดชอบงานที่ได้รับมอบหมาย\n • หากมีประสบการณ์ด้านงานขาย / การบริการลูกค้า จะพิจารณาเป็นพิเศษ\n\n📍เวลาทำงาน จันทร์ – เสาร์ | 08:00 – 17:00 น.\n\n✅สวัสดิการ\n- ชุดฟอร์มบริษัท\n- ปรับเงินเดือนทุกปี\n- เงินพิเศษประจำปีขึ้นอยู่กับผลงานและผลประกอบการของบริษัท\n- ประกันสังคม\n- ท่องเที่ยวประจำปี\n- ค่าทำงานล่วงเวลา OT\n\n📍 สถานที่ทำงาน : สำนักงาน 207 4/121 ถนนเจริญกรุง 72/3 แขวงวัดพระยาไกร เขตบางคอแหลม กรุงเทพ (ซอยเดียวกับโรงแรมแม่น้ำ รามาดา พลาซ่า)",
-    "title": "Sales Assistant ผู้ช่วยฝ่ายขาย (เพศหญิง)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "is_anonymous": true,
-    "budget": "15000",
-    "inserted_at": "2026-06-11T05:33:13.421181Z",
-    "updated_at": "2026-06-11T05:33:14.726249Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "81fdd99c-2a8a-4105-a464-17a4532c9436",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-11T05:33:13.407535Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-11T07:00:01.292Z"
-  },
-  {
-    "id": "f9a108f9-042d-40e2-933c-a82a29328813",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "ต้องการคนที่ทำการตลาดแบบออนไลน์ ที่มีช่องทางของตนเองอยู่แล้ว จะเป็น platform ใดก็ได้\n\nเพื่อนำเสนอการให้บริการพัฒนาเว็บไซต์ด้วย WordPress ที่แตกต่างไปจากผู้ให้บริการทั่วไปโดยสิ้นเชิง เพราะ ....\n\n* เราสร้าง theme เฉพาะให้กับลูกค้า\n* เราปรับแต่งรูปแบบการใช้งานตามใจลูกค้าได้โดยอิสระ\n* เราสร้าง plugin เฉพาะของเราเอง (มี plugin จาก third-party เพียงบางตัวเท่านั้น)\n* ลูกค้าสามารถนำไปต่อยอดได้เอง เพราะ theme ของเราสร้างขึ้นบนมาตรฐานของ WordPress โปรแกรมเมอร์ที่ใช้ภาษา PHP & JavaScript ทั่วไปสามารถ customize ได้โดยง่าย\n\n## ที่สำคัญ บริการนี้ แทบไม่มีคู่แข่ง เพราะผู้ให้บริการทั่วไปมักจะใช้ theme สำเร็จรูป + page builder ที่มีข้อจำกัดมากมาย\n\nFreelance ท่านใดสนใจทักมาคุยกันได้นะครับ โดยขอแจ้งเบื้องต้นว่า ** ผมไม่ต้องการเป็นแบบจ้างไลฟ์ หรือโฆษณา แต่ต้องการลักษณะความร่วมมือและแบ่งปันผลประโยชน์ร่วมกัน\n# งบประมาณที่ลงไว้ เพียงเพื่อความครบถ้วนของแบบฟอร์มเท่านั้น",
-    "title": "พาร์ทเนอร์เพื่อช่วยโปรโมทบริการสร้างเว็บไซต์ด้วย WordPress Development Platform ผ่านช่องทางออนไลน์ของคุณ",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "is_anonymous": false,
-    "budget": "1000",
-    "inserted_at": "2026-06-11T05:14:58.508494Z",
-    "updated_at": "2026-06-11T05:14:59.825550Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
-    },
-    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "expired_at": "2026-07-11T05:14:58.496274Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-      "username": "mrwat1835",
-      "display_name": "Mr.Wat WordPress and Marketing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-11T07:00:00.139Z"
   }
 ]
