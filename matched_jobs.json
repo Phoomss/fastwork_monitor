@@ -1,5 +1,50 @@
 [
   {
+    "id": "2d6cbb36-2589-4809-b3fb-444cdd8db96e",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "สามารถเขียนโปรแกรม\n1. mySQL\n2. UI web interface \n3. joget work flow (จะดีมาก)\n\nเขียนโปรแกรมเพื่อควบคุม การทำงาน work flow ภายในบริษัท\n1. กระบวนการผลิต\n2. Stock วัตถุดิบและสินค้า\n3. Production planning\n4. การควบคุมคุณภาพ",
+    "title": "จ้างทำโครงการ โปรแกรมเมอร์เขียน SQL, Web interface ",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_banner",
+    "files": [],
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-13T08:07:20.193263Z",
+    "updated_at": "2026-06-13T08:07:21.298860Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": "ปิโตรเลียม เคมีภัณฑ์",
+    "deadline_at": "2026-06-30",
+    "expired_at": "2026-07-13T08:07:20.179189Z",
+    "freelance_offers_count": 8,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;SM-F946B;6.16.0-6000660"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "348a51b3-013c-4364-ae05-7e1dfca582ef",
+    "user_profile": {
+      "id": "348a51b3-013c-4364-ae05-7e1dfca582ef",
+      "username": "symdhuut",
+      "display_name": "symdhuut",
+      "image_url": "https://storage.googleapis.com/fastwork-static/d2788df6-ff4a-4c2e-8d61-5b38776cd92e.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-13T10:36:07.195Z"
+  },
+  {
     "id": "f5e3f0c4-7034-42bc-a09b-f7065f3c226a",
     "status": "open",
     "tag": {
