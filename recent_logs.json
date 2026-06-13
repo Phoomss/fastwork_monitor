@@ -1,5 +1,4 @@
 [
-  "[2026-06-13T10:36:07.317Z]     Notification sent successfully.",
-  "[2026-06-13T10:36:07.195Z]   FOUND NEW TARGET JOB: จ้างทำโครงการ โปรแกรมเมอร์เขียน SQL, Web interface  (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 10000 THB)",
-  "[2026-06-13T10:36:06.157Z] Checking Fastwork for new job posts..."
+  "[2026-06-13T12:11:06.865Z] Checking Fastwork for new job posts...",
+  "[2026-06-13T12:11:06.860Z] Auto-cleanup: Removed 2 matched jobs older than 2 day(s)."
 ]
