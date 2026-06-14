@@ -352,49 +352,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-13T04:44:56.415Z"
-  },
-  {
-    "id": "095c15af-c8c0-4bae-922d-3794ea49f139",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สร้างให้มันเป็นโปรแกรมที่ช่วยให้สามารถตัดคริปโดยลดเวลาได้เยอะขึ้น\nโยนไฟล์ดิบกดคลิกให้aiทำงาน\nตัดช่วย Dead air อ���ก ใส่ซับออโต้ ซับเด้งตามที่เราพูด สามารถเช็คซับได้ตามเวลาในคริปแก้ไขได้ และสามารถออโต้ใส่เอฟเฟคพร้อมลงคริป\n\nจะใช้aiทำก็ได้",
-    "title": "หาคนสร้างโปรแกรมaiช่วยตัดต่อคริปวีดีโอแบบออโต้",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "is_anonymous": true,
-    "budget": "1000",
-    "inserted_at": "2026-06-12T21:04:59.945746Z",
-    "updated_at": "2026-06-12T21:05:01.681606Z",
-    "user_id": "dc9bb14f-31df-41d0-9c06-0188163a03a8",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;RMX3941;10.12.0-6002405"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-12T21:04:59.934766Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-12T21:10:03.958Z"
   }
 ]
