@@ -441,49 +441,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-12T14:25:19.363Z"
-  },
-  {
-    "id": "6a918dd8-82b8-46fb-bac2-8410f2db45ba",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ทำ One page website\nร้านจำหน่ายรถจักรยานยนต์ \n\nท่านใดมีความรู้ความสามารถสามารถนำเสนอผลงานเข้ามาได้เลยครับ",
-    "title": "คนทำ One page website",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "is_anonymous": false,
-    "budget": "3000",
-    "inserted_at": "2026-06-12T06:23:05.747286Z",
-    "updated_at": "2026-06-12T06:23:06.663531Z",
-    "user_id": "c627dcda-7377-407f-84af-34cc4e800a85",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.1.1;iPhone;8.4.0-6001075"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": "2026-06-20",
-    "expired_at": "2026-07-12T06:23:05.735868Z",
-    "freelance_offers_count": 21,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "c627dcda-7377-407f-84af-34cc4e800a85",
-      "username": "torrayod",
-      "display_name": "beear",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/c627dcda-7377-407f-84af-34cc4e800a85/profile/1cf04dc1-5e45-407f-af09-af4551769626.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-12T08:11:40.063Z"
   }
 ]
