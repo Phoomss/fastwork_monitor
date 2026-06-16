@@ -1,8 +1,5 @@
 [
-  "[2026-06-16T12:20:45.438Z]     Notification sent successfully.",
-  "[2026-06-16T12:20:45.292Z]   FOUND NEW TARGET JOB: หา tester ออนไซต์ และออนไลน์ (Cats: พัฒนาเว็บไซต์) (Budget: 28000 THB)",
-  "[2026-06-16T12:20:44.289Z]     Notification sent successfully.",
-  "[2026-06-16T12:20:44.061Z]   FOUND NEW TARGET JOB: AI automation ที่เฝ้าติดตามประกาศการจัดซื้อจัดจากภาครัฐและเอกชนและส่งแจ้งเตือนในรายการที่เกี่ยวข้อง (Cats: พัฒนาเว็บไซต์) (Budget: 8000 THB)",
-  "[2026-06-16T12:20:42.996Z] Checking Fastwork for new job posts...",
-  "[2026-06-16T12:20:42.994Z] Auto-cleanup: Removed 65 seen job tracking IDs older than 2 day(s)."
+  "[2026-06-16T17:26:02.025Z] Checking Fastwork for new job posts...",
+  "[2026-06-16T17:26:02.025Z] Auto-cleanup: Removed 51 seen job tracking IDs older than 2 day(s).",
+  "[2026-06-16T17:26:02.021Z] Auto-cleanup: Removed 1 matched jobs older than 2 day(s)."
 ]

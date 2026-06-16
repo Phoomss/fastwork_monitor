@@ -353,49 +353,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-14T18:49:15.137Z"
-  },
-  {
-    "id": "f91600dd-5c73-4533-85b8-e38f6374934a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": " หาคนปรับเว็บไซต์สาม. งบ 1000 บาทขอแบบงานเร็วแก้ไขไว มีปรับก็คือในส่วนของตัวอีคอมเมิร์ซทั้งหมดเลยอยากปรับมากๆ",
-    "title": "ปรับเว็บไชต Wp 3 จดงบ 1000 บาท",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-14T13:23:32.050273Z",
-    "updated_at": "2026-06-14T13:23:33.570682Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.5;iPhone;8.5.0-6001088"
-    },
-    "already_offered": null,
-    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
-    "deadline_at": null,
-    "expired_at": "2026-07-14T13:23:32.037199Z",
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "1b365055-ac68-4a7a-a3e9-17fb412f838c",
-    "user_profile": {
-      "id": "1b365055-ac68-4a7a-a3e9-17fb412f838c",
-      "username": "pipatseoman",
-      "display_name": "ตามบาสไปติดหน้าแรก",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/1b365055-ac68-4a7a-a3e9-17fb412f838c/profile/a96ffc7c-4c65-4f68-9edc-b5f4b9df1051.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-14T14:25:37.322Z"
   }
 ]
