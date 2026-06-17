@@ -1,5 +1,49 @@
 [
   {
+    "id": "6dd3e1ea-7c5f-4691-850e-db63e6a269bb",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "หาคนที่สามารถวาดแบบแผนของตึกโรงงาน 5 ชั้นพร้อมเซ็นรับรองอาคาร รับรองโครงสร้างตึก \nตึกอยู่ที่พระราม2 เป็นโรงงานผลิตเสื้อผ้า \n\nงบ 5000 ",
+    "title": "หาวิศวะโยฑา รับรองโครงสร้างตึกอ��คารพาณิชย์ที่มีอยู่แล้ว 5 ชั้น พร้อมมวาด",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-17T11:11:39.940692Z",
+    "updated_at": "2026-06-17T11:11:41.186289Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.1;iPhone;9.9.0-6001589"
+    },
+    "user_id": "0e2fe0ed-1749-4fc3-9687-59249f929671",
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-17T11:11:39.929311Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "0e2fe0ed-1749-4fc3-9687-59249f929671",
+      "username": "ciei0ew2",
+      "display_name": "ciei0ew2",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-17T12:01:31.439Z"
+  },
+  {
     "id": "70c9435d-9c15-4ae2-b70a-b4f8f190dbfb",
     "status": "open",
     "tag": {
