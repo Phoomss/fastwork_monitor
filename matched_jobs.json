@@ -1,5 +1,49 @@
 [
   {
+    "id": "6ba114d8-1a32-4c5c-9c87-81955e641da0",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": " สวัสดีค่ะพอดีว่าจะทำโปรเจกต์จบวิทยาลัยค่ะได้นำเสนอ โปรเจคไปว่าจะทำสั่งอาหารระบบออนไลน์ค่ะ มีตัวอย่างที่อยากได้อยู่ค่ะอยากได้แบบรายการอาหารแล้วก็จะมีรูปภาพอาหารแล้วก็จะมีเมนูให้ค่ะส่วนรูปภาพสามารถค้นจากเว็บมาใส่ได้เลยค่ะแล้วก็อยากให้มีระบบคิดเงินอัตโนมัติแล้วก็อยากให้มันลิงก์ไปที่เครื่องแม่ค้า และแม่ค้าก็รับออเดอร์ประมาณนี้ค่ะแต่ถ้ามีสถานะของแม่แม่ค้าอย่างเช่นตอนนี้แม่ค้าได้กดรับ ออร์เดอร์แล้ว  และกำลังจัดเตรียมอาหาร  คล้ายๆกับแอปสั่งอาหารที่เรารู้กัน ค่ะ  ส่วนค่าตอบแทน เสนอมาได้เลยค่ะ",
+    "title": " คนสร้างเว็บสั่งอาหาร",
+    "is_owner": null,
+    "files": [],
+    "source": "jobboard_app_me-job_floating-button",
+    "budget": "800",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-17T12:46:54.345432Z",
+    "updated_at": "2026-06-17T12:46:56.051903Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.4.1;iPad;11.0.0-6002448"
+    },
+    "already_offered": null,
+    "business_type": "อาหาร เครื่องดื่ม",
+    "deadline_at": "2026-06-25",
+    "expired_at": "2026-07-17T12:46:54.331983Z",
+    "freelance_offers_count": 13,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "88c3f9f3-8561-47f9-8674-84ced28561c3",
+    "user_profile": {
+      "id": "88c3f9f3-8561-47f9-8674-84ced28561c3",
+      "username": "3seppy",
+      "display_name": "3Seppy",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/88c3f9f3-8561-47f9-8674-84ced28561c3/profile/c7d3f266-3db8-40c2-8fe5-70dc5fcbd965.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-17T15:53:24.456Z"
+  },
+  {
     "id": "6dd3e1ea-7c5f-4691-850e-db63e6a269bb",
     "status": "open",
     "tag": {
@@ -307,139 +351,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-06-16T07:08:24.849Z"
-  },
-  {
-    "id": "94f63e55-1622-40f4-858f-97590c1ab8fa",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "1. Design website ทั้งหมด 4 เว็บไซต์ให้เป็นไปในโทนเดียวกัน\n2. มีความสามารถในการทำกราฟฟิคและ UxUi\n3. เว็บไซต์ละ (3 - 5) หนา้\n\n",
-    "title": "Motion Graphic & UxUi",
-    "is_owner": null,
-    "source": "jobboard_web_web_marketplace_top-nav-bar_mega-menu",
-    "files": [],
-    "budget": "100000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-15T12:56:28.157803Z",
-    "updated_at": "2026-06-15T12:56:29.774727Z",
-    "brief_url": "https://grabandgo.pt/",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": "2026-08-15",
-    "expired_at": "2026-07-15T12:56:28.146049Z",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "0e51416e-2689-4c53-aeb8-4f6c10ff423a",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-15T13:35:37.761Z"
-  },
-  {
-    "id": "3bd40dee-d998-4626-abd2-2e1a4dd8b016",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "🚀 หาคนเทสแอปพลิเคชั่น\n\nเคยไหม? อยากเปิดร้านออนไลน์ แต่พอคิดถึงคำว่า \"ทำเว็บ\" ก็ถอดใจ... จ้างคนทำก็แพง ทำเองก็ไม่เป็น แถมลูกค้าก็ขี้เกียจโหลดแอปร้านเรากันอีก 😮‍💨\nผมเลยทำแอปนี้ขึ้นมา — Hey ScanME 📲\nไอเดียมันง่ายมาก: ร้านคุณมี QR Code อันเดียว ลูกค้าสแกนปุ๊บ เจอหน้าร้านสวยๆ ทันที ไม่ต้องโหลดแอป ไม่ต้องล็อกอิน ไม่ต้องเรียนรู้อะไรเลย\n\n✨ ทำอะไรได้บ้าง\n•\tสร้างหน้าร้านออนไลน์เสร็จใน 5 นาที แค่ใส่ข้อมูล เลือกเทมเพลต (มี 9 แบบ คาเฟ่ / ร้านอาหาร / แฟชั่น / ร้านค้าทั่วไป)\n•\tได้ QR Code + ลิงก์ไปแปะบนเมนู โต๊ะ หรือกล่องพัสดุได้เลย\n•\tแก้ราคา เพิ่มสินค้า ได้จากมือถือทุกที่ทุกเวลา\n•\tดูยอดสแกนแบบเรียลไทม์ ว่าวันนี้มีคนดูร้านกี่คน\nเหมาะกับเจ้าของร้านคาเฟ่ ร้านอาหาร ร้านค้าเล็กๆ ที่อยากเริ่มขายออนไลน์แบบเร็วและง่ายที่สุด",
-    "title": "หาคนทดสอบแอปพลิเคชั่น",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-15T12:12:43.998612Z",
-    "updated_at": "2026-06-15T12:12:45.137905Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": "2026-06-30",
-    "expired_at": "2026-07-15T12:12:43.986195Z",
-    "freelance_offers_count": 6,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-    "user_profile": {
-      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-      "username": "artmanomai",
-      "display_name": "Aphilak Manomai",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-15T13:35:36.652Z"
-  },
-  {
-    "id": "7607210c-2517-4e0d-8083-18685e4fde60",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการหาโรงงานผลิต อยากได้เป็นวัสดุ Titanium (ASTM F136)\nและลงสียาได้ หากมีขั้นต่ำการผลิตแจ้งได้เลยค่ะ ทางเราจะข���คุยรายละเอียดเพิ่มอีกที",
-    "title": "หาโรงงานรับผลิตจิวสะดือ อยากได้เป็นวัสดุ Titanium (ASTM F136)",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-15T11:36:53.765042Z",
-    "updated_at": "2026-06-15T11:36:55.013990Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.2;iPhone;10.9.0-6002212"
-    },
-    "already_offered": null,
-    "business_type": "แฟชั่น เครื่องประดับ",
-    "deadline_at": null,
-    "expired_at": "2026-07-15T11:36:53.752957Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "6901092c-aa6e-4d35-bafe-8d74ac27f81f",
-    "user_profile": {
-      "id": "6901092c-aa6e-4d35-bafe-8d74ac27f81f",
-      "username": "arisara14_",
-      "display_name": "arisara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6901092c-aa6e-4d35-bafe-8d74ac27f81f/profile/009f12fa-bf55-4094-8d23-c12fd078eccf.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-15T13:35:35.533Z"
   }
 ]
