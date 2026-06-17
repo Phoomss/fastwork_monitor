@@ -1,5 +1,93 @@
 [
   {
+    "id": "70c9435d-9c15-4ae2-b70a-b4f8f190dbfb",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "คนสร้างระบบเจน คร��เอทีฟ ด้วย AI + สร้าง Promt\n\nมีเว็บแอพ AI workflow อยู่แล้ว แต่ยังขาด AI เจนรูปที่ดี กำลังคิดว่าอยากได้เป็นระบบ N8N หรืออื่นๆ (เสนอมาได้ครับ) ต่อเข้ากับเว็บแอพ \n\nปัญหาที่เจอตอนนี้คือ AI เจนภาพมาได้ห่วยแตกมาก 😂 ",
+    "title": "คนสร้างระบบเจน ครีเอทีฟ ด้วย AI + สร้าง Promt",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "999",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-17T06:54:45.049202Z",
+    "updated_at": "2026-06-17T06:54:46.394754Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "expired_at": "2026-07-17T06:54:45.036847Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.9.0-6001195"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "ed102447-5ab2-44f7-85ec-5ee659437ca3",
+    "user_profile": {
+      "id": "ed102447-5ab2-44f7-85ec-5ee659437ca3",
+      "username": "tulsew_",
+      "display_name": "tulsew_",
+      "image_url": "https://storage.googleapis.com/fastwork-static/c872d428-19c9-4d9a-8941-6b304e0febf0.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-17T07:25:38.420Z"
+  },
+  {
+    "id": "90df44bf-e937-45a1-b35c-2ed6b7051397",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หานักเขียนโปรแกรม โปรแกรมเมอร์ ประเภทงาน C c++ หาคนเขียนโปรแกรม ประเภทเวปไซต์ หรือแอปพลิเคชัน.........\n",
+    "title": "หานักเขียนโปรแกรม โปรแกรมเมอร์ ประเภทงาน C c++",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "100000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-17T05:01:41.660732Z",
+    "updated_at": "2026-06-17T05:01:42.731272Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-17T05:01:41.632498Z",
+    "freelance_offers_count": 5,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2725;11.1.0-6002506"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "f90e684d-73d6-42ff-922f-9d90d2c40dcb",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-17T07:25:37.293Z"
+  },
+  {
     "id": "f7ca1910-cc9b-4815-971a-d1d62f438a55",
     "status": "open",
     "tag": {
