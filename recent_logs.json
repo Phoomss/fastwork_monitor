@@ -1,5 +1,5 @@
 [
-  "[2026-06-18T07:03:07.093Z]     Notification sent successfully.",
-  "[2026-06-18T07:03:06.802Z]   FOUND NEW TARGET JOB: เจ้าหน้าที่แจ้งเตือนรอบจ่าย (WFH) (Cats: พัฒนาแอปพลิเคชัน) (Budget: 15000 THB)",
-  "[2026-06-18T07:03:05.773Z] Checking Fastwork for new job posts..."
+  "[2026-06-18T11:14:57.994Z] Checking Fastwork for new job posts...",
+  "[2026-06-18T11:14:57.994Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 2 day(s).",
+  "[2026-06-18T11:14:57.990Z] Auto-cleanup: Removed 2 matched jobs older than 2 day(s)."
 ]
