@@ -1,5 +1,49 @@
 [
   {
+    "id": "2557536b-1786-4453-801a-15a18cdadd2b",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาโปรแกรมขนส่ง\nระบบ TMS และมีคลังด้วย\nรวมถึงมี Tracking สำหรับติดตามสถานะรถ\nท่านใดมีขอ Demo และตัดสินใจ\nขอบคุณครับ",
+    "title": "หาโปรแกรมขนส่ง",
+    "is_owner": null,
+    "files": [],
+    "source": "jobboard_web",
+    "budget": "100000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-18T11:26:06.004336Z",
+    "updated_at": "2026-06-18T11:26:07.379523Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "ขนส่ง โลจิสติกส์",
+    "deadline_at": null,
+    "expired_at": "2026-07-18T11:26:05.992586Z",
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
+    "user_profile": {
+      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
+      "username": "rtxvpuda",
+      "display_name": "rtxvpuda",
+      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-18T14:23:37.341Z"
+  },
+  {
     "id": "c24a99aa-084d-4ffa-920c-8f3df3c82521",
     "status": "open",
     "tag": {
@@ -351,93 +395,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-17T07:25:37.293Z"
-  },
-  {
-    "id": "f7ca1910-cc9b-4815-971a-d1d62f438a55",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "หา Tester ระบบงบการเงิน\nการวางแผนและการออกแบบ (Planning & Design):\n  - จัดทำ Test Plan และกำหนดขอบเขตการทดสอบ (Scope)\n  - ออกแบบและเขียน Test Case / Test Script ให้ครอบคลุมทั้ง Positive และ Negative scenarios\nการดำเนินการทดสอบ (Execution):\n  - ดำเนินการทดสอบระบบตามแผนที่วางไว้ (Manual Testing / Automation Testing)\n  - ทดสอบในระดับต่างๆ เช่น System Integration Test (SIT) และสนับสนุนการทำ User Acceptance Test (UAT)\n  - ทำ Regression Testing เพื่อตรวจสอบว่าการแก้ไขส่วนเดิมไม่กระทบกับส่วนใหม่\nการจัดการข้อผิดพลาด (Defect Management):\n  - ระบุ บันทึก และติดตามสถานะของ Bug ผ่านเครื่องมือจัดการ (เช่น Jira, Redmine)\n  - ประสานงานกับทีม Developer เพื่อวิเคราะห์สาเหตุของปัญหาและร่วมกันแก้ไข\nการรายงานผล (Reporting):\n  - สรุปผลการทดสอบผ่าน Test Summary Report เพื่อให้ Stakeholders รับทราบสถานะความพร้อมของระบบ\n\nคุณสมบัติที่ต้องการ (Qualifications)\n  - วุฒิการศึกษาปริญญาตรีในสาขา Computer Science, IT, Computer Engineering หรือสาขาที่เกี่ยวข้อง\n  - มีทักษะในการวิเคราะห์อย่างเป็นระบบ (Systematic Thinking) และให้ความสำคัญกับรายละเอียด (Detail-oriented)\n  - มีความเข้าใจในกระบวนการพัฒนาซอฟต์แวร์\n\nSkills (Technical):\n  - เข้าใจพื้นฐานของ SQL สำหรับการตรวจสอบข้อมูลใน Database\n  - สามารถใช้เครื่องมือช่วยทดสอบได้ เช่น Postman (สำหรับ API Testing)\n  - หากมีทักษะการเขียนโปรแกรมพื้นฐาน (เช่น Java, Python, JavaScript) เพื่อทำ Automation จะได้รับการพิจารณาเป็นพิเศษ\n\nSkills (Soft Skills):\n  - มีทักษะการสื่อสารที่ดี สามารถประสานงานระหว่างทีม Business และ Technical ได้อย่างราบรื่���\n  - มีทัศนคติที่พร้อมเรียนรู้เทคโนโลยีใหม่ๆ อยู่เสมอ\n  - มีประสบการณ์ เคยทำด้านนี้มากก่อน\n  - มีทักษะการสื่อสาร และเข้ากับเพื่อนร่วมโปรเจกต์ได้ดี\n  - มีความรับผิดชอบต่อหน้าที่งานของตนเอง\n  - เคยทำกับราชการมาก่อนจะรับพิจารณาเป็นพิเศษ\n  - หากเป็นคนขี้สงสัยต่อการทดสอบระบบ และชอบแก้ไขปัญหาหาทางแก้จะรับพิจารณาเป็นพิเศษ\n",
-    "title": "หา tester ออนไซต์ และออนไลน์",
-    "is_owner": null,
-    "source": "jobboard_web_web_marketplace_top-nav-bar_mega-menu",
-    "files": [],
-    "budget": "28000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-16T12:01:37.023082Z",
-    "updated_at": "2026-06-16T12:01:38.209835Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "02f62c75-a839-47b0-a9cc-32931beacce0",
-    "already_offered": null,
-    "business_type": "ธนาคาร สถาบันการเงิน",
-    "deadline_at": "2026-06-19",
-    "expired_at": "2026-07-16T12:01:37.011134Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-16T12:20:45.292Z"
-  },
-  {
-    "id": "5adfbcbf-da1f-462a-a568-1fe0dbada5ea",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการพัฒนา AI Automation สำหรับติดตามประกาศจัดซื้อจัดจ้างจากหน่วยงานภาครัฐและเอกชน โดยระบบต้องสามารถดึงข้อมูล คัดกรองตาม Keyword ที่กำหนด และแจ้งเตือนอัตโนมัติเมื่อพบโครงการที่เกี่ยวข้อง พร้อมจัดเก็บข้อมูลเพื่อค้นหาและวิเคราะห์ย้อนหลังได้ ผู้พัฒนาควรมีประสบการณ์ด้าน Web Scraping, Automation และ AI Workflow",
-    "title": "AI automation ที่เฝ้าติดตามประกาศการจัดซื้อจัดจากภาครัฐและเอกชนและส่งแจ้งเตือนในรายการที่เกี่ยวข้อง",
-    "is_owner": null,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "budget": "8000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-16T09:02:22.786160Z",
-    "updated_at": "2026-06-16T09:02:23.824123Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-    },
-    "user_id": "d5375027-fa99-4202-b6aa-eee503475c55",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "expired_at": "2026-07-16T09:02:22.774412Z",
-    "freelance_offers_count": 5,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-16T12:20:44.061Z"
   }
 ]
