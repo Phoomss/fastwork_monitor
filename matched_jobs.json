@@ -486,49 +486,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-17T18:06:25.266Z"
-  },
-  {
-    "id": "6ba114d8-1a32-4c5c-9c87-81955e641da0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": " สวัสดีค่ะพอดีว่าจะทำโปรเจกต์จบวิทยาลัยค่ะได้นำเสนอ โปรเจคไปว่าจะทำสั่งอาหารระบบออนไลน์ค่ะ มีตัวอย่างที่อยากได้อยู่ค่ะอยากได้แบบรายการอาหารแล้วก็จะมีรูปภาพอาหารแล้วก็จะมีเมนูให้ค่ะส่วนรูปภาพสามารถค้นจากเว็บมาใส่ได้เลยค่ะแล้วก็อยากให้มีระบบคิดเงินอัตโนมัติแล้วก็อยากให้มันลิงก์ไปที่เครื่องแม่ค้า และแม่ค้าก็รับออเดอร์ประมาณนี้ค่ะแต่ถ้ามีสถานะของแม่แม่ค้าอย่างเช่นตอนนี้แม่ค้าได้กดรับ ออร์เดอร์แล้ว  และกำลังจัดเตรียมอาหาร  คล้ายๆกับแอปสั่งอาหารที่เรารู้กัน ค่ะ  ส่วนค่าตอบแทน เสนอมาได้เลยค่ะ",
-    "title": " คนสร้างเว็บสั่งอาหาร",
-    "is_owner": null,
-    "files": [],
-    "source": "jobboard_app_me-job_floating-button",
-    "budget": "800",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-17T12:46:54.345432Z",
-    "updated_at": "2026-06-17T12:46:56.051903Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.1;iPad;11.0.0-6002448"
-    },
-    "already_offered": null,
-    "business_type": "อาหาร เครื่องดื่ม",
-    "deadline_at": "2026-06-25",
-    "expired_at": "2026-07-17T12:46:54.331983Z",
-    "freelance_offers_count": 13,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "88c3f9f3-8561-47f9-8674-84ced28561c3",
-    "user_profile": {
-      "id": "88c3f9f3-8561-47f9-8674-84ced28561c3",
-      "username": "3seppy",
-      "display_name": "3Seppy",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/88c3f9f3-8561-47f9-8674-84ced28561c3/profile/c7d3f266-3db8-40c2-8fe5-70dc5fcbd965.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-17T15:53:24.456Z"
   }
 ]
