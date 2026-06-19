@@ -1,5 +1,182 @@
 [
   {
+    "id": "185cbbfe-538f-4fb1-a140-21d9b8a03d98",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "📌 หาคนมีประสบการณ์ขึ้นแบบ 3D สำหรับงาน Prototype\n\nกำลังมองหาคนช่วยออกแบบและขึ้นโมเดล 3D สำหรับงาน Prototype ขนาดเล็ก\n\n⚠️ หมายเหตุสำคัญ\nงานนี้เป็นงานออกแบบไฟล์ 3D เท่านั้น\nผู้ว่าจ้างมีเครื่อง Resin 3D Printer และจะเป็นผู้ปริ้นชิ้นงานเอง ไม่ต้องรับงานปริ้นหรือจัดส่งชิ้นงาน\n\n🔧 ขอบเขตงาน\n• ขึ้นแบบ 3D ตามบรีฟและรูปอ้างอิง\n• จัดเตรียมไฟล์ให้พร้อมสำหรับการปริ้น (STL หรือไฟล์ที่เหมาะสม)\n• หากทดลองปริ้นแล้วพบปัญหาหรือผลลัพธ์ยังไม่ตรงตามความต้องการ ต้องสามารถปรับแก้ไฟล์���ามฟีดแบ็กได้\n• เน้นการทำงานแบบปรับแก้หลายรอบจนได้ผลลัพธ์ที่ใช้งานได้จริง\n\n⏱ ระยะเวลาส่งงาน\n• ส่งงานแต่ละรอบภายใน 3 วัน นับจากวันที่ได้รับบรีฟหรือฟีดแบ็ก\n\n✅ คุณสมบัติที่ต้องการ\n• มีประสบการณ์ออกแบบชิ้นงานสำหรับ 3D Printing โดยตรง\n• เข้าใจเรื่อง tolerance, shrinkage, clearance, support และข้อจำกัดของงานปริ้น\n• มีความเข้าใจเรื่องการออกแบบชิ้นส่วนที่ต้องประกบ ล็อก สวม เสียบ หรือเคลื่อนไหวร่วมกันได้เป็นอย่างดี\n• สามารถคำนึงถึงความคลาดเคลื่อนจากการผลิตจริง และออกแบบให้ชิ้นงานใช้งานได้จริงหลังปริ้น\n• คุยง่าย ร��บฟีดแบ็ก และสามารถปรับแก้งานได้รวดเร็ว\n\n❌ งานนี้ไม่ใช่งานโมเดลโชว์ ไม่ใช่งานปั้นคาแรกเตอร์ หรือโมเดลสำหรับเรนเดอร์ภาพ\n✅ ต้องการผู้ที่มีประสบการณ์ด้าน Product Design, Mechanical Design หรือ Prototype Development ที่เข้าใจการออกแบบชิ้นส่วนเพื่อการผลิตและประกอบใช้งานจริง\n\n💰 งบประมาณ\n• เหมางาน 12,000 บาท\n\n📩 สนใจรบกวนส่ง Portfolio พร้อมตัวอย่างผลงานที่เคยออกแบบสำหรับงาน 3D Printing, Prototype หรือชิ้นส่วนประกอบเชิงกลมาได้เลย",
+    "title": "คนทำไฟล์ 3d สำหรับปริ้น (ไม่ต้องปริ้น นายจ้างปริ้นเอง)",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "12000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-19T06:59:40.794110Z",
+    "updated_at": "2026-06-19T06:59:42.170770Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.8.0-6001188"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-19T06:59:40.776645Z",
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+    "user_profile": {
+      "id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+      "username": "476dqe99",
+      "display_name": "476dqe99",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-19T07:28:00.006Z"
+  },
+  {
+    "id": "35fc3079-0ea6-469b-8f0e-9fc4cd0fc7c7",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาฟรีแลนซ์มากฝีมือมาช่วยออกแบบ App Preview และ Screenshots สำหรับนำไปใช้บน App Store\nขอบเขตงาน: ออกแบบภาพ Screenshots และ Preview สำหรับหน้าแอปบน App Store ให้ดูสวยงาม น่าสนใจ และดึงดูดให้คนดาวน์โหลด\nรองรับทั้ง iPhone และ iPad\nใส่ข้อความโปรโมต/จุดเด่นของแอปลงในภาพ (Caption/Headline) พร้อมจัดวางองค์ประกอบให้ดูเป็นมืออาชีพ\n\nขนาดไฟล์ที่ต้องการ (iOS):\nแนวตั้ง (Portrait): 1242 × 2688 px\nแนวนอน (Landscape): 2688 × 1242 px\n\nคุณสมบัติที่ต้องการ:\nมีประสบการณ์ออกแบบ App Store Screenshots / Mockup มาก่อน (รบกวนแนบ Portfolio)\nเข้าใจ Guideline ของ Apple App Store\nส่งงานตรงเวลา สื่อสารง่าย",
+    "title": "ออกแบบ App Preview และ Screenshots สำหรับ iOS (iPhone & iPad)",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-19T06:41:36.708846Z",
+    "updated_at": "2026-06-19T06:41:37.778040Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-22",
+    "expired_at": "2026-07-19T06:41:36.684197Z",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+    "user_profile": {
+      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+      "username": "artmanomai",
+      "display_name": "Aphilak Manomai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-19T07:27:58.831Z"
+  },
+  {
+    "id": "48d7550e-13e2-421e-aa7c-f822e1461749",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "แก้ไข เวป tyrshop.online เวปเคยเปิดใช้งานได้ดีมาโดยตลอดแต่มาวันนี้เปิดไม่ได้ครับ ซึ่งอายุโดเมนหมดเดือนตุลาคม69 ครับ\n",
+    "title": "คนแก้ไขและปรับปรุงเวป",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "3000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-19T04:53:41.190324Z",
+    "updated_at": "2026-06-19T04:53:42.220304Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-26",
+    "expired_at": "2026-07-19T04:53:41.178476Z",
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "c256a310-250c-470c-8a26-05b9293a6f62",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-19T07:27:57.705Z"
+  },
+  {
+    "id": "e8e8f75c-24af-4a74-bc32-0c98c482ff32",
+    "status": "open",
+    "tag": {
+      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
+      "name": "แปลภาษา",
+      "sort": 10
+    },
+    "type": "freelance",
+    "description": "https://www.jsps.go.jp/english/e-inv/application/guideline.html?fbclid=IwY2xjawShoRFleHRuA2FlbQIxMABicmlkETF3M2ljVkRHcHM5T2VVWWFyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhJPqxgezCmAgPiPRrVqlxAQEa37A5HzFhSFwN50q5672vf-Y-pntJf1i3gc_aem_Juim1-Hix55dXEqMq4WZGQ \n\nจากเว็บนี้ค่ะ อยากได้คนช่วยเรียบเรียงเอกสารที่ต้องใช้ และรีเช็คก่อนส่ง\nอยากได้คนอ่านอังกฤษและญี่ปุ่นได้นะคะ",
+    "title": "คนช่วยดูเอกสารและจัดเรียงในการขอทุนไปทำวิจัยญี่ปุ่น(ขออ่านอังกฤษหรือญี่ปุ่นคล่อง)",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-19T04:17:11.552529Z",
+    "updated_at": "2026-06-19T04:17:13.415783Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-21",
+    "expired_at": "2026-07-19T04:17:11.540006Z",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "c6278d3c-0af2-4878-8f3d-2ff29418c881",
+    "user_profile": {
+      "id": "c6278d3c-0af2-4878-8f3d-2ff29418c881",
+      "username": "tssyzqye",
+      "display_name": "tssyzqye",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-19T07:27:56.560Z"
+  },
+  {
     "id": "2557536b-1786-4453-801a-15a18cdadd2b",
     "status": "open",
     "tag": {
@@ -307,93 +484,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-17T12:01:31.439Z"
-  },
-  {
-    "id": "70c9435d-9c15-4ae2-b70a-b4f8f190dbfb",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "คนสร้างระบบเจน คร��เอทีฟ ด้วย AI + สร้าง Promt\n\nมีเว็บแอพ AI workflow อยู่แล้ว แต่ยังขาด AI เจนรูปที่ดี กำลังคิดว่าอยากได้เป็นระบบ N8N หรืออื่นๆ (เสนอมาได้ครับ) ต่อเข้ากับเว็บแอพ \n\nปัญหาที่เจอตอนนี้คือ AI เจนภาพมาได้ห่วยแตกมาก 😂 ",
-    "title": "คนสร้างระบบเจน ครีเอทีฟ ด้วย AI + สร้าง Promt",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "999",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-17T06:54:45.049202Z",
-    "updated_at": "2026-06-17T06:54:46.394754Z",
-    "already_offered": null,
-    "brief_url": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "expired_at": "2026-07-17T06:54:45.036847Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.5;iPhone;8.9.0-6001195"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "ed102447-5ab2-44f7-85ec-5ee659437ca3",
-    "user_profile": {
-      "id": "ed102447-5ab2-44f7-85ec-5ee659437ca3",
-      "username": "tulsew_",
-      "display_name": "tulsew_",
-      "image_url": "https://storage.googleapis.com/fastwork-static/c872d428-19c9-4d9a-8941-6b304e0febf0.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-17T07:25:38.420Z"
-  },
-  {
-    "id": "90df44bf-e937-45a1-b35c-2ed6b7051397",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หานักเขียนโปรแกรม โปรแกรมเมอร์ ประเภทงาน C c++ หาคนเขียนโปรแกรม ประเภทเวปไซต์ หรือแอปพลิเคชัน.........\n",
-    "title": "หานักเขียนโปรแกรม โปรแกรมเมอร์ ประเภทงาน C c++",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "100000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-17T05:01:41.660732Z",
-    "updated_at": "2026-06-17T05:01:42.731272Z",
-    "already_offered": null,
-    "brief_url": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-17T05:01:41.632498Z",
-    "freelance_offers_count": 5,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;CPH2725;11.1.0-6002506"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "f90e684d-73d6-42ff-922f-9d90d2c40dcb",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-17T07:25:37.293Z"
   }
 ]
