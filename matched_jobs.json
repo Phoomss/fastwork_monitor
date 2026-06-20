@@ -1,5 +1,137 @@
 [
   {
+    "id": "9b2edd56-ed62-4663-894b-87ad6ca0dbca",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": " หาคนลบแอคไอจีค่ะ  เป็นไอจีที่เอารูปของเราไปตั้งเป็นโปรไฟล์เหมือนต้องการจะแบล็คเมล์พยายาม Report เองแล้วแต่ระบบไม่ลบให้",
+    "title": "หาคนรับลบแอคไอจี",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-20T10:49:01.911773Z",
+    "updated_at": "2026-06-20T10:49:02.741429Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6.2;iPhone;9.9.0-6001589"
+    },
+    "user_id": "6908a714-0681-4c25-9e91-5c947f70d961",
+    "expired_at": "2026-07-20T10:49:01.893104Z",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-20T11:30:40.230Z"
+  },
+  {
+    "id": "3c9c9768-71c6-4dcf-8fa9-ed36c4b3f705",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาค��สอนใช้ Cluade สำหรับเขียนเวป\nใช้งานธุรกิจ SME ประเภทขายสินค้าออนไลน์\nสอนเข้าใจง่าย พาทำทีละขั้นตอน ไม่ใจร้อน\nสามารถปรึกษาได้ตลอด",
+    "title": "หาคนสอนใช้ Cluade สำหรับเขียนเวปใช้งานในธุรกิจ SME SME ประเภทขายสินค้าออนไลน์",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-20T10:17:32.695385Z",
+    "updated_at": "2026-06-20T10:17:38.884692Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.3;iPhone;6.13.0-6000562"
+    },
+    "user_id": "9d6b0457-4b42-4e34-9c3b-7c3bad4c03a0",
+    "expired_at": "2026-07-20T10:17:32.676784Z",
+    "already_offered": null,
+    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
+    "deadline_at": "2026-06-25",
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-20T11:30:39.165Z"
+  },
+  {
+    "id": "77f92ebf-ec62-4d3c-97cc-c5c9f348edaa",
+    "status": "open",
+    "tag": {
+      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
+      "name": "งานเขียน / บทความ",
+      "sort": 8
+    },
+    "type": "freelance",
+    "description": "Brand and Messaging Contractor\nBilingual English and Thai | Brand Strategy, Copy, Packaging\n\nWe are launching a premium raw pet food brand in Thailand. The strategy and positioning are done. Four brand name options are sourced and ready. What we need now is someone to build the communications layer on top of that foundation. In English. In Thai. In a voice that earns trust without asking for it.\n\nThe first deliverable is a copy and messaging deck that goes directly to our packaging designer and web asset designer. Everything downstream depends on it being right.\n\nWhat you will do\n\nRead the full brand brief and positioning. Develop the messaging architecture: tone of voice, copy hierarchy, key claims, and language rules. Write the copy deck in English and Thai. Over time, develop ad copy and campaign language across channels.\n\nThis is a thinking role as much as a writing role. We need someone who knows what a brand is trying to say and how to say it in two languages without losing intent.\n\nWho this is for\n\nYou write with conviction in English and Thai. You know the difference between a brand message and a product description. You can read a brief, find what is missing, and fill it before being asked.\n\nBlind Spots (required)\n\nTell us where in brand communication you have less experience, what context you would want before starting, and what assumptions about Thai consumers you would want to validate early. Candidates who pretend to know everything are the ones we pass on.\n\nContract only. Shortlisted candidates complete a paid case study.\n\nTo apply: share your experience with English and Thai brand communication, examples of copy at brand or packaging level, and your Blind Spots response.",
+    "title": "Brand and Messaging Contractor Bilingual English and Thai | Brand Strategy, Copy, Packaging",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-20T09:54:47.258817Z",
+    "updated_at": "2026-06-20T09:54:48.103818Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "0bcc0311-74a1-4d1b-a21c-6d2c6bc64b20",
+    "expired_at": "2026-07-20T09:54:47.239915Z",
+    "already_offered": null,
+    "business_type": "อาหาร เครื่องดื่ม",
+    "deadline_at": null,
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "0bcc0311-74a1-4d1b-a21c-6d2c6bc64b20",
+      "username": "sotuhk",
+      "display_name": "Sotu",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0bcc0311-74a1-4d1b-a21c-6d2c6bc64b20/profile/3948f2ff-f016-4f5f-8e59-9f72ed0845a5.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-20T11:30:38.046Z"
+  },
+  {
     "id": "960f69ab-2a61-4fe9-8946-eac0e26542b7",
     "status": "open",
     "tag": {
