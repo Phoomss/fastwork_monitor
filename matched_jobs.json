@@ -1,5 +1,137 @@
 [
   {
+    "id": "0910e29b-0567-4b2c-8336-5cd2388d973c",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "จดบันทึกรายรับ-รายจ่าย \nค่าใช้จ่ายออฟฟิต ค่าใช้จ่ายเรือแต่ละลำ \nแยกหมวดแต่ละประเภท\nมีหน้า dashboard สรุป กำไร-ขาดทุน แต่ละหมวดได้\n",
+    "title": "คนทำ Google sheet/Excel ทำข้อมูลบัญชี รายรับ-รายจ่าย แยกประเภท",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "400",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-21T09:52:25.372250Z",
+    "updated_at": "2026-06-21T09:52:27.004316Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2825;11.1.0-6002506"
+    },
+    "already_offered": null,
+    "business_type": "ขนส่ง โลจิสติกส์",
+    "deadline_at": "2026-07-01",
+    "expired_at": "2026-07-21T09:52:25.352032Z",
+    "freelance_offers_count": 7,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "012da792-abe1-4c60-bde8-8687ecd13482",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-21T11:50:13.756Z"
+  },
+  {
+    "id": "8b2b60b6-604c-45cf-963f-96eef573cb8c",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ 😊\n\nกำลังมองหาคนช่วยขึ้นแบบ 3D สำหรับงาน Prototype ชิ้นเล็กค่ะ\n\nพอดีพึ่งเริ่มเข้าวงการ 3D Printing และมีเครื่อง Resin Printer เป็นของตัวเองแล้ว แต่ยังไม่มีความชำนาญด้านการออกแบบไฟล์ เลยอยากหาคนที่มีประสบการณ์มาช่วยดูแลในส่วนนี้ค่ะ\n\nลักษณะงาน\n• ขึ้นแบบ 3D จากบรีฟและรูปอ้างอิง\n• จัดเตรียมไฟล์ให้พร้อมสำหรับการนำไปปริ้น\n• ทางผู้ว่าจ้างจะเป็นคนปริ้นเอง ไม่ต้องรับงานปริ้นหรือจัดส่งชิ้นงาน\n• หากทดลองปริ้นแล้วมีจุดที่ต้องปรับแก้ ขอให้ส��มารถช่วยแก้ไขไฟล์ตามฟีดแบ็กได้\n• ต้องการคนที่สามารถทำงานร่วมกันและช่วยพัฒนาแบบจนได้ผลลัพธ์ที่ใช้งานได้จริง\n\nสิ่งที่มองหา\n• มีประสบการณ์ออกแบบงานสำหรับ 3D Printing\n• เข้าใจการออกแบบชิ้นส่วนที่ต้องประกอบเข้าหากัน หรือมีการล็อก/สวม/เชื่อมต่อกัน\n• ไม่จำเป็นต้องเป็นงานวิศวกรรม แต่ขอคนที่เข้าใจเรื่องการใช้งานจริงมากกว่างานโมเดลโชว์ทั่วไป\n• คุยง่าย รับฟีดแบ็ก และสามารถทำงานต่อเนื่องได้\n\n💰 งบประมาณประมาณ 12,000 บาท (สามารถพูดคุยรายละเอียดเพิ่มเติมได้)\n\nหากสนใจ รบกวนส่ง Portfolio หรือผลงานที่เคยทำมาให้ดูได้เลยนะคะ ขอบคุณมากค่ะ 🙏",
+    "title": "คนออกแบบ 3d",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "budget": "12000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-21T09:16:11.300629Z",
+    "updated_at": "2026-06-21T09:16:12.177746Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.8.0-6001188"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-21T09:16:11.282846Z",
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+    "user_profile": {
+      "id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+      "username": "476dqe99",
+      "display_name": "476dqe99",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-21T11:50:12.610Z"
+  },
+  {
+    "id": "94252ff5-1b44-4993-b525-e4a090d42846",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ กำลังมองหาฟรีแลนซ์/ดีไซเนอร์ มาร่วมงานออกแบบปรับโฉมบรรจุภัณฑ์ใหม่ ให้กับแบรนด์เซรั่ม จำนวน 2 ผลิตภัณฑ์หลักค่ะ (ขอดูลักษณะพอร์ตผลงานก่อนพิจารณาจ้างงาน)\n\nโจทย์และสไตล์ที่ต้องการ (Concept)\n-สไตล์: Minimal - HiEnd (เรียบหรู ดูแพง คลีน เน้นความน้อยแต่มาก การจัดวาง Typography และสเปซสวยงาม)\n-ภาพลักษณ์: สินค้าค่อนข้างมีราคาและมีตำแหน่งทางการตลาดระดับพรีเมียม บรรจุภัณฑ์ต้องช่วยชูให้แบรนด์ดูน่าเชื่อถือและจับกลุ่มลูกค้ากำลังซื้อสูงได้\n\nขอบเขตงาน (Scope of Work)\n-Product ที่ 1: เซรั่มแบบขวดและกล่อง\n ออกแบบกล่องบรรจุภัณฑ์เซรั่ม\n ออกแบบฉลาก / ลายสกรีนสำหรับตัวขวดเซรั่ม\n -Product ที่ 2: เซรั่มแบบซองและกล่องแพ็คซอง\n ออกแบบดีไซน์ตัวซองเซรั่ม\n ออกแบบกล่องสำหรับใส่ซองเซรั่ม (กล่องแพ็คซอง) ให้ดีไซน์คุมโทนพรีเมียมไปในทิศทางเดียวกัน\n (หมายเหตุ: ในอนาคตมีแพลนจะทำเพิ่มอีก 2 SKU หากร่วมงานกันแล้วสไตล์ตรงกัน มีโอกาสจ้างงานต่อในเฟสถัดไปค่ะ)\n\nกรอบเวลาทำงาน (Timeline)\n-ส่งดราฟแรก: ภายใน 1 สัปดาห์ หลังจากเริ่มงาน\n-ระยะเวลาปิดโปรเจกต์ (รวมปรับแก้): ไม่เกิน 1 เดือน\n\nงบประมาณและการส่งมอบ\n-งบประมาณรวม: 8,000 บาท (เฉลี่ยผลิตภัณฑ์ละ 4,000 บาท) (หากท่านใดมีข้อเสนอหรือส่วนลดพิเศษสามารถระบุเพิ่มเติมมาได้ค่ะ)\n-สิ่งที่ต้องส่งมอบ: ไฟล์ Final สำหรับส่งโรงงานผลิต (AI/PDF เวกเตอร์) และภาพ 3D Mockup สวยๆ สำหรับตรวจงาน\n\nวิธีการสมัครและส่งผลงาน*\nรบกวนดีไซเนอร์ที่สนใจ ส่งรายละเอียดดังนี้กลับมาทางแชทเพื่อพิจารณาก่อนนะคะ:\n1. พอร์ตผลงาน (Portfolio): ขอเน้นผลงานที่เคยออกแบบสไตล์ Minimal, Luxury หรือสกินแคร์/เครื่องสำอางกลุ่มเคาน์เตอร์แบรนด์ที่มีราคา\n2. เงื่อนไขการแก้งาน: ในราคานี้สามารถปรับแก้ไขงานได้กี่ครั้ง (รบกวนระบุให้ชัดเจน)\n3. ยืนยันว่าสามารถทำงานเสร็จทันตาม Timeline ที่กำหนดได้\n\n",
+    "title": "หาดีไซเนอร์ออกแบบบรรจุภัณฑ์เซรั่ม",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "8000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-21T09:10:27.211553Z",
+    "updated_at": "2026-06-21T09:10:28.254603Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3;iPhone;9.13.0-6001854"
+    },
+    "already_offered": null,
+    "business_type": "สุขภาพ ความงาม",
+    "deadline_at": null,
+    "expired_at": "2026-07-21T09:10:27.191023Z",
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "821fc979-bc08-42bf-8c68-e905999c8d80",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-21T11:50:11.242Z"
+  },
+  {
     "id": "0a0298dd-8437-4477-9032-e9671ee89de8",
     "status": "open",
     "tag": {
@@ -486,95 +618,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-20T11:30:38.046Z"
-  },
-  {
-    "id": "960f69ab-2a61-4fe9-8946-eac0e26542b7",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "หน้าที่ความรับผิดชอบ\n•\tให้การสนับสนุนระบบและแอปพลิเคชัน\n•\tตรวจสอบ ดูแล และบำรุงรักษาระบบและแอปพลิเคชันให้มีเสถียรภาพและพร้อมใช้งานอยู่เสมอ \n•\tวิเคราะห์ สืบค้น แก���ไขปัญหา และหาสาเหตุที่แท้จริง (Root Cause Analysis) ของเหตุขัดข้อง พร้อมสื่อสารผลการดำเนินงานกับผู้ใช้งานอย่างมีประสิทธิภาพ \n•\tตอบสนอง ติดตาม และดำเนินการแก้ไขปัญหาให้ทันเวลา เพื่อให้กิจกรรมการสนับสนุนทั้งหมดได้รับการติดตามและปิดงานภายในระยะเวลาตาม SLA (Service Level Agreement) \n•\tแก้ไขปัญหาระบบและเครือข่าย รวมถึงวิเคราะห์และแก้ไขข้อผิดพลาดของซอฟต์แวร์ \n•\tตั้งค่าและปรับแต่งระบบและแอปพลิเคชันให้สอดคล้องกับความต้องการทางธุรกิจ พร้อมแก้ไขปัญหาด้าน Configuration และ Integration \n•\tทำงานร่วมกับผู้ใช้งานและทีมพัฒนาอย่างมีประสิทธิภาพ \n•\tเสนอแนวทางและปรับปรุงระบบติดตามสถานะ (Monitoring System & Application) เชิงรุก เพื่อเพิ่มเสถียรภาพและประสิทธิภาพของระบบ \n\nคุณสมบัติ\n•\tสำเร็จการศึกษาระดับปริญญาตรี สาขา Computer Science, Computer Engineering, Software Engineering หรือสาขาที่เกี่ยวข้อง \n•\tมีประสบการณ์อย่างน้อย 3 ปี ด้านการพัฒนาระบบ (IT Development) หรือการสนับสนุนระบบ/แอปพลิเคชัน (System/Application Support) \n•\tมีความรู้ด้าน PL/SQL, Shell Script, Angular, Java, .NET C#, Unix, Windows และฐานข้อมูล (Database)\n\n** ทำงานแบบ Hybrid on-site ที่ BTS อารีย์ **\n** มีอุปกรณ์การทำงานของตัวเอง **",
-    "title": "IT Application Support สัญญาจ้าง 1 ปี",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "budget": "35000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-19T09:47:55.930318Z",
-    "updated_at": "2026-06-19T09:47:56.919823Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-19T09:47:55.909677Z",
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-19T11:47:15.245Z"
-  },
-  {
-    "id": "82c26198-79f2-4a12-a5aa-ebdc0a1ac698",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "หน้าที่ความรับผิดชอบ\n•\tดูแลและจัดการงานของตนเองได้ ไม่ต้องมี SA ฝั่งลูกค้าคอยบอก\n•\tสามารถพูดคุยกับ DEV, QA และทีมที่เกี่ยวข้อง (Node อื่นๆ) เพื่อหาข้อมูลมาวอเคราะห์และออกแบบได้\n•\tมีความรู้พื้นฐานด้าน Frontend / Backend และเข้าใจธุรกิจระดับหนึ่ง\n•\tไม่จำเป็นต้องไล่ Code แต่ต้องเข้าใจเพียงพอที่จะออกแบบหรือประเมินได้ว่า Requirement สามารถพัฒนาได้หรือไม่\n•\tรับ Requirement โดยตรงจากผู้ใช้งานและประสานงานกับทีมที่เกี่ยวข้องได้เอง\n•\tออกแบบ UX/UI โดยใช้เครื่องมือ Figma\n\nคุณสมบัติด้านความรู้และความสามารถ\n•\tจบการศึกษาระดับปริญญาตรีหรือสูงกว่าในสาขาวิศวกรรมคอมพิวเตอร์, วิทยาศาสตร์คอมพิวเตอร์, เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง\n•\tมีประสบการณ์ 3 ปี ขึ้นไป ในตำแหน่ง System Analyst\n•\tอายุไม่เกิน 35 ปี\n•\tเข้าใจระบบฐานข้อมูล เช่น ORACLE, SQL Server, MySQL และสามารถเขียน Query ได้\n•\tมีทักษะในการวิเคราะห์และแก้ไขปัญหาอย่างเป็นระบบ\n•\tมีทักษะในการสื่อสารและทำงานร่วมกับทีมได้อย่างดี\n\n** On-Site 100% ที่ BTS อารีย์ **\n** มีอุปกรณ์การทำงานของตัวเอง **",
-    "title": "System Analyst สัญญ���จ้าง 6 เดือน",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "budget": "45000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-19T09:41:21.181639Z",
-    "updated_at": "2026-06-19T09:41:22.057049Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-19T09:41:21.163649Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-19T11:47:14.091Z"
   }
 ]
