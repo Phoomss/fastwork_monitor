@@ -485,50 +485,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-20T18:00:33.399Z"
-  },
-  {
-    "id": "a0c3bc30-e721-47e5-8c4c-a56fc7684010",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนวิเคราะห์ ปรับปรุง UX UI เว็บเดิมที่ทำโดย AI มีหน้าเว็บในเว็บเยอะ แต่จะตามแนวเดิมๆ ทางเราทำเว็บแบบเทสไว้แล้วระดับนึงตามโทนและธีมที่ชอบ พอใจระดับหนึ่ง แต่ต้องการคนมาช่วยตรวจสอบว่าควรต้องปรับปรุงไปทางไหนเพิ่มเติมให้ดีในทาง UX UI กับ user อยากได้เป็นเด็กจบใหม่เนื่องจากยังไม่มีงบสูงมาก",
-    "title": "คนทำวิเ��ราะห์ ปรับปรุง UX UI เดิม",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "3000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-20T15:10:18.256768Z",
-    "updated_at": "2026-06-20T15:10:19.801623Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.1.2;iPhone;6.13.0-6000562"
-    },
-    "user_id": "1175b14b-3254-4b82-be70-b3305316cb8b",
-    "expired_at": "2026-07-20T15:10:18.239531Z",
-    "already_offered": null,
-    "business_type": "กฏหมาย",
-    "deadline_at": null,
-    "freelance_offers_count": 7,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-20T16:44:45.120Z"
   }
 ]
