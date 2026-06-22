@@ -1,5 +1,49 @@
 [
   {
+    "id": "c53d0602-04c7-4ca6-bede-fb4750e4804e",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ผมทำเว็ปไซต์จาก Google Ai Studio มี 6 หน้าครับ\nแต่พออัพขึ้น github และ install Storyblok แล้วมันมาแค่หน้า Home\nแล้วแก้ไข text หรือเพิ่ม meta-title ไม่ได้เลย\nต้องการทำ CMS ที่รองรับ SEO ครับ",
+    "title": "คนช่วยทำ CMS ให้เว็ปไซต์ที่ทำจาก Google Ai Studio",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "1000",
+    "inserted_at": "2026-06-22T07:11:21.298585Z",
+    "updated_at": "2026-06-22T07:11:22.311245Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "0f6f7ef0-ab7e-4bcb-8e1a-10f3c6bea9c6",
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-30",
+    "expired_at": "2026-07-22T07:11:21.281109Z",
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "0f6f7ef0-ab7e-4bcb-8e1a-10f3c6bea9c6",
+      "username": "mickeykit8",
+      "display_name": "mickeykit8",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0f6f7ef0-ab7e-4bcb-8e1a-10f3c6bea9c6/profile/4a468319-2ed9-408f-9281-d69030d1bdc6.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-22T10:14:44.422Z"
+  },
+  {
     "id": "ea3475c0-dab6-4f3d-b185-c1d65f5ea236",
     "status": "open",
     "tag": {
@@ -218,182 +262,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-21T11:50:11.242Z"
-  },
-  {
-    "id": "0a0298dd-8437-4477-9032-e9671ee89de8",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการจ้างนักออกแบบหรือทีมออกแบบสินค้าสัตว์เลี้ยง\n\nต้องการงานออกแบบและวางระบบแบรนด์แบบครบชุด ได้แก่\n\n1. Brand positioning\n2. Target customer\n3. Brand personality\n4. Slogan / Tagline\n5. Key message ภาษาไทยและอังกฤษ\n6. Packaging design กล่องหน้า-หลัง-ด้านข้าง\n7. Sachet design หน้า-หลัง\n8. Label copywriting ไทย-อังกฤษ\n9. Color palette / Font / Icon style\n10. Mockup สำหรับขายออนไลน์\n11. Final artwork ไฟล์ AI / PDF พร้อมส่งโรงงานพิมพ์\n12. วางงานบน dieline จริงจากโรงงานได้\n\nขอคนที่มีประสบการณ์ทำแพ็กเกจสินค้าจริง และส่งไฟล์พร้อมพิมพ์ได้",
-    "title": "หานักออกแบบ / ทีม Branding & Packaging Design",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "8000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-21T04:58:47.400043Z",
-    "updated_at": "2026-06-21T04:58:48.516676Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3.1;iPhone;10.6.1-6002147"
-    },
-    "user_id": "1966fb06-f315-47b8-b152-3cc622c23377",
-    "expired_at": "2026-07-21T04:58:47.372035Z",
-    "already_offered": null,
-    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-21T05:21:24.415Z"
-  },
-  {
-    "id": "46da10ae-df4c-4490-bae1-e31ac9759857",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการทำ website มวยไทยยิม มี user และผูกโดเมนแล้ว อยากหาคนมาทำดีไซน์ให้สวยๆ พร้อมสามารถจองออนไลน์ได้ ใส่รายละเอียดต่างๆ ราคา เวลา โค้ช มีรูปและวิดีโอในยิมให้พร้อมใช้งาน ภาษาอังกฤษ สามารถระบุราคามาได้เลยค่ะ",
-    "title": "หาคนทำ Website ผ่าน Wix",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "1500",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-21T04:47:27.919617Z",
-    "updated_at": "2026-06-21T04:47:28.917307Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.1.1;iPhone;6.16.1-6000686"
-    },
-    "user_id": "9d40e495-96d0-4ca5-a6bf-bf69a795760c",
-    "expired_at": "2026-07-21T04:47:27.900291Z",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "nonspecific",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-21T05:21:23.247Z"
-  },
-  {
-    "id": "fc3229fd-de9c-4b8c-b8d0-80053733d113",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รับสมัคร Developer / AI & Automation\n\nกำลังมองหาผู้ร่วมพัฒนาระบบ Website, LINE OA, CRM และ AI Automation\n\nคุณสมบัติที่ต้องการ\n\n-พัฒนา Website และระบบหลังบ้านได้\n\n-เชื่อมต่อ API และฐานข้อมูลได้\n\n-มีประสบการณ์ LINE OA / Chatbot\n\n-สนใจ AI, ChatGPT, Claude, Gemini\n\n-สามารถทำ Automation ผ่าน Make, Zapier หรือ n8n\n\n-ทำงานร่วมทีมและเรียนรู้สิ่งใหม่ได้ดี\n\nรูปแบบการทำงาน\n\n- Part Time\n\n- Project Base\n\n- Remote ได้\n\nมีโอกาสร่วมพัฒนาระบบด้าน การลงทุน และระบบบริหารธุรกิจในระยะยาว\nงบประมาณ 1,000-10,000 บาท\n\nสนใจส่ง Portfolio และประวัติการทำงานเข้ามาได้เลย",
-    "title": " Developer / AI & Automation",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-21T03:06:31.307091Z",
-    "updated_at": "2026-06-21T03:06:32.724190Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "2c1b806b-6c1f-4941-8064-95ea2b24c6e4",
-    "expired_at": "2026-07-21T03:06:31.287322Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "freelance_offers_count": 4,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-21T05:21:22.126Z"
-  },
-  {
-    "id": "b59b942a-bb21-4dd5-a427-dfddffd1362d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการหา Backend / Automation Developer เพื่อพัฒนาระบบ AI Content Automation สำหรับงาน Affiliate / E-commerce Content\n\nเป้าหมายคือสร้างระบบต้นแบบ (MVP) ที่ช่วยผลิตคลิปสินค้าจำนวนมากแบบกึ่งอัตโนมัติ/อัตโนมัติ ตั้งแต่รับข้อมูลสินค้า สร้างสคริปต์/Prompt ส่งงานไปยัง AI Video Tool และเก็บผลลัพธ์กลับมาเป็นระบบ\n\nขอบเขตงานเฟสแรก (MVP)\n\n1. ระบบรับข้อมูลสินค้า\n\n* กรอก/นำเข้าข้อมูลสินค้า เช่น ชื่อสินค้า จุดขาย รูปสินค้า วิดีโออ้างอิง ลิงก์\n* อาจใช้ Google Sheet / Airtable / Database เป็นแหล่งข้อมูล\n\n2. ระบบสร้างคอนเทนต์ด้วย AI\n\n* Generate Hook / Script / Caption / CTA หลายเวอร์ชันต่อสินค้า\n* Generate Prompt สำหรับใช้กับ AI Video Tool\n\n3. ระบบเชื่อมต่อ AI Video Workflow\n\n* ส่ง Prompt + Asset ไปยังเครื่องมือสร้างวิดีโอ AI เช่น Kling / Flow หรือเครื่องมืออื่นที่ตกลงร่วมกัน\n* ติดตามสถานะงาน เช่น queued / processing / completed / failed\n* ดึงผลลัพธ์วิดีโอกลับมาเก็บในระบบ\n\n4. ระบบจัดการไฟล์และสถานะงาน\n\n* เก็บผลลัพธ์คลิปที่สร้างเสร็จ\n* ตั้งชื่อไฟล์/เวอร์ชันตามสินค้า\n* มีสถานะงานของแต่ละคลิป เช่น รอสร้าง / สำเร็จ / error / ผ่าน QC\n\n5. Dashboard / Admin เบื้องต้น\n\n* ดูรายการสินค้า\n* ดูรายการคลิปที่ถูกสร้าง\n* ดูสถานะงานและที่มาของแต่ละคลิป\n\nคุณสมบัติที่ต้องการ\n\n* มีประสบการณ์ด้าน backend / automation / API integration\n* เข้าใจ webhook, async job, queue, polling\n* ถ้าเคยทำงานกับ OpenAI / Claude / n8n / Make / AI workflow / media processing จะพิจารณาเป็นพิเศษ\n\nรบกวนแนบผลงานที่เกี่ยวข้อง พร้อมเสนอ tech stack, timeline และงบประมาณสำหรับ MVP\n",
-    "title": "ต้องการ Backend / Automation Developer พัฒนาระบบ AI สร้างคลิปสินค้าอัตโนมัติ + Dashboard",
-    "is_owner": null,
-    "source": "jobboard_web_web_marketplace_top-nav-bar_mega-menu",
-    "files": [],
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-21T00:51:31.232820Z",
-    "updated_at": "2026-06-21T00:51:32.914722Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "6fd64c19-e2db-4c97-920a-0531f6fb7dd8",
-    "expired_at": "2026-07-21T00:51:31.210477Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "freelance_offers_count": 5,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "6fd64c19-e2db-4c97-920a-0531f6fb7dd8",
-      "username": "iilctgfs",
-      "display_name": "iilctgfs",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-21T05:21:20.819Z"
   }
 ]
