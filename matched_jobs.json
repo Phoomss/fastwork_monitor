@@ -1,5 +1,182 @@
 [
   {
+    "id": "0d766408-b3a6-4887-85bb-90ccd1442984",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนเขียนสคริปต ์Tampermonkey รายละเอียดงานเดี๋ยวค่อยมาคุยกันครับ\n\nหาคนเขียนสคริปต ์Tampermonkey รายละเอียดงานเดี๋ยวค่อยมาคุยกันครับ",
+    "title": "ตามหาคนเขียนสคริปต์ Tampermonkey",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "2500",
+    "inserted_at": "2026-06-22T15:13:33.443173Z",
+    "updated_at": "2026-06-22T15:13:34.328073Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A556E;11.1.0-6002506"
+    },
+    "user_id": "58bc8a48-cc65-4d35-8208-c966580549c6",
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-25",
+    "expired_at": "2026-07-22T15:13:33.425752Z",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "58bc8a48-cc65-4d35-8208-c966580549c6",
+      "username": "patiphansomsri",
+      "display_name": "Patiphan10",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/58bc8a48-cc65-4d35-8208-c966580549c6/profile/7e33c249-fcb8-4b99-9b5a-2d697ebd7597.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-22T15:32:47.727Z"
+  },
+  {
+    "id": "b1becc96-ddde-4275-b6ea-dff7e703b4f9",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "เรากำลังมองหา Fulltime Contract – Unity Game Developer ที่มีประสบการณ์เพื่อพัฒนาโปรเจกต์เกมขนาดเล็ก อย่างเช่น สือการเรียนรู้ประเภทเกม, เกมแคชชวล สำหรับงานอีเว้นท์, เกมมือถือ\n\nรูปแบบการทำงาน\n\n\t•\tระยะเวลาจ้าง 1-3 เดือน\n\t•\tการทำงาน Online 100% (Remote Work)\n\t•\tสื่อสารและประชมงานผ่าน Discord เป็นหลัก\n\nคุณสมบัติ\n\n\t•\tมีประสบการณ์ในการพฒนาเกมหรือแอปลิเคชันด้วย Unity และภาษา C#\n\t•\tมีความเข้าใจลึกซึ้งในหลักการเขยนโปรแกรมเชิงวัตถุ (OOP) และหลักการ SOLID\n\t•\tสามารถประยุกต์ใช้ Design Patterns และเขียน Clean Code ทีเป็นระเบียบและง่ายต่อการบรุงรักษา\n\t•\tมี���วามเข้าใจในการทำงานกบ 3D/2D Assets, UI, และ Animation\n\t•\tสามารถเรียนรู้เทคโนโลยีใหม่ๆ ได้เร็ว และสามารถแก้ปัญหาเฉพาะหนาได้ดี\n\t•\tมีความรับผิดชอบ สงงานตรงเวลา และสามารถสอสารกับทีมได้ดี\n\nทกษะที่จะพิจารณาเปนพิเศษ\n\n\t•\tมีประสบการณ์ในการพัฒนา AR, VR\n\t•\tมีประสบการณ์ในการเชื่อมต่อ API หรือระบบฐานข้อมูล\n\t•\tมีผลงาน (Portfolio) ที่เกี่ยวข้องกับการพัฒนาเกม\n\nงบประมาณ (Budget)\n22,000 – 25,000 (ตามความสามารถ)",
+    "title": "Unity Developer",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "is_anonymous": true,
+    "budget": "25000",
+    "inserted_at": "2026-06-22T14:58:42.172760Z",
+    "updated_at": "2026-06-22T14:58:43.179192Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.1;iPhone;6.3.3-6000156"
+    },
+    "user_id": "9cf2fab7-5dea-4606-a5a3-ea8e8952d01f",
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-22T14:58:42.152978Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-22T15:32:46.534Z"
+  },
+  {
+    "id": "abb476db-fa58-40aa-b1ec-3a5486cb2c1e",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังหาน้องๆหรือคนที่ชอบ vibe coding มาร่วม project ครับ\n\nยังไม่มีงบประมาณมากแต่ถ้าได้ร่วมงานจะได้ประการณ์การทำ product ระดับที่ใช้งานได้จริง \n\nโครงสร้าง tech stack สำหรับงาน scale ใหญ่\n\nและมีลูกค้าที่ใช้งานจริง",
+    "title": "กำลังหาน้องๆหรือคนที่ชอบ vibe coding มาร่วม project ครับ",
+    "is_owner": null,
+    "source": "jobboard_web_seller-center_top-nav-bar",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "1500",
+    "inserted_at": "2026-06-22T13:11:56.550527Z",
+    "updated_at": "2026-06-22T13:11:57.577605Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "cfb2ccb4-47bc-4189-8ace-704102b3c8aa",
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-22T13:11:56.531694Z",
+    "freelance_offers_count": 7,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "cfb2ccb4-47bc-4189-8ace-704102b3c8aa",
+      "username": "sarawutklu",
+      "display_name": "sarawutklu",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/cfb2ccb4-47bc-4189-8ace-704102b3c8aa/profile/c322864a-06d8-424b-8a72-b304dafc4429.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-22T15:32:45.446Z"
+  },
+  {
+    "id": "88127e1b-4b92-4a48-8e76-f089976817cd",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "1. JOB: Digital Marketing + creativity + relentless willpower\n\nOur mobile app needs to get its first 100 active users.  An active user is a user who appears on 2 or more leaderboards on our restaurant gaming software.  \n\nWe are seeking someone who is good at sales, recruiting, content creation and digital marketing.  Big bonus if you lead a group/club/organization or are an influencer.  You do not need any tech experience but you must speak Thai fluently and English medium level. \n\n2. PLAN: The key strategy for you to hit this goal easily is to pitch Goalprize to an entire large group/association/club in Bangkok.  It's free to them and offers their members a big benefit, namely they can get back 100% of what they spent at a restaurant. If you get a single large group to sign-up you could accomplish this goal in one shot.  But you can use another strategy to hit the goal also.  We have many other strategies to discuss when we message each other here inside the wonderful Fastwork platform.\n\n3. DELIVERABLE: Show us 100 active users by tracking the users IDs which appear for all to see on the Internet and in our app.  It's easy to see if they have used it 2 or more times.  Copy and paste these user IDs into an online spreadsheet like Google Sheets and when it hits 100 you've done it!  We can discuss and negotiate everything to satisfy any concerns you might have.  Let's message here on the awesome Fastwork platform.  We have a great track record of paying for work on this platform and others.\n\nYour success will lead to more opportunities with our start-up company.  We have a lot of projects that need smart, goal-oriented leaders like you.  God bless Fastwork and always have a good sense of humor to make life more enjoyable.",
+    "title": " Digital Marketing person to get ACTIVE USERS for our restaurant gaming app",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "is_anonymous": false,
+    "budget": "20000",
+    "inserted_at": "2026-06-22T11:32:38.950071Z",
+    "updated_at": "2026-06-22T11:32:39.984187Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
+    },
+    "user_id": "dc43ea4f-1a9a-4812-9ebf-27d0cb282c3b",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": "2026-08-15",
+    "expired_at": "2026-07-22T11:32:38.921568Z",
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "dc43ea4f-1a9a-4812-9ebf-27d0cb282c3b",
+      "username": "loganbangkok",
+      "display_name": "Logan",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/dc43ea4f-1a9a-4812-9ebf-27d0cb282c3b/profile/29ecbfbd-6a53-4bfb-8d63-6cad44d23a54.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-22T15:32:44.327Z"
+  },
+  {
     "id": "c53d0602-04c7-4ca6-bede-fb4750e4804e",
     "status": "open",
     "tag": {
@@ -86,181 +263,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-21T23:58:50.125Z"
-  },
-  {
-    "id": "7a827a97-7a43-43be-8349-1043886f887a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "* Interactive Quiz Website (เว็บไซต์แบบทดสอบเชิงโต้ตอบ)\n* Personality Quiz Website (เว็บไซต์ทดสอบบุคลิก/ความชอบ)\n* Assessment Website (เว็บไซต์ประเมินผล)\n* Gamification Website (เว็บไซต์ที่ใช้เกมหรือแบบทดสอบดึงดูดผู้ใช้)\n* Web Application (ถ้ามีการคำนวณผลและเก็บข้อมูลผู้ใช้)",
-    "title": "หาคนทำ * Interactive Quiz Website (เว็บไซต์แบบทดสอบเชิงโต้ตอบ)",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-21T14:53:31.283401Z",
-    "updated_at": "2026-06-21T14:53:32.246281Z",
-    "user_id": "e1f42e4f-584d-4914-a5a1-1ac60f01c669",
-    "expired_at": "2026-07-21T14:53:31.264722Z",
-    "already_offered": null,
-    "brief_url": null,
-    "business_type": "การศึกษา พัฒนาตนเอง",
-    "deadline_at": "2026-06-28",
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.0.1;iPhone;9.7.0-6001499"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "e1f42e4f-584d-4914-a5a1-1ac60f01c669",
-      "username": "darahaaaa",
-      "display_name": "K.dara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e1f42e4f-584d-4914-a5a1-1ac60f01c669/profile/7a847975-fed1-4759-a5cc-68e845bd71d8.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-21T15:23:34.135Z"
-  },
-  {
-    "id": "0910e29b-0567-4b2c-8336-5cd2388d973c",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "จดบันทึกรายรับ-รายจ่าย \nค่าใช้จ่ายออฟฟิต ค่าใช้จ่ายเรือแต่ละลำ \nแยกหมวดแต่ละประเภท\nมีหน้า dashboard สรุป กำไร-ขาดทุน แต่ละหมวดได้\n",
-    "title": "คนทำ Google sheet/Excel ทำข้อมูลบัญชี รายรับ-รายจ่าย แยกประเภท",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "400",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-21T09:52:25.372250Z",
-    "updated_at": "2026-06-21T09:52:27.004316Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;CPH2825;11.1.0-6002506"
-    },
-    "already_offered": null,
-    "business_type": "ขนส่ง โลจิสติกส์",
-    "deadline_at": "2026-07-01",
-    "expired_at": "2026-07-21T09:52:25.352032Z",
-    "freelance_offers_count": 7,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "012da792-abe1-4c60-bde8-8687ecd13482",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-21T11:50:13.756Z"
-  },
-  {
-    "id": "8b2b60b6-604c-45cf-963f-96eef573cb8c",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "สวัสดีค่ะ 😊\n\nกำลังมองหาคนช่วยขึ้นแบบ 3D สำหรับงาน Prototype ชิ้นเล็กค่ะ\n\nพอดีพึ่งเริ่มเข้าวงการ 3D Printing และมีเครื่อง Resin Printer เป็นของตัวเองแล้ว แต่ยังไม่มีความชำนาญด้านการออกแบบไฟล์ เลยอยากหาคนที่มีประสบการณ์มาช่วยดูแลในส่วนนี้ค่ะ\n\nลักษณะงาน\n• ขึ้นแบบ 3D จากบรีฟและรูปอ้างอิง\n• จัดเตรียมไฟล์ให้พร้อมสำหรับการนำไปปริ้น\n• ทางผู้ว่าจ้างจะเป็นคนปริ้นเอง ไม่ต้องรับงานปริ้นหรือจัดส่งชิ้นงาน\n• หากทดลองปริ้นแล้วมีจุดที่ต้องปรับแก้ ขอให้ส��มารถช่วยแก้ไขไฟล์ตามฟีดแบ็กได้\n• ต้องการคนที่สามารถทำงานร่วมกันและช่วยพัฒนาแบบจนได้ผลลัพธ์ที่ใช้งานได้จริง\n\nสิ่งที่มองหา\n• มีประสบการณ์ออกแบบงานสำหรับ 3D Printing\n• เข้าใจการออกแบบชิ้นส่วนที่ต้องประกอบเข้าหากัน หรือมีการล็อก/สวม/เชื่อมต่อกัน\n• ไม่จำเป็นต้องเป็นงานวิศวกรรม แต่ขอคนที่เข้าใจเรื่องการใช้งานจริงมากกว่างานโมเดลโชว์ทั่วไป\n• คุยง่าย รับฟีดแบ็ก และสามารถทำงานต่อเนื่องได้\n\n💰 งบประมาณประมาณ 12,000 บาท (สามารถพูดคุยรายละเอียดเพิ่มเติมได้)\n\nหากสนใจ รบกวนส่ง Portfolio หรือผลงานที่เคยทำมาให้ดูได้เลยนะคะ ขอบคุณมากค่ะ 🙏",
-    "title": "คนออกแบบ 3d",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "12000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-21T09:16:11.300629Z",
-    "updated_at": "2026-06-21T09:16:12.177746Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.5;iPhone;8.8.0-6001188"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-21T09:16:11.282846Z",
-    "freelance_offers_count": 4,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
-    "user_profile": {
-      "id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
-      "username": "476dqe99",
-      "display_name": "476dqe99",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-21T11:50:12.610Z"
-  },
-  {
-    "id": "94252ff5-1b44-4993-b525-e4a090d42846",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "สวัสดีค่ะ กำลังมองหาฟรีแลนซ์/ดีไซเนอร์ มาร่วมงานออกแบบปรับโฉมบรรจุภัณฑ์ใหม่ ให้กับแบรนด์เซรั่ม จำนวน 2 ผลิตภัณฑ์หลักค่ะ (ขอดูลักษณะพอร์ตผลงานก่อนพิจารณาจ้างงาน)\n\nโจทย์และสไตล์ที่ต้องการ (Concept)\n-สไตล์: Minimal - HiEnd (เรียบหรู ดูแพง คลีน เน้นความน้อยแต่มาก การจัดวาง Typography และสเปซสวยงาม)\n-ภาพลักษณ์: สินค้าค่อนข้างมีราคาและมีตำแหน่งทางการตลาดระดับพรีเมียม บรรจุภัณฑ์ต้องช่วยชูให้แบรนด์ดูน่าเชื่อถือและจับกลุ่มลูกค้ากำลังซื้อสูงได้\n\nขอบเขตงาน (Scope of Work)\n-Product ที่ 1: เซรั่มแบบขวดและกล่อง\n ออกแบบกล่องบรรจุภัณฑ์เซรั่ม\n ออกแบบฉลาก / ลายสกรีนสำหรับตัวขวดเซรั่ม\n -Product ที่ 2: เซรั่มแบบซองและกล่องแพ็คซอง\n ออกแบบดีไซน์ตัวซองเซรั่ม\n ออกแบบกล่องสำหรับใส่ซองเซรั่ม (กล่องแพ็คซอง) ให้ดีไซน์คุมโทนพรีเมียมไปในทิศทางเดียวกัน\n (หมายเหตุ: ในอนาคตมีแพลนจะทำเพิ่มอีก 2 SKU หากร่วมงานกันแล้วสไตล์ตรงกัน มีโอกาสจ้างงานต่อในเฟสถัดไปค่ะ)\n\nกรอบเวลาทำงาน (Timeline)\n-ส่งดราฟแรก: ภายใน 1 สัปดาห์ หลังจากเริ่มงาน\n-ระยะเวลาปิดโปรเจกต์ (รวมปรับแก้): ไม่เกิน 1 เดือน\n\nงบประมาณและการส่งมอบ\n-งบประมาณรวม: 8,000 บาท (เฉลี่ยผลิตภัณฑ์ละ 4,000 บาท) (หากท่านใดมีข้อเสนอหรือส่วนลดพิเศษสามารถระบุเพิ่มเติมมาได้ค่ะ)\n-สิ่งที่ต้องส่งมอบ: ไฟล์ Final สำหรับส่งโรงงานผลิต (AI/PDF เวกเตอร์) และภาพ 3D Mockup สวยๆ สำหรับตรวจงาน\n\nวิธีการสมัครและส่งผลงาน*\nรบกวนดีไซเนอร์ที่สนใจ ส่งรายละเอียดดังนี้กลับมาทางแชทเพื่อพิจารณาก่อนนะคะ:\n1. พอร์ตผลงาน (Portfolio): ขอเน้นผลงานที่เคยออกแบบสไตล์ Minimal, Luxury หรือสกินแคร์/เครื่องสำอางกลุ่มเคาน์เตอร์แบรนด์ที่มีราคา\n2. เงื่อนไขการแก้งาน: ในราคานี้สามารถปรับแก้ไขงานได้กี่ครั้ง (รบกวนระบุให้ชัดเจน)\n3. ยืนยันว่าสามารถทำงานเสร็จทันตาม Timeline ที่กำหนดได้\n\n",
-    "title": "หาดีไซเนอร์ออกแบบบรรจุภัณฑ์เซรั่ม",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "8000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-21T09:10:27.211553Z",
-    "updated_at": "2026-06-21T09:10:28.254603Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;9.13.0-6001854"
-    },
-    "already_offered": null,
-    "business_type": "สุขภาพ ความงาม",
-    "deadline_at": null,
-    "expired_at": "2026-07-21T09:10:27.191023Z",
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "821fc979-bc08-42bf-8c68-e905999c8d80",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-21T11:50:11.242Z"
   }
 ]
