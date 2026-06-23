@@ -307,49 +307,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-22T10:14:44.422Z"
-  },
-  {
-    "id": "ea3475c0-dab6-4f3d-b185-c1d65f5ea236",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนสอนแบบจับมือทำ interactive game liveทํายังไง มีค่าใช้จ่ายยังไงคุยกันได้คับ ขอคนที่จริงใจที่สอนทำจริงจัง ราคากันเอง ",
-    "title": "ฉันหา คนสอนทำ interactive game live TikTok ",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "is_anonymous": false,
-    "budget": "999",
-    "inserted_at": "2026-06-21T23:23:45.306454Z",
-    "updated_at": "2026-06-21T23:23:46.664001Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android14;CPH2639;6.16.0-6000660"
-    },
-    "user_id": "9f879613-32e9-4499-a306-a6c7669a0964",
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-21T23:23:45.288046Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "9f879613-32e9-4499-a306-a6c7669a0964",
-      "username": "karin1996z",
-      "display_name": "Karin1996",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9f879613-32e9-4499-a306-a6c7669a0964/profile/85f95959-193b-4817-8c64-8bc8c90428e2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-21T23:58:50.125Z"
   }
 ]
