@@ -1,5 +1,93 @@
 [
   {
+    "id": "8a3756f9-54cc-4680-94fa-cd5de08ecc3f",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจและการเงิน",
+      "sort": 5
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน:\nต้องการจ้างพัฒนาระบบ Application โดยใช้ AppSheet เพื่อทำหน้าที่เป็น \"ระบบด่านหน้า\" สำหรับบันทึกรายการสินค้าประจำวัน สำหรับบัญชีคลังสินค้าในโรงงานผลิตกระดาษลูกฟูก โดยต้องการให้ระบบเชื่อมต่อกับฐานข้อมูล Google Sheets เพื่อให้บัญชีสามารถตรวจสอบข้อมูลก่อนนำไปคีย์ลง ERP หลักของบริษัท\n\nขอบเขตงาน (Scope of Work):\n\nระบบสำหรับหน้างาน (Mobile App):\n\nหน้าจอเมนูหลัก: เลือกรายการ รับเข้า (Receive), จ่ายออก (Issue), รับคืนวัตถุดิบ (Return), และบันทึกเศษกระดาษ (Scrap)\n\nฟังก์ชัน: ต้องสามารถสแกน Barcode/QR Code สินค้าได้ และมีช่อง \"แนบรูปถ่ายเอกสาร\" (ใบรับ/ใบเบิก) เพื่อเป็นหลักฐานทุกครั้ง\n\nใช้งานง่าย: เลือกรายการผ่าน Drop-down List เพื่อลดความผิดพลาดในการพิมพ์\n\nระบบสำหรับบัญชี (Dashboard & Database):\n\nหลังบ้านเป็น Google Sheets ที่เรียงลำดับข้อมูลอย่างเป็นระเบียบตามวันที่/ประเภทรายการ\n\nมีหน้า Dashboard สรุปยอดรับ-จ่ายประจำวัน เพื่อให้บัญชีสามารถตรวจสอบตัวเลข (Reconcile) ก่อนนำไปคีย์ ERP\n\nสามารถกรองข้อมูล (Filter) ตามวันที่/รหัสสินค้า/ฝ่ายที่เบิก เพื่อความสะดวกในการตรวจสอบ\n\nฟังก์ชันพิเศษที่ต้องการ:\n\nระบบแจ้งเตือน (Notification): ถ้าสินค้าบางตัวยอดต่ำกว่าจุดที่กำหนด ให้แจ้งเตือนเข้าแอป\n\nระบบจัดการ \"ของคืน\" (Return to Stock): ออกแบบให้การคีย์รับคืนวัตถุดิบที่ใช้ไม่หมดทำได้ง่ายและหักลบสต๊อกให้ถูกต้อง\n\nสิ่งที่ต้องส่งมอบ (Deliverables):\n\nตัว AppSheet ที่ติดตั้งและใช้งานได้จริง\n\nไฟล์ Google Sheets ที่เป็นฐานข้อมูลหลังบ้าน\n\nวิดีโอสอนการใช้งาน (Video Tutorial): สอนวิธีการกดใช้งานหน้างาน (สำหรับคลัง) และวิธีตรวจสอบข้อมูล (สำหรับบัญชี) 1 คลิป\n\nดูแลแก้ไข Bug หรือปรับปรุงฟังก์ชันเบื้องต้นหลังส่งมอบงาน 14 วัน",
+    "title": "ผู้เชี่ยวชาญ พัฒนาระบบ AppSheet สำหรับบัญชีคลังสินค้า (โรงงานผลิตกระดาษ/กล่อง) – เพื่อเก็บข้อมูลด่านหน้าก่อนคีย์ ERP\" แบบครบวงจร",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-23T04:26:40.701134Z",
+    "updated_at": "2026-06-23T04:26:42.473188Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+    },
+    "user_id": "a5aec0dd-60f2-4094-b56f-299a424781fa",
+    "expired_at": "2026-07-23T04:26:40.681200Z",
+    "already_offered": null,
+    "business_type": "ขนส่ง โลจิสติกส์",
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a5aec0dd-60f2-4094-b56f-299a424781fa",
+      "username": "u7r4j2qz",
+      "display_name": "u7r4j2qz",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-23T04:31:29.635Z"
+  },
+  {
+    "id": "a068dfa5-4795-4f6d-9896-4a9032d85dd1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการยิงแอดเพจเอง แต่อยากได้คนสอนว่าต้องทำแบบไหนบ้าง เพราะลองทำแล้วไม่เป็นแบบที่อยากได้ เลยต้องการคนที่รู้เพื่อปรึกษา",
+    "title": "หาคนสอนยิงแอดเพจ",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-23T03:07:32.574087Z",
+    "updated_at": "2026-06-23T03:07:34.043475Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.0;iPhone;6.2.1-6000102"
+    },
+    "user_id": "0abeb240-b602-4b63-acd5-bf14a8076bcb",
+    "expired_at": "2026-07-23T03:07:32.553148Z",
+    "already_offered": null,
+    "business_type": "การท่องเที่ยว นันทนาการ",
+    "deadline_at": null,
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "0abeb240-b602-4b63-acd5-bf14a8076bcb",
+      "username": "suphaphit.palm",
+      "display_name": "suphaphit.palm",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0abeb240-b602-4b63-acd5-bf14a8076bcb/profile/7cf3c190-e4ba-47a7-be8c-5afd4778191f.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-23T04:31:28.478Z"
+  },
+  {
     "id": "bfe4b3e6-d24b-40a8-9fbf-50a4ca60f693",
     "status": "open",
     "tag": {

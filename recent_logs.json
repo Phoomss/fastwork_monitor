@@ -1,5 +1,8 @@
 [
-  "[2026-06-23T00:16:38.976Z] Checking Fastwork for new job posts...",
-  "[2026-06-23T00:16:38.975Z] Auto-cleanup: Removed 9 seen job tracking IDs older than 1 day(s).",
-  "[2026-06-23T00:16:38.973Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-06-23T04:31:29.817Z]     Notification sent successfully.",
+  "[2026-06-23T04:31:29.636Z]   FOUND NEW TARGET JOB: ผู้เชี่ยวชาญ พัฒนาระบบ AppSheet สำหรับบัญชีคลังสินค้า (โรงงานผลิตกระดาษ/กล่อง) – เพื่อเก็บข้อมูลด่านหน้าก่อนคีย์ ERP\" แบบครบวงจร (Cats: พัฒนาแอปพลิเคชัน) (Budget: 5000 THB)",
+  "[2026-06-23T04:31:28.634Z]     Notification sent successfully.",
+  "[2026-06-23T04:31:28.478Z]   FOUND NEW TARGET JOB: หาคนสอนยิงแอดเพจ (Cats: พัฒนาเว็บไซต์) (Budget: 200 THB)",
+  "[2026-06-23T04:31:27.352Z] Checking Fastwork for new job posts...",
+  "[2026-06-23T04:31:27.350Z] Auto-cleanup: Removed 34 seen job tracking IDs older than 1 day(s)."
 ]
