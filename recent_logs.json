@@ -1,5 +1,7 @@
 [
-  "[2026-06-23T08:04:30.627Z]     Notification sent successfully.",
-  "[2026-06-23T08:04:30.212Z]   FOUND NEW TARGET JOB: คนทำเว็บอัพเดทสถานะ app scripts จาก google sheet (Cats: พัฒนาเว็บไซต์) (Budget: 2000 THB)",
-  "[2026-06-23T08:04:29.218Z] Checking Fastwork for new job posts..."
+  "[2026-06-23T11:26:28.594Z]     Notification sent successfully.",
+  "[2026-06-23T11:26:26.419Z]   FOUND NEW TARGET JOB: ฉันหา ตามหาคนเขียนสคริปต์ Tampermonkey (Cats: พัฒนาเว็บไซต์) (Budget: 3000 THB)",
+  "[2026-06-23T11:26:25.374Z] Checking Fastwork for new job posts...",
+  "[2026-06-23T11:26:25.374Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-06-23T11:26:25.370Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
