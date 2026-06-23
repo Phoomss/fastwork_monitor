@@ -1,3 +1,5 @@
 [
-  "[2026-06-23T18:18:09.344Z] Checking Fastwork for new job posts..."
+  "[2026-06-23T20:25:20.508Z] Checking Fastwork for new job posts...",
+  "[2026-06-23T20:25:20.507Z] Auto-cleanup: Removed 20 seen job tracking IDs older than 1 day(s).",
+  "[2026-06-23T20:25:20.504Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
