@@ -1,5 +1,50 @@
 [
   {
+    "id": "44fc0081-f7a6-404f-a6f5-7d908c116f24",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "เป็นเว็บไซต์ที่ทำได้ไปประมาณนึงแล้วแต่ยังไม่มีทิศทาง แต่มีบรีฟให้\nเป็น js ts\nอยากให้ทำแค่หน้าเว็บแล้วใช้ข้อมูลmockupไปก่อน\n\nbackend dbผมจะเอาไปทำต่อเอง แต่ขอให้หน้าเว็บมีการใช้งานได้ตามที่ผมต้องการ มีงบจำกัด\n\nถ้างานนี้ออกมาดีมีอีกสองงานรอคิวอยู่",
+    "title": "คนทำเว็บจบงานให้",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "1500",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-24T19:19:31.371254Z",
+    "updated_at": "2026-06-24T19:19:32.736436Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.4.1;iPhone;10.8.0-6002185"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "deadline_at": "2026-06-30",
+    "expired_at": "2026-07-24T19:19:31.342805Z",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "c188256f-d138-48cf-a6b3-b381da5fcc85",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-24T19:20:42.103Z"
+  },
+  {
     "id": "e4087ee0-8f20-49c6-a342-57d641adafa4",
     "status": "open",
     "tag": {
