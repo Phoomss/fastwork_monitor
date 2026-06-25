@@ -1,5 +1,49 @@
 [
   {
+    "id": "7a6d1909-d8a4-48dd-bf76-bd68f99913fc",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "- ตรวจเช็ค Stock \n- ดึง Review มาดูในแอป \n- แจ้งเตือน Order Stock \n- มีหน้าสรุป Dashboard\n- ตรวจสอบสถานะขนส่ง \n- อื่นๆ\n- ทำใบเสนอราคาได้",
+    "title": "หาคนทำระบบหลังบ้าน E-Commerce พร้อมใบเสนอราคา",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "budget": "111",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-25T00:38:08.426766Z",
+    "updated_at": "2026-06-25T00:38:09.282532Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "expired_at": "2026-07-25T00:38:08.408002Z",
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "dbce30cc-4f4a-4bdd-81d6-f82d5a48a6cf",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-25T01:34:55.899Z"
+  },
+  {
     "id": "44fc0081-f7a6-404f-a6f5-7d908c116f24",
     "status": "open",
     "tag": {
