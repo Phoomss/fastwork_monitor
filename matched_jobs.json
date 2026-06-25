@@ -1,5 +1,93 @@
 [
   {
+    "id": "af9e1231-194c-4018-a47f-99352b5bcf5a",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ฉันหาคนช่วยอัดเสียงและใส่ซับในเว็บไซต์\nฉันต้องการคนที่พร้อมทำ และ มีคอมพิวเตอร์หรือโน๊ตบุ้ค ฉันต้องการคนที่ใส่ใจทุ่มเท ขยัน",
+    "title": "หาคนช่วยอัดเสียง",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "4000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-25T15:33:47.653456Z",
+    "updated_at": "2026-06-25T15:33:48.845458Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A155F;11.1.0-6002506"
+    },
+    "user_id": "d11373f3-9c35-406d-9000-2873fc8d86a0",
+    "expired_at": "2026-07-25T15:33:47.631467Z",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "freelance_offers_count": 8,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d11373f3-9c35-406d-9000-2873fc8d86a0",
+      "username": "shennicha",
+      "display_name": "baobei Shennicha",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d11373f3-9c35-406d-9000-2873fc8d86a0/profile/c36bac0f-149c-443a-a974-8032f69b85c4.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-25T16:02:18.909Z"
+  },
+  {
+    "id": "ea712df3-755b-4772-a18b-58bb021bee66",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nหาคนรับทำ automation workflowในmake.com สำหรับ post social media หลาย platform พร้อมกัน คือ facebook page, tiktok, ig, youtube shorts, line official",
+    "title": "ฉันหา หาคนรับทำ automation workflow สำหรับ post social media หลาย platform",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "budget": "2500",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-25T14:50:10.161513Z",
+    "updated_at": "2026-06-25T14:50:11.158494Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.0.1;iPhone;10.12.0-6002405"
+    },
+    "user_id": "28c65562-c28a-4dfd-935f-a526deae8647",
+    "expired_at": "2026-07-25T14:50:10.135087Z",
+    "already_offered": null,
+    "business_type": "สื่อ สิ่งพิมพ์",
+    "deadline_at": "2026-06-26",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "28c65562-c28a-4dfd-935f-a526deae8647",
+      "username": "fffive",
+      "display_name": "sanhanat",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/28c65562-c28a-4dfd-935f-a526deae8647/profile/2057019e-9a5a-4ca6-acb7-52659d9e7fc7.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-25T16:02:17.595Z"
+  },
+  {
     "id": "fff1f547-5f65-4489-a63c-62a93894683d",
     "status": "open",
     "tag": {
@@ -175,137 +263,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-24T19:20:42.103Z"
-  },
-  {
-    "id": "e4087ee0-8f20-49c6-a342-57d641adafa4",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ตามหัวข้อเลยครับ หาคนลง Adobe ใน Macbook Air M5 แบบออนไลน์ให้ครับ ขอบัญชีแท้ จ่ายรายเดือน โปรนักศึกษาครับ ขอผมจ่าย Adobe ผ่านแอปโดยตรงนะครับ\n\nตอนนี้ผมแค่พึ่งสร้างบัญชี Adobe creative cloud ไปครับ นอกจากนั้นผมยังไม่เริ่มทำอะไรเลย \n",
-    "title": "หาคนลง Adobe ใน macbook air M5 ครับ",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "400",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-24T15:25:34.925812Z",
-    "updated_at": "2026-06-24T15:25:36.199781Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.2.0-6002539"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-24T15:25:34.906108Z",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "cce58ebb-ca84-46f5-a3ed-ea9d5148d32c",
-    "user_profile": {
-      "id": "cce58ebb-ca84-46f5-a3ed-ea9d5148d32c",
-      "username": "ppangton",
-      "display_name": "PPangton",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/cce58ebb-ca84-46f5-a3ed-ea9d5148d32c/profile/ee8b2872-8867-48e8-b55d-f2c4939544ab.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-24T15:57:41.830Z"
-  },
-  {
-    "id": "f555dbf0-3594-4d32-aca5-75959968ac85",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "Flowchart การสแกนชิ้นงานเพื่อให้คุณนำไปใช้ในการออกแบบระบบ (System Design) ได้ง่ายขึ้น\n\nWorkflow การทำงานของระบบ Tracking (Step-by-Step)\n\nระบบจะแบ่งออกเป็น 3 ลูปหลัก เพื่อให้ข้อมูลเชื่อมโยงกันแบบเรียลไทม์ ดังนี้:\n\n1. ส่วนต้นทาง (Job Creation & Labeling)\n\n* บันทึกใบสั่งผลิต (Job Order): แอดมินคีย์ข้อมูลเข้าสู่ระบบหลัก\n* ออกรหัสชิ้นงาน: ระบบสร้าง Unique QR Code สำหรับชิ้นงานนั้นๆ\n* การติดฉลาก: พิมพ์ QR Code ติดลงบนชิ้นงาน (หรือพาเลทบรรจุชิ้นงาน) เพื่อเป็นจุดเริ่มต้นของ Data Point\n\n2. ส่วนกระบวนการ (Tracking Stations)\n\nในแต่ละสถานีงาน (เช่น กลึงหยาบ, กลึงละเอียด, ลบคม, ตรวจสอบ) จะมีจุดสแกนดังนี้:\n\n* Check-in: พนักงานสแกน QR เพื่อแจ้งว่าชิ้นงาน “เริ่ม” เข้าสู่กระบวนการนี้ (ระบบบันทึกเวลาเริ่มต้น)\n* Check-out: เมื่อเสร็จสิ้นพนักงานสแกนอีกครั้งเพื่อ “ส่งต่อไปยังสถานีถัดไป” หรือ “แจ้งปัญหา” (เช่น งานเสีย)\n* สถานะเรียลไทม์: ทันทีที่สแกน ข้อมูลใน Dashboard จะอัปเดตสถานะของชิ้นงานนั้นทันทีผ่าน WebSockets\n\n3. ส่วนปลายทาง (Finished Goods & Delivery)\n\n* Quality Control (QC): สแกนเพื่อยืนยันผ่านเกณฑ์ตรวจสอบ\n* Stock/Delivery: สแกนเพื่อนำเข้าคลังสินค้าหรือแจ้งเตือนว่า “พร้อมส่ง” ให้ลูกค้า",
-    "title": "ตามหาคนทำระบบ tracking ติดตามชิ้นงานในโรงกลึง",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "40000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-24T13:44:00.893692Z",
-    "updated_at": "2026-06-24T13:44:03.719936Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.0;iPhone;9.0.1-6001348"
-    },
-    "already_offered": null,
-    "business_type": "ยานยนต์",
-    "deadline_at": null,
-    "expired_at": "2026-07-24T13:44:00.871299Z",
-    "freelance_offers_count": 7,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "ebd0fee6-f3be-407e-a195-f5944d20babf",
-    "user_profile": {
-      "id": "ebd0fee6-f3be-407e-a195-f5944d20babf",
-      "username": "gc14ayx0",
-      "display_name": "gc14ayx0",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-24T15:57:40.590Z"
-  },
-  {
-    "id": "4a831c7b-87d7-4e55-9525-b31540810d4f",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ฉันหา ตามหาคนเขียนสคริปต์ Tampermonkey ราย ละเอียดค่อยมาคุยกัน\n\nฉันหา ตามหาคนเขียนสคริปต์ Tampermonkey ราย ละเอียดค่อยมาคุยกัน",
-    "title": "ฉันหา ตามหาคนเขียนโค้ด Tampermonkey",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-24T11:32:04.729360Z",
-    "updated_at": "2026-06-24T11:32:05.636904Z",
-    "already_offered": null,
-    "brief_url": null,
-    "business_type": null,
-    "deadline_at": "2026-06-24",
-    "expired_at": "2026-07-24T11:32:04.708574Z",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A556E;11.1.0-6002506"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "58bc8a48-cc65-4d35-8208-c966580549c6",
-    "user_profile": {
-      "id": "58bc8a48-cc65-4d35-8208-c966580549c6",
-      "username": "patiphansomsri",
-      "display_name": "Patiphan10",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/58bc8a48-cc65-4d35-8208-c966580549c6/profile/7e33c249-fcb8-4b99-9b5a-2d697ebd7597.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-24T13:38:38.250Z"
   }
 ]
