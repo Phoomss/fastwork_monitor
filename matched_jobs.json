@@ -307,49 +307,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-24T13:38:38.250Z"
-  },
-  {
-    "id": "3f16a503-a358-40bc-9ed5-bb1813315c91",
-    "status": "open",
-    "tag": {
-      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
-      "name": "งานสอน",
-      "sort": 12
-    },
-    "type": "freelance",
-    "description": "premwadee tts \nทำเสียงหรือเขียนโปรแกรม \nข้อความแปลงเป็นเสียง Ai\nขอเป็นเสียง premwadee นะครับ\n-ไฟล์ txt แปลงเป็นไฟล์ เสียง\n-ถ้าได้โปรแกรมจะดีมาก สามารถแก้คำผิดคำอ่านได้",
-    "title": "หาคนสอนทำ txt to speak  นิยายเสียง",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-24T09:36:34.483987Z",
-    "updated_at": "2026-06-24T09:36:35.305496Z",
-    "already_offered": null,
-    "brief_url": null,
-    "business_type": "อื่นๆ:",
-    "deadline_at": null,
-    "expired_at": "2026-07-24T09:36:34.461394Z",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android13;CPH2531;10.9.0-6002212"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-24T11:31:39.232Z"
   }
 ]
