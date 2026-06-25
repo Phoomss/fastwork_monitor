@@ -440,49 +440,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-24T08:46:13.813Z"
-  },
-  {
-    "id": "6a580751-1a94-4d83-8f18-ec1e279bca6e",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "- เปิดรับคนไทยจำนวนมาก เข้าร่วมโปรเจกต์การสนทนาภาษาไทย เพื่อนำเสียงไปพัฒนาระบบ automatic speech recognition ภาษาไทย โดยคุณสามารถพาเพื่อนม��อัดเสียงด้วยกันได้ (ถ้าเป็นผู้หญิงต้องสามารถพาคู่สนทนาชายมาอัดเท่านั้น)\n- จะต้องบันทึกทั้งหมด 7 หัวข้อ หัวข้อละ 20 นาที มีทั้งหมด 18 หัวข้อที่น่าสนใจให้เลือก เช่น การศึกษา หรือไลฟ์สไตล์\n- ไม่มีสคริปต์ เป็นการคุยทั่วไปแบบด้นสด เหมือนคุยกับเพื่อน\n\nคุณสมบัติ \n- มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวน\n- สามารถโหลดแอป FunCrowd เพื่อใช้ในการอัดเสียง\n- ต้องสามารถพาคู่สนทนามาอัดเสียงได้เท่านั้น (สำคัญมาก โปรดอ่านก่อนสมัคร)\n\nเราจะจ่ายให้คู่ละ 900 บาท (จ่ายเป็นคู่)",
-    "title": "คนทีสนใจบันทึกเสียงสนทนาภาษาไทย",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "budget": "900",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-24T05:37:37.122544Z",
-    "updated_at": "2026-06-24T05:37:37.889148Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-    "expired_at": "2026-07-24T05:37:37.098666Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-      "username": "6t9jskml",
-      "display_name": "aonkpdata",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-24T05:51:52.045Z"
   }
 ]

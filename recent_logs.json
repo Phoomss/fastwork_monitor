@@ -1,8 +1,5 @@
 [
-  "[2026-06-25T05:48:04.623Z]     Notification sent successfully.",
-  "[2026-06-25T05:48:04.371Z]   FOUND NEW TARGET JOB: รับ Content Producer ถ่ายvdo พร้อมตัดคลิปด้วยมือ (Cats: พัฒนาแอปพลิเคชัน) (Budget: 5000 THB)",
-  "[2026-06-25T05:48:03.369Z]     Notification sent successfully.",
-  "[2026-06-25T05:48:03.249Z]   FOUND NEW TARGET JOB: คนรับปรับปรุงเวบไซท์ Wordpress  (Cats: พัฒนาเว็บไซต์) (Budget: 2000 THB)",
-  "[2026-06-25T05:48:02.132Z] Checking Fastwork for new job posts...",
-  "[2026-06-25T05:48:02.130Z] Auto-cleanup: Removed 8 seen job tracking IDs older than 1 day(s)."
+  "[2026-06-25T08:40:06.764Z] Checking Fastwork for new job posts...",
+  "[2026-06-25T08:40:06.763Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-06-25T08:40:06.760Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
