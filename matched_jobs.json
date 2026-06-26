@@ -46,49 +46,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-26T15:40:32.368Z"
-  },
-  {
-    "id": "24743cd3-469d-4b37-b325-e293db3cfc87",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "- สามารถลงงานเองได้เรื่อ��ๆ จัดหมวดหมู่ต่างๆ\n- ความคิดสร้างสรรค์\n- ทำระบบคิดเงินชำระผ่าน พวก MasterCard ได้\nทักมาคุยราคารายละเอียดเพิ่มเติมได้",
-    "title": "ทำเว็ปไซต์ ทักมาคุยรายละเอียด",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "budget": "700",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-25T17:32:21.048963Z",
-    "updated_at": "2026-06-25T17:32:21.946990Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android13;CPH2531;10.9.0-6002212"
-    },
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "expired_at": "2026-07-25T17:32:21.029414Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": "2027-06-26",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-25T18:20:08.726Z"
   }
 ]
