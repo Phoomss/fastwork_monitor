@@ -1,5 +1,53 @@
 [
   {
+    "id": "822df901-3517-4084-963a-fd351ef9420a",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ต้องการ Game Design/UX ระดับ Senior เพื่อมาควบคุมคุณภาพและให้คำปรึกษากับคนในที��� สำหรับการออกแบบพัฒนาซอฟต์แวร์ และเกม เป็นระยะเวลา 3 เดือน",
+    "title": "Game Design/UX Consultant",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "50000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-26T15:22:17.976117Z",
+    "updated_at": "2026-06-26T15:22:19.093395Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S928B;9.6.0-6001483"
+    },
+    "user_id": "1a367485-509c-4fff-9bd1-c27c6dc39a4f",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-26T15:22:17.959340Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-26T15:40:32.368Z"
+  },
+  {
     "id": "24743cd3-469d-4b37-b325-e293db3cfc87",
     "status": "open",
     "tag": {
