@@ -1,5 +1,53 @@
 [
   {
+    "id": "8d2ed346-4271-4888-a818-eef9c005c810",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "PDF Form Designer & Fillable PDF Expert (English Required)\n\nWe have a 25-page customer PDF form that needs to be fixed, improved, and redesigned.\n\nThe PDF is currently somewhat disorganized. We would like it redesigned to look more professional, be easier for customers to use, and be divided into three clear sections.\n\nRequirements:\n\nYou must have the tools and experience needed to edit PDFs and save them as fillable PDF forms.\nYou must be comfortable using AI tools.\nYou must have a good sense of design, since the main goal is to improve the appearance, organization, and usability of the form.\nYou must be able to speak English so you can communicate directly with the client.\nPreference will be given to candidates who can also make simple updates and changes to our website.\n\nThere is no urgent deadline for this project. Ideally, we would like to hire someone we can continue working with in the future for ongoing updates to both the PDF and the website.\n\nThis is an hourly job, not a fixed-price project.\n\nExpected rate: 200–400 Thai Baht per hour.\n\nKop khun krap",
+    "title": "PDF Form Designer & Fillable PDF Expert (English Required)",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "4996",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-27T07:29:00.877458Z",
+    "updated_at": "2026-06-27T07:29:01.688094Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "c644ed90-1713-4c46-b740-5a68dac14815",
+    "expired_at": "2026-07-27T07:29:00.859681Z",
+    "already_offered": null,
+    "business_type": "อื่นๆ:School / Preschool",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "c644ed90-1713-4c46-b740-5a68dac14815",
+      "username": "sanfranciscoschool",
+      "display_name": "San Francisco School",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-27T07:29:25.370Z"
+  },
+  {
     "id": "822df901-3517-4084-963a-fd351ef9420a",
     "status": "open",
     "tag": {
