@@ -1,5 +1,101 @@
 [
   {
+    "id": "813dfaab-3010-4b06-afac-0d0c3474888a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "รวมแชทจากทุกช่องทาง มา Line OA แล้วใช้ AI chatbot ตอบคำถาม และสรุป เป็นทdashboard และ ส่งข้อมูลเข้า excel",
+    "title": "ทำ AI chat bot และ Automation เพจแพทย์",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-27T12:43:47.734966Z",
+    "updated_at": "2026-06-27T12:43:49.449726Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6.2;iPhone;9.4.0-6001433"
+    },
+    "already_offered": null,
+    "business_type": "การแพทย์",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-27T12:43:47.709288Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4b239cbd-0134-46fc-99bb-273678906866",
+    "user_profile": {
+      "id": "4b239cbd-0134-46fc-99bb-273678906866",
+      "username": "rinlynwealth",
+      "display_name": "RinLynWealth",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4b239cbd-0134-46fc-99bb-273678906866/profile/0db85184-d2fd-4f01-9d5d-6c72f32a39f2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-27T14:09:17.814Z"
+  },
+  {
+    "id": "5e05f7fe-2cd6-478a-aa91-6491bb054ba2",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ 😊\n\nกำลังมองหาคนช่วยขึ้นแบบ 3D สำหรับงาน Prototype ชิ้นเล็กค่ะ\n\nพอดีพึ่งเริ่มเข้าวงการ 3D Printing และมีเครื่อง Resin Printer เป็นของตัวเองแล้ว แต่ยังไม่มีความชำนาญด้านการออกแบบไฟล์ เลยอยากหาคนที่มีประสบการณ์มาช่วยดูแลในส่วนนี้ค่ะ\n\nลักษณะงาน\n• ขึ้นแบบ 3D จากบรีฟและรูปอ้างอิง\n• จัดเตรียมไฟล์ให้พร้อมสำหรับการนำไปปริ้น\n• ทางผู้ว่าจ้างจะเป็นคนปริ้นเอง ไม่ต้องรับงานปริ้นหรือจัดส่งชิ้นงาน\n• หากทดลองปริ้นแล้วมีจุดที่ต้องป��ับแก้ ขอให้สามารถช่วยแก้ไขไฟล์ตามฟีดแบ็กได้\n• ต้องการคนที่สามารถทำงานร่วมกันและช่วยพัฒนาแบบจนได้ผลลัพธ์ที่ใช้งานได้จริง\n\nสิ่งที่มองหา\n• มีประสบการณ์ออกแบบงานสำหรับ 3D Printing\n• เข้าใจการออกแบบชิ้นส่วนที่ต้องประกอบเข้าหากัน หรือมีการล็อก/สวม/เชื่อมต่อกัน\n• ไม่จำเป็นต้องเป็นงานวิศวกรรมจ๋าๆ แต่ขอคนที่เข้าใจเรื่องการใช้งานจริงมากกว่างานโมเดลโชว์ทั่วไป\n• คุยง่าย รับฟีดแบ็ก และสามารถทำงานต่อเนื่องได้\n\nไม่ใช่งานปั้นโมเดลตัวละคร จะเป็นงานปั้นข้อต่อเชื่อมกันสองชิ้นมากกว่า\n\n💰 งบปร��มาณประมาณ 12,000 บาท (สามารถพูดคุยรายละเอียดเพิ่มเติมได้)\n\nหากสนใจ รบกวนส่ง Portfolio หรือผลงานที่เคยทำมาให้ดูได้เลยนะคะ ขอบคุณมากค่ะ 🙏",
+    "title": "คนเขียนแบบ 3d",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "12000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-27T12:27:11.179986Z",
+    "updated_at": "2026-06-27T12:27:12.367756Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.8.0-6001188"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-27T12:27:11.157987Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+    "user_profile": {
+      "id": "44852703-96c2-44ba-93ae-6b61f5ebcadd",
+      "username": "476dqe99",
+      "display_name": "476dqe99",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-27T14:09:16.413Z"
+  },
+  {
     "id": "6659d6bf-7978-4aba-a082-95a4a48db59c",
     "status": "open",
     "tag": {
