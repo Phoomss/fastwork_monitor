@@ -1,5 +1,54 @@
 [
   {
+    "id": "966e629d-e48d-4049-8c54-476203204d75",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ขอประเมินราคาพัฒนาเว็บไซต์ B2B Platform (MVP)\n\nมีฟังก์ชันเบื้องต้น\n\nสมัครสมาชิก\nLogin\nโปรไฟล์บริษัท\nแบ่งประเภท Buyer / Supplier\nระบบค้นหา\nChat ระหว่างสมาชิก\nระบบหลังบ้าน Admin\n\nขอประเมินราคาและระยะเวลาในการพัฒนา\n\nยังไม่มี Requirement รายละเอียดทั้งหมด\nต้องการพูดคุยเพื่อประเมินงบประมาณเบื้องต้นก่อน\n\nผู้ที่มีประสบการณ์ Laravel / Next.js / React / Flutter จะพิจารณาเป็นพิเศษ\n\n\nรบกวนเสนอข้อมูลดังนี้\n\n1. งบประมาณโดยประมาณ\n2. ระยะเวลาพัฒนา\n3. เทคโนโลยีที่แนะนำ\n4. รองรับการต่อยอด Mobile App ในอนาคตหรือไม่\n5. ค่า Maintenance โดยประมาณ (ถ้ามี)\n6. ตัวอย่างผลงานที่ใกล้เคียง\n\nขอบคุณครับ",
+    "title": "ขอที่ปรึกษาประเมิน Architecture สำหรับ B2B Platform",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100001",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-28T09:56:15.741183Z",
+    "updated_at": "2026-06-28T09:56:16.777460Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอ���ต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-28T09:56:15.724793Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4f0897d9-48f4-4981-a88c-8d9b2c54c904",
+    "user_profile": {
+      "id": "4f0897d9-48f4-4981-a88c-8d9b2c54c904",
+      "username": "ldwnhugl",
+      "display_name": "ldwnhugl",
+      "image_url": "https://storage.googleapis.com/fastwork-static/fbffb842-31bb-422e-a124-2727144076d6.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-28T10:34:44.980Z"
+  },
+  {
     "id": "eaa59f82-339c-4e82-a828-fc46aa0ec22d",
     "status": "open",
     "tag": {
@@ -142,53 +191,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-27T14:09:16.413Z"
-  },
-  {
-    "id": "6659d6bf-7978-4aba-a082-95a4a48db59c",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "- จ้างติดตั้งและปรับแต่ง (Reskin) แอปเดลิเวอรีสำเร็จรูประบบ StackFood (Flutter + Laravel) ครับ\n- มีซอร์สโค้ดลิขสิทธิ์แท้ Regular License และแอปไรเดอร์ (Add-on) เตรียมไว้ให้พร้อมส่งมอบทันที\n- ขอบเขตงาน: เปลี่ยนโลโก้/สีแบรนด์เป็น , แปลภาษาไทย, ผูก Google Maps และระบบจ่ายเงินพร้อมเพย์\n- ตั้งค่า 3 บริการในแอปเดียว (อาหาร/ส่งของมอเตอร์ไซค์/รถกระบะ B2B) พร้อมระบบหลังบ้าน Admin และหน้าเว็บร้านค้า\n- นำแอปฝั่งลูกค้า (iOS/Android) และฝั่งไรเดอร์ (Android) ขึ้น Store พร้อมใช้งาน แบ่งงวดงานผ่านระบบ Fastwork ครับ",
-    "title": "จ้างโปรแกรมเมอร์ติดตั้งและปรับแต่ง (Reskin) ระบบเดลิเวอรีสำเร็จรูป StackFood (Flutter + Laravel)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "35000",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-27T09:36:56.218145Z",
-    "updated_at": "2026-06-27T09:36:57.634394Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-15",
-    "expired_at": "2026-07-27T09:36:56.198816Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
-      "username": "surasuk2482",
-      "display_name": "สุรศักดิ์ จำปาราช",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a61ddc9d-0ca5-4093-a5d1-f6413ad21f82/profile/193bb17f-9ddb-466b-bf56-413021ce98a2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-27T09:37:26.231Z"
   }
 ]
