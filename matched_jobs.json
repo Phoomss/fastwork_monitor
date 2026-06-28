@@ -1,5 +1,53 @@
 [
   {
+    "id": "eaa59f82-339c-4e82-a828-fc46aa0ec22d",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการพัฒนาระบบแจ้งซ่อมภายในองค์กรผ่าน LINE OA โดยเชื่อมต่อ Webhook/Backend และ Database เพื่อรับเรื่อง แยกไซต์งาน ส่งงานเข้ากลุ่มช่าง และให้ผู้แจ้งตรวจสอบสถานะได้เอง\nขอบเขตงานและฟีเจอร์ที่ต้องการ (Scope of Work):\n1. ระบบ Rich Menu (3 เมนูหลัก)\n ปุ่มที่ 1: แจ้งซ่อม -> เปิดหน้าฟอร์ม (แนะนำเป็น LINE LIFF) ประกอบด้วย:\n เลือกไซต์งาน (Dropdown) [สำคัญมาก]\n สถานที่/ตำแหน่ง (เช่น ตึก X ชั้น 10)\n ชื่อผู้แจ้ง (ดึงโปรไฟล์ LINE อัตโนมัติ หรือให้กรอกเพิ่ม)\n รูปถ่ายหน้างาน (อัปโหลดรูปได้)\n เหตุแจ้งซ่อม (เช่น ไฟดับ, ท่อแตก)\n วันที่-เวลา (บันทึกอัตโนมัติ)\n ปุ่มที่ 2: วิธีใช้ -> ส่งข้อความ/รูปภาพอินโฟกราฟิกแนะนำการใช้งาน\n ปุ่มที่ 3: ตามสเตตัส -> เช็กข้อมูลในระบบและส่งข้อความแจ้งรายการซ่อมพร้อมสถานะปัจจุบัน (กำลังดำเนินการ / แก้ไขเสร็จสิ้น)\n2. ระบบ Dynamic Routing (ส่งงานเข้ากลุ่มช่างตามไซต์)\n มีตารางตั้งค่า (Mapping) เพื่อกำหนดว่า ไซต์งานนี้ ให้ส่งแจ้งเตือนไปที่ LINE Group ID ของกลุ่มช่างไหน\n เมื่อผู้แจ้งส่งฟอร์ม ระบบจะส่ง Flex Message แจ้งเตือนเข้าไลน์กลุ่มช่างประจำไซต์นั้น\n ในข้อความแจ้งเตือนต้องมีปุ่มให้ช่างกดอัปเดตงาน:\n ปุ่ม [รับงาน] -> อัปเดตสเตตัสเป็น \"ช่างรับงานแล้ว\" (หากบันทึกชื่อช่างผู้กดรับงานได้จะดีมาก)\n ปุ่ม [แก้ไขเสร็จ] -> อัปเดตสเตตัสเป็น \"แก้ไขเสร็จสิ้น\" และระบบต้องส่งข้อความกลับไปแจ้งเตือนผู้แจ้งซ่อม\n3. ระบบ Database / Backend\n ยินดีรับข้อเสนอทั้งแบบ Low-code (Google Sheets + Google Apps Script) หรือระบบเขียนโค้ด (Node.js/Python + Database อื่นๆ) รบกวนฟรีแลนซ์เสนอแนวทางที่เหมาะสมกับงบประมาณได้เลยครับ\nสิ่งที่ต้องส่งมอบ (Deliverables):\n1. ซอร์สโค้ดทั้งหมด หรือสิทธิ์การเป็นเจ้าของ/เข้าถึงระบบจัดการหลังบ้าน\n2. การตั้งค่าระบบเชื่อมต่อ LINE Developer, Webhook และ LIFF จนพร้อมใช้งานจริง\n3. คู่มือการใช้งานเบื้องต้น และวิธีแก้ไขตารางจับคู่ไซต์งาน-กลุ่มช่าง (Handover)",
+    "title": "หาคนทำระบบ LINE OA แจ้งซ่อมหน้างาน (แยกรวมกลุ่มช่างตามไซต์งาน + เช็กสเตตัสได้)",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-28T05:39:23.763048Z",
+    "updated_at": "2026-06-28T05:39:25.223245Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.4.2;iPhone;10.10.0-6002269"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-01",
+    "expired_at": "2026-07-28T05:39:23.743355Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_id": "69fcfbc4-fe12-4b78-ba22-2cd0a3a39680",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-28T08:14:06.697Z"
+  },
+  {
     "id": "813dfaab-3010-4b06-afac-0d0c3474888a",
     "status": "open",
     "tag": {
@@ -142,53 +190,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-06-27T09:37:26.231Z"
-  },
-  {
-    "id": "8d2ed346-4271-4888-a818-eef9c005c810",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "PDF Form Designer & Fillable PDF Expert (English Required)\n\nWe have a 25-page customer PDF form that needs to be fixed, improved, and redesigned.\n\nThe PDF is currently somewhat disorganized. We would like it redesigned to look more professional, be easier for customers to use, and be divided into three clear sections.\n\nRequirements:\n\nYou must have the tools and experience needed to edit PDFs and save them as fillable PDF forms.\nYou must be comfortable using AI tools.\nYou must have a good sense of design, since the main goal is to improve the appearance, organization, and usability of the form.\nYou must be able to speak English so you can communicate directly with the client.\nPreference will be given to candidates who can also make simple updates and changes to our website.\n\nThere is no urgent deadline for this project. Ideally, we would like to hire someone we can continue working with in the future for ongoing updates to both the PDF and the website.\n\nThis is an hourly job, not a fixed-price project.\n\nExpected rate: 200–400 Thai Baht per hour.\n\nKop khun krap",
-    "title": "PDF Form Designer & Fillable PDF Expert (English Required)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "4996",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-27T07:29:00.877458Z",
-    "updated_at": "2026-06-27T07:29:01.688094Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "c644ed90-1713-4c46-b740-5a68dac14815",
-    "expired_at": "2026-07-27T07:29:00.859681Z",
-    "already_offered": null,
-    "business_type": "อื่นๆ:School / Preschool",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "c644ed90-1713-4c46-b740-5a68dac14815",
-      "username": "sanfranciscoschool",
-      "display_name": "San Francisco School",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-27T07:29:25.370Z"
   }
 ]
