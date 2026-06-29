@@ -1,5 +1,53 @@
 [
   {
+    "id": "5013bdbe-3489-4580-9ba8-9651c92e44fa",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการนักพัฒนาระบบ Stock Management สำหรับองค์กร แบบ Full Stack \nพร้อมใช้งานจริงบน Web Browser ทั้ง Desktop และ Mobile\n\n✅ ขอบเขตงาน (Scope of Work)\n\n1. ระบบ Login & สิ���ธิ์ผู้ใช้\n   - Login ด้วย Username / Password\n   - แบ่งสิทธิ์ Admin และ User ทั่วไป\n\n2. จัดการสินค้า\n   - เพิ่ม / แก้ไข / ลบ สินค้า\n   - กำหนดหมวดหมู่และรายละเอียดสินค้า\n   - ติดตาม Stock คงเหลือแบบ Real-time\n\n3. QR Code เบิก-คืนสินค้า\n   - สแกน QR Code ผ่านมือถือ\n   - บันทึกชื่อผู้เบิก / ผู้คืน\n   - ประวัติการเบิก-คืนทุกรายการ\n\n4. Dashboard & รายงาน\n   - แสดงสรุป Stock คงเหลือ\n   - กราฟและสถิติการเบิก-คืน\n   - Export รายงานเป็น Excel\n\n5. ระบบแจ้งเตือน Low Stock\n   - แจ้งเตือนเมื่อสินค้าต่ำกว่าจำนวนที่กำหนด\n\n6. นำเข้า / ส่งออก Excel\n   - Import สินค้าจำนวนมากด้วย Excel\n   - Export รายงานสต็อกเป็น Excel\n\n⚙️ Tech Stack ที่ต้องการ\n   - Frontend: React.js หรือ Vue.js\n   - Backend: Node.js / Python (FastAPI/Django) หรือ PHP (Laravel)\n   - Database: MySQL หรือ PostgreSQL\n   - Deploy บน VPS (Linux)\n\n📦 สิ่งที่ต้องส่งมอบ\n   - Source Code ทั้งหมด (Frontend + Backend)\n   - ติดตั้งและ Deploy บน Server จริง\n   - คู่มือการใช้งานเบื้องต้น (PDF หรือ Google Doc)\n   - สอนการใช้งานผ่าน Video Call 1 ครั้ง (1 ชม.)",
+    "title": "พัฒนาระบบ Stock Management แบบ Full Stack พร้อม QR Code เบิก-คืน และ Dashboard",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-29T13:37:02.256061Z",
+    "updated_at": "2026-06-29T13:37:03.168646Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-29",
+    "expired_at": "2026-07-29T13:37:02.237164Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a9261932-b5a8-493c-9753-16f36c6af3b8",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-29T14:56:35.114Z"
+  },
+  {
     "id": "ed6815e8-2447-4e73-8fd2-86915dfbab03",
     "status": "open",
     "tag": {
@@ -191,55 +239,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-29T06:20:13.917Z"
-  },
-  {
-    "id": "1aac9a5a-7093-4035-afae-4d0b35195d3a",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ตอนนี้กำลังพัฒนา App — AI Mobile Application สำหรับผู้หญิง ที่ใช้ AI ช่วยวิเคราะห์ข้อมูลสุขภาพ ฮอร์โมน และรอบเดือน พร้อมให้คำแนะนำแบบ Personalized\nCurrent Project Status\nตอนนี้โปรเจกต์อยู่ในช่วง Pre-MVP Development โดยดำเนินการไปแล้วหลายส่วน ได้แก่\nProduct\n\t●\tกำหนด Vision และ Product Direction เรียบร้อย\n\t●\tกำหนด Core Features ของ MVP\n\t●\tวิเคราะห์ User Journey และ User Flow\n\t●\tออกแบบหน้าจอ (UI) ของแอปหลักเรียบร้อย\n\t●\tออกแบบ UX สำหรับการใช้งานเบื้องต้นแล้ว\nTechnical\n\t●\tเลือก Technology Stack สำหรับการพัฒนาแล้ว\n\t●\tวาง System Architecture เบื้องต้น\n\t●\tวางโครงสร้างการเชื่อมต่อระหว่าง Frontend, Backend และ AI\n\t●\tออกแบบโครงสร้างฐานข้อมูล (Database Design) ในระดับเริ่มต้น\n\t●\tวางแผนการเชื่อมต่อ AI เพื่อรองรับการวิเคราะห์ข้อมูลผู้ใช้\n\t●\tเตรียม Development Workflow และ AI Coding Workflow สำหรับการพัฒ��า\nตอนนี้กำลังเข้าสู่ขั้นตอนการเริ่มพัฒนา MVP จริง\n\nกำลังมองหาคนที่มีความรู้ด้าน\n\t●\tFlutter\n\t●\tFull Stack Development\n\t●\tBackend Development\n\t●\tSupabase\n\t●\tAI Integration\n\t●\tLLM / Prompt Engineering\n\t●\tหรือผู้ที่มีประสบการณ์ใช้ AI Coding Tools เช่น\n\t●\tClaude Code\n\t●\tCodex\n\t●\tCursor\n\t●\tGemini\n\t●\tWindsurf\n\t●\tหรือเครื่องมือ AI อื่น ๆ\nไม่จำเป็นต้องเชี่ยวชาญทุกด้าน หากมีพื้นฐานด้าน Software Development และสนใจสร้าง Startup ร่วมกันก็ยินดีพูดคุย\n\nสิ่งที่อยากให้ช่วย\n\t●\tพัฒนา Mobile Application\n\t●\tImplement Frontend และ Backend\n\t●\tออกแบบและพัฒนาฐานข้อมูล\n\t●\tเชื่อมต่อ AI Services\n\t●\tพัฒนา MVP ให้พร้อมสำหรับการทดสอบกับผู้ใช้งานจริง\n\t●\tวาง Technical Roadmap และข��ายระบบในระยะยาว\nกำลังมองหาคนที่อยากเป็น “Partner” มากกว่าการเป็นผู้รับจ้าง เพราะต้องการสร้างผลิตภัณฑ์ที่สามารถเติบโตต่อได้ในระยะยาว\n\nCompensation\nค่าตอบแทน รูปแบบการร่วมงาน รวมถึง Equity หรือเปอร์เซ็นต์การ��ือหุ้น สามารถพูดคุยและตกลงร่วมกันได้ตามประสบการณ์ ระดับการมีส่วนร่วม และความรับผิดชอบของแต่ละคน\nหากสนใจ ส่งข้อความมาแนะนำตัว พร้อมเล่าประสบการณ์หรือโปรเจกต์ที่เคยทำได้เลย ยินดีพูดคุยค่ะ",
-    "title": "กำลังมองหา Partner ที่อยากสร้าง Startup ไปด้วยกัน",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "404",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-28T12:45:11.219309Z",
-    "updated_at": "2026-06-28T12:45:12.249889Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPad;9.10.0-6001633"
-    },
-    "user_id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-28T12:45:11.199161Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
-      "username": "namomi",
-      "display_name": "namomi",
-      "image_url": "https://storage.googleapis.com/fastwork-static/64611f46-6ba0-4506-b649-47fbc244ce6d.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-06-28T14:09:55.761Z"
   }
 ]
