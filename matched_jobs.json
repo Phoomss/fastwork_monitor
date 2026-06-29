@@ -1,5 +1,150 @@
 [
   {
+    "id": "ed6815e8-2447-4e73-8fd2-86915dfbab03",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจและการเงิน",
+      "sort": 5
+    },
+    "type": "freelance",
+    "description": "กำลังจัดทำเว็บไซต์สำหรับทำบัญชีของธุรกิจตัวเอง อยากขอคำปรึกษาจากคนที่มีความรู้บัญชี/ภาษี ว่าควรมีระบบอะไรบ้าง ข้อมูลต้องเก็บยังไงบ้าง",
+    "title": "ปรึกษาการทำบัญชี",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-29T09:42:17.059808Z",
+    "updated_at": "2026-06-29T09:42:18.485810Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3;iPhone;10.6.0-6002132"
+    },
+    "user_id": "4061996a-37a5-442b-9144-30a784612e24",
+    "already_offered": null,
+    "business_type": "การศึกษา พัฒนาตนเอง",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-29T09:42:17.041151Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "4061996a-37a5-442b-9144-30a784612e24",
+      "username": "63qmatw5",
+      "display_name": "63qmatw5",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-29T11:27:12.092Z"
+  },
+  {
+    "id": "bbcbfc8a-dfb9-4f37-9b04-2a62ea98e7c0",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ฉันต้องการคนแก้ไขเว็บ wix แก้ไขดีไซน์ ละปุ่มโยงไปเมนูต่างๆราคาคุยกันได้ค่าา ได้โปรดดดดดดดดดดดดดดดดดดดดด",
+    "title": "ทำเว็บ Wix",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "400",
+    "is_anonymous": true,
+    "inserted_at": "2026-06-29T09:26:43.744791Z",
+    "updated_at": "2026-06-29T09:26:44.832391Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.3.0-6002585"
+    },
+    "user_id": "5a2149b1-3230-4bb6-bd6d-082c528ef46e",
+    "already_offered": null,
+    "business_type": "สุขภาพ ความงาม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-01",
+    "expired_at": "2026-07-29T09:26:43.723329Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-29T11:27:10.995Z"
+  },
+  {
+    "id": "10949251-f71b-40c5-97bc-4750e2a3dc4b",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "📢 หาคนรับงานออกแบบ UX/UI (Figma + SquareLine Studio)\n\nกำลังมองหาคนรับงานออกแบบหน้าจอสำหรับ ESP32 + LCD\n\nรายละเอียดงาน\n• ออกแบบ UX/UI ด้วย Figma\n• นำดีไซน์ไปทำต่อใน SquareLine Studio\n• ออกแบบให้สามารถนำไปใช้งานกับ LVGL ได้\n• รองรับหน้าจอ LCD Touchscreen บน ESP32\n• ต้องส่งไฟล์ต้นฉบับ Figma และไฟล์โปรเจกต์ SquareLine Studio\n\nลักษณะหน้าจอที่ต้องการ\n• Dashboard แสดงข้อมูล\n• หน้าตั้งค่า (Settings)\n• Popup / Dialog\n• Status & Notification\n• หน้าควบคุมอุปกรณ์ IoT\n\nคุณสมบัติที่ต้องการ\n• มีประสบการณ์ Figma และ SquareLine Studio\n• เคยออกแบบ UI สำหรับ Embedded, ESP32, LVGL หรือ HMI จะพิจารณาเป็นพิเศษ\n• มี Portfolio หรือผลงานให้ดู\n",
+    "title": "หาคนออกแบบ uxui figma และ squareline studio",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-29T07:50:44.891371Z",
+    "updated_at": "2026-06-29T07:50:45.901487Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "71f216bb-b4b4-4bc1-ac24-b4d1f7679c3f",
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-10",
+    "expired_at": "2026-07-29T07:50:44.871299Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "71f216bb-b4b4-4bc1-ac24-b4d1f7679c3f",
+      "username": "komkawila",
+      "display_name": "พี.เค.บิท ดีเวลลอปเม้นท์",
+      "image_url": "https://storage.googleapis.com/fastwork-static/0706797d-b7b9-4e3f-b199-e59f6fa3724c.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-29T11:27:09.911Z"
+  },
+  {
     "id": "7983efc1-31ed-4cf8-8333-a5f2772b06c8",
     "status": "open",
     "tag": {
@@ -96,102 +241,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-28T14:09:55.761Z"
-  },
-  {
-    "id": "966e629d-e48d-4049-8c54-476203204d75",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ขอประเมินราคาพัฒนาเว็บไซต์ B2B Platform (MVP)\n\nมีฟังก์ชันเบื้องต้น\n\nสมัครสมาชิก\nLogin\nโปรไฟล์บริษัท\nแบ่งประเภท Buyer / Supplier\nระบบค้นหา\nChat ระหว่างสมาชิก\nระบบหลังบ้าน Admin\n\nขอประเมินราคาและระยะเวลาในการพัฒนา\n\nยังไม่มี Requirement รายละเอียดทั้งหมด\nต้องการพูดคุยเพื่อประเมินงบประมาณเบื้องต้นก่อน\n\nผู้ที่มีประสบการณ์ Laravel / Next.js / React / Flutter จะพิจารณาเป็นพิเศษ\n\n\nรบกวนเสนอข้อมูลดังนี้\n\n1. งบประมาณโดยประมาณ\n2. ระยะเวลาพัฒนา\n3. เทคโนโลยีที่แนะนำ\n4. รองรับการต่อยอด Mobile App ในอนาคตหรือไม่\n5. ค่า Maintenance โดยประมาณ (ถ้ามี)\n6. ตัวอย่างผลงานที่ใกล้เคียง\n\nขอบคุณครับ",
-    "title": "ขอที่ปรึกษาประเมิน Architecture สำหรับ B2B Platform",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "100001",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-28T09:56:15.741183Z",
-    "updated_at": "2026-06-28T09:56:16.777460Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอ���ต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-28T09:56:15.724793Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "4f0897d9-48f4-4981-a88c-8d9b2c54c904",
-    "user_profile": {
-      "id": "4f0897d9-48f4-4981-a88c-8d9b2c54c904",
-      "username": "ldwnhugl",
-      "display_name": "ldwnhugl",
-      "image_url": "https://storage.googleapis.com/fastwork-static/fbffb842-31bb-422e-a124-2727144076d6.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-06-28T10:34:44.980Z"
-  },
-  {
-    "id": "eaa59f82-339c-4e82-a828-fc46aa0ec22d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการพัฒนาระบบแจ้งซ่อมภายในองค์กรผ่าน LINE OA โดยเชื่อมต่อ Webhook/Backend และ Database เพื่อรับเรื่อง แยกไซต์งาน ส่งงานเข้ากลุ่มช่าง และให้ผู้แจ้งตรวจสอบสถานะได้เอง\nขอบเขตงานและฟีเจอร์ที่ต้องการ (Scope of Work):\n1. ระบบ Rich Menu (3 เมนูหลัก)\n ปุ่มที่ 1: แจ้งซ่อม -> เปิดหน้าฟอร์ม (แนะนำเป็น LINE LIFF) ประกอบด้วย:\n เลือกไซต์งาน (Dropdown) [สำคัญมาก]\n สถานที่/ตำแหน่ง (เช่น ตึก X ชั้น 10)\n ชื่อผู้แจ้ง (ดึงโปรไฟล์ LINE อัตโนมัติ หรือให้กรอกเพิ่ม)\n รูปถ่ายหน้างาน (อัปโหลดรูปได้)\n เหตุแจ้งซ่อม (เช่น ไฟดับ, ท่อแตก)\n วันที่-เวลา (บันทึกอัตโนมัติ)\n ปุ่มที่ 2: วิธีใช้ -> ส่งข้อความ/รูปภาพอินโฟกราฟิกแนะนำการใช้งาน\n ปุ่มที่ 3: ตามสเตตัส -> เช็กข้อมูลในระบบและส่งข้อความแจ้งรายการซ่อมพร้อมสถานะปัจจุบัน (กำลังดำเนินการ / แก้ไขเสร็จสิ้น)\n2. ระบบ Dynamic Routing (ส่งงานเข้ากลุ่มช่างตามไซต์)\n มีตารางตั้งค่า (Mapping) เพื่อกำหนดว่า ไซต์งานนี้ ให้ส่งแจ้งเตือนไปที่ LINE Group ID ของกลุ่มช่างไหน\n เมื่อผู้แจ้งส่งฟอร์ม ระบบจะส่ง Flex Message แจ้งเตือนเข้าไลน์กลุ่มช่างประจำไซต์นั้น\n ในข้อความแจ้งเตือนต้องมีปุ่มให้ช่างกดอัปเดตงาน:\n ปุ่ม [รับงาน] -> อัปเดตสเตตัสเป็น \"ช่างรับงานแล้ว\" (หากบันทึกชื่อช่างผู้กดรับงานได้จะดีมาก)\n ปุ่ม [แก้ไขเสร็จ] -> อัปเดตสเตตัสเป็น \"แก้ไขเสร็จสิ้น\" และระบบต้องส่งข้อความกลับไปแจ้งเตือนผู้แจ้งซ่อม\n3. ระบบ Database / Backend\n ยินดีรับข้อเสนอทั้งแบบ Low-code (Google Sheets + Google Apps Script) หรือระบบเขียนโค้ด (Node.js/Python + Database อื่นๆ) รบกวนฟรีแลนซ์เสนอแนวทางที่เหมาะสมกับงบประมาณได้เลยครับ\nสิ่งที่ต้องส่งมอบ (Deliverables):\n1. ซอร์สโค้ดทั้งหมด หรือสิทธิ์การเป็นเจ้าของ/เข้าถึงระบบจัดการหลังบ้าน\n2. การตั้งค่าระบบเชื่อมต่อ LINE Developer, Webhook และ LIFF จนพร้อมใช้งานจริง\n3. คู่มือการใช้งานเบื้องต้น และวิธีแก้ไขตารางจับคู่ไซต์งาน-กลุ่มช่าง (Handover)",
-    "title": "หาคนทำระบบ LINE OA แจ้งซ่อมหน้างาน (แยกรวมกลุ่มช่างตามไซต์งาน + เช็กสเตตัสได้)",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-28T05:39:23.763048Z",
-    "updated_at": "2026-06-28T05:39:25.223245Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.2;iPhone;10.10.0-6002269"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-01",
-    "expired_at": "2026-07-28T05:39:23.743355Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_id": "69fcfbc4-fe12-4b78-ba22-2cd0a3a39680",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-28T08:14:06.697Z"
   }
 ]
