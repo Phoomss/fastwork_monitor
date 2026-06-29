@@ -1,5 +1,53 @@
 [
   {
+    "id": "b69e437b-4d39-446f-94f2-ac220adf111f",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ\n\nปัจจุบันร้านนี้ได้มีการเซ้งกิจการให้กับดิฉันเรียบร้อยแล้ว แต่เจ้าของเดิมยังไม่ได้โอนสิทธิ์การเป็นเจ้าขอ���บัญชี Google Business Profile ให้ ทำให้ดิฉันไม่สามารถจัดการข้อมูลร้านได้\n\nขณะนี้ดิฉันต้องการเป็นผู้ดูแลร้านอย่างถูกต้อง เพื่อให้สามารถแก้ไขข้อมูลต่าง ๆ ได้ เช่น\n\n* เปลี่ยนเบอร์โทรศัพท์\n* เปลี่ยนเวลาเปิด–ปิด\n* อัปเดตข้อมูลร้าน\n* ตอบรีวิวและจัดการโปรไฟล์ร้าน\n\nรบกวนช่วยตรวจสอบและโอนสิทธิ์การจัดการ Google Business Profile ให้กับดิฉัน หรือแนะนำขั้นตอนที่สามารถดำเนินการได้ เนื่องจากไม่สามารถติดต่อให้เจ้าของเดิมดำเนินการให้ได้\n\nขอบคุณมากค่ะ",
+    "title": "google bussiness ",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-29T21:10:14.003945Z",
+    "updated_at": "2026-06-29T21:10:15.359179Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.1;iPhone;9.10.0-6001633"
+    },
+    "already_offered": null,
+    "business_type": "อาหาร เครื่องดื่ม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-29T21:10:13.984728Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "544aa308-04de-4873-8767-37459b2aa1cd",
+    "user_profile": {
+      "id": "544aa308-04de-4873-8767-37459b2aa1cd",
+      "username": "ifgxdufr",
+      "display_name": "ifgxdufr",
+      "image_url": "https://storage.googleapis.com/fastwork-static/7c144067-324d-48c3-9787-34a28c29f990.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-06-29T22:08:46.360Z"
+  },
+  {
     "id": "27ce7da4-7d38-42f2-b259-594d71f91d47",
     "status": "open",
     "tag": {
