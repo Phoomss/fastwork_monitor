@@ -1,5 +1,103 @@
 [
   {
+    "id": "35d9ca88-f55c-4038-b5ae-63d6189b9bad",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "หน้าที่ความรับผิดชอบ\n•\tดูแลและจัดการงานของตนเองได้ ไม่ต้องมี SA ฝั่งลูกค้าคอยบอก\n•\tสามารถพูดคุยกับ DEV, QA และทีมที่เกี่ยวข้อง (Node อื่นๆ) เพื่อหาข้อมูลมาวอเคราะห์และออกแบบได้\n•\tมีความรู้พื้นฐานด้าน Frontend / Backend และเข้าใจธุรกิจระดับหนึ่ง\n•\tไม่จำเป็นต้องไล่ Code แต่ต้องเข้าใจเพียงพอที่จะออกแบบหรือประเมินได้ว่า Requirement สามารถพัฒนาได้หรือไม่\n•\tรับ Requirement โดยตรงจากผู้ใช้งานและประสานงานกับทีมที่เกี่ยวข้องได้เอง\n•\tออกแบบ UX/UI โดยใช้เครื่องมือ Figma\n\nคุณสมบัติด้านความรู้และความสามารถ\n•\tจบการศึกษาระดับปริญญาตรีหรือสูงกว่าในสาขาวิศวกรรมคอมพิวเตอร์, วิทยาศาสตร์คอมพิวเตอร์, เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง\n•\tมีประสบการณ์ 3 ปี ขึ้นไป ในตำแหน่ง System Analyst\n•\tอายุไม่เกิน 35 ปี\n•\tเข้าใจระบบฐานข้อมูล เช่น ORACLE, SQL Server, MySQL และสามารถเขียน Query ได้\n•\tมีทักษะในการวิเคราะห์และแก้ไขปัญหาอย่างเป็นระบบ\n•\tมีทักษะในการสื่อสารและทำงานร่วมกับทีมได้อย่างดี\n\n** On-Site 100% ที่ BTS อารีย์ **\n** มีอุปกรณ์การทำงานของตัวเอง **",
+    "title": "System Analyst สัญญาจ้าง 6 เดือน",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "40000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-30T02:20:31.194686Z",
+    "updated_at": "2026-06-30T02:20:32.810452Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-30T02:20:31.172285Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+    "user_profile": {
+      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+      "username": "psp2005",
+      "display_name": "Professional Service Provider",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-06-30T04:37:30.721Z"
+  },
+  {
+    "id": "de080c7b-007c-4e2f-a83e-11951d08793e",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "หน้าที่ความรับผิดชอบ\n•\tให้การสนับสนุนระบบและแอปพลิเคชัน\n•\tตรวจสอบ ดูแล และบำรุงรักษาระบบและแอปพลิเคชันให้มีเสถียรภาพและพร้อมใช้งานอยู่เสมอ \n•\tวิเคราะห์ สืบค้น แก้ไขปัญหา และหาสาเหตุที่แท้จริง (Root Cause Analysis) ของเหตุขัดข้อง พร้อมสื่อสารผลการดำเนินงานกับผู้ใช้งานอย่างมีประสิทธิภาพ \n•\tตอบสนอง ติดตาม และดำเนินการแก้ไขปัญหาให้ทันเวลา เพื่อให้กิจกรรมการสนับสนุนทั้งหมดได้รับการติดตามและปิดงานภายในระยะเวลาตาม SLA (Service Level Agreement) \n•\tแก้ไขปัญหาระบบและเครือข่าย รวมถึงวิเคราะห์และแก้ไขข้อผิดพลาดของซอฟต์แวร์ \n•\tตั้งค่าและปรับแต่งระบบและแอปพลิเคชันให้สอดคล้องกับความต้องการทางธุรกิจ พร้อมแก้ไขปัญหาด้าน Configuration และ Integration \n•\tทำงานร่วมกับผู้ใช้งานและทีมพัฒนาอย่างมีประสิทธิภาพ \n•\tเสนอแนวทางและปรับปรุงระบบติดตามสถานะ (Monitoring System & Application) เชิงรุก เพื่อเพิ่มเสถียรภาพและประสิทธิภาพของระบบ \n\nคุณสมบัติ\n•\tสำเร็จการศึกษาระดับปริญญาตรี สาขา Computer Science, Computer Engineering, Software Engineering หรือสาขาที่เกี่ยวข้อง \n•\tมีประสบการณ์อย่างน้อย 3 ปี ด้านการพัฒนาระบบ (IT Development) หรือการสนับสนุนระบบ/แอปพลิเคชัน (System/Application Support) \n•\tมีความรู้ด้าน PL/SQL, Shell Script, Angular, Java, .NET C#, Unix, Windows และฐานข้อมูล (Database)\n\n** ทำงานแบบ Hybrid on-site ที่ BTS อารีย์ **\n** มีอุปกรณ์การทำงานของตัวเอง **",
+    "title": "IT Application Support สัญญาจ้าง 1 ปี",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "35000",
+    "is_anonymous": false,
+    "inserted_at": "2026-06-30T02:19:30.800178Z",
+    "updated_at": "2026-06-30T02:19:32.131776Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-30T02:19:30.781139Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+    "user_profile": {
+      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+      "username": "psp2005",
+      "display_name": "Professional Service Provider",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-06-30T04:37:29.531Z"
+  },
+  {
     "id": "b69e437b-4d39-446f-94f2-ac220adf111f",
     "status": "open",
     "tag": {
