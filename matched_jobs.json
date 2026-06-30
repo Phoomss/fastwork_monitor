@@ -433,53 +433,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-29T17:30:55.088Z"
-  },
-  {
-    "id": "5013bdbe-3489-4580-9ba8-9651c92e44fa",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการนักพัฒนาระบบ Stock Management สำหรับองค์กร แบบ Full Stack \nพร้อมใช้งานจริงบน Web Browser ทั้ง Desktop และ Mobile\n\n✅ ขอบเขตงาน (Scope of Work)\n\n1. ระบบ Login & สิ���ธิ์ผู้ใช้\n   - Login ด้วย Username / Password\n   - แบ่งสิทธิ์ Admin และ User ทั่วไป\n\n2. จัดการสินค้า\n   - เพิ่ม / แก้ไข / ลบ สินค้า\n   - กำหนดหมวดหมู่และรายละเอียดสินค้า\n   - ติดตาม Stock คงเหลือแบบ Real-time\n\n3. QR Code เบิก-คืนสินค้า\n   - สแกน QR Code ผ่านมือถือ\n   - บันทึกชื่อผู้เบิก / ผู้คืน\n   - ประวัติการเบิก-คืนทุกรายการ\n\n4. Dashboard & รายงาน\n   - แสดงสรุป Stock คงเหลือ\n   - กราฟและสถิติการเบิก-คืน\n   - Export รายงานเป็น Excel\n\n5. ระบบแจ้งเตือน Low Stock\n   - แจ้งเตือนเมื่อสินค้าต่ำกว่าจำนวนที่กำหนด\n\n6. นำเข้า / ส่งออก Excel\n   - Import สินค้าจำนวนมากด้วย Excel\n   - Export รายงานสต็อกเป็น Excel\n\n⚙️ Tech Stack ที่ต้องการ\n   - Frontend: React.js หรือ Vue.js\n   - Backend: Node.js / Python (FastAPI/Django) หรือ PHP (Laravel)\n   - Database: MySQL หรือ PostgreSQL\n   - Deploy บน VPS (Linux)\n\n📦 สิ่งที่ต้องส่งมอบ\n   - Source Code ทั้งหมด (Frontend + Backend)\n   - ติดตั้งและ Deploy บน Server จริง\n   - คู่มือการใช้งานเบื้องต้น (PDF หรือ Google Doc)\n   - สอนการใช้งานผ่าน Video Call 1 ครั้ง (1 ชม.)",
-    "title": "พัฒนาระบบ Stock Management แบบ Full Stack พร้อม QR Code เบิก-คืน และ Dashboard",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-29T13:37:02.256061Z",
-    "updated_at": "2026-06-29T13:37:03.168646Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-29",
-    "expired_at": "2026-07-29T13:37:02.237164Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a9261932-b5a8-493c-9753-16f36c6af3b8",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-29T14:56:35.114Z"
   }
 ]
