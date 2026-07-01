@@ -1,7 +1,4 @@
 [
-  "[2026-07-01T17:42:49.839Z]     Notification sent successfully.",
-  "[2026-07-01T17:42:49.690Z]   FOUND NEW TARGET JOB: คำนวณ KPI CPU memory , interference daily , weekly (Cats: พัฒนาเว็บไซต์) (Budget: 500 THB)",
-  "[2026-07-01T17:42:48.618Z] Checking Fastwork for new job posts...",
-  "[2026-07-01T17:42:48.616Z] Auto-cleanup: Removed 15 seen job tracking IDs older than 1 day(s).",
-  "[2026-07-01T17:42:48.613Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-07-01T19:23:24.042Z] Checking Fastwork for new job posts...",
+  "[2026-07-01T19:23:24.039Z] Auto-cleanup: Removed 14 seen job tracking IDs older than 1 day(s)."
 ]
