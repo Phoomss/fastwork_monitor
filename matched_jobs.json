@@ -1,5 +1,54 @@
 [
   {
+    "id": "0009970c-560a-401d-9aaf-a1f1727b53f6",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "1. เป็น PM/BA/SA/QA/Tester หรือตำแหน่งใดก็ได้ ขอให้มีประสบการณ์ในด้านการเทรนนิ่ง users\n2. มีความรู้ความเข้าใจในระบบคลังสินค้า (WMS)\n3. สามารถทำเอกสารอบรมหรือ admin/user manual ได้\n4. สามารถเข้าไป onsite training ลูกค้าได้ใน พฤหัสบดี และวันเสาร์\n\n**หากท่านใดสนใจ ผมรบกวนขอข้อมูล ดังนี้ครับ**\n1. ประสบการณ์ที่เกี่ยวกับด้านการอบรมหรือเทรนนิ่ง Web Application\n2. เอกสารที่เคยทำ\n3. จำนวนผู้เข้าอบรม\n4. สะดวก วันพฤหัสบดี และ วันเสาร์ ใช่หรือไม่\n5. สะดวกนัดบลีฟ workflow การทำงานของระบบก่อนเทรนนิ่งหรือไม่\n6. เรทราคา (เสนอมาได้ครับ)\n7. ข้อมูลติดต่อกลับ",
+    "title": " Business Analyst / System Analyst หรือผู้ที่สามารถทำความเข้าใจระบบเพื่อเทรนนิ่งและอบรมการใช้งานให้ users ได้ครับ",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-01T08:41:58.646597Z",
+    "updated_at": "2026-07-01T08:42:00.099448Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-07-31T08:41:58.623535Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "57cf2adb-6c34-4512-a540-c8904f1f87ef",
+    "user_profile": {
+      "id": "57cf2adb-6c34-4512-a540-c8904f1f87ef",
+      "username": "xyeaonhe",
+      "display_name": "xyeaonhe",
+      "image_url": "https://storage.googleapis.com/fastwork-static/22de2756-b655-4478-ad94-4d21c00f9a05.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-01T10:26:08.606Z"
+  },
+  {
     "id": "b0757dfb-8908-4945-83ac-6bf918d33dc1",
     "status": "open",
     "tag": {
@@ -240,53 +289,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-06-30T11:19:21.260Z"
-  },
-  {
-    "id": "0d4f5da3-dc2c-427a-85a2-691b96dfde0f",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนปรึกษาทำเว็บไซต์ ขอคนมีประสบการณ์ เพราะผมพึ่งเข้าวงการให้คำเเนะนำกันเองปรึกษา ขอคนมีประสบการณ์รู้ทุกซอกทุกมุม หรือช่วยเคลียร์ให้ด้วย",
-    "title": "หาคนปรึกษาทำเว็บไซต์ ขอคนมีประสบการณ์",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-06-30T05:30:19.913736Z",
-    "updated_at": "2026-06-30T05:30:20.723846Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPad;11.1.0-6002506"
-    },
-    "user_id": "f1868439-ba5f-4173-9c7c-4d5879fb78ff",
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-07-30T05:30:19.889976Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-30T08:08:11.440Z"
   }
 ]
