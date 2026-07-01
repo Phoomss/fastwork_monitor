@@ -241,53 +241,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-06-30T13:17:59.187Z"
-  },
-  {
-    "id": "b24d68fa-f8cd-4787-901f-a7d122c52fcd",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "【Bangkok / Khaosan Road Area】\nLooking for someone to place flyers and briefly introduce Traveler's Information Note at guesthouses\n\nWe are looking for someone to help with local fieldwork for Traveler's Information Note, a travel-related web service for travelers.\n\nThis task is to visit specified guesthouses / hostels around Khaosan Road in Bangkok,\nask the staff for permission, place a flyer for the web-based “Traveler's Information Note,” and briefly introduce it to 5 guests.\n\nTraveler's Information Note is a web version of the travel information notebook often found in guesthouses.\nIt is not a hotel review service. No app installation is required. Guests can open the web page by scanning the QR code.\n\n#Main tasks\n\n・Visit the specified guesthouse / hostel\n・Ask the staff for permission to place the flyer\n・Place the flyer in a visible area such as the lobby, lounge, reception area, or bulletin board\n・Briefly explain the flyer to 5 guests\n・If possible, ask guests to open the web page and encourage them to write a short travel note\n・Take a photo showing where the flyer was placed\n・Submit a Google Form report after the task\n・Send a completion message on Fastwork\n\n#Payment\n\n・Printing cost: 100 THB\n・Task fee: 300 THB per completed facility\n\nExamples\n1 facility: total 400 THB\n2 facilities: total 700 THB\n4 facilities: total 1,300 THB\n\nThe 100 THB printing cost will be paid upfront when the task starts.\nThe task fee will be paid according to the number of completed facilities after I confirm the Google Form report and the flyer placement photo.\n\n#Requirements\n\n・Smartphone\n・Ability to print the flyer, or to print it at a print shop / convenience store\n・Ability to give a simple explanation in English or Thai\n・Ability to submit a report with photos after the task\n\nThe detailed facility information, flyer, work manual, and report form will be shared after the task is confirmed.",
-    "title": "【Bangkok / Khaosan Road Area】someone to place flyers and briefly introduce Traveler's Information Note at guesthouses",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "700",
-    "is_anonymous": false,
-    "inserted_at": "2026-06-30T08:21:10.391992Z",
-    "updated_at": "2026-06-30T08:21:11.526866Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-07",
-    "expired_at": "2026-07-30T08:21:10.371649Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "9d9af204-6378-46db-a688-4bdc0afaaaf9",
-    "user_profile": {
-      "id": "9d9af204-6378-46db-a688-4bdc0afaaaf9",
-      "username": "n29axlxg",
-      "display_name": "Jumpei Kasahara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9d9af204-6378-46db-a688-4bdc0afaaaf9/profile/2734ff2a-88c0-43ec-bfd7-f2c992695642.png"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-06-30T11:19:21.260Z"
   }
 ]
