@@ -1,5 +1,53 @@
 [
   {
+    "id": "8fb04f05-e0bb-4f33-8cf3-e8493bbe148b",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "1. ข้อมูลงาน\nเว็บไซต์คลินิกศัลยกรรมความงาม เน้นกลุ่มคุณแม่ห��ังคลอด (Mommy Makeover) \nเว็บไซต์: qprimeclinic.com (WordPress, รองรับหลายภาษา TH/EN)\nเป้าหมาย: ต้องการติดอันดับต้นๆ ของ Google สำหรับคีย์เวิร์ดที่เกี่ยวข้องกับ mommy makeover \nพร้อมทั้งให้เว็บไซต์ถูกดึงไปใช้ตอบคำถามใน AI Search (ChatGPT, Google AI Overview, Perplexity)\n\n2. ขอบเขตงาน (Technical SEO + AEO)\n- Keyword research และวาง keyword mapping เฉพาะกลุ่ม mommy makeover\n- On-page SEO optimization (title, meta, heading, internal link)\n- ใส่ Schema Markup / Structured Data (FAQ Schema, Article Schema) เพื่อรองรับ AEO\n- ทำ Backlink คุณภาพ สายขาว ไม่ใช้บอท/PBN\n- Technical audit เว็บไซต์เบื้องต้น (site speed, mobile-friendly, index issues)\n- รายงานผลทุกเดือน พร้อมข้อมูลจาก Google Search Console / GA4\n\n3. เงื่อนไขที่ต้องการ\n- มีผลงาน/เคสจริงที่เคยทำให้ธุรกิจกลุ���มคลินิก/สุขภาพความงามมาก่อน (ขอดู portfolio)\n- เข้าใจ AEO จริง ไม่ใช่แค่ใส่คำในโปรไฟล์ (สามารถอธิบาย schema/entity building ได้)\n- ทำงานแบบ retainer รายเดือนต่อเนื่อง ไม่ใช่ package ครั้งเดียวจบ\n- สื่อสารได้ชัดเจน รายงานความคืบหน้าสม่ำเสมอ",
+    "title": "รับสมัคร Freelance ทำ SEO + AEO รายเดือน สำหรับเว็บคลินิกความงาม (Mommy Makeover)",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "8000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-02T18:26:42.209136Z",
+    "updated_at": "2026-07-02T18:26:43.249130Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;V2417;10.12.0-6002405"
+    },
+    "already_offered": null,
+    "business_type": "สุขภาพ ความงาม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-01T18:26:42.064859Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "1189c2f0-c1ba-4a5d-aa02-d43476ea9a86",
+    "user_profile": {
+      "id": "1189c2f0-c1ba-4a5d-aa02-d43476ea9a86",
+      "username": "lenkzler",
+      "display_name": "lenkzler",
+      "image_url": "https://storage.googleapis.com/fastwork-static/fe062af0-315e-4883-adde-50a3091d4661.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-02T18:45:43.119Z"
+  },
+  {
     "id": "e6eb809e-7830-4ad8-9cba-97a56af6288a",
     "status": "open",
     "tag": {
@@ -531,53 +579,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-02T01:49:57.732Z"
-  },
-  {
-    "id": "56444668-784a-49eb-8f85-30d282429a75",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "คำนวณ KPI CPU memory , interference daily , weekly ข้อมูลมีปริมาณเยอะ 1 วัน data 4.5GB\n...........................",
-    "title": "คำนวณ KPI CPU memory , interference daily , weekly",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-01T16:35:22.412730Z",
-    "updated_at": "2026-07-01T16:35:23.616226Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "5cbc889f-72a7-4ffb-8e37-7bf9a5940854",
-    "expired_at": "2026-07-31T16:35:22.396901Z",
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-01T17:42:49.689Z"
   }
 ]
