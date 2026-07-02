@@ -1,5 +1,102 @@
 [
   {
+    "id": "94a6f050-c6ca-4e87-bb04-4ccf98072bc1",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "คนช่วยตัด Assets png,svg จากภาพใหญ่ Mobile App Design แยกออกมาเป็นชิ้นๆ\n\nมีภาพใหญ่อยุ่แล้วแต่ต้องการ Assets เล็กๆในภาพออกมาเพื่อใช้งานจริง เช่น icon ต่างๆ",
+    "title": "คนช่วยตัด Assets png,svg จากภาพใหญ่ Mobile App Design แยกออกมาเป็นชิ้นๆ",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-02T05:24:56.751973Z",
+    "updated_at": "2026-07-02T05:24:57.516524Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "2c1fa09b-3244-4929-9f8f-6a3bdd92ae0a",
+    "expired_at": "2026-08-01T05:24:56.730357Z",
+    "already_offered": null,
+    "business_type": "การท่องเที่ยว นันทนาการ",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "2c1fa09b-3244-4929-9f8f-6a3bdd92ae0a",
+      "username": "columns",
+      "display_name": "column",
+      "image_url": "https://storage.googleapis.com/fastwork-static/458623f2-c49c-4c48-84de-7bcdd7ee21f6.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-02T05:44:35.935Z"
+  },
+  {
+    "id": "0bc7d007-6033-47e7-b065-c711cca9abe3",
+    "status": "open",
+    "tag": {
+      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
+      "name": "งานสอน",
+      "sort": 12
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nสอนสร้าง AI Chatbot \nหรือระบบ ทำเว็บไซต์ขึ้นใช้งานจริง\nเวลาในการสอนตกลงกัน\nขอคนใจเย็นและสอนเป็น",
+    "title": "ฉันหาคนสอนใช้ claude cowork",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-02T04:38:02.261919Z",
+    "updated_at": "2026-07-02T04:38:03.126693Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "4baa5d17-cbad-4764-bc33-3a1011112c56",
+    "expired_at": "2026-08-01T04:38:02.243892Z",
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-02T05:44:34.604Z"
+  },
+  {
     "id": "e91bd102-ae75-4b41-b2ec-b886bdc29a9b",
     "status": "open",
     "tag": {
