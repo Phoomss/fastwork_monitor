@@ -1,5 +1,53 @@
 [
   {
+    "id": "04e5205f-457c-4ab4-9fd0-8e559be32599",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการสร้างเว็บไซต์ด้วย Joomla 6 เวอร์ชั่นล่าสุด\n\nอยากรู้แกนหลักของระบบเนื้อหา การจัดหมวดหมู่ การสร้างเมนู และการสร้างหน้าเพจ landing page \n\nการแก้ไขธีม\n\nเป้าหมายที่ต้องการ\n- เว็บไซต์ 2 ภาษา (หลัก) ไทย, อังกฤษ\n- หน้าแรก แยก 2 ภาษา สามารถสลับไปมาได้\n- หน้าหมวดหมู่ แยกตาม category เนื้อหา ข่าว บทความ ประกาศ\n- เนื้อหาแยกแต่ละภาษา (ไม่ต้องแปล)\n- สอนการสร้างหน้า landing page แต่ละภาษา\n\nขอดูผลงานก่อนพิจารณานะครับ\n\nสะดวกให้สอนผ่าน Google meet ระยะเวลา 3 ชั่วโมง สะดวกวันเสาร์-อาทิตย์ 13-15 น.",
+    "title": "หาคนสอนใช้ Joomla 6",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-03T03:56:17.778064Z",
+    "updated_at": "2026-07-03T03:56:18.669383Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S948B;10.10.0-6002269"
+    },
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-02T03:56:17.758105Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "80a00a75-10a1-49ab-8403-501a7fb71344",
+    "user_profile": {
+      "id": "80a00a75-10a1-49ab-8403-501a7fb71344",
+      "username": "poakpong",
+      "display_name": "Poakpong",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/80a00a75-10a1-49ab-8403-501a7fb71344/profile/5a6047b9-8a80-4cb3-90e6-b206fc7340a8.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-03T04:57:35.294Z"
+  },
+  {
     "id": "8fb04f05-e0bb-4f33-8cf3-e8493bbe148b",
     "status": "open",
     "tag": {
@@ -529,55 +577,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-02T05:44:34.604Z"
-  },
-  {
-    "id": "e91bd102-ae75-4b41-b2ec-b886bdc29a9b",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน:\nสวัสดีครับ กำลังมองหานักพัฒนาซอฟต์แวร์ระดับอาวุโส หรือ CTO มารับช่วงต่อและดูแลระบบ Web Application รูปแบบ 2-Sided Platform (SaaS) ในระยะยาวครับ\n​ปัจจุบันโครงสร้าง UI และตัวอย่างระบบ (Prototype) หน้าบ้านถูกพัฒนาไว้เสร็จสมบูรณ์แล้วบนแพลตฟอร์ม Lovable สแต็กที่ใช้คือ React + Tailwind CSS และระบบหลังบ้านเชื่อมต่อกับ Supabase\n​ขอบเขตงานที่ต้องรับผิดชอบ:\n​Phase 1 (Deployment & Core Engineering): แกะโค้ดหน้าบ้านจาก Lovable ออกมาจัดการรันและ Deploy ไว้บน Production Server จริง พร้อมทั้งเชื่อมต่อ API, จัดการ Data Query บน Supabase และวางระบบสับสิทธิ์ผู้ใช้งาน (Role-Based Access Control) ให้เสถียรและปลอดภัย\n​Phase 2 (Long-term Maintenance & SLA): ดูแลรักษา บำรุงรักษาระบบ คอยมอนิเตอร์เซิร์ฟเวอร์ และแก้ไขบั๊กหน้างานอย่างต่อเนื่องในระยะยาวหลังจากระบบขึ้นรันจริงแล้ว\n​ผลตอบแทนและข้อตกลงระยะยาว:\n​โมเดลหุ้นส่วน/ส่วนแบ่งรายได้: จ่ายค่าตอบแทนต่อเนื่องระยะยาวในรูปแบบ Profit Sharing แบ่งให้ 20% - 25% จากกำไรสุทธิ ของทุกดีล/ทุกหน่วยงานที่ระบบเปิดการขายและจัดเก็บรายได้สำเร็จ\n​ยิ่งระบบขยายตัวและมีผู้ใช้งานมากขึ้น รายได้ต่อเนื่องรายเดือนของคุณจะเติบโตขึ้นตามสัดส่วนโดยไม่มีเพดานจำกัด\n​คุณสมบัติที่ต้องการ:\n​เชี่ยวชาญ React, Tailwind CSS และการจัดการฐานข้อมูล Supabase เป็นอย่างดี\n​มีประสบการณ์ในการจัดการ Production Server และการวางระบบ Role-Based Security\n​มีความรับผิดชอบสูง สื่อสารรู้เรื่อง และพร้อมเติบโตเป็นพันธมิตรร่วมดูแลระบบกันในระยะยาว\n​หมายเหตุ: รายละเอียดเชิงลึกและฟังก์ชันการทำงานของระบบทั้งหมด จะมีการเปิดเผยและส่งมอบหลังจากเซ็นสัญญาข้อตกลงร่วมกันเรียบร้อยแล้วเพื่อความปลอดภัยทางธุรกิจครับ\n",
-    "title": "รับจ้างแกะโค้ด React (Lovable) ข��้น Production Server + พ่วงสัญญาระยะยาวดูแลระบบ (โมเดล Profit Sharing 20%-25%)",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_banner",
-    "files": [],
-    "kind": "standard",
-    "budget": "20000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T01:31:17.046579Z",
-    "updated_at": "2026-07-02T01:31:18.065895Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;2407FPN8EG;10.4.0-6002062"
-    },
-    "user_id": "67831225-d1af-4331-b200-52c329582618",
-    "expired_at": "2026-08-01T01:31:17.029478Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-15",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "67831225-d1af-4331-b200-52c329582618",
-      "username": "paulaaspa",
-      "display_name": "paulaaspa",
-      "image_url": "https://storage.googleapis.com/fastwork-fileupload/aecbcf27-97dd-4832-be74-b1e4aacf47d2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-02T01:49:57.732Z"
   }
 ]
