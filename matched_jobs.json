@@ -1,5 +1,101 @@
 [
   {
+    "id": "74b2e2dd-f747-4c38-88fa-bfce41722f73",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "    ระบบ API เท่านั้น ไม่เอา extension  ทุกกรณี\n* ใช้เวลาจองไม่เกิน 1 วิ หรือไวสุดเท่าไหร่ลองมาคุยได้ครับ ว่าเซิร์ฟเวอร์รับไ��สุดได้กี่วิ แต่เวลา 1 วิ ผมเอามาเทียบกับ Shopee Lazada ที่ผมใช้อยู่ โดยปกติใช้เวลาดึงและจ่ายเงินไม่เกิน 0.8 วินาที\n* มีระบบจองซ้ำ ถ้าจองเลขนั้นไม่ได้ ก็สามารถจองเลขต่อไปที่เซ็ตไว้ได้เลย\n* บอทเป็นหน้า CLI และใส่รายละเอียดทะเบียนรถต่าง ๆ ใน CSV\n* ใส่ Proxy ได้",
+    "title": "หาคนทำบอทจอง ทะเบียนรถ",
+    "is_owner": null,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-03T18:41:07.832721Z",
+    "updated_at": "2026-07-03T18:41:09.104882Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.6.1;iPhone;6.13.0-6000562"
+    },
+    "user_id": "4719a21f-aeae-4f65-a3b6-42ee38bfab6c",
+    "already_offered": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-04",
+    "expired_at": "2026-08-02T18:41:07.783156Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-03T18:52:19.747Z"
+  },
+  {
+    "id": "54f10fbb-6ec3-4a31-9637-5effa2e2fc50",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "🔥 Sunday Cloud รับสมัคร AI Growth & Marketing Specialist (Full-time) | Work From Home (WFH)\n\nเราหาคนมาสร้าง AI Marketing Engine — ระบบผลิตคอนเทนต์ ทำการตลาด และหา Lead ด้วย AI ให้ธุรกิจในเครือ \n\nงานที่ทำ\n• สร้าง AI Persona + Prompt Playbook ให้แต่ละแบรนด์\n• ผลิตคอนเทนต์ด้วย AI ลง FB / TikTok / IG / YouTube / Blog / Email\n• ทำ Automation: Cold Email, Lead Nurturing, AI Reply (Make / n8n)\n• ทำ Growth Campaign, A/B Test, วัดผลด้วยตัวเลขจริง\n• ทดลอง AI Tools ใหม่ๆ แล้วสรุปให้ทีมใช้\n\nคุณสมบัติ\n• อายุ 22–35 ปี ใช้ ChatGPT / Claude เป็นประจำ\n• เขียนไทยดี อ่านอังกฤษได้\n• ชอบทดลอง เรียนรู้เร็ว ทำงานเชิงรุก ไม่รอ Brief\n• (เป็นพลัสถ้า) เคยทำ AI Content, Make/n8n, Canva/Figma, ตัดวิดีโอสั้น, SEO, Cold Email\n\nเงินเดือน\n• Junior 25,000–35,000\n• Mid-Level 35,000–45,000\n• Senior 50,000–60,000\n\nรับพิจารณาแบบ Contract/Part-time สำหรับคนมีผลงานจัดๆ\n\nวิธีสมัคร — เราคัดจากผลงานเป็นหลัก\n1. ส่ง CV + พอร์ตผลงานคอนเทนต์ / โปรเจกต์ AI ที่เคยทำ (ลิงก์เพจ, TikTok, อะไรก็ได้)\n2. Mini Challenge: ใช้ AI ทำคอนเทนต์ขายของ 1 ชิ้น + แนบ Prompt และเครื่องมือที่ใช้\n\nสนใจทักแชทมาได้เลยผ่านระบบ Fastwork\n\nรายงานตรงกับ Head of Product & Experience ทำงานใกล้ชิดทีม AI, BD, Engineering และ Founder\n\nถ้าคุณเชื่อว่าการตลาดยุคนี้ต้องทำด้วย AI  มาร่วมสร้างไปด้วยกัน 🚀",
+    "title": "รับสมัคร AI Growth & Marketing Specialist (งานประจำ) 25K–60K — คัดจากผลงานจริง",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "60000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-03T18:19:33.579114Z",
+    "updated_at": "2026-07-03T18:19:35.180253Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-02T18:19:33.485237Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+      "username": "joethongchai",
+      "display_name": "Joe Thongchai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/486a4610-f6dc-49d2-8df6-69b7854adec2/profile/7baf2a1d-b2f8-41e4-9036-78cbbb42ca9a.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-03T18:52:18.610Z"
+  },
+  {
     "id": "20c92866-03c6-413c-b555-65e726a312dd",
     "status": "open",
     "tag": {
@@ -383,53 +479,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-03T04:57:35.294Z"
-  },
-  {
-    "id": "8fb04f05-e0bb-4f33-8cf3-e8493bbe148b",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "contract",
-    "description": "1. ข้อมูลงาน\nเว็บไซต์คลินิกศัลยกรรมความงาม เน้นกลุ่มคุณแม่ห��ังคลอด (Mommy Makeover) \nเว็บไซต์: qprimeclinic.com (WordPress, รองรับหลายภาษา TH/EN)\nเป้าหมาย: ต้องการติดอันดับต้นๆ ของ Google สำหรับคีย์เวิร์ดที่เกี่ยวข้องกับ mommy makeover \nพร้อมทั้งให้เว็บไซต์ถูกดึงไปใช้ตอบคำถามใน AI Search (ChatGPT, Google AI Overview, Perplexity)\n\n2. ขอบเขตงาน (Technical SEO + AEO)\n- Keyword research และวาง keyword mapping เฉพาะกลุ่ม mommy makeover\n- On-page SEO optimization (title, meta, heading, internal link)\n- ใส่ Schema Markup / Structured Data (FAQ Schema, Article Schema) เพื่อรองรับ AEO\n- ทำ Backlink คุณภาพ สายขาว ไม่ใช้บอท/PBN\n- Technical audit เว็บไซต์เบื้องต้น (site speed, mobile-friendly, index issues)\n- รายงานผลทุกเดือน พร้อมข้อมูลจาก Google Search Console / GA4\n\n3. เงื่อนไขที่ต้องการ\n- มีผลงาน/เคสจริงที่เคยทำให้ธุรกิจกลุ���มคลินิก/สุขภาพความงามมาก่อน (ขอดู portfolio)\n- เข้าใจ AEO จริง ไม่ใช่แค่ใส่คำในโปรไฟล์ (สามารถอธิบาย schema/entity building ได้)\n- ทำงานแบบ retainer รายเดือนต่อเนื่อง ไม่ใช่ package ครั้งเดียวจบ\n- สื่อสารได้ชัดเจน รายงานความคืบหน้าสม่ำเสมอ",
-    "title": "รับสมัคร Freelance ทำ SEO + AEO รายเดือน สำหรับเว็บคลินิกความงาม (Mommy Makeover)",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "8000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T18:26:42.209136Z",
-    "updated_at": "2026-07-02T18:26:43.249130Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;V2417;10.12.0-6002405"
-    },
-    "already_offered": null,
-    "business_type": "สุขภาพ ความงาม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-01T18:26:42.064859Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "1189c2f0-c1ba-4a5d-aa02-d43476ea9a86",
-    "user_profile": {
-      "id": "1189c2f0-c1ba-4a5d-aa02-d43476ea9a86",
-      "username": "lenkzler",
-      "display_name": "lenkzler",
-      "image_url": "https://storage.googleapis.com/fastwork-static/fe062af0-315e-4883-adde-50a3091d4661.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-02T18:45:43.119Z"
   }
 ]
