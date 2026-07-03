@@ -1,5 +1,102 @@
 [
   {
+    "id": "42fd8f52-7b40-48f2-a92e-754fb71658b9",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "Project Requirement\n\nFreelance WordPress Full Stack Developer\n\nต้องการพัฒนา Website Tracking บนเว็บไซต์ WordPress (Elementor)\n\nขอบเข���งาน (Milestone 1)\nHidden Fields\nGCLID Capture\nUTM Capture\nElementor Form Integration\nCRM Ready (รองรับการเชื่อมต่อในอนาคต)\n\nโปรเจกต์นี้แบ่งเป็น 3 Milestones โดยจะเริ่มว่าจ้างจาก Milestone 1 ก่อน หากผลงานเป็นที่น่าพอใจ จะพิจารณาว่าจ้างต่อใน Milestone ถัดไป\n\nRequirement\n\nรายละเอียด Scope งานทั้งหมดอยู่ในเอกสารด้านล่าง\n\n📄 https://docs.google.com/document/d/1C2ZxjEacwTHrdYHfiFVjVN80SO6U7_HM4mfwyJP_nS0/edit?usp=sharing\n\nกรุณาอ่าน Requirement ทั้งหมดก่อนส่งข้อเสนอ\n\nกรุณาระบุในข้อเสนอ\nPortfolio หรือผลงานที่ใกล้เคียงกับ Website Tracking, WordPress หรือ Marketing Integration\nประสบการณ์ด้าน WordPress / Elementor\nประสบการณ์ด้าน Hidden Fields, GCLID และ UTM Tracking (ถ้ามี)\nมีข้อเสนอแนะหรือแนวทางเพิ่มเติมในการพัฒนาระ���บหรือไม่ (ถ้ามี)\nแนวทางการดำเนินงาน (Implementation Plan) โดยสรุป\nระยะเวลาดำเนินงานโดยประมาณ\n\nกรุณาเสนอราคาสำหรับ Milestone 1 และหากได้รับว่าจ้างต่อ รบกวนประเมินงบประมาณโดยประมาณสำหรับ Milestone 2 และ Milestone 3 เพื่อใช้ประกอบการวางแผนงบประมาณของบริษัท\n\nผู้ว่าจ้างจะพิจารณาจากความเข้าใจ Scope งาน แนวทางการดำเนินงาน ประสบการณ์ และความเหมาะสมของราคา ไม่ได้พิจารณาจากราคาต่ำที่สุดเพียงอย่างเดียว\n\nหมายเหตุ\nเว็บไซต์พัฒนาเสร็จเรียบร้อยแล้ว และอยู่ในช่วงส่งมอบระบบ\nผู้สมัครสามารถเสนอแนวทางการพัฒนาเพิ่มเติมได้ หากเห��นว่าวิธีการเดิมสามารถปรับปรุงให้มีประสิทธิภาพมากขึ้น\n\n*ผู้ที่ได้รับการคัดเลือกอาจมีการนัดประชุมออนไลน์ (Google Meet) เพื่ออธิบายแนวทางการดำเนินงานก่อนเริ่มโครงการ",
+    "title": "ต้องการ Freelance WordPress Full Stack Developer",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "999999",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-03T10:42:42.743436Z",
+    "updated_at": "2026-07-03T10:42:43.700536Z",
+    "brief_url": "https://www.apd.co.th/",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "cef197f4-876b-4dd5-a3c5-e80b2681d87e",
+    "already_offered": null,
+    "business_type": "อสังหาริมทรัพย์ ก่อสร้าง",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-02T10:42:42.723461Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-03T10:47:19.379Z"
+  },
+  {
+    "id": "2ab94ecc-3890-40c2-8544-c126b15cb1e8",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หนูอายุ17ต้องการสร้างแอปพิเคชั่น ตอนนี้อาจจะขอคำปรึกษาเรื่องราคาและความเป็นไปได้ของแอปก่อน หากมีตังพอจะสร้างเลย คนที่รู้เรื่องforexจะดีมากๆ ขอคนที่ไม่รำคาญเวลาถาม เพราะหนูไม่มีประสบการณ์ต้องการความรู้มากๆ",
+    "title": "คนปรึกษาหรืออาจสร้างแอปพิเคชั่น เกี่ยวกับเทรดและระบบวางแผนชีวิต",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-03T08:36:36.062394Z",
+    "updated_at": "2026-07-03T08:36:36.996756Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.1;iPhone;9.6.0-6001483"
+    },
+    "user_id": "3824bff4-150a-4f9e-bf97-507324bc0384",
+    "already_offered": null,
+    "business_type": "การศึกษา พัฒนาตนเอง",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-02T08:36:36.036298Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "3824bff4-150a-4f9e-bf97-507324bc0384",
+      "username": "4rlz1hcf",
+      "display_name": "4rlz1hcf",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-03T10:47:18.165Z"
+  },
+  {
     "id": "10031b75-5d13-4913-b8cf-d243cfbbe71b",
     "status": "open",
     "tag": {
@@ -432,149 +529,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-02T11:11:52.495Z"
-  },
-  {
-    "id": "4aefdfce-2c94-4ec3-8413-0c55f6eabb95",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "หาลูกค้าที่ต้องการ custom software ทำ marketing และปิดดีล ไม่ต้องรู้ IT ได้ค่า Commission 25% ไม่มี cap\nเข้าออฟฟิศนิมมาน เชียงใหม่ 3 วัน/สัปดาห์ เลือกวันเอง 10:00-17:00 \nสิ่งที่จะได้รับ\n- ฟรีค่าอาหารกลางวัน\n- ออกแบบวันทำงานได้เอง เลือกเลยจะเข้าวันไหน\n- ได้ทำงานกับ real client จริง ไม่ใช่ project จำลอง\n- บรรยากาศ startup เล็ก เติบโตเร็ว เห็นผ���งานตัวเองชัด",
-    "title": "Sales & Marketing ",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1500",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T07:54:01.089558Z",
-    "updated_at": "2026-07-02T07:54:02.756174Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "db5723c4-6d18-4a01-b78a-5d8472317727",
-    "expired_at": "2026-08-01T07:54:01.067024Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-31",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "db5723c4-6d18-4a01-b78a-5d8472317727",
-      "username": "meeraimai",
-      "display_name": "Nichapat",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/db5723c4-6d18-4a01-b78a-5d8472317727/profile/2eec164d-89e3-4d6b-ac55-b4c94a16c9fd.JPG"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-02T08:33:55.305Z"
-  },
-  {
-    "id": "51f3ee9e-b3f7-4a56-b1f0-f3db040bfed8",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "📌 [หา Freelance 4 เดือน] Full-Stack Developer (React/Vue + Node.js) ร่วมโปรเจกต์ธุรกิจ FMCG\nระยะเวลาจ้างงาน: สัญญาจ้าง 4 เดือน (ร่วมงานกับทีม IT ของผู้ว่าจ้าง)\nรูปแบบการทำงาน: Remote / Flexible (ส่งมอบงานตาม Tasks ที่ได้รับมอบหมาย)\n\n📋 รายละเอียดงานและคุณสมบัติ (Job Description & Qualifications)\nกำลังมองหา Full-Stack Developer มาร่วมทีมพัฒนา Web Application สำหรับใช้ในระบบปฏิบัติการธุรกิจ FMCG (สินค้าอุปโภคบริโภค) เป็นระยะเวลา 4 เดือนครับ\n\nประสบการณ์ที่ต้องการ:\nExperience: มีประสบการณ์พัฒนา Full-Stack Web Application (Hand-on) ประมาณ 4 ปีขึ้นไป\nTrack Record: เคยมีผลงานสร้างและส่งมอบ Web-based Application ที่ใช้ในระบบปฏิบัติการธุรกิจจริง\nAPI Integration: มีประสบการณ์เชื่อมต่อระบบกับ Third-party REST APIs\nTeamwork: สามารถทำงานร่วมกับทีม IT ของฝั่งผู้ว่าจ้างได้ดี รับผิดชอบและส่งมอบงานตาม Tasks ที่ได้รับมอบหมายอย่างเป็นระบบ\nLanguage: สื่อสารภาษาไทยได้ดี และสามารถอ่าน-เขียน เอกสารทางเทคนิค (Technical Documentation) เป็นภาษาอังกฤษได้\n\n🛠️ Skill Sets ที่จำเป็น (Core Capabilities)\nFront-end: React หรือ Vue\nBack-end: Node.js\nDatabase: Relational Database (PostgreSQL หรือ MySQL)\nAPI: REST API integration\nVersion Control: Git version control และมีความรู้พื้นฐานด้าน CI/CD\nBonus (จะพิจารณาเป็นพิเศษ): หากเคยผ่านโปรเจกต์กลุ่มธุรกิจ FMCG / Consumer Goods / Retail Technology จะรับพิจารณาเป็นพิเศษครับ\n\n📩 สนใจร่วมงานกรุณาส่ง: **********\nประวัติการทำงาน (Resume / Profile) \nอัตราค่าจ้างรายเดือน (Monthly Rate): งบประมาณสามารถพูดคุยยืดหยุ่นได้ตามประสบการ���์",
-    "title": "Full Stack Developer - 4 เดือน",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "40000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T06:56:15.492207Z",
-    "updated_at": "2026-07-02T06:56:16.311674Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "939c26ac-c986-4c80-b18d-5b2831f67763",
-    "expired_at": "2026-08-01T06:56:15.472602Z",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "939c26ac-c986-4c80-b18d-5b2831f67763",
-      "username": "ezmyzoas",
-      "display_name": "ezmyzoas",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-02T08:33:54.133Z"
-  },
-  {
-    "id": "3eed306f-e0d2-4dd3-bd91-908140ac7546",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "กู้แชทไลน์ มีเมล มีสำรองข้อมูล ขอแค่กู้ได้ \n\nสนทนาไม่ต้องเยอะมาก กู้ได้บางส่วนก็ได้\n………………………….:::::::",
-    "title": "กู้แชทไลน์",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-02T06:01:34.185648Z",
-    "updated_at": "2026-07-02T06:01:34.992522Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.4.1;iPhone;8.1.0-6001003"
-    },
-    "user_id": "96f21360-6ab7-4254-927a-a63658678488",
-    "expired_at": "2026-08-01T06:01:34.163412Z",
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-02",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-02T08:33:52.865Z"
   }
 ]
