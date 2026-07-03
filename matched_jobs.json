@@ -1,5 +1,53 @@
 [
   {
+    "id": "485d414f-2cab-47eb-ac38-1f9c4476f6c4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หนูต้องทำส่งแล้ว แต่มันยังไม่เลยค่ะ อยากให้ช่วยจัดวางช่อง เดี๋ยวเข้าไปปรับแต่งใส่ข้อมูล ใส่textเองค่ะ เจอจุดที่มีปัญหาเยอะมากๆๆๆ \nทำเป็นเว็ปเกี่ยวกับตัวเองค่ะ ใส่ผลงานใส่นู่นนี่ มีงบไม่ค่อยเยอะนะคะ ลองเสนอมาก่อนได้ค่ะ",
+    "title": "หาพี่ใจดีช่วยหนูทำ wordpess",
+    "is_owner": null,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-03T11:04:32.869692Z",
+    "updated_at": "2026-07-03T11:04:34.116656Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPhone;10.0.0-6001949"
+    },
+    "user_id": "12ef35f6-51b3-44f2-8df8-3eedff9e3180",
+    "already_offered": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-03",
+    "expired_at": "2026-08-02T11:04:32.849999Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-03T12:30:14.355Z"
+  },
+  {
     "id": "42fd8f52-7b40-48f2-a92e-754fb71658b9",
     "status": "open",
     "tag": {
@@ -287,247 +335,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-02T18:45:43.119Z"
-  },
-  {
-    "id": "e6eb809e-7830-4ad8-9cba-97a56af6288a",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการโปรเเกรม control Reconcile เอกสาร\nผ่านการตรวจสอบเอกสาร ocr \nมีการเก็บบันทึกข้อมูลเอกสาร\nสามารถเรียกย้อนหลังเอกสารได้",
-    "title": "โปรเเกรม control Reconcile เอกสาร",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-02T10:59:55.546073Z",
-    "updated_at": "2026-07-02T10:59:56.458266Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android13;SM-A536E;11.2.0-6002539"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-01T10:59:55.528669Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_id": "e475ff1f-ff68-4f5e-b4b3-0e22f9f4a426",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-02T11:11:56.916Z"
-  },
-  {
-    "id": "86887a1b-b980-4c4c-9ae8-2bb933082c75",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "หาคนรับทำ CAD สกรู 1 ตัว มีขนาดให้ แค่ทำ 2D ง่ายๆ ไม่ยาก ค่ะ แค่สเก็ตภาพตามแบบที่มี และเขียนว่าส่วนนี้กว้างยาวเท่าไร (มีขนาดให้)\n\n\n",
-    "title": "คนรับทำ CAD สกรู 1 ตัว มีขน��ดให้เรียบร้อยแค่เขียนให้เป็น 2D",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T10:49:28.536321Z",
-    "updated_at": "2026-07-02T10:49:29.701467Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPhone;8.10.0-6001236"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-03",
-    "expired_at": "2026-08-01T10:49:28.514591Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "665470b0-b10b-4993-a72e-a45027350e0e",
-    "user_profile": {
-      "id": "665470b0-b10b-4993-a72e-a45027350e0e",
-      "username": "jupurl",
-      "display_name": "purlsia",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/665470b0-b10b-4993-a72e-a45027350e0e/profile/657f6aaf-f186-4327-896b-cb273a424d95.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-02T11:11:55.836Z"
-  },
-  {
-    "id": "ad93c3d3-cc73-4ca8-9d68-fbfe5553e216",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการว่าจ้างผู้พัฒนา AI Chatbot บน LINE Official Account สำหรับพัฒนาระบบผู้ช่วยอัจฉริยะสำหรับเจ้าของสุนัข โดยผู้พัฒนาจะรับผิดชอบการพัฒนา AI Chatbot, Backend และ Database พร้อมเชื่อมต่อกับ OpenAI API / LLM, Knowledge Base (RAG) และ LINE Messaging API เพื่อพัฒนาฟีเจอร์ตาม Requirement ที่กำหนด เช่น ระบบตอบคำถามเกี่ยวกับการดูแลสุนัข ระบบจัดเก็บข้อมูลสุนัข ระบบแนะนำสินค้า ระบบแจ้งเตือน และระบบ���ัดการข้อมูลต่าง ๆ ของสุนัข พร้อมส่งมอบ Source Code ทั้งหมด เอกสารการติดตั้ง และระบบที่พร้อมใช้งานจริง โดยมีเอกสาร Requirement และ Feature Specification จัดเตรียมไว้ครบถ้วนสำหรับใช้ในการพัฒนา\n\n\nรายละเอียดงาน\n\nต้องการผู้พัฒนา AI Chatbot บน LINE Official Account สำหรับระบบผู้ช่วยอัจฉริยะสำหรับเจ้าของสุนัข\n\nขอบเขตงาน\n\n* พัฒนา AI Chatbot บน LINE Official Account\n* เชื่อมต่อ OpenAI API / LLM\n* เชื่อมต่อ Knowledge Base (RAG)\n* พัฒนา Backend และ Database\n* รองรับการสนทนาแบบต่อเนื่องและจดจำบริบท (Memory)\n* จัดเก็บข้อมูล Dog Profile\n* ระบบตอบคำถามเกี่ยวกับการดูแลสุนัข\n* ระบบแนะนำสินค้า พร้อม Shopee Affiliate\n* ระบบเปรียบเ���ียบสินค้า\n* ระบบบันทึกและแจ้งเตือนการใช้ยา\n* ระบบบันทึกและแจ้งเตือนวัคซีน / เห็บหมัด / ถ่ายพยาธิ\n* ระบบบันทึกน้ำหนัก สุขภาพ และกิจกรรม\n* ระบบบันทึกอาการ (Symptom Diary)\n* ระบบแจ้งเตือนกิจกรรมการดูแลสุนัข (Dog Care Calendar)\n* ระบบแจ้งเตือนนัดพบสัตวแพทย์\n* ระบบจัดเก็บเอกสารของสุนัข\n* ระบบให้คำแนะนำเบื้องต้นกรณีฉุกเฉิน (Emergency Guidance)\n* ระบบค้นหาโรงพยาบาลสัตว์ใกล้เคียง\n* ระบบค้นหาร้าน Grooming และบริการที่เกี่ยวข้อง\n* ระบบบันทึกและสรุปค่าใช้จ่ายของสุนัข\n* รองรับการส่งข้อความแจ้งเตือนผ่าน LINE\n\nสิ่งที่ต้องส่งมอบ\n\n* Source Code ทั้ง��มด\n* Backend และ Database\n* Prompt / AI Configuration\n* เอกสารการติดตั้ง\n* ระบบที่พร้อมใช้งานจริง\n\nหมายเหตุ: มีเอกสาร Requirement, Feature Specification และ Conversation Flow พร้อมสำหรับใช้ในการพัฒนาระบบ.",
-    "title": "ผู้พัฒนา AI Chatbot บน LINE Official Account สำหรับโปรเจกต์  – AI Dog Care Companion",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T10:33:11.931836Z",
-    "updated_at": "2026-07-02T10:33:13.077533Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.0.3-6002477"
-    },
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-08",
-    "expired_at": "2026-08-01T10:33:11.912671Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
-    "user_profile": {
-      "id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
-      "username": "sopetcoo",
-      "display_name": "Napat Sienglue",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7c506f8c-ca1c-4675-b460-e14e830ede63/profile/911f0e44-1df3-47c7-8fd1-6aefcbe99c58.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-02T11:11:54.762Z"
-  },
-  {
-    "id": "da09d8e6-e012-405a-a7c4-47a8f2e253a3",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "รายละเอียดงาน\n- รวบรวมความต้องการ (Requirements) ในการพัฒนา จากหน่วยงานภายในและลูกค้าภายนอก \n- วิเคราะห์ ออกแบบระบบ และจัดทำเอกสารที่เกี่ยวข้องเพื่อให้โปรแกรมเมอร์นำไปพ���ฒนาระบบ \n- ให้คำแนะนำทางด้านการเขียนโปรแกรมแก่ทีมเพื่อให้ระบบดำเนินไปได้ตามเป้าหมาย (Review source code) และทำการทดสอบระบบ \n- บริหารทีม วางแผน กำหนด Timeline เพื่อมอบหมายงานและติดตามความคืบหน้าในการพัฒนาและออกแบบระบบจากโปรแกรมเมอร์ เพื่อให้เป็นไปตามเป้าหมายที่กำหนด รวมถึงการจัดการ Resource อย่างเหมาะสมกับโครงการ \n- เรียนรู้ แนะนำ tool หรือเทคโนโลยีใหม่ ๆ เพื่อนำมาประยุกต์ใช้อย่างเหมาะสม เพิ่มประสิทธิภาพการทำงานของระบบ\n\nคุณสมบัติผู้สมัคร\n1.\tสัญชาติไทย ไม่จำกัดเพศ อายุ 25-35 ปี\n2.\tปริญญาตรีขึ้นไป สาขาวิทยาศา���ตร์คอมพิวเตอร์ เทคโนโลยีสารสนเทศ หรืออื่นๆ ที่เกี่ยวข้อง\n** 3.\tประสบการณ์ในงาน Software Developer / Programmer อย่างน้อย 2 ปี และประสบการณ์ในงานวิเคราะห์และออกแบบระบบ (SA) อย่างน้อย 2 ปี **\n4.\tมีประสบการณ์วิเคราะห์ออกแบบระบบให้กับลูกค้าภายนอก (B2G / B2B)\n5.\tมีประสบการณ์ในการเขียน Query ด้วย MS SQL Database\n6.\tมีประสบการณ์ในการบริหารโครงการ และบริหารผู้ใต้บังคับบัญชา\n7.\tมนุษยสัมพันธ์ดี มีความน่าเชื่อถือ มีทักษะในการให้คำปรึกษา ประสานงาน การนำเสนองาน\n8.\tพิจารณาเป็นพิเศษหากมีประสบการณ์ในการพัฒนาโปรแกรมโดยใช้ C# .Net, Angular V8, Node.js, Gitlab, AI, Figma, Jira, CI/CD\n\n** On-Site 100% ที่โรงงานพระประแดง ตำบลปากคลองบางปลากด อำเภอพระสมุทรเจดีย์ จังหวัดสมุทรปราการ **",
-    "title": "System Analyst (งานประจำ)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "65000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T10:10:26.955812Z",
-    "updated_at": "2026-07-02T10:10:28.063781Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-01T10:10:26.932032Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "nonspecific",
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-02T11:11:53.607Z"
-  },
-  {
-    "id": "1a0f36c1-b924-4b75-8b64-8ad44fbaa95e",
-    "status": "open",
-    "tag": {
-      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
-      "name": "แปลภาษา",
-      "sort": 10
-    },
-    "type": "freelance",
-    "description": "Bangkok based production assistant this is a trial single creator operation for now, looking to test gaining traction for 1 year.\n\nContent covers: Short form, long form, web content and articles\nAdventure travel / Sporting stunts including a planned trip and potential world record attempt\nEntrepreneurship and developing SaaS\nNomad life and remote work \nTechnical videos and livestreams about web development, programming, design\nLong story arc “home hack” project builds\nThailand life vlog, how-to’s, travel, memes.\n\nResponsible for:\nManaging timely delivery of edits with the editing team and upload to channels via buffer\nChasing up missing assets, narration, tracking across multiple concurrent videos\nOrganising backlog in Trello, ongoing video productions, scheduling efficiently \nResearch, e.g. feasibility of shooting videos in location, researching legal considerations. \nContacting video subjects and organising shoots, fixing interviews\nOrganising partnerships and collaborations, brand, creator etc.\nOrganising transport, flights, car hire, vans, logistics\nResearching, sourcing and ordering equipment\nOptional translation work on site. Eg. interviews, potentially, camera work\nCreative input into potential video concepts using Thai / SEA cultural knowledge  \n\nExperience and Skills\nExcellent written and spoken English and native Thai.\nComputer literacy and basic understanding of file formats, cloud storage\nOrganisation and project management\nManaging disorganised creator schedule and ensure delivery of work on deadline.\n\nContract & Commitment: Freelance Contract, Rolling monthly\nRealistically less than 1 hour work per weekday, some days nothing to do, some days busy.\n\nCompensation: Base fixed 8000 THB /mo via bank transfer.\nAdditional ad-hoc work negotiable day rate.\n",
-    "title": "social media production assistant ",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "8000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-02T09:46:39.077689Z",
-    "updated_at": "2026-07-02T09:46:40.208167Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android14;SM-S9260;10.1.0-6001980"
-    },
-    "already_offered": null,
-    "business_type": "สื่อ สิ่งพิมพ์",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-01T09:46:39.057477Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "a5a1fc68-326e-4e73-9989-c4cd4123d142",
-    "user_profile": {
-      "id": "a5a1fc68-326e-4e73-9989-c4cd4123d142",
-      "username": "j9htt2nl",
-      "display_name": "j9htt2nl",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a5a1fc68-326e-4e73-9989-c4cd4123d142/profile/52513bfa-fda2-4f7d-8ad8-f6d7a89c5131.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-02T11:11:52.495Z"
   }
 ]
