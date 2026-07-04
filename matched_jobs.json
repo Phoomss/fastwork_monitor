@@ -334,53 +334,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-03T16:13:00.632Z"
-  },
-  {
-    "id": "799c12e5-cc21-4288-9b90-9c9819ce1211",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "รายละเอียดง��น\nต้องการหาฟรีแลนซ์ที่เป็นคนสายรักสุขภาพและสิ่งแวดล้อม เพื่อทดลองใช้งานแพลตฟอร์มแอปพลิเคชันและทำแบบประเมินความพึงพอใจ เพื่อนำข้อมูลไปใช้ประกอบการทำวิทยานิพนธ์\n\nกลุ่มเป้าหมาย\n- บุคคลที่มีไลฟ์สไตล์ใส่ใจสุขภาพและสิ่งแวดล้อม (เพื่อทดสอบการตอบโจทย์ของระบบ)\n\nขอบเขตงาน\n\t1.  ทดลองเล่นแอปพลิเคชันใช้งานจริง\n\t2.\tกรอกแบบประเมินและให้ข้อเสนอแนะอย่างตรงไปตรงมา (ต้องการฟีดแบ็กเชิงลึกหรือข้อติชมที่สามารถนำไปปรับปรุง UX/UI และการทำงานของระบบได้จริง)\n\t3.\tหากสามารถส่งต่อให้คนรู้จักช่วยประเมิ���เพิ่มเติมได้จะดีมาก และจะให้ค่าตอบแทนเพิ่ม\n\n*ขอคนที่ตอบแบบสอบถามที่ตรงกลุ่มเป้าหมายจริงๆ และกรอกข้อมูลอย่างมีคุณภาพ ไม่ทำแบบส่งๆนะคะ*",
-    "title": "คนทดสอบแอปพลิเคชันและทำแบบสอบถาม (กลุ่มสายรักสุขภาพและสิ่งแวดล้อม)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-03T12:45:03.069772Z",
-    "updated_at": "2026-07-03T12:45:04.706478Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "0a7bba68-7cbd-46d9-aa43-ef5abe36de8c",
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-02T12:45:03.051102Z",
-    "freelance_offers_count": 13,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-03T14:42:35.993Z"
   }
 ]
