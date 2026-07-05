@@ -1,5 +1,53 @@
 [
   {
+    "id": "0ea79eff-2d5f-4a0c-a188-1c041e647626",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "\nรายละเอียดงาน\n\nต้องการ Freelance สาย No-Code / Marketing Automation มาร่วมงานด่วน เพื่อเซ็ตระบบ **Health Quiz Funnel** \nสำหรับดึงดูดและคัดกรอง Lead สายสุขภาพระดับพรีเมียม โดยมีศูนย์กลางการทำงานผ่าน **LINE OA**\n\nขอบเขตงาน (Scope of Work)\n\n1. สร้าง Landing Page หน้าเดียว  ใช้ แพลตฟอร์มที่โหลดเร็ว เพื่อแปะลิงก์หน้าโปรไฟล์ TikTok ให้คนกดเพื่อแอด LINE OA\n2.  สร้างแบบทดสอบ (2 Levels)\nLevel 1 คำถามพฤติกรรมพื้นฐาน 6-8 ข้อ \nLevel 2 ส่งผู้ใช้ไปทำคำ���ามเชิงลึกต่อ \n\n3.  ระบบ Automation & Data Routing (หัวใจสำคัญ)\nใช้  Make.com รับข้อมูลหลังจากผู้ใช้ทำแบบสอบถาม เสร็จ\nนำข้อมูลไปคำนวณผ่าน  สมการ JavaScript ที่ทางเราเตรียมโค้ดไว้ให้แล้ว  โดยใช้โมดูลรันโค้ดใน Make.com\n\n\nทักษะสำคัญที่ต้องมี\n ต้องสามารถเซ็ตระบบดึง  LINE User ID  ของคนที่กดลิงก์จาก LINE OA ไปทำ Typeform ได้ \nเพื่อให้ Make.com สั่ง LINE Messaging API  ยิงผลลัพธ์แบบ Custom กลับไปหาลูกค้าคนนั้นทางแชท LINE แบบอัตโนมัติ\nยิงข้อมูล Lead (พร้อมคะแนน) ลง Google Sheets และยิงแจ้งเตือนผ่าน LINE Notify  เข้ากลุ่มทีมงานทันทีที่มี Lead คุณภาพสูงเข้ามา\n\n\n\nคุณสมบัติ Freelance ที่ต้องการ\n\nเชี่ยวชา��การใช้ Typeform, Make.com และเข้าใจการเชื่อมต่อ  LINE Messaging API เป็นอย่างดี\nสามารถจัดการเรื่องการรับ-ส่ง Parameter (เช่น LINE UID) ข้ามแพลตฟอร์มได้\nส่งงานตรงเวลา สื่อสารปัญหาชัดเจน ไม่ทิ้งงาน\n\n---\n\nขั้นตอนการแบ่งงวดงานและการชำระเงิน\n\n* **งวดที่ 1 (50%):** ส่งมอบหน้า Link in Bio, โครงสร้าง Typeform ทั้ง 2 ระดับ และผูกลอจิกสมการ JavaScript ใน Make.com ได้ผลลัพธ์ถูกต้อง\n* **งวดที่ 2 (50%):** เชื่อมต่อ LINE API สำเร็จ (ยิงผลลัพธ์กลับหาผู้ใช้และแจ้งเตือนแอดมินได้จริง) พร้อมทดสอบระบบ (UAT) จนทำงานเสถียร 100%\n\n---\n\n**ระยะเวลาดำเนินการ:** ภายใน 10-15 วัน (ต้องการเริ่มงานทันที)\n**งบประมาณจัด���้าง:** 20,000 - 40,000 บาท (ขึ้นอยู่กับประสบการณ์และความเร็ว)\n\nผู้ที่สนใจ กรุณาส่ง Portfolio ที่เคยทำระบบ Automation หรือการต่อ API เข้ากับ LINE OA มาให้พิจารณา\n\n---",
+    "title": "คนเซ็ตระบบ LINE Funnel + แบบทดสอบ Quiz 2 ระดับด้วย Typeform & Make.com (มีโค้ดสมการคณิตศาสตร์ให้แล้ว)",
+    "is_owner": null,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "40000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-05T17:23:49.511450Z",
+    "updated_at": "2026-07-05T17:23:51.571148Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "fa103762-7dc9-4013-b3ef-53b4707394da",
+    "already_offered": null,
+    "business_type": "สุขภาพ ความงาม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-04T17:23:49.488184Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "fa103762-7dc9-4013-b3ef-53b4707394da",
+      "username": "theubiq",
+      "display_name": "theubiq",
+      "image_url": "https://storage.googleapis.com/fastwork-static/492c2df4-6e99-4c7a-b5d4-7119cf4e76d4.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-05T17:47:50.915Z"
+  },
+  {
     "id": "197c130f-6a55-42ef-bd3c-561731ff55fe",
     "status": "open",
     "tag": {
