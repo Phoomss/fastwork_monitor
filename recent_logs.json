@@ -1,6 +1,5 @@
 [
-  "[2026-07-05T15:50:46.951Z]     Notification sent successfully.",
-  "[2026-07-05T15:50:46.635Z]   FOUND NEW TARGET JOB: สร้างระบบจองคิว (Cats: พัฒนาเว็บไซต์) (Budget: 2000 THB)",
-  "[2026-07-05T15:50:45.646Z] Checking Fastwork for new job posts...",
-  "[2026-07-05T15:50:45.643Z] Auto-cleanup: Removed 6 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-05T16:47:45.914Z] Checking Fastwork for new job posts...",
+  "[2026-07-05T16:47:45.912Z] Auto-cleanup: Removed 15 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-05T16:47:45.910Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]

@@ -286,53 +286,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-05T05:09:58.529Z"
-  },
-  {
-    "id": "d808d96c-aefc-4fbc-a3d7-05b23aab156b",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ในนั้นมี ระบบ🫂Sci-Tech Care ม.2/3 ระบบเเจ้งเรื่องร้องเรียน ระบบ📋IDEA BOX ม.2/3 ระบบเสนอไอเดียเพื่อพัฒนาห้องเรียน ระบบ🌐SMT AI ระบบเอไอของห้อง",
-    "title": "หาคนสร้างเว็บไซต์ราคาถูกเเละดีมีระบบหลังบ้านง่ายๆ",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-04T15:57:15.845240Z",
-    "updated_at": "2026-07-04T15:57:16.748697Z",
-    "brief_url": "https://sites.google.com/view/m2-3--2026/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A166P;11.3.1-6002608"
-    },
-    "user_id": "d0b0800e-34ca-491d-81be-b43f57b9fcc4",
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-03T15:57:15.827030Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-04T16:13:02.538Z"
   }
 ]
