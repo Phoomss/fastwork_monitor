@@ -1,5 +1,53 @@
 [
   {
+    "id": "197c130f-6a55-42ef-bd3c-561731ff55fe",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "การระบบการจองคิวนวด ภายในบริษัท\n1. ผู้เข้าใช้งานประมาณ2000คน\n2. จองนวดโดยกำหนดวันที่เปิดรับบริการ และให้ผู้ใช้งงานเลือก โดนวันที่อาจมีการเปลี่ยนแปลงแก้ไขได้อยู่เสมอ\n3. มีช่วงเวลาให้เลือก โดนในแต่ละช่วงเวลาใช���เวลานวด20นาที\n4.มีหมอนวดให้บริการในช่วงเวลานั้นๆ4คน (สามารถแก้ไขจำนวนหมอนวดที่พร้อมให้บริการได้)\n5.ถ้าเวลาจองนั้นๆเต็มจำนวนแล้ว ให้ตัวเลือกเวลานั้นหายไป หรือมีแจ้งเตือนว่าเต็ม\n6.ระบบสามารถจำกัดการจองคนผู้ใช้งานได้ เช่น 1เดือน\nจองได้ไม่เกิน 3ครั้ง\n7. สามารถส่งเมลยืนยัน หรือส่งcalendar สำหรับoutlookได้\n8. ผู้ดูแลระบบสามารถแก้ไขปรับเปลี่ยนได้อยากได้เสร็จสับโดยตัวเอง",
+    "title": "สร้างระบบจองคิว",
+    "is_owner": null,
+    "source": "jobboard_web_home_nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-05T15:20:04.849859Z",
+    "updated_at": "2026-07-05T15:20:06.222294Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-04T15:20:04.831573Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1"
+    },
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_id": "7eefa285-2acf-433b-83c1-6f1ae0736338",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-05T15:50:46.634Z"
+  },
+  {
     "id": "2f047483-0cbd-444f-b13b-8d0e1dde5c1a",
     "status": "open",
     "tag": {
