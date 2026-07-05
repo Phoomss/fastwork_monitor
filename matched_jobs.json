@@ -286,53 +286,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-04T13:59:32.575Z"
-  },
-  {
-    "id": "1d5342c9-30d9-4978-bfd9-62dea71140fc",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "Auster is a creative infrastructure platform with a large archive of visual material from past activations, campaigns, events, collaborations, and brand work. Across these, we have built up typography, illustrations, graphics, patterns, slogans, and small design details that can be turned into physical products.\n\nWe are looking for someone to help us turn this archive into sticker packs and accessories. The first focus is stickers, including sticker sheets, keyboard stickers, phone stickers, laptop stickers, micro stickers, and other formats. Beyond stickers, we also want to explore small accessories such as patches, pins, charms, keychains, labels, tags, stationery, and other low-MOQ products with strong customization potential.\n\nThe first step is to gather everything. Search our social media, ask the team, dig through our archive, and pull together visual elements that could work as stickers or accessories. We already have many designs from past activations that can be converted into sticker packs.\n\nFrom there, map what is possible. Research formats, suppliers, MOQs, pricing, customization options, production timelines, and quality levels. We want someone who can identify realistic products we can make in small quantities without losing quality or making the process too complicated.\n\nThe ideal person should also know, or be able to find, small brands, makers, studios, and suppliers we can commission to create products on our behalf. This could include sticker printers, accessory makers, embroidery studios, packaging suppliers, illustrators, or small product studios that can help produce limited runs.\n\nFinally, help move the best ideas into production. Prepare or coordinate files, source suppliers, compare samples, manage timelines, and coordinate delivery. If supplier research needs local support in Bangkok, my assistant can help.\n ideally speak english and knows FIGMA",
-    "title": "Graphic Design ",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-04T06:32:50.872851Z",
-    "updated_at": "2026-07-04T06:32:52.376602Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.1;iPhone;9.10.0-6001633"
-    },
-    "user_id": "c7dcc774-8f50-4f59-84aa-a17f07879884",
-    "already_offered": null,
-    "business_type": "สื่อ สิ่งพิมพ์",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-03T06:32:50.854456Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "c7dcc774-8f50-4f59-84aa-a17f07879884",
-      "username": "fibexthailand",
-      "display_name": "fibexthailand",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-04T07:31:36.085Z"
   }
 ]
