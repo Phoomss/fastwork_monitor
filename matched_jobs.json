@@ -1,5 +1,101 @@
 [
   {
+    "id": "2f047483-0cbd-444f-b13b-8d0e1dde5c1a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "การระบบการจองคิวนวด ภายในบริษัท\n1. ผู้เข้าใช้งานประมาณ2000คน\n2. จองนวดโดยกำหนดวันที่เปิดรับบริการ และให้ผู้ใช้งงานเลือก โดนวันที่อาจมีการเปลี่ยนแปลงแก้ไขได้อยู่เสมอ\n3. มีช่วงเวลาให้เลือก โดนในแต่ละช่วงเวลาใช้เวลานวด20นาที\n4.มีหมอนวดให้บริการในช่วงเวลานั้นๆ4คน (สามารถแก้ไขจำนวนหมอนวดที่พร้อมให้บริการได้)\n5.ถ้าเวลาจองนั้นๆเต็มจำนวนแล้ว ให้ตัวเลือกเวลานั้นหายไป หรือมีแจ้งเตือนว่าเต็ม\n6.ระบบสามารถจำกัดการจองคนผู้ใช้งานได้ เช่น 1เดือน\nจองได้ไม่เกิน 3ครั้ง\n7. สามารถส่งเมลยืนยัน หรือส่งcalendar สำหรับoutlookได้\n8. ผู้ดูแลระบบสามารถแก้ไขปรับเปลี่ยนได้อยากได้เสร็จสับโดยตัวเอง\n\nไม่แน่ใจด้านงบประมาณสามารถต่อรองได้",
+    "title": "คน���ับสร้างระบบ เว็บไซต์การจองคิว",
+    "is_owner": null,
+    "source": "jobboard_web_home_nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-05T14:12:11.757972Z",
+    "updated_at": "2026-07-05T14:12:12.877905Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-08-04T14:12:11.738636Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1"
+    },
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_id": "7eefa285-2acf-433b-83c1-6f1ae0736338",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-05T14:40:53.827Z"
+  },
+  {
+    "id": "c38f26bd-a887-4dd6-a75c-cc3ae601fb56",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนสอนใช้ AI เชื่อมกับ roblox Studio พวกแนวใช้แชทจีพีทีหรือโปรแกรมต่างๆ ให้สามารถเชื่อมกับ roblox Studioเพื่อใช้สร้างเเมพให้เราได้ และ AI ตัวนั้น นอกจากจะเชื่อมได้แล้วอยากให้สามารถใช้แบบฟรีได้แบบไม่จำกัด คือแบบต้องการคนสอนทำ เชื่อม Ai กับroblox Studio ไม่เอาแบบดู YouTube แล้วมาบอกต่อนะ ขอแบบคนมีประสบการณ์จริงๆ มีปัญหามา สามารถรู้เลยว่าปัญหาอยู่ที่ไหน",
+    "title": "คนสอนเชื่อม Aiกับroblox Studio ",
+    "is_owner": null,
+    "source": "jobboard_web_home_nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-05T14:03:14.341598Z",
+    "updated_at": "2026-07-05T14:03:15.427856Z",
+    "already_offered": null,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-04T14:03:14.321946Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "fcd23a47-47cb-4e33-82ab-737dd1ccaee2",
+    "user_profile": {
+      "id": "fcd23a47-47cb-4e33-82ab-737dd1ccaee2",
+      "username": "gwtqxg3t",
+      "display_name": "gwtqxg3t",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-05T14:40:52.640Z"
+  },
+  {
     "id": "d43e2477-d251-4916-a08b-45f561fde8d7",
     "status": "open",
     "tag": {
@@ -190,101 +286,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-04T16:13:02.538Z"
-  },
-  {
-    "id": "ec7d1c51-963c-4fc2-8c3f-6288634abf44",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ทำกับเกี่ยว potfoio ค่ะ เกี่ยวกับตัวเอง\nทำไว้คร่าวๆแล้ว แต่ไม่ได้ซักที จะทำใหม่ หรือทำต่อก็ได้ค่ะ ขอให้เสร็จก่อนเที่ยงคืนนี้ค่ะ ไม่ทันส่งแล้ว ฮื้ออออ ช่วยหนูด้วยยยย อย่าแพงมากน้า ไม่มีตังแล้ววว",
-    "title": "หาพี่ใจดีช่วยทำ wordpess",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-04T12:55:53.787200Z",
-    "updated_at": "2026-07-04T12:55:54.506922Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3.1;iPhone;10.0.0-6001949"
-    },
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-04",
-    "expired_at": "2026-08-03T12:55:53.768820Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "12ef35f6-51b3-44f2-8df8-3eedff9e3180",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-04T13:59:33.717Z"
-  },
-  {
-    "id": "eccf2b8f-9994-4c4c-8a3e-dfeecba19203",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "หาเมนเทอร์สาย UX/UI/Product designer ที่มีประสบการณ์ ช่วยแนะนำเรื่องการทำพอร์ต สำหรับสายภาษาที่อยากย้ายสายไป UX 🙏 (เรียนคอร์ส UX จบแล้ว แต่ไม่รู้จะเริ่มทำพอร์ตหรือหางานจริงยังไง)",
-    "title": "หาเมนเทอร์ปรึกษาเรื่องทำพอร์ต UX สำหรับคนอยากย้ายสาย",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-04T12:21:47.909886Z",
-    "updated_at": "2026-07-04T12:21:49.237923Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.3.1-6002608"
-    },
-    "already_offered": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-04",
-    "expired_at": "2026-08-03T12:21:47.889113Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "d21cdcf3-b013-4de1-a8c7-098d57f1cad1",
-    "user_profile": {
-      "id": "d21cdcf3-b013-4de1-a8c7-098d57f1cad1",
-      "username": "chalisajpt",
-      "display_name": "chalisajpt",
-      "image_url": "https://storage.googleapis.com/fastwork-static/f20d2e89-fc2a-4f09-b3e6-c6614136c307.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-04T13:59:32.575Z"
   }
 ]
