@@ -1,5 +1,103 @@
 [
   {
+    "id": "b5d93014-9bed-4968-a1f9-bebb28d68dbb",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "อยากหาคนที่สร้างเว็บเป็นค่ะ แก้ไขงานได้ตลอด เป็นระบบสำหรับหลังร้าน มีหลายรูปแบบ คร่าวๆ��ด้มีการออกแบบไว้แล้วค่ะ หาคนสานต่อ",
+    "title": "หาคนช่วยจัดระบบหลังบ้านค่ะ",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-06T19:58:29.097292Z",
+    "updated_at": "2026-07-06T19:58:30.502594Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPad;11.2.0-6002539"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-05T19:58:29.079331Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "6eb3e27d-b838-4bdd-98fa-a2413fd0103c",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-06T20:13:55.450Z"
+  },
+  {
+    "id": "ff65fecc-203c-4f91-8f8b-060f17527300",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "Creative Brief Executive\n\nหน้าที่และความรับผิดชอบ\n\n* รับโจทย์จาก CEO และทีมการตลาด พร้อมสรุปความต้องการของแต่ละแคมเปญ\n* จัดทำ Creative Brief ที่ชัดเจน เพื่อส่งต่อให้ทีม Graphic, Motion และ Content\n* กำหนด Key Message, Target Audience, Mood & Tone และ Call to Action\n* ค้นหา Reference, Design Trend และตัวอย่างงานที่เหมาะสมกับแต่ละโปรเจกต์\n* วางแผนรายการงาน (Task List) และประสานงานกับทีมเพื่อให้งานเสร็จตามกำหนด\n* ตรวจสอบความถ��กต้องของข้อความ การจัดวาง และความสอดคล้องกับ Brand Guideline ก่อนส่งงาน\n* ใช้ AI เป็นเครื่องมือช่วยค้นหาข้อมูล สรุป Insight และพัฒนา Creative Brief\n* ร่วมประชุมเพื่อวางแผน Campaign และเสนอแนวคิดในการพัฒนางานสร้างสรรค์\n\nคุณสมบัติ\n\n* ปริญญาตรีสาขาการตลาด นิเทศศาสตร์ ออกแบบ หรือสาขาที่เกี่ยวข้อง\n* มีประสบการณ์ด้าน Creative, Marketing หรือ Content จะได้รับการพิจารณาเป็นพิเศษ\n* มีทักษะการสื่อสารและการเขียนที่ดี สามารถเรียบเรียงข้อมูลได้อย่างเป็นระบบ\n* เข้าใจพื้นฐานงานออกแบบและการตลาดดิจิทัล\n* สามารถบริหารเวลาและทำงานหลายโปรเจกต์พร้อมกันได้\n* มีความละเอียดรอบคอบ รับผิดชอบ และทำงานเป็นทีมได้ดี\n* สามารถใช้งาน Google Workspace, Microsoft Office และเครื่องมือ AI เช่น ChatGPT ได้\n* หากเคยใช้ Canva, Figma หรือ Adobe Creative Suite จะได้รับการพิจารณาเป็นพิเศษ\n\nเรากำลังมองหาคนที่ชอบคิด ชอบวางแผน และอยากเปลี่ยนไอเดียให้กลายเป็นงาน Creative ที่สร้างผลลัพธ์ทางธุรกิจได้จริง",
+    "title": "Creative Brief Executive \\ บริฟ ads ทำงานที่ไหนก็ได้ โอกาสที่ดี ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-06T19:21:31.035365Z",
+    "updated_at": "2026-07-06T19:21:32.900139Z",
+    "brief_url": "https://canva.link/mugbiz-credential-2026",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.7.0-6001144"
+    },
+    "already_offered": false,
+    "business_type": "อื่นๆ:สื่อ���ารตลาด",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-09",
+    "expired_at": "2026-08-05T19:21:30.968475Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3a18aec3-7fc9-4d2d-b4e4-ddfac643a464",
+    "user_profile": {
+      "id": "3a18aec3-7fc9-4d2d-b4e4-ddfac643a464",
+      "username": "mugthailand",
+      "display_name": "mugthailand",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3a18aec3-7fc9-4d2d-b4e4-ddfac643a464/profile/b5c14575-eec7-412f-b22a-4c46d0c276c6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-06T20:13:54.280Z"
+  },
+  {
     "id": "b26b054e-acdc-4f57-b0ed-9c52a3798f17",
     "status": "open",
     "tag": {
