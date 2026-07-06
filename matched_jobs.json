@@ -1,5 +1,103 @@
 [
   {
+    "id": "b26b054e-acdc-4f57-b0ed-9c52a3798f17",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการ Elementor Developer ที่เชี่ยวชาญด้าน WordPress + Elementor Pro\n\nงานที่ต้องทำ:\n・รับไฟล์ HTML Design จากทีม (ออกแบบเสร็จแล้ว ไม่ต้องคิด Design เอง)\n・มี Template ให้ แต่ต้อง Build ต่อหน้าเว็บด้วย Elementor widget ให้ตรงกับ Design ใกล้ 100% มากที่สุด\n・ตั้ง Typography, Color, Global Widget เป็น Design System ใน Elementor\n・จำนวน 5–10 หน้า ต่อเว็บ / รวม 6 เว็บ\n\nสิ่งที่ต้องมี:\n・มีประสบการณ์ Elementor Pro จริง (ขอดู portfolio)\n・เข้าใจ Elementor JSON / Global Style / Design System\n・Pixel-perfect ตาม Design ที่ให้\nส่งงานทันเวลา พูดคุยได้ง่าย เน้นผลลัพธ์ไม่ต้องบรีฟงานเยอะ\n\nไม่ต้องออกแบบจาก0 / ไม่ต้องเขียน copy ใหม่ / ไม่ต้องตั้ง SEO\nงบประมาณ: ฿20,000 สำหรับทั้ง 6 เว็บ (ตกลงเงื่อนไขก���นได้)",
+    "title": "รับสมัคร Elementor Developer (ปรับแก้ design system และ Native widget ให้ตรงกับดีไซน์)",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-06T16:54:56.203420Z",
+    "updated_at": "2026-07-06T16:54:57.294900Z",
+    "user_id": "4aa96225-d23a-4e36-bf78-ea1d22684282",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-08-05T16:54:56.182536Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;8.4.0-6001075"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "nonspecific",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-06T18:13:37.444Z"
+  },
+  {
+    "id": "347f77f8-3ee9-4ab4-9a4e-d6ebce0c5095",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "วิเคราะห์ RA Form ที่มีอยู่\nออกแบบฐานข้อมูล (Machine Readable)\nแปลงข้อมูลจาก Form เป็น Database\nทำให้ Database สามารถดึงข้อมูลกลับมาแสดงบน Form ได้\nเพิ่ม/แก้ไข/บันทึกข้อมูล\nทำระบบค้นหา Record\nทำปุ่ม (VBA หรือ Macro)\nสามารถบันทึกและแก้ไขข้อมูลเดิมได้\nใช้งานใน Microsoft Excel",
+    "title": "ต้องการผู้เชี่ยวชาญ Excel ออกแบบฐานข้อมูล จากแบบฟอร์ม  พร้อมเชื่อมโยงข้อมูลด้วยสูตรหรือ VBA",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-06T16:54:41.542454Z",
+    "updated_at": "2026-07-06T16:54:42.921383Z",
+    "user_id": "ff00e486-f07c-4daa-aca3-2f12ab4bc23e",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-08-05T16:54:41.524309Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.0.4-6002486"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-07-07",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-06T18:13:36.049Z"
+  },
+  {
     "id": "4b29ec27-7519-4e42-90b1-4d1763d33141",
     "status": "open",
     "tag": {
@@ -341,53 +439,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-06T04:41:58.937Z"
-  },
-  {
-    "id": "0ea79eff-2d5f-4a0c-a188-1c041e647626",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "\nรายละเอียดงาน\n\nต้องการ Freelance สาย No-Code / Marketing Automation มาร่วมงานด่วน เพื่อเซ็ตระบบ **Health Quiz Funnel** \nสำหรับดึงดูดและคัดกรอง Lead สายสุขภาพระดับพรีเมียม โดยมีศูนย์กลางการทำงานผ่าน **LINE OA**\n\nขอบเขตงาน (Scope of Work)\n\n1. สร้าง Landing Page หน้าเดียว  ใช้ แพลตฟอร์มที่โหลดเร็ว เพื่อแปะลิงก์หน้าโปรไฟล์ TikTok ให้คนกดเพื่อแอด LINE OA\n2.  สร้างแบบทดสอบ (2 Levels)\nLevel 1 คำถามพฤติกรรมพื้นฐาน 6-8 ข้อ \nLevel 2 ส่งผู้ใช้ไปทำคำ���ามเชิงลึกต่อ \n\n3.  ระบบ Automation & Data Routing (หัวใจสำคัญ)\nใช้  Make.com รับข้อมูลหลังจากผู้ใช้ทำแบบสอบถาม เสร็จ\nนำข้อมูลไปคำนวณผ่าน  สมการ JavaScript ที่ทางเราเตรียมโค้ดไว้ให้แล้ว  โดยใช้โมดูลรันโค้ดใน Make.com\n\n\nทักษะสำคัญที่ต้องมี\n ต้องสามารถเซ็ตระบบดึง  LINE User ID  ของคนที่กดลิงก์จาก LINE OA ไปทำ Typeform ได้ \nเพื่อให้ Make.com สั่ง LINE Messaging API  ยิงผลลัพธ์แบบ Custom กลับไปหาลูกค้าคนนั้นทางแชท LINE แบบอัตโนมัติ\nยิงข้อมูล Lead (พร้อมคะแนน) ลง Google Sheets และยิงแจ้งเตือนผ่าน LINE Notify  เข้ากลุ่มทีมงานทันทีที่มี Lead คุณภาพสูงเข้ามา\n\n\n\nคุณสมบัติ Freelance ที่ต้องการ\n\nเชี่ยวชา��การใช้ Typeform, Make.com และเข้าใจการเชื่อมต่อ  LINE Messaging API เป็นอย่างดี\nสามารถจัดการเรื่องการรับ-ส่ง Parameter (เช่น LINE UID) ข้ามแพลตฟอร์มได้\nส่งงานตรงเวลา สื่อสารปัญหาชัดเจน ไม่ทิ้งงาน\n\n---\n\nขั้นตอนการแบ่งงวดงานและการชำระเงิน\n\n* **งวดที่ 1 (50%):** ส่งมอบหน้า Link in Bio, โครงสร้าง Typeform ทั้ง 2 ระดับ และผูกลอจิกสมการ JavaScript ใน Make.com ได้ผลลัพธ์ถูกต้อง\n* **งวดที่ 2 (50%):** เชื่อมต่อ LINE API สำเร็จ (ยิงผลลัพธ์กลับหาผู้ใช้และแจ้งเตือนแอดมินได้จริง) พร้อมทดสอบระบบ (UAT) จนทำงานเสถียร 100%\n\n---\n\n**ระยะเวลาดำเนินการ:** ภายใน 10-15 วัน (ต้องการเริ่มงานทันที)\n**งบประมาณจัด���้าง:** 20,000 - 40,000 บาท (ขึ้นอยู่กับประสบการณ์และความเร็ว)\n\nผู้ที่สนใจ กรุณาส่ง Portfolio ที่เคยทำระบบ Automation หรือการต่อ API เข้ากับ LINE OA มาให้พิจารณา\n\n---",
-    "title": "คนเซ็ตระบบ LINE Funnel + แบบทดสอบ Quiz 2 ระดับด้วย Typeform & Make.com (มีโค้ดสมการคณิตศาสตร์ให้แล้ว)",
-    "is_owner": null,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "40000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-05T17:23:49.511450Z",
-    "updated_at": "2026-07-05T17:23:51.571148Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "fa103762-7dc9-4013-b3ef-53b4707394da",
-    "already_offered": null,
-    "business_type": "สุขภาพ ความงาม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-04T17:23:49.488184Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "fa103762-7dc9-4013-b3ef-53b4707394da",
-      "username": "theubiq",
-      "display_name": "theubiq",
-      "image_url": "https://storage.googleapis.com/fastwork-static/492c2df4-6e99-4c7a-b5d4-7119cf4e76d4.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-05T17:47:50.915Z"
   }
 ]

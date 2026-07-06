@@ -1,7 +1,9 @@
 [
-  "[2026-07-06T16:00:39.204Z]     Notification sent successfully.",
-  "[2026-07-06T16:00:38.948Z]   FOUND NEW TARGET JOB: ฉันหาคนทำงานใน Google Sheet คำนวณสูตร ทำกราฟ ด่วน!!ก่อนเที่ยงคืนนี้ (Cats: พัฒนาเว็บไซต์) (Budget: 150 THB)",
-  "[2026-07-06T16:00:37.842Z] Checking Fastwork for new job posts...",
-  "[2026-07-06T16:00:37.842Z] Auto-cleanup: Removed 45 seen job tracking IDs older than 1 day(s).",
-  "[2026-07-06T16:00:37.838Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
+  "[2026-07-06T18:13:37.655Z]     Notification sent successfully.",
+  "[2026-07-06T18:13:37.444Z]   FOUND NEW TARGET JOB: รับสมัคร Elementor Developer (ปรับแก้ design system และ Native widget ให้ตรงกับดีไซน์) (Cats: พัฒนาเว็บไซต์) (Budget: 20000 THB)",
+  "[2026-07-06T18:13:36.442Z]     Notification sent successfully.",
+  "[2026-07-06T18:13:36.049Z]   FOUND NEW TARGET JOB: ต้องการผู้เชี่ยวชาญ Excel ออกแบบฐานข้อมูล จากแบบฟอร์ม  พร้อมเชื่อมโยงข้อมูลด้วยสูตรหรือ VBA (Cats: ออกแบบ UX UI) (Budget: 1500 THB)",
+  "[2026-07-06T18:13:34.958Z] Checking Fastwork for new job posts...",
+  "[2026-07-06T18:13:34.958Z] Auto-cleanup: Removed 18 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-06T18:13:34.954Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
