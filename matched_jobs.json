@@ -1,5 +1,154 @@
 [
   {
+    "id": "350b25dd-003b-488d-afaf-386c00bcd501",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการสคริปต์/เว็บแอป/UXUI ผ่าน LINE เต็มรูปแบบทั้งฝั่ง ผู้มอบภารกิจและผู้ทำภารกิจ เป็นภารกิจเก็บขยะ สามารถส่งมิชชั่นแบบเรียลไทม์ ดูความคืบหน้า ฝั่งผู้ทำภารกิจสามารถส่งผลการดำเนินงานกลับมาได้ เสนอราคา final มาได้เลยค่ะ +/-ได้ตามสมควร",
+    "title": "หา Line Liff Developer สร้างมิชชั่นกิจกรรมผ่านไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-06T08:44:56.685896Z",
+    "updated_at": "2026-07-06T08:44:58.069789Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6;iPhone;9.13.0-6001854"
+    },
+    "user_id": "29ba69d0-1117-4cad-aeaa-0aa6a02dda2d",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-08-05T08:44:56.629160Z",
+    "already_offered": false,
+    "business_type": "การศึกษา พัฒนาตนเอง",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "29ba69d0-1117-4cad-aeaa-0aa6a02dda2d",
+      "username": "kanomgniess",
+      "display_name": "kanomjeen",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/29ba69d0-1117-4cad-aeaa-0aa6a02dda2d/profile/0343eace-c4dd-4674-9817-a1893c9a6ace.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-06T08:49:57.025Z"
+  },
+  {
+    "id": "8b7d1ba1-15b8-4ec8-a68f-dd1546a066b4",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "full-time",
+    "description": "📢 **WE'RE HIRING! ด่วน! รับสมัคร Software Tester (QA)** 💻\nม��ร่วมเป็นส่วนสำคัญในการยกระดับคุณภาพระบบไปกับเรา! ทำงานในสภาพแวดล้อมแบบ Agile พร้อมทีมงานคุณภาพทั้ง Developer, Product และ Business Team\n\n💰 **เงินเดือน:** 30,000 - 50,000 บาท/เดือน\n📍 **สถานที่ทำงาน:** 88/60 ถนนปัญญาอินทรา แขวงบางชัน เขตคลองสามวา กรุงเทพฯ\n\n💼 **หน้าที่และขอบเขตการทำงาน:**\n\n* ทดสอบระบบ Web และ Mobile Application\n* จัดทำ Test Case และ Test Report อย่างเป็นระบบ\n* ตรวจสอบ Bug ติดตามการแก้ไข และประสานงานกับทีมที่เกี่ยวข้อง\n* ทดสอบ API และการเชื่อมต่อระบบต่างๆ\n\n🎓 **คุณสมบัติที่ต้องการ:**\n\n* วุฒิปริญญาตรี สาขา IT, Computer Science, Software Engineering หรือสาขาที่เกี่ยวข้อง\n* มีประสบการ���์ด้าน Software Testing 1-3 ปี\n* มีความรู้ความเข้าใจด้าน SDLC, STLC และ Agile\n* สามารถใช้งาน Jira, Postman หรือเครื่องมือ Testing อื่นๆ ได้\n* มีทักษะในการวิเคราะห์และแก้ไขปัญหาเป็นอย่างดี\n* ⭐️ หากมีประสบการณ์ทดสอบ Mobile App จะพิจารณาเป็นพิเศษ",
+    "title": "Software Tester",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_profile-menu",
+    "files": [],
+    "kind": "standard",
+    "budget": "50000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-06T08:36:56.380195Z",
+    "updated_at": "2026-07-06T08:36:57.229460Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "b6886faf-3c1e-4703-b74e-4dacb516adce",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-08-05T08:36:56.361363Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "b6886faf-3c1e-4703-b74e-4dacb516adce",
+      "username": "attakorn19",
+      "display_name": "Attakorn Sriroon",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b6886faf-3c1e-4703-b74e-4dacb516adce/profile/a6effec1-a902-46b2-881c-78840f74951d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "50000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-06T08:49:55.909Z"
+  },
+  {
+    "id": "915a7635-b11f-4657-b9e4-76dd6f9cbb0b",
+    "status": "open",
+    "tag": {
+      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
+      "name": "รูปภาพและวิดีโอ",
+      "sort": 6
+    },
+    "type": "freelance",
+    "description": "- รีวิวแอพบน iOS platform มีเนื้อหาและ reference ให้ว่าต้องการให้รีวิวแบบไหน ความยาวไม่เกิด 1 นาที, ตัดต่อวิดีโอ ใส่ข้อความให้ พร้อมส่งงาน",
+    "title": "คนทำ reels รีวิวแอพบน tiktok/ig/fb",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-06T07:00:13.274476Z",
+    "updated_at": "2026-07-06T07:00:14.461226Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "user_id": "129c94d7-6c42-47c1-a436-ebaab0419537",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-08-05T07:00:13.105727Z",
+    "already_offered": false,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "deadline_at": null,
+    "freelance_offers_count": 9,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-06T08:49:54.634Z"
+  },
+  {
     "id": "71b29de6-b5ec-49d8-9a51-489241a846d4",
     "status": "open",
     "tag": {
@@ -286,149 +435,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-05T14:40:52.640Z"
-  },
-  {
-    "id": "d43e2477-d251-4916-a08b-45f561fde8d7",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "หาคนทำเฟสบุ้คเพจ บริษัทขายของเกี่ยวกับสินค้าอุตสาหกรรม ทำเป็นเพจของบริษัท ไม่ต้องทำคอนเทนต์ แต่ขอมีทำรูปสินค้าให้ดูสวยงาม น่าเชื่อถือ ลงโพสเกี่ยวกับ ของมาส่ง ของมาลงที่บริษัท นำของส่งลูกค้าต่าง จับกลุ่มจัดซื้อโรงงานอุตสาหกรรม บริษัทมี website",
-    "title": "Facebook Page ",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-05T03:30:34.137266Z",
-    "updated_at": "2026-07-05T03:30:35.539546Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPad;11.3.1-6002608"
-    },
-    "user_id": "66248645-7e10-432d-9d5b-5379687f0c72",
-    "already_offered": null,
-    "business_type": "ค้าส่งค้าปลีก ซื้อมาขายไป",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-08",
-    "expired_at": "2026-08-04T03:30:34.115156Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "66248645-7e10-432d-9d5b-5379687f0c72",
-      "username": "maqkqhfw",
-      "display_name": "maqkqhfw",
-      "image_url": "https://storage.googleapis.com/fastwork-static/41792048-83d4-4faa-9664-3a5120b92031.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-05T05:10:01.116Z"
-  },
-  {
-    "id": "90dd5cd2-b5e6-4ea1-8f06-ae1f45137a6d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนรับทำบอทไลน์รายงานตัวคล้ายๆขุนทองค่ะ \n\nรายละเอียด\n\n-รายงานตัวครูออกจากบ้าน สายเกิน5นาที มีแท็กเเจ้งเตือนว่าสาย \n-รายงานตัวตอนถึงโรงเรียนเเล้ว หากสายเกิน5นาที เเจ้งสาย\n-หากสายเกิน3ครั้งมีบทลงโทษ มีการแท็กเรียกในกลุ่มคล้ายๆขุนทองเมื่อออกจากบ้านสายหรือไปโรงเรียนสายตามเวลาที่กำหนด \n-แอดมินสามารถเข้าไปเซ็ทเวลาออกจากบ้าน/ไปโรงเรียนได้ เพร��ะครูแต่ละคนออกจากบ้านเวลาไม่เท่ากัน \n-สามารถมีช่องเลือกโรงเรียนได้\n-มีระบบหลังบ้านให้แอดมินเช็ครายวัน\n-สามารถต่อรองงบประมาณได้นะคะ",
-    "title": "หาคนช่วยสร้างบอทไลน์รายงานตัวการทำงาน",
-    "is_owner": null,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-05T02:38:18.404307Z",
-    "updated_at": "2026-07-05T02:38:19.286019Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;9.11.1-6001769"
-    },
-    "user_id": "ebb39048-5991-48bf-a9c5-0ecc55496e8d",
-    "already_offered": null,
-    "business_type": "อื่นๆ:สถาบันกวดวิชา",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-04T02:38:18.386466Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "ebb39048-5991-48bf-a9c5-0ecc55496e8d",
-      "username": "maiharu",
-      "display_name": "Maiharu",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/ebb39048-5991-48bf-a9c5-0ecc55496e8d/profile/f08a34c7-6667-40ff-aab2-f2421f0f5fbf.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-05T05:09:59.977Z"
-  },
-  {
-    "id": "784a2b4e-86d7-451c-8d87-08388e61e3eb",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "บริษัททำเกี่ยวดับงานคอมพิวเตอร์และซอฟแวร์ \nต้องการด่วน คนจบสาขากราฟฟิก หรือมัลติมีเดีย \nประสบการณ์ 2 ปี  \nต้องการภายในวันจันทร์ก่อนเที่ยง",
-    "title": "หาคนที่จบกราฟฟิก หรือ จบ มัลติมีเดีย",
-    "is_owner": null,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-05T02:32:27.812095Z",
-    "updated_at": "2026-07-05T02:32:28.911609Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.1;iPhone;11.0.3-6002477"
-    },
-    "user_id": "50b2b269-e43f-4dae-b36f-68f87e6ee9ff",
-    "already_offered": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-06",
-    "expired_at": "2026-08-04T02:32:27.793503Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "50b2b269-e43f-4dae-b36f-68f87e6ee9ff",
-      "username": "1hq5qt8q",
-      "display_name": "1hq5qt8q",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-05T05:09:58.529Z"
   }
 ]
