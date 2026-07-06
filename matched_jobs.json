@@ -1,5 +1,54 @@
 [
   {
+    "id": "8eeb64ad-91e3-4caf-bb70-f3473b3fe3c9",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ต้องการผู้เชี่ยวชาญด้าน Magento 2 + Google Merchant Center + Google Shopping เพื่อเข้ามาตรวจสอบและแก้ไขระบบ E-commerce ของบริษัท\n\nปัญหาปัจจุบันคือสินค้าบางส่วนไม่แสดงบน Google Shopping และ Google Merchant Center มีปัญหาเกี่ยวกับ Product Feed รวมถึงต้องการตรวจสอบระบบ Tracking และประสิทธิภาพเว็บไซต์ทั้งหมด\n\nขอบเขตงาน\n\n* ตรวจสอบและแก้ไข Magento 2\n* ตรวจสอบ Product Feed (XML/API)\n* แก้ไข Google Merchant Center\n* แก้ไข Google Shopping\n* ตรวจสอบ Google Ads ที่เชื่อมกับ Merchant Center\n* ตรวจสอบ GA4 และ Google Tag Manager\n* ตรวจสอบ Conversion Tracking\n* วิเคราะห์ปัญหา Indexing และ Structured Data หากเกี่ยวข้อง\n* ปรับปรุง Performance และแก้ไข Error ที่กระทบการแสดงสินค้า\n* สรุปรายงานปัญหาและแนวทางแก้ไข\n\nคุณสมบัติที่ต้องการ\n\n* มีประสบการณ์ Magento 2 อย่างน้อย 3 ปี\n* เคยแก้ Google Merchant Center จริง\n* เข้าใจ Google Shopping และ Product Feed\n* ใช้งาน GA4 และ GTM ได้\n* สามารถประชุมออนไลน์และอัปเดตความคืบหน้าได้\n\nส่งผลงาน\nกรุณาส่งเว็บไซต์ Magento ที่เคยดูแล พร้อมอธิบายว่ารับผิดชอบส่วนใด และส่งตัวอย่างงานที่เกี่ยวกับ Google Merchant Center หรือ Google Shopping ",
+    "title": "หาคนเชื่อม google shopping ads ถนัด magento",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-06T11:04:39.967961Z",
+    "updated_at": "2026-07-06T11:04:41.442954Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.9.0-6000395"
+    },
+    "already_offered": false,
+    "business_type": "แฟชั่น เครื่องประดับ",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-20",
+    "expired_at": "2026-08-05T11:04:39.916914Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+    "user_profile": {
+      "id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+      "username": "sood7727",
+      "display_name": "sood7727",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-06T12:30:18.036Z"
+  },
+  {
     "id": "350b25dd-003b-488d-afaf-386c00bcd501",
     "status": "open",
     "tag": {
