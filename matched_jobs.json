@@ -1,5 +1,54 @@
 [
   {
+    "id": "3c258db4-8888-43ed-a031-ef3a8abe0b46",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "full-time",
+    "description": "⚙️ รับสมัครช่างเทคนิค / ช่างเขียนแบบ (ยินดีรับเด็กจบใหม่ ���ร้อมสอนงาน!)\n📍 พิกัด: อ.กำแพงแสน จ.นครปฐม (สะดวกย้ายมาพักใกล้ๆ ได้)\nคุณสมบัติ:\n วุฒิ ปวช. / ปวส. สายวิศวะ (เครื่องกล, ช่างกล, อุตสาหการ หรือที่เกี่ยวข้อง)\n ใช้งานคอมพิวเตอร์พื้นฐานได้\n หากมีพื้นฐาน AutoCAD หรือ SolidWorks จะพิจารณาเป็นพิเศษ\n พร้อมเรียนรู้สิ่งใหม่ๆ (มีคนเทรนงานให้)\n💰 เงินเดือน: 12,000 - 18,000 บาท (ตามพื้นฐานและความสามารถ)\n📥 สนใจสมัครหรือสอบถามเพิ่มเติม: ทักแชท\n",
+    "title": "หาคนเขียนแบบ",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "18000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T00:37:51.014329Z",
+    "updated_at": "2026-07-07T00:37:51.896428Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;9.11.1-6001769"
+    },
+    "already_offered": false,
+    "business_type": "อุตสาหกรรม เครื่องจักร เหมืองแร่",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T00:37:50.967138Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "423f5596-53f7-4388-b832-b0acb52f98ee",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "18000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-07T01:26:49.139Z"
+  },
+  {
     "id": "ce036ae1-ca7e-4d70-bbb7-eed35de1c67f",
     "status": "open",
     "tag": {
