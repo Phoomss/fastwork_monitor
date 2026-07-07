@@ -1,5 +1,154 @@
 [
   {
+    "id": "039fa254-f92f-4b9e-bd88-f4103d241912",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน โดยมีกราฟแดชบอร์ด และในเว็บมี ai มาวิเคราะห์ข้อมูลด้วยว่าเดือนนี้มีของเสียอะไรเยอะสุด และเพิ่มมากี่%จากเดือนก่อน",
+    "title": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-07T06:58:07.016784Z",
+    "updated_at": "2026-07-07T06:58:08.190420Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T06:58:06.927848Z",
+    "freelance_offers_count": 10,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.2.0-6000087"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+    "user_profile": {
+      "id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+      "username": "u9qv2hiu",
+      "display_name": "Zady",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-07T08:50:02.188Z"
+  },
+  {
+    "id": "08454b77-24be-477d-8b46-435b60b968b2",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน โดยมีกราฟแดชบอร์ด และในเว็บมี ai มาวิเคราะห์ข้อมูลด้วยว่าเดือนนี้มีของเสียอะไรเยอะสุด และเพิ่มมากี่%จากเดือนก่อน",
+    "title": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-07T06:58:06.114795Z",
+    "updated_at": "2026-07-07T06:58:07.421952Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T06:58:06.061927Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.2.0-6000087"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+    "user_profile": {
+      "id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+      "username": "u9qv2hiu",
+      "display_name": "Zady",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-07T08:50:00.973Z"
+  },
+  {
+    "id": "24ca4768-0e27-475a-b519-efa026d1ff35",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": " สูตรวิธีแก้ Facebook ที่โดนละงับ  180 วัน และ ปิดถาวร ใครทำงานนี้ได้บ้าง ต้องการหาคนทำได้จริง \nมีประสบการณ์ในการแก้มาก่อน",
+    "title": "ใครแก้ เฟสบุ๊คที่โดนปิด ไปเป็นบ้าง หาคนสอนสูตรแก้ ทำได้จริง มีค่าตอบแทนให้",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-07T05:34:33.827501Z",
+    "updated_at": "2026-07-07T05:34:34.841497Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T05:34:33.809683Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPhone;11.4.0-6002645"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "c0988dda-36ea-468a-9cd4-21e51c4fd1bc",
+    "user_profile": {
+      "id": "c0988dda-36ea-468a-9cd4-21e51c4fd1bc",
+      "username": "pnxzowgm",
+      "display_name": "sasicha",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-07T08:49:59.391Z"
+  },
+  {
     "id": "3c258db4-8888-43ed-a031-ef3a8abe0b46",
     "status": "open",
     "tag": {
@@ -390,154 +539,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-06T12:30:18.036Z"
-  },
-  {
-    "id": "350b25dd-003b-488d-afaf-386c00bcd501",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการสคริปต์/เว็บแอป/UXUI ผ่าน LINE เต็มรูปแบบทั้งฝั่ง ผู้มอบภารกิจและผู้ทำภารกิจ เป็นภารกิจเก็บขยะ สามารถส่งมิชชั่นแบบเรียลไทม์ ดูความคืบหน้า ฝั่งผู้ทำภารกิจสามารถส่งผลการดำเนินงานกลับมาได้ เสนอราคา final มาได้เลยค่ะ +/-ได้ตามสมควร",
-    "title": "หา Line Liff Developer สร้างมิชชั่นกิจกรรมผ่านไลน์",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-06T08:44:56.685896Z",
-    "updated_at": "2026-07-06T08:44:58.069789Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6;iPhone;9.13.0-6001854"
-    },
-    "user_id": "29ba69d0-1117-4cad-aeaa-0aa6a02dda2d",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-08-05T08:44:56.629160Z",
-    "already_offered": false,
-    "business_type": "การศึกษา พัฒนาตนเอง",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "29ba69d0-1117-4cad-aeaa-0aa6a02dda2d",
-      "username": "kanomgniess",
-      "display_name": "kanomjeen",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/29ba69d0-1117-4cad-aeaa-0aa6a02dda2d/profile/0343eace-c4dd-4674-9817-a1893c9a6ace.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-06T08:49:57.025Z"
-  },
-  {
-    "id": "8b7d1ba1-15b8-4ec8-a68f-dd1546a066b4",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "full-time",
-    "description": "📢 **WE'RE HIRING! ด่วน! รับสมัคร Software Tester (QA)** 💻\nม��ร่วมเป็นส่วนสำคัญในการยกระดับคุณภาพระบบไปกับเรา! ทำงานในสภาพแวดล้อมแบบ Agile พร้อมทีมงานคุณภาพทั้ง Developer, Product และ Business Team\n\n💰 **เงินเดือน:** 30,000 - 50,000 บาท/เดือน\n📍 **สถานที่ทำงาน:** 88/60 ถนนปัญญาอินทรา แขวงบางชัน เขตคลองสามวา กรุงเทพฯ\n\n💼 **หน้าที่และขอบเขตการทำงาน:**\n\n* ทดสอบระบบ Web และ Mobile Application\n* จัดทำ Test Case และ Test Report อย่างเป็นระบบ\n* ตรวจสอบ Bug ติดตามการแก้ไข และประสานงานกับทีมที่เกี่ยวข้อง\n* ทดสอบ API และการเชื่อมต่อระบบต่างๆ\n\n🎓 **คุณสมบัติที่ต้องการ:**\n\n* วุฒิปริญญาตรี สาขา IT, Computer Science, Software Engineering หรือสาขาที่เกี่ยวข้อง\n* มีประสบการ���์ด้าน Software Testing 1-3 ปี\n* มีความรู้ความเข้าใจด้าน SDLC, STLC และ Agile\n* สามารถใช้งาน Jira, Postman หรือเครื่องมือ Testing อื่นๆ ได้\n* มีทักษะในการวิเคราะห์และแก้ไขปัญหาเป็นอย่างดี\n* ⭐️ หากมีประสบการณ์ทดสอบ Mobile App จะพิจารณาเป็นพิเศษ",
-    "title": "Software Tester",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "standard",
-    "budget": "50000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-06T08:36:56.380195Z",
-    "updated_at": "2026-07-06T08:36:57.229460Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "b6886faf-3c1e-4703-b74e-4dacb516adce",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-08-05T08:36:56.361363Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "b6886faf-3c1e-4703-b74e-4dacb516adce",
-      "username": "attakorn19",
-      "display_name": "Attakorn Sriroon",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b6886faf-3c1e-4703-b74e-4dacb516adce/profile/a6effec1-a902-46b2-881c-78840f74951d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "50000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-06T08:49:55.909Z"
-  },
-  {
-    "id": "915a7635-b11f-4657-b9e4-76dd6f9cbb0b",
-    "status": "open",
-    "tag": {
-      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
-      "name": "รูปภาพและวิดีโอ",
-      "sort": 6
-    },
-    "type": "freelance",
-    "description": "- รีวิวแอพบน iOS platform มีเนื้อหาและ reference ให้ว่าต้องการให้รีวิวแบบไหน ความยาวไม่เกิด 1 นาที, ตัดต่อวิดีโอ ใส่ข้อความให้ พร้อมส่งงาน",
-    "title": "คนทำ reels รีวิวแอพบน tiktok/ig/fb",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-06T07:00:13.274476Z",
-    "updated_at": "2026-07-06T07:00:14.461226Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "user_id": "129c94d7-6c42-47c1-a436-ebaab0419537",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-08-05T07:00:13.105727Z",
-    "already_offered": false,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "deadline_at": null,
-    "freelance_offers_count": 9,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-06T08:49:54.634Z"
   }
 ]
