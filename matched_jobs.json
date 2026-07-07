@@ -1,5 +1,201 @@
 [
   {
+    "id": "ccad83f1-021d-40ea-aaaa-39f9b5dd9637",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "part-time",
+    "description": "สวัสดีค่ะ กำลังมองหาคนช่วยทำคลิปรีวิวสอนใช้งาน Digital Journal สำหรับคุณแม่ตั้งครรภ์ค่ะ\nงานคือการอัดหน้าจอและอธิบายวิธีใช้งาน��ฟล์ PDF บนแอปจดบันทึก\nมีทั้งหมด 2 คลิป:\nวิธีใช้งานบน Android ผ่านแอป Xodo\nวิธีใช้งานบน iOS/iPad ผ่านแอป Goodnotes\nความยาวประมาณคลิปละ 3–5 นาที เน้นให้ลูกค้าที่ซื้อสินค้าเข้าใจง่าย สามารถทำตามได้จริง\nมี script และรายละเอียดขั้นตอนให้ค่ะ งานไม่ต้องออกแบบซับซ้อน เน้นภาพหน้าจอชัด เสียงอธิบายเข้าใจง่าย\nงบประมาณ 1000 บาทค่ะ\nหากสนใจ รบกวนส่งตัวอย่างงานที่เคยทำ (ถ้ามี) ระยะเวลาทำงาน 5-7 วัน\nขอบคุณมากค่ะ 😊",
+    "title": "ทำคลิปรีวิวการใช้งานสินค้าดิจิทัล",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T13:33:11.240035Z",
+    "updated_at": "2026-07-07T13:33:12.576586Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T13:33:11.220484Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "ee837fdd-b237-47d4-8779-bb3bc466943e",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-07T13:37:51.864Z"
+  },
+  {
+    "id": "fd2fe8f2-f79e-4d10-988a-520f4ed3cebe",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "โหลดข้อมูลจากเวป(เป็นเวปที่ให้โ���ลดข้อมูลได้อยู่แลเว) เพื่อเราจะเอาข้อมูลไปรันต่อ เราไม่ค่อยมีเวลาโหลดข้อมูลค่ะ\n\n",
+    "title": "ฉันหาคนโหลดข้อมูลจากเว็ปไซต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "700",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T12:40:03.459904Z",
+    "updated_at": "2026-07-07T12:40:04.455669Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.4.0-6002645"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-15",
+    "expired_at": "2026-08-06T12:40:03.441053Z",
+    "freelance_offers_count": 15,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "1429afc8-7817-4d78-82ca-bc8447d7e771",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "700",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-07T13:37:50.677Z"
+  },
+  {
+    "id": "7932be64-2979-437c-8cf6-28eea33ab3f9",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "    ระบบ API เท่านั้น ไม่เอา extension ทุกกรณี\n* ใช้เวลาจองไม่เกิน 1 วิ หรือไวสุดเท่าไหร่ลองมาคุยได้ครับ ว่าเซิร์ฟเวอร์รับไวสุดได้กี่วิ แต่เวลา 1 วิ ผมเอามาเทียบกับ Shopee Lazada ที่ผมใช้อยู่ โดยปกติใช้เวลาดึงและจ่ายเงินไม่เกิน 0.8 วินาที\n* มีระบบจองซ้ำ ถ้าจองเลขนั้นไม่ได้ ก็สามารถจองเลขต่อไปที่เซ็ตไว้ได้เลย\n* บอทเป็นหน้า CLI และใส่รายละเอียดทะเบียนรถต่าง ๆ ใน CSV\n* ใส่ Proxy ได้\n*ขอคนยินดีให้ซอสโค้ดทั้งหมดเผื่ออนาคตจะให้เจ้าอื่นพัฒนาต่อ",
+    "title": "หาคนทำบอทจองทะเบียนรถยนต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T12:24:31.717384Z",
+    "updated_at": "2026-07-07T12:24:32.833950Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.6.1;iPhone;6.13.0-6000562"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-07",
+    "expired_at": "2026-08-06T12:24:31.699702Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "4719a21f-aeae-4f65-a3b6-42ee38bfab6c",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-07T13:37:49.483Z"
+  },
+  {
+    "id": "5dff61d3-d26b-42d5-afa0-346e4335b31c",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "คนสร้าง ระบบ saas เป็นสร้าง เว็บ ระบบ sales b2b มีการสร้างไปแล้วเบื้องต้น แต่คิดว่า อยากให้เร็วกว่านี้จึงอยากให้มีคนรับจบ \n1.รองรับ โมดูล ขนส่ง ทั้ง ขนส่ง flash / keryy/ lalamove \n2.moduledashboard \n3.module สั่ง สินค้า คล้ายเว็บ jubili (ทั้งหมดจะอธิบายอย่างละเอียดให้เห็นภาพให้ฟังอย่างละเอียดและกระชับ) \n4.การให้ ค่าคอมอัตโนมัติ (ทั้งหมดจะอธิบายอย่างละเอียดให้เห็นภาพให้ฟังอย่างละเอียดและกระชับ) \n5. หน้า pos (website) รองรับทั้งการสั่งสินค้าตัวอย่างต่างๆ \n6.การรับ สมัครเซลล์ฟรีแลนซ์ / sales admin ผ่านหน้า เว็บอาจจะอีกโดเมน \n7.การคืนสินค้า \nต่อรองได้",
+    "title": "คนสร้าง ระบบ saas เป็นสร้าง เว็บ ระบบ sales b2b มีการสร้างไปแล้วเบื้องต้น แต่คิดว่า อยากให้เร็วกว่านี้จึงอยากให้มีคนรับจบ ",
+    "is_owner": false,
+    "source": "jobboard_web_web_chat_profile-menu_jobboard",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T11:57:53.715804Z",
+    "updated_at": "2026-07-07T11:57:55.172138Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-06T11:57:53.640184Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "45635aaf-a491-4969-a8b4-2b2f674b84a1",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-07T13:37:48.074Z"
+  },
+  {
     "id": "a686500f-caf9-454c-ad6f-acd9dce8ae23",
     "status": "open",
     "tag": {
@@ -539,54 +735,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-06T16:00:38.948Z"
-  },
-  {
-    "id": "8eeb64ad-91e3-4caf-bb70-f3473b3fe3c9",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการผู้เชี่ยวชาญด้าน Magento 2 + Google Merchant Center + Google Shopping เพื่อเข้ามาตรวจสอบและแก้ไขระบบ E-commerce ของบริษัท\n\nปัญหาปัจจุบันคือสินค้าบางส่วนไม่แสดงบน Google Shopping และ Google Merchant Center มีปัญหาเกี่ยวกับ Product Feed รวมถึงต้องการตรวจสอบระบบ Tracking และประสิทธิภาพเว็บไซต์ทั้งหมด\n\nขอบเขตงาน\n\n* ตรวจสอบและแก้ไข Magento 2\n* ตรวจสอบ Product Feed (XML/API)\n* แก้ไข Google Merchant Center\n* แก้ไข Google Shopping\n* ตรวจสอบ Google Ads ที่เชื่อมกับ Merchant Center\n* ตรวจสอบ GA4 และ Google Tag Manager\n* ตรวจสอบ Conversion Tracking\n* วิเคราะห์ปัญหา Indexing และ Structured Data หากเกี่ยวข้อง\n* ปรับปรุง Performance และแก้ไข Error ที่กระทบการแสดงสินค้า\n* สรุปรายงานปัญหาและแนวทางแก้ไข\n\nคุณสมบัติที่ต้องการ\n\n* มีประสบการณ์ Magento 2 อย่างน้อย 3 ปี\n* เคยแก้ Google Merchant Center จริง\n* เข้าใจ Google Shopping และ Product Feed\n* ใช้งาน GA4 และ GTM ได้\n* สามารถประชุมออนไลน์และอัปเดตความคืบหน้าได้\n\nส่งผลงาน\nกรุณาส่งเว็บไซต์ Magento ที่เคยดูแล พร้อมอธิบายว่ารับผิดชอบส่วนใด และส่งตัวอย่างงานที่เกี่ยวกับ Google Merchant Center หรือ Google Shopping ",
-    "title": "หาคนเชื่อม google shopping ads ถนัด magento",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-06T11:04:39.967961Z",
-    "updated_at": "2026-07-06T11:04:41.442954Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.3.1;iPhone;6.9.0-6000395"
-    },
-    "already_offered": false,
-    "business_type": "แฟชั่น เครื่องประดับ",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-20",
-    "expired_at": "2026-08-05T11:04:39.916914Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
-    "user_profile": {
-      "id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
-      "username": "sood7727",
-      "display_name": "sood7727",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-06T12:30:18.036Z"
   }
 ]
