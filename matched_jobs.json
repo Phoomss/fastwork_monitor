@@ -1,5 +1,54 @@
 [
   {
+    "id": "a686500f-caf9-454c-ad6f-acd9dce8ae23",
+    "status": "open",
+    "tag": {
+      "id": "d19619b6-a04a-4c26-b74b-dbfe28494a9b",
+      "name": "สถาปัตยกรรมและการตกแต่งภายใน",
+      "sort": 14
+    },
+    "type": "freelance",
+    "description": "📢 หาผู้รับเหมาออกแบบ ผลิต  และติดตั้งรั้วบ้าน \n\nรั้วบ้านขนาด สูง1.50 กว้าง 2 เมตร แบบเลื่อน\nพื้นspc ภายใน 30 ตรม.\n\nกำลังมองหาผู้รับเหมาที่สามารถ ออกแบบ\n ผลิต และติดตั้งรั้วบ้าน \n\nสถานที่ติดตั้ง\n📍 อำเภอเมือง จังหวัดฉะเชิงเทรา\n\nรายละเอียดงาน\n\n* บ้านเดี่ยว 2 ชั้น\n* ออกแบบ และผลิต ประตูทางเข้าด้านข้าง\n(มีแบบที่ชอบให้ช่างดู)\n\n* สไตล์ Modern Minimal / Modern Luxury\n* โทนสีครีม + Taupe / Greige\n* ซี่ระแนงแนวตั้ง\n* ต้องการงานเรียบร้อย คุณภาพดี\n และสามารถผลิตตามแบบไ��้\n\nสิ่งที่ต้องการ\n\n* สำรวจหน้างาน (หากจำเป็น)\n* ออกแบบและทำภาพจำลอง (Mockup/3D)\n* เสนอแบบและวัสดุ\n* ผลิตและติดตั้ง\n* ส่งมอบงานพร้อมใช้งาน\n\nหมายเหตุ\n\n* หากมีผลงานรั้วบ้านสไตล์ Modern หรือ Luxury กรุณาส่ง Portfolio มาด้วย\n* กรุณาแจ้งราคาโดยประมาณ และระยะเวลาดำเนินงาน\n* สามารถเสนอวัสดุหรือแนวทางที่เหมาะสมกับงบประมาณได้\n\n📩 สนใจรับงาน รบกวนส่งผลงาน พร้อมรายละเอียดการให้บริการและใบเสนอราคามาได้เลย",
+    "title": "หาช่างปูพื้น spc กับทำไม้ระแนงรั้วบ้าน ประตูบ้าน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "15000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-07T10:23:03.330554Z",
+    "updated_at": "2026-07-07T10:23:04.560330Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "งานฝีมือ งานช่าง",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-15",
+    "expired_at": "2026-08-06T10:23:03.267100Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.2.1;iPhone;6.4.1-6000218"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "89234718-28cc-4657-8248-d7fcc382fcbf",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-07T11:33:10.237Z"
+  },
+  {
     "id": "039fa254-f92f-4b9e-bd88-f4103d241912",
     "status": "open",
     "tag": {
