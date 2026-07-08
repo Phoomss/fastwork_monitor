@@ -1,5 +1,104 @@
 [
   {
+    "id": "90e610bb-fe09-46a7-824b-6faad19194f8",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "หาคนรับสอนเทคโนโลยี ต้องสอบสัมภาษณ์ห้องเทคโนวันที่13นี้แล้วอยากติวเรื่อง การต่อวงจรไฟฟ้า การเขียนโปรแกรม การใช้เครื่องม���อช่าง การต่อโครงสร้าง และแนวสัมภาษณ์เรื่องพวกนี้ขอคนมีประสบการณ์และเทคนิคการสอนนะคะ ติวไม่ต้องนานมากก็ได้ค่ะหรือถ้าเป็นสถาบันในเชียงใหม่ยิ่งดีค่ะแนะนำได้นะคะ",
+    "title": "หาคนรับสอนเทคโนมอ3",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "350",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-08T14:48:14.106763Z",
+    "updated_at": "2026-07-08T14:48:15.235821Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-12",
+    "expired_at": "2026-08-07T14:48:14.033637Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.0.4-6002486"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "9a06c733-508c-4d14-96c6-fa2bf69dfbee",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "350",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-08T15:03:36.481Z"
+  },
+  {
+    "id": "053e38ad-9fba-485b-ad63-51b6b71a8aae",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "กำลังเปิดรับผู้เข้าร่วมสำหรับการทดสอบการใช้งานแอป (UX Research) ของบริษัทต่างประเทศ\n\nรายละเอียด\n   ค่าตอบแทน 500 บาท\n   ทำผ่าน iPhone เท่านั้น\n   ทำจากที่บ��าน (Remote)\n   ใช้เวลาประมาณ 30–45 นาที\n   ระหว่างการทดสอบจะมีการแชร์หน้าจอ และพูดสิ่งที่กำลังคิดหรือความคิดเห็นตามความเป็นจริง (Think Aloud)\n   ไม่มีการโอนเงิน ไม่มีการขอข้อมูลบัญชีธนาคาร และไม่มีการเข้าถึงแอปธนาคาร เป็นเพียงการทดสอบการใช้งานตามหัวข้อที่กำหนดและให้ความคิดเห็นเท่านั้น\nคุณสมบัติ\n   ใช้ iPhone\n   เคยซื้อของออนไลน์ เช่น Shopee, Lazada, TikTok Shop หรือเว็บไซต์อื่น ๆ\n   สามารถติดตั้งแอปฟรีจาก App Store เพื่อใช้ในการทดสอบ\n   สะดวกแชร์หน้าจอและพูดความคิดเห็นระหว่างการทดสอบ\nการจ่ายเงิน\n   ได้รับค่าตอบแทน 500 บาท หลังจากทำการทดสอบเสร็จและผ่านการตรวจสอบจากทีมวิจัย\n   โดยปกติอาจใช้เวลาสักระยะในการตรวจสอบผล ก่อนดำเนินการจ่ายค่าตอบแทน",
+    "title": "ฉันหารับสมัครจริงจังไม่หลอกแบบอันอื่น รับสมัครผู้เข้าร่วมทดสอบการใช้งานแอป (UX Research) 500 บาท | ไม่มีการโอนเงินหรือเกี่ยวกับแอปธนาคารทั้งนั้น",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-08T13:57:25.936374Z",
+    "updated_at": "2026-07-08T13:57:27.141663Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-10",
+    "expired_at": "2026-08-07T13:57:25.916184Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
+    "user_profile": {
+      "id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
+      "username": "jiraphart.g",
+      "display_name": "G.Jiraphart",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3469c759-1bf9-43b5-8e23-1bdf946a88eb/profile/11943b5b-79fb-423c-8b88-7ad10d353405.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-08T15:03:35.343Z"
+  },
+  {
     "id": "d4fc2868-833d-46bd-88c2-ca8ba13f6bb6",
     "status": "open",
     "tag": {
@@ -391,201 +490,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-07T16:07:18.163Z"
-  },
-  {
-    "id": "ccad83f1-021d-40ea-aaaa-39f9b5dd9637",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "part-time",
-    "description": "สวัสดีค่ะ กำลังมองหาคนช่วยทำคลิปรีวิวสอนใช้งาน Digital Journal สำหรับคุณแม่ตั้งครรภ์ค่ะ\nงานคือการอัดหน้าจอและอธิบายวิธีใช้งาน��ฟล์ PDF บนแอปจดบันทึก\nมีทั้งหมด 2 คลิป:\nวิธีใช้งานบน Android ผ่านแอป Xodo\nวิธีใช้งานบน iOS/iPad ผ่านแอป Goodnotes\nความยาวประมาณคลิปละ 3–5 นาที เน้นให้ลูกค้าที่ซื้อสินค้าเข้าใจง่าย สามารถทำตามได้จริง\nมี script และรายละเอียดขั้นตอนให้ค่ะ งานไม่ต้องออกแบบซับซ้อน เน้นภาพหน้าจอชัด เสียงอธิบายเข้าใจง่าย\nงบประมาณ 1000 บาทค่ะ\nหากสนใจ รบกวนส่งตัวอย่างงานที่เคยทำ (ถ้ามี) ระยะเวลาทำงาน 5-7 วัน\nขอบคุณมากค่ะ 😊",
-    "title": "ทำคลิปรีวิวการใช้งานสินค้าดิจิทัล",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T13:33:11.240035Z",
-    "updated_at": "2026-07-07T13:33:12.576586Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T13:33:11.220484Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "ee837fdd-b237-47d4-8779-bb3bc466943e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-07T13:37:51.864Z"
-  },
-  {
-    "id": "fd2fe8f2-f79e-4d10-988a-520f4ed3cebe",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "โหลดข้อมูลจากเวป(เป็นเวปที่ให้โ���ลดข้อมูลได้อยู่แลเว) เพื่อเราจะเอาข้อมูลไปรันต่อ เราไม่ค่อยมีเวลาโหลดข้อมูลค่ะ\n\n",
-    "title": "ฉันหาคนโหลดข้อมูลจากเว็ปไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "700",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T12:40:03.459904Z",
-    "updated_at": "2026-07-07T12:40:04.455669Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.4.0-6002645"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-15",
-    "expired_at": "2026-08-06T12:40:03.441053Z",
-    "freelance_offers_count": 15,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "1429afc8-7817-4d78-82ca-bc8447d7e771",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "700",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-07T13:37:50.677Z"
-  },
-  {
-    "id": "7932be64-2979-437c-8cf6-28eea33ab3f9",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "    ระบบ API เท่านั้น ไม่เอา extension ทุกกรณี\n* ใช้เวลาจองไม่เกิน 1 วิ หรือไวสุดเท่าไหร่ลองมาคุยได้ครับ ว่าเซิร์ฟเวอร์รับไวสุดได้กี่วิ แต่เวลา 1 วิ ผมเอามาเทียบกับ Shopee Lazada ที่ผมใช้อยู่ โดยปกติใช้เวลาดึงและจ่ายเงินไม่เกิน 0.8 วินาที\n* มีระบบจองซ้ำ ถ้าจองเลขนั้นไม่ได้ ก็สามารถจองเลขต่อไปที่เซ็ตไว้ได้เลย\n* บอทเป็นหน้า CLI และใส่รายละเอียดทะเบียนรถต่าง ๆ ใน CSV\n* ใส่ Proxy ได้\n*ขอคนยินดีให้ซอสโค้ดทั้งหมดเผื่ออนาคตจะให้เจ้าอื่นพัฒนาต่อ",
-    "title": "หาคนทำบอทจองทะเบียนรถยนต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "25000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T12:24:31.717384Z",
-    "updated_at": "2026-07-07T12:24:32.833950Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.6.1;iPhone;6.13.0-6000562"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-07",
-    "expired_at": "2026-08-06T12:24:31.699702Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "4719a21f-aeae-4f65-a3b6-42ee38bfab6c",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "25000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-07T13:37:49.483Z"
-  },
-  {
-    "id": "5dff61d3-d26b-42d5-afa0-346e4335b31c",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "คนสร้าง ระบบ saas เป็นสร้าง เว็บ ระบบ sales b2b มีการสร้างไปแล้วเบื้องต้น แต่คิดว่า อยากให้เร็วกว่านี้จึงอยากให้มีคนรับจบ \n1.รองรับ โมดูล ขนส่ง ทั้ง ขนส่ง flash / keryy/ lalamove \n2.moduledashboard \n3.module สั่ง สินค้า คล้ายเว็บ jubili (ทั้งหมดจะอธิบายอย่างละเอียดให้เห็นภาพให้ฟังอย่างละเอียดและกระชับ) \n4.การให้ ค่าคอมอัตโนมัติ (ทั้งหมดจะอธิบายอย่างละเอียดให้เห็นภาพให้ฟังอย่างละเอียดและกระชับ) \n5. หน้า pos (website) รองรับทั้งการสั่งสินค้าตัวอย่างต่างๆ \n6.การรับ สมัครเซลล์ฟรีแลนซ์ / sales admin ผ่านหน้า เว็บอาจจะอีกโดเมน \n7.การคืนสินค้า \nต่อรองได้",
-    "title": "คนสร้าง ระบบ saas เป็นสร้าง เว็บ ระบบ sales b2b มีการสร้างไปแล้วเบื้องต้น แต่คิดว่า อยากให้เร็วกว่านี้จึงอยากให้มีคนรับจบ ",
-    "is_owner": false,
-    "source": "jobboard_web_web_chat_profile-menu_jobboard",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T11:57:53.715804Z",
-    "updated_at": "2026-07-07T11:57:55.172138Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T11:57:53.640184Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "45635aaf-a491-4969-a8b4-2b2f674b84a1",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-07T13:37:48.074Z"
   }
 ]
