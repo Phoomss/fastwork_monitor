@@ -1,5 +1,54 @@
 [
   {
+    "id": "0222c14b-7070-41a1-9b3d-368a2e8a31f1",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "full-time",
+    "description": "รับสมัคร Graphic Designer / เจ้าหน้าที่กราฟิกดีไซน์\nเงินเดือน: 25,000–30,000 บาท/เดือน\nหน้าที่หลัก:\nออกแบบสื่อโซเชียล เช่น Facebook, Instagram, TikTok, LINE OA\nออกแบบโปสเตอร์ เมนู ป้ายโปรโมชั่น แบนเนอร์ และสื่อหน้าร้าน\nทำภาพโฆษณาและคอนเทนต์สำหรับแคมเปญการตลาด\nปรับแต่งรูปภาพสินค้า อาหาร และแบรนด์\nทำงานร่วมกับทีมการตลาดเพื่อวางแนวทางภาพลักษณ์แบรนด์\nส่งไฟล์งานให้พร้อมใช้ทั้งออนไลน์และงานพิมพ์\nคุณสมบัติ:\nมีประสบการณ์ Graphic Design 1–3 ปี\nใช้ Adobe Photoshop, Illustrator, Canva ได้ดี\nหากใช้ Figma, CapCut หรือทำวิดีโอสั้นได้ จะพิจารณ��เป็นพิเศษ\nมีความคิดสร้างสรรค์ เข้าใจงานโซเชียลและแบรนด์\nทำงานไว รับบรีฟและแก้งานได้ดี\nมี Portfolio ให้พิจารณา\nหากเคยทำงานร้านอาหาร คาเฟ่ แบรนด์สินค้า หรือโซเชียลมีเดีย จะพิจารณาเป็นพิเศษ\nส่ง Resume และ Portfolio มาที่:\n**********",
+    "title": "Graphic designer for Chichitai",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "23000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-08T15:44:18.475028Z",
+    "updated_at": "2026-07-08T15:44:20.062919Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.7.1;iPhone;10.3.0-6002033"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-07T15:44:18.423867Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "6d850192-2ffd-48b2-98c8-e728ef637830",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (���ัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "23000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-08T16:45:45.956Z"
+  },
+  {
     "id": "90e610bb-fe09-46a7-824b-6faad19194f8",
     "status": "open",
     "tag": {
@@ -441,54 +490,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-08T01:06:10.818Z"
-  },
-  {
-    "id": "e6993ead-650e-414c-a93c-3cf494b84bcb",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "full-time",
-    "description": "รับสมัคร Graphic Designer / เจ้าหน้าที่กราฟิกดีไซน์\nเงินเดือน: 25,000–30,000 บาท/เดือน\nหน้าที่หลัก:\nออกแบบสื่อโซเชียล เช่น Facebook, Instagram, TikTok, LINE OA\nออกแบบโปสเตอร์ เมนู ป้ายโปรโมชั่น แบนเนอร์ และสื่อหน้าร้าน\nทำภาพโฆษณาและคอนเทนต์สำหรับแคมเปญการตลาด\nปรับแต่งรูปภาพสินค้า อาหาร และแบรนด์\nทำงานร่วมกับทีมการตลาดเพื่อวางแนวทางภาพลักษณ์แบรนด์\nส่งไฟล์งานให้พร้อมใช้ทั้งออนไลน์และงานพิมพ์\nคุณสมบัติ:\nมีประสบการณ์ Graphic Design 1–3 ปี\nใช้ Adobe Photoshop, Illustrator, Canva ได้ดี\nหากใช้ Figma, CapCut หรือทำวิดีโอสั้นได้ จะพิจารณาเป็นพิเศษ\nมีความคิดสร้างสรรค์ เข้าใจงานโซเชียลและแบรนด์\nทำงานไว รับบรีฟและแก้งานได้ดี\nมี Portfolio ให้พิจารณา\nหากเคยทำงานร้านอาหาร คาเฟ่ แบรนด์สินค้า หรือโซเชียลมีเดีย จะพิจารณาเป็นพิเศษ\nส่ง Resume และ Portfolio มาที่:\n**********",
-    "title": "Graphic Designer สำหรับ Chichitai",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "25000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T14:26:07.997120Z",
-    "updated_at": "2026-07-07T14:26:09.085778Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T14:26:07.953460Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.1;iPhone;10.3.0-6002033"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "6d850192-2ffd-48b2-98c8-e728ef637830",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "25000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-07T16:07:18.163Z"
   }
 ]
