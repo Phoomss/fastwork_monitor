@@ -1,5 +1,202 @@
 [
   {
+    "id": "ddc0653f-956d-401c-9bfa-ec0d9e7ed5be",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ปัจจุบันมีหน้าเว็บแล้ว แต่ยังไม่มี Figma UI\nกำลังหาฟรีแลนซ์ที่สามารถคัดลอก UI และ Flow ทุกที่ในหน้าเว็บไปลงใน Figma พร้อมโยงเส้น Prototype ให้ถูกต้อง เพื่อใช้เป็น doc อ้างอิง",
+    "title": "คนลอก UI ไปลง Figma",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-08T04:02:55.072358Z",
+    "updated_at": "2026-07-08T04:02:56.923999Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-12",
+    "expired_at": "2026-08-07T04:02:55.014049Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "79c2fb98-b5a0-44ed-9608-1e7d661c7410",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-08T04:25:51.034Z"
+  },
+  {
+    "id": "72333137-775c-478f-af1f-8b8b55998738",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "1. ข้อมูลงาน\n\nจุดประสงค์ของงาน: ต้องการทำเว็บไซต์ใหม่ทดแทนเว็บไซต์เดิม พร้อมยิงโฆษณาออนไลน์ Google Ads เพื่อเพิ่มยอดขายและยอดเช่าเครื่องถ่ายเอกสาร\nกลุ่มลูกค้า: ธุรกิจ สำนักงาน และร้านค้าในกรุงเทพฯ และปริมณฑล ที่ต้องการซื้อ เช่า หรือซ่อมเครื่องถ่ายเอกสาร (ยี่ห้อ Kyocera, Canon, Samsung, Fuji Xerox, Konica)\n\n2. รายละเอียดงาน\nจำนวนชิ้นงาน: เว็บไซต์ 1 เว็บ (รองรับการแสดงผลบนมือถือ)\nขอบเขตงาน: หน้าแรก, หน้าบริการ (จำหน่าย/ให้เช่า/ซ่อม), หน้าสิ��ค้าแนะนำ, หน้าช่องทางการชำระเงิน, หน้าติดต่อเรา, ออกแบบให้ทันสมัยกว่าเว็บเดิม, เชื่อมต่อ Google Analyticsเพื่อรองรับการยิงแอด, ตั้งค่า",
+    "title": "หาคนทำเว็บไซต์บริษัท และยิงแอด",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-08T03:39:33.936847Z",
+    "updated_at": "2026-07-08T03:39:35.809482Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-07T03:39:33.888762Z",
+    "freelance_offers_count": 10,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.4.1-6002672"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4366c0cf-9982-49b5-b2f4-236537552067",
+    "user_profile": {
+      "id": "4366c0cf-9982-49b5-b2f4-236537552067",
+      "username": "tnp_solution",
+      "display_name": "TNP SOLUTION",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-08T04:25:49.836Z"
+  },
+  {
+    "id": "1b7f1ec6-b9cd-49af-ae08-ec0073a8b965",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ขอบเขตงานที่ต้องการ:\n\nการติดตั้งและตั้งค่า: นำไฟล์���ปรเจกต์ Template สำเร็จรูป เข้าสู่ระบบ FlutterFlow พร้อมสำหรับการพัฒนาต่อ\n\nการปรับแต่ง UI/UX: ปรับแต่งหน้าจอ (Screens & Components) และองค์ประกอบภายใน Template ให้ตรงตามเอกลักษณ์ของแบรนด์\n\nการตั้งค่าระบบ Logic: จัดการระบบฐานข้อมูล (Database) และการเชื่อมต่อต่างๆ ภายในระบบของ FlutterFlow ให้ทำงานได้ถูกต้อง\n\nการปรับจูนฟีเจอร์: ปรับแต่งหรือเพิ่มฟีเจอร์ตามความต้องการเฉพาะของโปรเจกต์ (รวมถึงการเขียน Custom Functions หรือ Custom Actions หากจำเป็น)\n\nการทดสอบ: ตรวจสอบความถูกต้องของ Workflow และความพร้อมของแอปพลิเคชันก่อนการ Publish\n\nคุณสมบัติผู้สมัคร:\n\nมีความเชี่ยวชาญ���นการใช้เครื่องมือ FlutterFlow \n\nเข้าใจโครงสร้างของโปรเจกต์แบบ Template และสามารถจัดการกับระบบ Logic ภายใน FlutterFlow ได้อย่างคล่องแคล่ว\n\nหากมีประสบการณ์เชื่อมต่อ API หรือ Firebase จะพิจารณาเป็นพิเศษ\n\nสามารถสื่อสารความคืบหน้าของงานได้ชัดเจน",
+    "title": "รับสมัคร FlutterFlow Developer ปรับแต่ง Mobile Application Template สำเร็จรูป",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-08T03:34:54.303006Z",
+    "updated_at": "2026-07-08T03:34:55.440893Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-07T03:34:54.249317Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "76b62c92-afbd-45c4-a493-a9d1528ea905",
+    "user_profile": {
+      "id": "76b62c92-afbd-45c4-a493-a9d1528ea905",
+      "username": "autsadawut1911",
+      "display_name": "Autsadawut Daswee",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/76b62c92-afbd-45c4-a493-a9d1528ea905/profile/5cb6cc67-68fd-408b-b5ad-f443632b0583.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-08T04:25:48.725Z"
+  },
+  {
+    "id": "5286e1a6-e58f-4ded-9f9a-93195f2f1d37",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "CI Brand Book สำหรับ Velora Pool Villas คือคู่มือที่ใช้กำหนดทิศทางของแบรนด์ให้ชัดเจนและสามารถนำไปใช้ได้จริงในทุกจุดสัมผัส ไม่ว่าจะเป็นงานสถาปัตยกรรม ป้ายหน้าโครงการ งานขาย หรือสื่อออนไลน์ โดยแม้จะมีโลโก้แล้ว แต่จำเป็นต้องพัฒนาระบบแบรนด์ต่อให้ครบ เช่น การกำหนด mood & tone ที่สะท้อนความเป็น luxury แบบอบอุ่นและผ่อนคลาย การวางระบบสี (primary, secondary, accent) พร้อมวิธีใช้งาน การเลือกฟอนต์และโครงสร้างตัวอักษรให้ดูพรีเมียม การกำหนดวิธีใช้โลโก้อย่างถูกต้อง รวมถึงการสร้างสไตล์ภาพถ่ายและองค์ประกอบกราฟิกที่สื่อถึงความเป็นรีสอร์ทและความเป็นส่วนตัว นอกจากนี้ งานที่สำคัญมากคือการวาง guideline สำหรับใช้งานจริงในโครงการ เช่น ป้ายหน้าโครงการ ป้ายหน้าบ้าน โลโก้ติดอาคาร วัสดุ และแสงไฟ (เน้น warm light และ indirect lighting) เพื่อให้ภาพรวมทั้งหมดออกมาในทิศทางเดียวกัน สิ่งที่ผู้รับจ้างต้องส่งมอบคือ Brand Book ในรูปแบบ PDF พร้อมไฟล์ต้นฉบับ และตัวอย่าง mockup การใช้งานจริง โดยหัวใจของงานนี้ไม่ใช่แค่ความสวยงาม แต่คือการสร้างระบบที่ทำให้แบรนด์ Velora ดูหรู นิ่ง และสม่ำเสมอในทุกองค์ประกอบของโครงการจริง",
+    "title": "ออกแบบ ci branding สำหรับพูลวิลล่า",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-08T02:39:57.954002Z",
+    "updated_at": "2026-07-08T02:39:59.181291Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-07T02:39:57.933568Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.7;iPhone;6.4.1-6000218"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "98ebce1f-5e32-42ad-9c91-fb633eb7f8f8",
+    "user_profile": {
+      "id": "98ebce1f-5e32-42ad-9c91-fb633eb7f8f8",
+      "username": "kmjtwcts",
+      "display_name": "kmjtwcts",
+      "image_url": "https://storage.googleapis.com/fastwork-static/9be6b6c1-ec0b-4fa2-aec4-087300411393.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-08T04:25:47.567Z"
+  },
+  {
     "id": "fe21e1b2-8114-46c6-827b-40205e19d590",
     "status": "open",
     "tag": {
@@ -490,54 +687,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-07T08:49:59.391Z"
-  },
-  {
-    "id": "3c258db4-8888-43ed-a031-ef3a8abe0b46",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "full-time",
-    "description": "⚙️ รับสมัครช่างเทคนิค / ช่างเขียนแบบ (ยินดีรับเด็กจบใหม่ ���ร้อมสอนงาน!)\n📍 พิกัด: อ.กำแพงแสน จ.นครปฐม (สะดวกย้ายมาพักใกล้ๆ ได้)\nคุณสมบัติ:\n วุฒิ ปวช. / ปวส. สายวิศวะ (เครื่องกล, ช่างกล, อุตสาหการ หรือที่เกี่ยวข้อง)\n ใช้งานคอมพิวเตอร์พื้นฐานได้\n หากมีพื้นฐาน AutoCAD หรือ SolidWorks จะพิจารณาเป็นพิเศษ\n พร้อมเรียนรู้สิ่งใหม่ๆ (มีคนเทรนงานให้)\n💰 เงินเดือน: 12,000 - 18,000 บาท (ตามพื้นฐานและความสามารถ)\n📥 สนใจสมัครหรือสอบถามเพิ่มเติม: ทักแชท\n",
-    "title": "หาคนเขียนแบบ",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "18000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T00:37:51.014329Z",
-    "updated_at": "2026-07-07T00:37:51.896428Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.5;iPhone;9.11.1-6001769"
-    },
-    "already_offered": false,
-    "business_type": "อุตสาหกรรม เครื่องจักร เหมืองแร่",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T00:37:50.967138Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "423f5596-53f7-4388-b832-b0acb52f98ee",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "18000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-07T01:26:49.139Z"
   }
 ]
