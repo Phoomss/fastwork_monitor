@@ -1,5 +1,54 @@
 [
   {
+    "id": "d4fc2868-833d-46bd-88c2-ca8ba13f6bb6",
+    "status": "open",
+    "tag": {
+      "id": "2cd7eb5b-7ee8-4756-b050-8728a8ad7714",
+      "name": "พัฒนาตนเอง",
+      "sort": 9
+    },
+    "type": "freelance",
+    "description": "ประกาศหาจิตแพทย์เป็นที่ปรึกษาเฉพาะกิจ (Paid Consultation) เพื่อตรวจสอบแบบประเมินในแอปพลิเคชันสุขภาพสตรี\n\nสวัสดีค่ะ\nในขณะนี้ กำลังอยู่ระหว่างการพัฒนาแอปพลิเคชัน ซึ่งเป็นแอปพลิเคชันที่ออกแบบมาเพื่อช่วยผู้หญิงในการบันทึกรอบเดือนและติดตามอารมณ์ (Mood Tracker) เพื่อให้เข้าใจถึงความสัมพันธ์ของสุขภาพและระดับฮอร์โมนในแต่ละช่วงเวลาได้อย่างแม่นยำและเป็นระบบมากขึ้น\n\nเพื่อให้การพัฒนาฟีเจอร์การตั้งคำถามและแบบประเมินสุขภาพจิตภายในแอปมีความถูกต้อง ปลอดภัย และเป็นประโยชน์ต่อผู้ใช้งานจริงมากที่สุด จึงมีความประสงค์ที่จะขอสัมภาษณ์ จิตแพทย์ เพื่อขอคำปรึกษาและคำแนะนำในประเด็นดังนี้ค่ะ:\n\n ทบทวนแบบสอบถาม: ขอคำปรึกษาเกี่ยวกับชุดคำถามที่เตรียมไว้ (ซึ่งอ้างอิงจากแบบประเมินของกรมสุขภาพจิต) ว่ามีความเหมาะสมและเพียงพอสำหรับการใช้งานในรูปแบบแอปพลิเคชันหรือไม่\n\n ความแม่นยำและจรรยาบรรณ: ขอคำแนะนำเพิ่มเติมเพื่อให้การนำเสนอคำถามมีความละเอียดอ่อนและถูกต้องตามหลักจิตวิทยาสำหรับผู้ใช้งานที่เป็นผู้หญิง\n คำแนะนำเชิงวิชาชีพ: เพื่อให้แอปพลิเคชัน Luna สามารถเป็นเครื่องมือที่ช่วยส่งเสริมสุขภาวะทางใจได้จริง\n\nรายละเอียดการสัมภาษณ์:\n     รูปแบบ: สัมภาษณ์ออนไลน์ (ผ่าน Zoom/Google Meet) หรือนัดพบตามความสะดวก\n      ระยะเวลา: ประมาณ [ระบุเวลา เช่น 30-45 นาที]\n      ค่าตอบแทน: [ระบุหากมีค่าตอบแทน หรือระบุว่าเป็นการแลกเปลี่ยนความรู้/ให้เครดิตในแอป]\n\nหากคุณหมอท่านใดสนใจหรือมีความเชี่ยวชาญในด้านสุขภาพจิตสตรี และต้องการเป็นส่วนหนึ่งในการพัฒนาเครื่องมือเพื่อสุขภาวะของผู้หญิง สามารถติดต่อสอบถามข้อมูลเพิ่มเติมหรือนัดหมายได้ทางline : Bamcp หรือ dm ได้เลยค่ะ",
+    "title": "ประกาศหาจิตแพทย์เป็นที่ปรึกษาเฉพาะกิจ  (หรือ ใครที่รู้จักนักจิตแพทย์มีค่าแนะนำ 500 บาท)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "101",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-08T06:53:13.035935Z",
+    "updated_at": "2026-07-08T06:53:14.463434Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPad;9.10.0-6001633"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-07T06:53:12.982393Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
+    "user_profile": {
+      "id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
+      "username": "namomi",
+      "display_name": "namomi",
+      "image_url": "https://storage.googleapis.com/fastwork-static/64611f46-6ba0-4506-b649-47fbc244ce6d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "101",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-08T09:13:52.333Z"
+  },
+  {
     "id": "26707f90-7398-40fa-b884-1e82f591cf10",
     "status": "open",
     "tag": {
@@ -587,154 +636,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-07T11:33:10.237Z"
-  },
-  {
-    "id": "039fa254-f92f-4b9e-bd88-f4103d241912",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน โดยมีกราฟแดชบอร์ด และในเว็บมี ai มาวิเคราะห์ข้อมูลด้วยว่าเดือนนี้มีของเสียอะไรเยอะสุด และเพิ่มมากี่%จากเดือนก่อน",
-    "title": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-07T06:58:07.016784Z",
-    "updated_at": "2026-07-07T06:58:08.190420Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T06:58:06.927848Z",
-    "freelance_offers_count": 10,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.3.1;iPhone;6.2.0-6000087"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
-    "user_profile": {
-      "id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
-      "username": "u9qv2hiu",
-      "display_name": "Zady",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-07T08:50:02.188Z"
-  },
-  {
-    "id": "08454b77-24be-477d-8b46-435b60b968b2",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน โดยมีกราฟแดชบอร์ด และในเว็บมี ai มาวิเคราะห์ข้อมูลด้วยว่าเดือนนี้มีของเสียอะไรเยอะสุด และเพิ่มมากี่%จากเดือนก่อน",
-    "title": "คนสร้าง web app ด้วย ai รวบรวมข้อมูลของเสียในโรงงาน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-07T06:58:06.114795Z",
-    "updated_at": "2026-07-07T06:58:07.421952Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T06:58:06.061927Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.3.1;iPhone;6.2.0-6000087"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
-    "user_profile": {
-      "id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
-      "username": "u9qv2hiu",
-      "display_name": "Zady",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-07T08:50:00.973Z"
-  },
-  {
-    "id": "24ca4768-0e27-475a-b519-efa026d1ff35",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": " สูตรวิธีแก้ Facebook ที่โดนละงับ  180 วัน และ ปิดถาวร ใครทำงานนี้ได้บ้าง ต้องการหาคนทำได้จริง \nมีประสบการณ์ในการแก้มาก่อน",
-    "title": "ใครแก้ เฟสบุ๊คที่โดนปิด ไปเป็นบ้าง หาคนสอนสูตรแก้ ทำได้จริง มีค่าตอบแทนให้",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-07T05:34:33.827501Z",
-    "updated_at": "2026-07-07T05:34:34.841497Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-06T05:34:33.809683Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;11.4.0-6002645"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "c0988dda-36ea-468a-9cd4-21e51c4fd1bc",
-    "user_profile": {
-      "id": "c0988dda-36ea-468a-9cd4-21e51c4fd1bc",
-      "username": "pnxzowgm",
-      "display_name": "sasicha",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-07T08:49:59.391Z"
   }
 ]
