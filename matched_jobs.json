@@ -441,54 +441,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-08T04:25:47.567Z"
-  },
-  {
-    "id": "fe21e1b2-8114-46c6-827b-40205e19d590",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "หาคนทำเว็บไซต์รวบรวมผลงานให้สวยงามครับ รวมเป็นหมวดหมู่ดูง่าย ดูเวอร์ ดูแพง ผ่านเว็บใดก็ได้ (ยกเว้นแคนว่าครับ)",
-    "title": "หาคนทำเว็บไซต์ ",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-07T23:46:11.186280Z",
-    "updated_at": "2026-07-07T23:46:12.147407Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.1;iPhone;11.3.0-6002585"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-12",
-    "expired_at": "2026-08-06T23:46:11.166457Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "343c56ae-0663-4281-8b5d-894a0af9bcf6",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-08T01:06:10.818Z"
   }
 ]
