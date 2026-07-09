@@ -1,5 +1,55 @@
 [
   {
+    "id": "08258b7c-5f22-478a-b724-0dda550baae3",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "📱 Platform: WordPress + Elementor\n─────────────────────────────\n🔧 ส่วนที่ 1: แก้ Speed (Mobile Performance)\nPageSpeed Mobile ปัจจุบัน: 77 เป้าหมาย: 85+\n\nจุดที่ต้องแก้ตาม PageSpeed Insights:\n1. Render-blocking requests — ประหยัดได้ ~2,700ms\n   → Defer/Async JS ที่ไม่จำเป็น, Minify CSS/JS\n2. Use efficient cache lifetimes — 315 KiB\n   → ตั้งค่า Browser Caching ให้ถูกต้อง\n3. Improve image delivery — 177 KiB\n   → Compress รูปภาพ, แปลงเป็น WebP, ตั้ง Lazy Load\n4. Font display — ~100ms\n   → เพิ่ม font-display: swap ในการเรียกใช้ Google Fonts\n\n🎨 ส่วนที่ 2: ปรับ UI ให้ดูดีขึ้น\n3 จุดหลักที่ต้องปรับ:\n1. Hero Section ให้โดดเด่นขึ้น\n   - เพิ่ม background ที่แข็งแรงกว่าเดิม (gradient น้ำเงินเข้ม หรือ background image)\n   - ทำ Headline ให้ใหญ่และโดดเด่นกว่าเดิม\n   - ให้คนเปิดมาแล้วตาหยุดที่ hero section ได้ทันที\n2. แยก Section ให้ชัดเจน\n   - สลับ background แต่ละ section เช่น ขาว → น้ำเงินเข้ม → ขาว → ส้มอ่อน\n   - เพิ่ม whitespace ระหว่าง section ให้หน้าหายใจได้มากขึ้น\n   - ทำให้เลื่อนลงมาแล้วรู้ว่าเปลี่ยนเรื่องแล้ว\n3. ปุ่ม CTA ให้โดดเด่นขึ้น\n   - ปุ่ม LINE และโทรต้องดึงสายตาได้ชัดเจนกว่าเดิม\n   - ปุ่ม Sticky บน Mobile ต้องมี contrast สูง มองเห็นง่าย\n   - เพิ่ม micro-animation เล็กๆ บนปุ่ม LINE เช่น pulse/glow เบาๆ\n\n📱 ส่วนที่ 3: ปรับ Mobile Layout\n- ตรวจสอบและปรับ font size บน mobile ให้อ่านสบาย\n- ตรวจสอบ spacing/padding แต่ละ section บน mobile ไม่ให้แน่นเกินไป\n- ตรวจสอบตาราง pricing บน mobile ให้อ่านง่ายและไม่แตก layout\n\n📌 เงื่อนไขสำคัญ\n- ห้ามแก้ไขเนื้อหา copywriting เดิม\n- ห้ามเปลี่ยนโครงสร้างหน้าเว็บหลัก (section เดิมยังอยู่ครบ)\n- โทนสีหลักยังคงเป็น ส้ม + น้ำเงินเข้ม เหมือนเดิม\n- รองรับมือถือ 100% (Mobile-first)\n\n📌 สิ่งที่ต้องการจากฟรีแลนซ์\n- Portfolio งานปรับปรุงเว็บ (before/after) ที่เคยทำ หรือเวปที่เคยทำจริง\n- ระยะเวลาทำงาน\n- จำนวนรอบแก้ไขที่รวมในราคา\n\nหมายเหตุ 1 - งบประมาณ 1,500 - 2,500 เสนอราคาและต่อรองกันได้ครับ\nหมายเหตุ 2 - \"ขอ inspired จากความ clean และการสลับ section แบบนี้ \"https://primo.mobi/\" ไม่ได้ขอ copy ทั้งหมด\"",
+    "title": "ปรับปรุงเว็บไซต์ที่มีอยู่แล้ว (WordPress + Elementor) ให้โหลดเร็วขึ้นบนมือถือ และปรับ UI ให้ดูดีและมีชีวิตชีวามากขึ���น ไม่ต้องรื้อเนื้อหาหรือโครงสร้างเดิม",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_profile-menu",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-09T10:36:34.233407Z",
+    "updated_at": "2026-07-09T10:36:35.037986Z",
+    "brief_url": "https://primo.mobi/",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-08T10:36:34.186712Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8fc2156e-2392-4105-99df-565df3a53799",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-09T11:34:40.396Z"
+  },
+  {
     "id": "aa7f0f2c-b2b7-4f4a-8309-6c126bda25c8",
     "status": "open",
     "tag": {
@@ -244,54 +294,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-08T15:03:35.343Z"
-  },
-  {
-    "id": "d4fc2868-833d-46bd-88c2-ca8ba13f6bb6",
-    "status": "open",
-    "tag": {
-      "id": "2cd7eb5b-7ee8-4756-b050-8728a8ad7714",
-      "name": "พัฒนาตนเอง",
-      "sort": 9
-    },
-    "type": "freelance",
-    "description": "ประกาศหาจิตแพทย์เป็นที่ปรึกษาเฉพาะกิจ (Paid Consultation) เพื่อตรวจสอบแบบประเมินในแอปพลิเคชันสุขภาพสตรี\n\nสวัสดีค่ะ\nในขณะนี้ กำลังอยู่ระหว่างการพัฒนาแอปพลิเคชัน ซึ่งเป็นแอปพลิเคชันที่ออกแบบมาเพื่อช่วยผู้หญิงในการบันทึกรอบเดือนและติดตามอารมณ์ (Mood Tracker) เพื่อให้เข้าใจถึงความสัมพันธ์ของสุขภาพและระดับฮอร์โมนในแต่ละช่วงเวลาได้อย่างแม่นยำและเป็นระบบมากขึ้น\n\nเพื่อให้การพัฒนาฟีเจอร์การตั้งคำถามและแบบประเมินสุขภาพจิตภายในแอปมีความถูกต้อง ปลอดภัย และเป็นประโยชน์ต่อผู้ใช้งานจริงมากที่สุด จึงมีความประสงค์ที่จะขอสัมภาษณ์ จิตแพทย์ เพื่อขอคำปรึกษาและคำแนะนำในประเด็นดังนี้ค่ะ:\n\n ทบทวนแบบสอบถาม: ขอคำปรึกษาเกี่ยวกับชุดคำถามที่เตรียมไว้ (ซึ่งอ้างอิงจากแบบประเมินของกรมสุขภาพจิต) ว่ามีความเหมาะสมและเพียงพอสำหรับการใช้งานในรูปแบบแอปพลิเคชันหรือไม่\n\n ความแม่นยำและจรรยาบรรณ: ขอคำแนะนำเพิ่มเติมเพื่อให้การนำเสนอคำถามมีความละเอียดอ่อนและถูกต้องตามหลักจิตวิทยาสำหรับผู้ใช้งานที่เป็นผู้หญิง\n คำแนะนำเชิงวิชาชีพ: เพื่อให้แอปพลิเคชัน Luna สามารถเป็นเครื่องมือที่ช่วยส่งเสริมสุขภาวะทางใจได้จริง\n\nรายละเอียดการสัมภาษณ์:\n     รูปแบบ: สัมภาษณ์ออนไลน์ (ผ่าน Zoom/Google Meet) หรือนัดพบตามความสะดวก\n      ระยะเวลา: ประมาณ [ระบุเวลา เช่น 30-45 นาที]\n      ค่าตอบแทน: [ระบุหากมีค่าตอบแทน หรือระบุว่าเป็นการแลกเปลี่ยนความรู้/ให้เครดิตในแอป]\n\nหากคุณหมอท่านใดสนใจหรือมีความเชี่ยวชาญในด้านสุขภาพจิตสตรี และต้องการเป็นส่วนหนึ่งในการพัฒนาเครื่องมือเพื่อสุขภาวะของผู้หญิง สามารถติดต่อสอบถามข้อมูลเพิ่มเติมหรือนัดหมายได้ทางline : Bamcp หรือ dm ได้เลยค่ะ",
-    "title": "ประกาศหาจิตแพทย์เป็นที่ปรึกษาเฉพาะกิจ  (หรือ ใครที่รู้จักนักจิตแพทย์มีค่าแนะนำ 500 บาท)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "101",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-08T06:53:13.035935Z",
-    "updated_at": "2026-07-08T06:53:14.463434Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPad;9.10.0-6001633"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-07T06:53:12.982393Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
-    "user_profile": {
-      "id": "47519af7-5b0b-4ad5-80b6-741e868eac34",
-      "username": "namomi",
-      "display_name": "namomi",
-      "image_url": "https://storage.googleapis.com/fastwork-static/64611f46-6ba0-4506-b649-47fbc244ce6d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "101",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-08T09:13:52.333Z"
   }
 ]
