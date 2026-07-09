@@ -293,54 +293,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-08T09:13:52.333Z"
-  },
-  {
-    "id": "26707f90-7398-40fa-b884-1e82f591cf10",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการคนออกแบบ ใบเสนอราคา ใบแจ้งหนี้ สำหรับธุรกิจส่วนตัวค่ะ ขอคนมีหรือไม่มีประสบกา��ณ์ก็ได้ แค่ต้องการ Pattern ที่ถูกต้อง และข้อมูลครบถ้วนค่ะ",
-    "title": "ออกแบบ ใบเสนอราคา ใบแจ้งหนี้",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-08T06:21:45.840128Z",
-    "updated_at": "2026-07-08T06:21:46.885106Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPhone;8.9.0-6001195"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-07T06:21:45.790660Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "b819f848-b9e8-4d4e-9bd0-9d08c7716cae",
-    "user_profile": {
-      "id": "b819f848-b9e8-4d4e-9bd0-9d08c7716cae",
-      "username": "pinyapatfindjob",
-      "display_name": "Pinyapat Professional",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b819f848-b9e8-4d4e-9bd0-9d08c7716cae/profile/11b15e8a-d36f-410d-a7c1-750622527140.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-08T06:43:40.633Z"
   }
 ]
