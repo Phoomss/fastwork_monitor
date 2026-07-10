@@ -1,5 +1,152 @@
 [
   {
+    "id": "8f04e482-5585-4282-85d9-92b858d7f644",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "หาคนรับออกแบบเฟรมรูป สไตล์ y2k, window ui \n\nสามารถส่งไฟล์สำหรับงานพิมพ์ได้ เป็นไฟล์ .AI, .EPS ,ไฟล์ Vector ที่พร้อมนำไปผลิตงานพิมพ์  หรือเป็น PNG ขนาดใหญ่ได้ค่ะ\n\nขอคนรับงานเร่ง งานใช้เชิงพาณิชย์ Asset ฟรี/สำเร็จรูปได้",
+    "title": "คนออกแบบเฟรมรูป",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-10T13:09:46.725507Z",
+    "updated_at": "2026-07-10T13:09:48.176900Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-11",
+    "expired_at": "2026-08-09T13:09:46.681667Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2625;11.3.1-6002608"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "0dfa31bd-219c-4a08-8c20-82ec58648ccf",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-10T15:02:55.412Z"
+  },
+  {
+    "id": "cad6ccb4-8f59-4ccd-b22d-023dd6363e19",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหา Graphic Designer ที่มีประสบการณ์ในการออกแบบ Company Profile ระดับองค์กร \nสามารถคิดโครงเรื่อง (Storytelling) และออกแบบงานนำเสนอให้ดูน่าเชื่อถือ เป็นมืออาชีพ และสื่อสารได้อย่างมีประสิทธิภาพ\n\nลักษณะงาน\nจัดทำ Company Profile ของบริษัท โดยมีข้อมูลและ Corporate Identity (CI) ให้ครบถ้วน\n\nขอบเขตงานประกอบด้วย\n1. วางโครงสร้างการนำเสนอ (Presentation Flow / Storytelling)\n2. จัดลำดับเนื้อหาใหม่ให้น่าสนใจ อ่านลื่น และสื่อสารคุณค่าของบริษัทได้ชัดเจน\n3. ออกแบบเลย์เอาต์ กราฟิก ไอคอน และ Infographic ให้ทันสมัย\n4. ใช้ Corporate Identity (CI) ของบริษัทเป็นหลัก ทั้งสี ฟอนต์ และแนวทางการออกแบบ\n5. จัดทำไฟล์สำหรับแก้ไขต่อได้ (Adobe Illustrator / InDesign / PowerPoint หรือ Figma ตามที่ตกลง)\n\nสิ่งที่บริษัทจะจัดเตรียมให้\n- Corporate Identity (CI)\n- โลโก้และ Brand Assets\n- ข้อมูลบริษัทและเนื้อหาทั้งหมด\n- รูปภาพและข้อมูลประกอบ (ถ้ามี)\n\nคุณสมบัติที่ต้องการ\n- มีประสบการณ์ออกแบบ Company Profile, Corporate Presentation หรือ Investor Deck\n- มีความเข้าใจด้านการจัดลำดับข้อมูลและการเล่าเรื่อง (Storytelling)\n- มีเซนส์ด้าน Typography, Layout และ Visual Hierarchy\n- สามารถออกแบบให้มีมาตรฐานระดับองค์กร ไม่ใช่เพียงจัดวางข้อมูล\n\nวิธีสมัครกรุณาส่ง\n- Portfolio ที่เกี่ยวข้อง (โดยเฉพาะ Company Profile หรือ Presentation)\n- โปรแกรมที่ใช้ในการทำงาน\n- ระยะเวลาที่สามารถส่งงานได้\n\nงบประมาณ\n2,000��4,000 บาท \n(พิจารณาตามประสบการณ์ ความสามารถ และ Portfolio)",
+    "title": "Graphic Designer ทำ Company Profile บริษัท ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-10T13:04:36.920814Z",
+    "updated_at": "2026-07-10T13:04:38.084313Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-09T13:04:36.876651Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "02a3eeb0-4e81-4ac5-b5d0-448651437973",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-10T15:02:54.016Z"
+  },
+  {
+    "id": "4d98d923-b8cb-4477-a1b1-59804c837a26",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "# 🎨 ประกาศรับฟรีแลนซ์ (Graphic / Content)\n\n## 🇬🇧➡️🇹🇭 งานแปล Presentation ภาษาอังกฤษเป็นภาษาไทย พร้อมรีทัชไฟล์\n\nกำลังมองหาคนที่มี **เซนส์ด้านกราฟิกและการสื่อสาร** มากกว่านักแปลมืออาชีพ\n\nงานนี้ **ไม่เน้นการแปลคำต่อคำ** แต่เน้นการใช้ **ChatGPT หรือ AI** ช่วยแปล แล้วนำมา **เรียบเรียงภาษาไทยให้อ่านง่าย เข้าใจง่าย และสื่อสารได้ดี** จากนั้นรีทัชข้อความลงบนไฟล์ต้นฉบับให้ดูเป็นธรรมชาติ\n\n---\n\n## 📝 ลักษณะงาน\n\n✅ แปลเอกสาร **ภาษาอังกฤษ → ภาษาไทย**\n✅ ใช้ **ChatGPT หรือ AI** เป็นผู้ช่วยในการแปล\n✅ ปรับสำนวนภาษาไทยให้อ่านลื่น เข้าใจง่าย\n✅ รีทัชข้อความภาษาไทยลงบนไฟล์ต้นฉบับ โดยรักษารูปแบบและความสวยงามของงาน\n\n> 📌 **ไฟล์ต้นฉบับเป็น PDF Presentation** จึงไม่สามารถแก้ข้อความได้โดยตรง ต้องใช้การรีทัชข้อความลงบนงาน\n\n📄 **จำนวนงาน:** 35 หน้า\n💰 **ค่าจ้าง:** 20 บาท/หน้า (รวม 700 บาท)\n\n🔄 ส่งดราฟแรกให้ตรวจก่อน และสามารถ��ก้ไขได้ **ไม่เกิน 2 รอบ**\n\n🌟 หากผลงานดี มีงานลักษณะเดียวกันให้ต่อเนื่อง\n\n---\n\n## 👤 คนที่เหมาะกับงานนี้\n\n🤖 ใช้ **ChatGPT หรือ AI** ได้คล่อง\n🎨 ใช้ **Photoshop, Illustrator, Figma, Canva** หรือโปรแกรมกราฟิกอื่น ๆ ได้\n🖌️ มีความเข้าใจด้าน **Graphic Design / UX/UI** และการจัดวางข้อความ\n�� มีทักษะการสื่อสาร สามารถเลือกคำและเรียบเรียงภาษาไทยให้อ่านง่าย\n🔍 ใส่ใจรายละเอียดของงาน\n\n> 💡 **หมายเหตุ:** งานนี้ไม่จำเป็นต้องเป็นนักแปลมืออาชีพ หากคุณสื่อสารภาษาไทยได้ดี ใช้ AI เป็น และมีทักษะด้านกราฟิก งานนี้เหมาะกับคุณมาก\n\n---\n\n## 📋 ขั้นตอนการทำงาน\n\n1️⃣ ส่งตัวอย่างผลงานที่เคยทำ\n2️⃣ ส่งใบเสนอราคา\n3️⃣ ชำระเงินเพื่อเริ่มงาน\n4️⃣ ส่งอัปเดตเมื่อทำครบ **5 หน้า** เพื่อยืนยันแนวทาง\n5️⃣ ส่งมอบงานทั้งหมด\n6️⃣ ตรวจรับงานและอนุมัติเงิน\n\n---\n\n## ⏰ ระยะเวลา\n\n📅 ใช้เวลาประมาณ **2 วัน**\n\n🚀 ส่งมอบภายใน **12 กรกฎาคม 2569 เวลา 20:00 น.** หรือเร็วกว่านั้น\n\nหมายเหตุ\n🔒 NDA / Confidentiality\nงานนี้อยู่ภายใต้การรักษาความลับ ผู้รับงานต้องไม่เผยแพร่ แชร์ อัปโหลด หรือใช้เอกสารเป็นตัวอย่างผลงาน ไม่ว่าทั้งหมดหรือบางส่วน รวมถึงห้ามนำข้อมูลไปใช้กับบุคคลอื่นโดยเด็ดขาด",
+    "title": "Graphic งานแปลเอกสาร Presentation ภาษาอังกฤษเป็นภาษาไทย พร้อมรีทัชไฟล์ให้เรียบร้อย",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "700",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-10T12:55:26.246658Z",
+    "updated_at": "2026-07-10T12:55:28.143186Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-12",
+    "expired_at": "2026-08-09T12:55:26.193161Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "02a3eeb0-4e81-4ac5-b5d0-448651437973",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "700",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-10T15:02:52.582Z"
+  },
+  {
     "id": "b925e8fb-f988-408a-9e25-3ca54efaae59",
     "status": "open",
     "tag": {
