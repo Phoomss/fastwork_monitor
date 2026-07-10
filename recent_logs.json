@@ -1,6 +1,5 @@
 [
-  "[2026-07-10T02:14:07.331Z]     Notification sent successfully.",
-  "[2026-07-10T02:14:06.779Z]   FOUND NEW TARGET JOB: หาคนจ้างทำบอทcfของในไลฟ์สด (Cats: พัฒนาแอปพลิเคชัน) (Budget: 15000 THB)",
-  "[2026-07-10T02:14:05.701Z] Checking Fastwork for new job posts...",
-  "[2026-07-10T02:14:05.698Z] Auto-cleanup: Removed 6 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-10T06:14:55.096Z] Checking Fastwork for new job posts...",
+  "[2026-07-10T06:14:55.096Z] Auto-cleanup: Removed 47 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-10T06:14:55.093Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
