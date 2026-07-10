@@ -1,5 +1,153 @@
 [
   {
+    "id": "b925e8fb-f988-408a-9e25-3ca54efaae59",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการผู้มีประสบการณ์จัดทำไฟล์ Excel สำหรับติดตามโปรเจกต์ โดยมีรายละเอียดดังนี้\n\n* จัดทำตาราง Content Tracking แยกหลายชีต\n* จัดทำตาราง Renovation Tracking\n* ออกแบบไฟล์ให้อ่านง่าย ใช้งานจริง\n* มี Dropdown สถานะ, Filter และจัดรูปแบบตาราง\n* นำข้อมูลที่ให้ไปจัดลงตารางอย่างเป็นระบบ\n\nส่งงานเป็นไฟล์ Excel (.xlsx) พร้อมใช้งาน และสามารถแก้ไขได้ภายหลัง\n\nมีงบ500ถ้าเสร็จเร็วจะหาทบพิเศษเพิ่มให้ครับ ",
+    "title": "    รับทำไฟล์ Excel ติดตามโปรเจกต์ (Project Tracking) พร้อมจัดระบบข้อมูล",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-10T09:31:39.114407Z",
+    "updated_at": "2026-07-10T09:31:40.794101Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.0.1;iPhone;10.12.0-6002405"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-10",
+    "expired_at": "2026-08-09T09:31:39.066785Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "28c65562-c28a-4dfd-935f-a526deae8647",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-10T09:53:15.188Z"
+  },
+  {
+    "id": "282f017f-154e-4b9d-bc7a-f83c6579c1f0",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "5 คนสุดท้าย ขอก่อน 20:00 วันนี้ \n💰 ค่าตอบแทน 400 บาท | ทำจา���ที่บ้าน | ใช้ iPhone เท่านั้น |ใช้เวลา 30-40 นาที\n\nกำลังเปิดรับผู้เข้าร่วมสำหรับ UX Research (User Experience Research) ผ่านแพลตฟอร์มซึ่งเป็นบริษัทที่ให้บริการทดสอบเว็บไซต์และแอปพลิเคชัน เพื่อเก็บความคิดเห็นจากผู้ใช้งานจริงและนำไปพัฒนาประสบการณ์การใช้งาน\n\n📋 รายละเอียดงาน\n💰 ค่าตอบแทน 500 บาท\n📱 ใช้ iPhone เท่านั้น\n🏠 ทำจากที่บ้าน \n⏱ ใช้เวลาประมาณ 30–45 นาที\nระหว่างทดสอบผู้ทดสอบจะต้อง Screen recording และพูดเกี่ยวกับประสบการณ์ใช้แอปขณะทดสอบ \n✅ คุณสมบัติ\nใช้งาน iPhone (ไม่รองรับ Android และ iPad)\nมีบัญชี TikTok ที่ใช้งานอยู่\nเคยซื้อสินค้าออนไลน์หรือ��ช้แอปช็อปปิ้ง เช่น Shopee, Lazada, TikTok Shop หรือเว็บไซต์อื่น ๆ\n🔒 ความเป็นส่วนตัว\nไม่มีการโอนเงินผ่านแอปธนาคาร\nไม่มีการขอ OTP รหัสผ่าน หรือข้อมูลบัญชีธนาคาร\nเป็นเพียงการทดสอบการใช้งานแอปและให้ความคิดเห็นตามการใช้งานจริง\n💵 การจ่ายค่าตอบแทน\nได้รับ 500 บาท หลังจากทำการทดสอบเสร็จและผ่านการตรวจสอบจากทีมวิจัย\nขั้นตอนการตรวจสอบอาจใช้เวลาประมาณ 9 วัน ก่อนดำเนินการจ่ายค่าตอบแทน\n📩 สนใจเข้าร่วม\nอจ Jiraphxrt มาได้เลยครับเพราะโควต้าส่งข้อความเต็ม\nไม่ใช่มิจมีตัวตนจริงขอคนทำจริงๆและสนใจจริงๆนะครับ",
+    "title": "ฉันหาผ���้เข้าร่วมทดสอบการใช้งานแอป",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-10T08:55:43.239395Z",
+    "updated_at": "2026-07-10T08:55:44.333080Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-11",
+    "expired_at": "2026-08-09T08:55:43.220751Z",
+    "freelance_offers_count": 10,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
+    "user_profile": {
+      "id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
+      "username": "jiraphart.g",
+      "display_name": "G.Jiraphart",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3469c759-1bf9-43b5-8e23-1bdf946a88eb/profile/11943b5b-79fb-423c-8b88-7ad10d353405.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-10T09:53:13.989Z"
+  },
+  {
+    "id": "0f1a0adf-1eff-4875-aee6-ec4c3dd51d9f",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาผู้ที่สามารถใช้ Framer ได้ เพื่อช่วยเพิ่มหน้าเว็บไซต์จาก Template ที่มีอยู่แล้ว\nลักษณะงาน\n* เพิ่มหน้าเว็บไซต์บน Framer ประมาณ 20–30 หน้า\n* ใช้ Template และดีไซน์ที่มีอยู่แล้ว\n* เปลี่ยนรูปภาพ ข้อความ และข้อมูลสินค้า\n* ตั้งค่าลิงก์ และตรวจ Responsive เบื้องต้น\n* ไม่ต้องออกแบบ UI/UX ใหม่ และไม่ต้องเขียนโค้ด\n\n*เนื้องานประมาณ 5-7 วัน อยากทราบเป็นเรทต่อวัน*",
+    "title": "คนที่สามารถใช้งาน Framer เป็น",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-10T08:18:51.977124Z",
+    "updated_at": "2026-07-10T08:18:53.542682Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-09T08:18:51.902563Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "557dea64-77d8-4be1-80ca-c73e8970d42a",
+    "user_profile": {
+      "id": "557dea64-77d8-4be1-80ca-c73e8970d42a",
+      "username": "ss2uodpi",
+      "display_name": "Batik",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-10T09:53:12.207Z"
+  },
+  {
     "id": "d2d1c0ab-e640-466b-8c0b-f9a302aa8a12",
     "status": "open",
     "tag": {

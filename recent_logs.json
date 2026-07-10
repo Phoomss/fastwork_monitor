@@ -1,5 +1,10 @@
 [
-  "[2026-07-10T06:14:55.096Z] Checking Fastwork for new job posts...",
-  "[2026-07-10T06:14:55.096Z] Auto-cleanup: Removed 47 seen job tracking IDs older than 1 day(s).",
-  "[2026-07-10T06:14:55.093Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-07-10T09:53:15.350Z]     Notification sent successfully.",
+  "[2026-07-10T09:53:15.188Z]   FOUND NEW TARGET JOB:     รับทำไฟล์ Excel ติดตามโปรเจกต์ (Project Tracking) พร้อมจัดระบบข้อมูล (Cats: พัฒนาเว็บไซต์) (Budget: 500 THB)",
+  "[2026-07-10T09:53:14.186Z]     Notification sent successfully.",
+  "[2026-07-10T09:53:13.989Z]   FOUND NEW TARGET JOB: ฉันหาผ���้เข้าร่วมทดสอบการใช้งานแอป (Cats: พัฒนาแอปพลิเคชัน, ออกแบบ UX UI) (Budget: 500 THB)",
+  "[2026-07-10T09:53:12.987Z]     Notification sent successfully.",
+  "[2026-07-10T09:53:12.207Z]   FOUND NEW TARGET JOB: คนที่สามารถใช้งาน Framer เป็น (Cats: ออกแบบ UX UI) (Budget: 0 THB)",
+  "[2026-07-10T09:53:11.086Z] Checking Fastwork for new job posts...",
+  "[2026-07-10T09:53:11.083Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s)."
 ]
