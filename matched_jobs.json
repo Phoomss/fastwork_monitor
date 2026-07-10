@@ -1,5 +1,54 @@
 [
   {
+    "id": "2f6cab12-e662-4685-ae7a-27960cc8fafa",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนทำเว็บไซต์ที่ทำให้หลังบ้านใช้งานง่าย\nแก้ไขข้อมูลได้ ส่วนใหญ่เป็นค่าย กิจกรรมนักเรียน เชิงด้านการเรียนรู้ และมีการเปลี่ยนกำหนดการณ์ และให้สมัครลงทะเบียนได้\nขอคนที่ตามงานง่ายๆ มีใจบริการ ช่วยแก้ปัญหาให้ได้ดีค่ะ\n",
+    "title": "ต้องการคนทำเว็บไซต์ที่สามารถให้หลังบ้านแก้ไขข้อมูลได้",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-10T17:09:54.197297Z",
+    "updated_at": "2026-07-10T17:09:55.628681Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-09T17:09:54.151514Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "73f4be8c-0f1c-4855-843d-5e51342e3257",
+    "user_profile": {
+      "id": "73f4be8c-0f1c-4855-843d-5e51342e3257",
+      "username": "tawtaw",
+      "display_name": "tawtaw",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/73f4be8c-0f1c-4855-843d-5e51342e3257/profile/13ce6e86-f9dc-4388-8587-53421e6801a2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-10T18:38:17.741Z"
+  },
+  {
     "id": "8f04e482-5585-4282-85d9-92b858d7f644",
     "status": "open",
     "tag": {
@@ -391,104 +440,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-09T23:56:29.637Z"
-  },
-  {
-    "id": "811f2d41-d207-42bf-978b-f1950dca9a48",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "หาคนทำ saas ยิงโฆษณาออโต้ ทุกแพลตฟอร์มtiktok shopee lazada youtube line whateverweb app ต่อ api เข้าไปในแต่ละ platform ให้เรียบร้อย ",
-    "title": "หาคนทำ saas ยิงโฆษณาออโต้ ทุกแพลตฟอร์มweb app ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-09T18:02:40.316329Z",
-    "updated_at": "2026-07-09T18:02:41.498688Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-08T18:02:40.183064Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "45635aaf-a491-4969-a8b4-2b2f674b84a1",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-09T18:22:16.983Z"
-  },
-  {
-    "id": "87bfd5d9-cf27-4d71-bcd5-b1a38e77b339",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "10/10 คน\n💰 ค่าตอบแทน 400 บาท | ทำจากที่บ้าน | ใช้ iPhone เท่านั้น |ใช้เวลา 30-40 นาที\n\nกำลังเปิดรับผู้เข้าร่วมสำหรับ UX Research (User Experience Research) ผ่านแพลตฟอร์มซึ่งเป็นบริษัทที่ให้บริการทดสอบเว็บไซต์และแอปพลิเคชัน เพื่อเก็บความคิดเห็นจากผู้ใช้งานจริงและนำไปพัฒนาประสบการณ์การใช้งาน\n\n📋 รายละเอียดงาน\n💰 ค่าตอบแทน 500 บาท\n📱 ใช้ iPhone เท่านั้น\n🏠 ทำจากที่บ้าน \n⏱ ใช้เวลาประมาณ 30–45 นาที\nระหว่างทดสอบผู้ทดสอบจะต้อง Screen recording และพูดเกี่ยวกับประสบการณ์ใช้แอปขณะทดสอบ \n✅ คุณสมบัติ\nใช้งาน iPhone (ไม่รองรับ Android และ iPad)\nมีบัญชี TikTok ที่ใช้งานอยู่\nเคยซื้อสินค้าออนไลน์หรือใช้แอปช็อปปิ้ง เช่น Shopee, Lazada, TikTok Shop หรือเว็บไซต์อื่น ๆ\n🔒 ความเป็นส่วนตัว\nไม่มีการโอนเงินผ่านแอปธนาคาร\nไม่มีการขอ OTP รหัสผ่าน หรือข้อมูลบัญชีธนาคาร\nเป็นเพียงการทดสอบการใช้งานแอปและให้ความคิดเห็นตามการใช้งานจริง\n💵 การจ่ายค่าตอบแทน\nได้รับ 500 บาท หลังจากทำการทดสอบเสร็จและผ่านการตรวจสอบจากทีมวิจัย\nขั้นตอนการตรวจสอบอาจใช้เวลาประมาณ 9 วัน ก่อนดำเนินการจ่ายค่าตอบแทน\n📩 สนใจเข้าร่วม\nอจ. Jiraphxrt มาได้เลยครับเพราะโควต้าส่งข้อความเต็ม\nไม่ใช่มิจมีตัวตนจริงขอคนทำจริงๆและสนใจจริงๆนะครับ",
-    "title": "ผู้เข้าร่วมทดสอบการใช้งานแอป",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "400",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-09T16:48:03.693137Z",
-    "updated_at": "2026-07-09T16:48:05.578057Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-10",
-    "expired_at": "2026-08-08T16:48:03.671640Z",
-    "freelance_offers_count": 10,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
-    "user_profile": {
-      "id": "3469c759-1bf9-43b5-8e23-1bdf946a88eb",
-      "username": "jiraphart.g",
-      "display_name": "G.Jiraphart",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3469c759-1bf9-43b5-8e23-1bdf946a88eb/profile/11943b5b-79fb-423c-8b88-7ad10d353405.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "400",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-09T18:22:15.770Z"
   }
 ]
