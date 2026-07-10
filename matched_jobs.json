@@ -1,5 +1,54 @@
 [
   {
+    "id": "d2d1c0ab-e640-466b-8c0b-f9a302aa8a12",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "-จ่ายผ่านfastworkเท่านั้น ไม่มีการมัดจำเงินบางส่วนเข้าบัญชีโดยตรงโดยไม่ผ่านfastworkทุกกรณี ในกรณีคนที่ทำงานให้เหตุผลได้เงินช้า โดนหัก% เป็นปัญหาของผู้ทำงานไม่ใช่ปัญหาของผมเพราะเวลางานมีปัญหา ทำงานไม่ตรงตามบีฟหรือในกรณีทำไม่ได้ผมจะได้ขอเงินคืนหรืออย่างน้อยมีตัวกลางช่วยไกล่เกลี่ยเพราะที่ผมเคยเจอมาตอนยังไม่จ่ายตังทำได้ทุกอย่างพอจ่ายไปติดนั่นนี่ทำไ���่ได้บ้างข้ออ้างสารพัด ใครอยากให้ชำระโดยตรงผ่านได้เลยไม่ชำระทุกกรณี\n\n-เป็นบอทจับคำที่ผู้ไลฟ์พิมพ์เเบบยิงapiเท่านั้น \n-พอคนที่ไลฟ์พิมพ์ปักหมุดคำสามารถยิงapiเพื่อพิมพ์คำนั้นในการจองสินค้าได้เลย\n-ใส่proxyได้\n-รันได้หลายเเอคเค้า\n-ให้ซอสโค้ดทั้งหมด เผื่ออนาคตผมจะเอาโค้ดไปทำกับdevคนอื่น\n-ส่วนงบถ้าน้อยไปลองมาคุยกันได้ครับ",
+    "title": "หาคนจ้างทำบอทcfของในไลฟ์สด",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-10T01:49:13.217193Z",
+    "updated_at": "2026-07-10T01:49:14.674558Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.6.1;iPhone;6.13.0-6000562"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-10",
+    "expired_at": "2026-08-09T01:49:13.197412Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "4719a21f-aeae-4f65-a3b6-42ee38bfab6c",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-10T02:14:06.779Z"
+  },
+  {
     "id": "fb2c1dc8-6b02-4217-bbb6-e1e79bdfdb74",
     "status": "open",
     "tag": {
