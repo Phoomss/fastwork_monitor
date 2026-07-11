@@ -1,5 +1,54 @@
 [
   {
+    "id": "f04c7f21-d490-47dd-8233-ff50488ebc7d",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน\n1.หาคนทำแอพส่งอาหารครับ เป็นเดลืเวอรี่ฟูตราคาไม่แรงมากครับทำเล็กๆเปิดในจังหวัดขอราคาไม่แรงมากครับ",
+    "title": "หาคนทำแอพส่งอาหารครับ ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-11T06:19:46.855677Z",
+    "updated_at": "2026-07-11T06:19:47.921973Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-10T06:19:46.773651Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "1e589c6e-b0dc-4c8a-9483-915695194bbc",
+    "user_profile": {
+      "id": "1e589c6e-b0dc-4c8a-9483-915695194bbc",
+      "username": "ye2zxsgc",
+      "display_name": "SPENELX",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-11T07:56:41.299Z"
+  },
+  {
     "id": "3de2bd15-ca19-4623-8d1c-631817d2f8df",
     "status": "open",
     "tag": {
