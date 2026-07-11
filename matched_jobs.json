@@ -391,54 +391,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-10T02:14:06.779Z"
-  },
-  {
-    "id": "fb2c1dc8-6b02-4217-bbb6-e1e79bdfdb74",
-    "status": "open",
-    "tag": {
-      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
-      "name": "งานเขียน / บทความ",
-      "sort": 8
-    },
-    "type": "freelance",
-    "description": "หาคนมาช่วยหา reference งานวิจัยภาษาอังกฤษ 20 อัน ไม่เอางานวิจัยที่เก่ากว่าปี 2021 เพื่อเอามาเขียน Thematic paper หัวข้อ\n\nDrivers of Re-Purchase Intention Toward Age-Specific Kibble Type Dog Food for Senior Large breed Dogs: A Quantitative Analysis of Pet Owners in Bangkok and metropolitan area\n\nงานที่ส่งขอเป็น\n\n1.) file PDF 20 ไฟล์\n2.) ลิ้งค์ reference ของ website 20 เว็บ\n3.) ขอภายในเที่ยงคืนวันนี้",
-    "title": "คนหางานวิจัยภาษาอังกฤษเอามาเขียน Thematic paper 20 อัน (ด่วน)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-09T23:02:28.513870Z",
-    "updated_at": "2026-07-09T23:02:29.364700Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.0.3-6002477"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-10",
-    "expired_at": "2026-08-08T23:02:28.437480Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-09T23:56:29.637Z"
   }
 ]
