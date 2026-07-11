@@ -243,54 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-11T05:59:13.233Z"
-  },
-  {
-    "id": "2f6cab12-e662-4685-ae7a-27960cc8fafa",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนทำเว็บไซต์ที่ทำให้หลังบ้านใช้งานง่าย\nแก้ไขข้อมูลได้ ส่วนใหญ่เป็นค่าย กิจกรรมนักเรียน เชิงด้านการเรียนรู้ และมีการเปลี่ยนกำหนดการณ์ และให้สมัครลงทะเบียนได้\nขอคนที่ตามงานง่ายๆ มีใจบริการ ช่วยแก้ปัญหาให้ได้ดีค่ะ\n",
-    "title": "ต้องการคนทำเว็บไซต์ที่สามารถให้หลังบ้านแก้ไขข้อมูลได้",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-10T17:09:54.197297Z",
-    "updated_at": "2026-07-10T17:09:55.628681Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-09T17:09:54.151514Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "73f4be8c-0f1c-4855-843d-5e51342e3257",
-    "user_profile": {
-      "id": "73f4be8c-0f1c-4855-843d-5e51342e3257",
-      "username": "tawtaw",
-      "display_name": "tawtaw",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/73f4be8c-0f1c-4855-843d-5e51342e3257/profile/13ce6e86-f9dc-4388-8587-53421e6801a2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-10T18:38:17.741Z"
   }
 ]
