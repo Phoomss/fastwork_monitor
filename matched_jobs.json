@@ -1,5 +1,54 @@
 [
   {
+    "id": "088110b4-1903-48db-ab7c-0c5349137549",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "full-time",
+    "description": "Recruiters SourcedOut เปิดรับสมัครด่วน! ตำแหน่ง Social Administrator‼️\n[รับจำนวนจำกัดเพียง 1 อัตราเท่านั้น | เน้นคนที่มีประสบการณ์ตรงและพร้อมเริ่มงานทันที]\n\n💻หน้าที่ความรับผิดชอบหลัก\n° บริหารจัดการและดูแล Social Media ทุกช่องทางของบริษัท (Facebook, IG, TikTok, YouTube, X) เพื่อเพิ่มยอดผู้ติดตามและ Engagement\n° วางแผน คิดค้น และสร้างสรรค์ Content คุณภาพสูงเพื่อกระตุ้นยอ��ขายและสร้างรายได้ให้บริษัท\n° บริหารจัดการแคมเปญ Social Media Marketing และการทำ Influencer Marketing\n° วิเคราะห์ข้อมูลเชิงลึก (Insights) วัดผล ROI และ Conversion Rate เพื่อนำมาปรับปรุงกลยุทธ์การตลาด\n° ตอบคำถามและสร้างปฏิสัมพันธ์ที่ดีกับผู้ติดตามบนหน้าเพจ\n° ปฏิบัติงานด้านการตลาดอื่นๆ ตามที่ได้รับมอบหมายเพื่อเพิ่มยอดขาย\n\nคุณสมบัติผู้สมัคร💯\n° จบปริญญาตรีขึ้นไป สาขาการตลาด สื่อสารมวลชน หรือสาขาที่เกี่ยวข้อง\n° มีประสบการณ์ตรงด้าน Social Media Marketing 2 ปีขึ้นไป (หากมีผลงานด้านการเพิ่มรายได้จะพิจารณาเป็นพิเศษ)\n° มีความรู้ความเชี่ยวชาญการย���งโฆษณา (Social Media Ads) และการวิเคราะห์ข้อมูล ROI\n° มีทักษะการสื่อสาร การเขียน และการใช้ภาษาไทยในระดับดีเยี่ยม\n° สามารถเริ่มงานได้ทันทีหลังจากผ่านการคัดเลือก\n\nสวัสดิการและแพ็กเกจผลตอบแทน\n- ฐานเงินเดือน: 20,000 - 23,000 บาท\n- ประกันสังคม และประกันสุขภาพกลุ่ม (OPD)\n- กองทุนสำรองเลี้ยงชีพ (Provident Fund)\n- ค่าออกกำลังกายสนับสนุนสุขภาพ\n- วันหยุดพักร้อนประจำปี 8 วัน (สูงสุด 11 วันเมื่อทำงานครบตามเงื่อนไข)\n\n❣️สถานที่และเวลาทำงาน:\nพิกัดออฟฟิศ: พระราม 2 (โซนพันท้าย)\nเวลาทำงาน: 10:00 - 17:30 น. (วันเสาร์รูปแบบ Work From Home รอ Standby / หยุดวันอาทิตย์)\n\n**แน���เรซูเม่เพื่อรับการติดต่อกลับ",
+    "title": "Social Admin สายลุยทำเริ่มงานทันที",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "23000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-12T08:50:09.051275Z",
+    "updated_at": "2026-07-12T08:50:10.066365Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-11T08:50:08.972788Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.1;iPhone;9.7.0-6001499"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "62d7e554-353f-4461-91be-517477196d71",
+    "user_profile": {
+      "id": "62d7e554-353f-4461-91be-517477196d71",
+      "username": "wrdpotae",
+      "display_name": "Recruiter SourcedOut",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/62d7e554-353f-4461-91be-517477196d71/profile/ebd6e5e9-64a9-404f-8bfa-56fa9a82f677.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "23000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-12T09:13:17.863Z"
+  },
+  {
     "id": "6f51c55b-fa0d-4dde-aa48-cadd8924aa56",
     "status": "open",
     "tag": {
@@ -292,54 +341,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-11T09:21:14.093Z"
-  },
-  {
-    "id": "f04c7f21-d490-47dd-8233-ff50488ebc7d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน\n1.หาคนทำแอพส่งอาหารครับ เป็นเดลืเวอรี่ฟูตราคาไม่แรงมากครับทำเล็กๆเปิดในจังหวัดขอราคาไม่แรงมากครับ",
-    "title": "หาคนทำแอพส่งอาหารครับ ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-11T06:19:46.855677Z",
-    "updated_at": "2026-07-11T06:19:47.921973Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-10T06:19:46.773651Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "1e589c6e-b0dc-4c8a-9483-915695194bbc",
-    "user_profile": {
-      "id": "1e589c6e-b0dc-4c8a-9483-915695194bbc",
-      "username": "ye2zxsgc",
-      "display_name": "SPENELX",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-11T07:56:41.299Z"
   }
 ]
