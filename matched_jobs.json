@@ -292,54 +292,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-11T14:02:33.813Z"
-  },
-  {
-    "id": "42bc8900-2fdb-46b5-afcd-f3f61d47d0ab",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "สวัสดีค่ะ\n\nต้องการจ้างทำต้นแบบกระเป๋าหนัง PU จำนวน 1 ชิ้น สำหรับ Samsung Z Flip 7 โดยมีแบบร่างและภาพอ้างอิงให้\n\nรายละเอียด\nสำหรับ Samsung Z Flip 7\nขนาดภายนอกประมาณ\nกว้าง 8.5 ซม.\nสูง 10 ซม.\nหนา 3 ซม.\nสามารถใส่โทรศัพท์พร้อมเคสแบบบางได้\nรายละเอียดการออกแบบ\nหนัง PU สีดำ\nด้านหน้ามีหน้าต่าง PVC ใส สำหรับใช้งานหน้าจอด้านนอกโดยไม่ต้องนำโทรศัพท์ออกจากกระเป๋า\nหน้าต่าง PVC ขนาดประมาณ 7.5 × 8.5 ซม.\nด้านบนเป็นซิปซ่อน เปิดลงมาด้านข้างทั้งสองด้านประมาณ 3 ซม.\nด้านล่างมีช่องสำหรับเสียบสายชาร์จ USB-C\n���้านหลังมีสายรัดมือ (Hand Strap)\nด้านข้างมี D-Ring สำหรับคล้องสายสะพาย\nด้านในบุด้วยฟองน้ำหุ้มกำมะหยี่ หรือ Microfiber เพื่อป้องกันรอยขีดข่วน\nวัสดุ\n\nขอให้ผู้รับงานจัดหาวัสดุที่เหมาะสม เช่น\n\nหนัง PU\nแผ่น PVC ใส (Super Clear)\nซิป\nผ้าซับใน\nห่วงรูปตัว D\n\nหากเห็นว่ามีวัสดุหรือวิธีการประกอบที่เหมาะสมกว่า ยินดีรับคำแนะนำ\nในส่วนของขนาดไม่ตายตัว ขอให้ใส่เครื่องพร้อมเคสแบบบางได้ฟิตพอดี\n\nสิ่งที่ต้องการ\nทำแพตเทิร์นและตัดเย็บต้นแบบ 1 ชิ้น\nส่งภาพอัปเดตระหว่างทำงาน\nขอให้งานเรียบร้อย ใช้งานได้จริง ไม่จำเป็นต้องเนี้ยบระดับงานผลิตโรงงาน เพราะเป็นต้นแบบสำหรับทดลองใช้งาน\n\nหากผลงานเป็นที่น่าพอใจ มีโอกาสจ้างพัฒนารุ่นต่อไปและผลิตต้นแบบเพิ่มเติม",
-    "title": "จ้างทำต้นแบบ (Prototype) กระเป๋าหนัง PU สำหรับ Samsung Z Flip 7",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2500",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-11T09:04:15.172864Z",
-    "updated_at": "2026-07-11T09:04:16.217419Z",
-    "already_offered": false,
-    "brief_url": "https://drive.google.com/file/d/1jU-jHZ51j3zaOWWqvUVDZK59S0uNnpzl/view?usp=sharing",
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-10T09:04:15.153403Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8d7571d5-2e30-48f9-8a08-78d792af9124",
-    "user_profile": {
-      "id": "8d7571d5-2e30-48f9-8a08-78d792af9124",
-      "username": "pudtanjaa",
-      "display_name": "pudtanjaa",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-11T09:21:14.093Z"
   }
 ]
