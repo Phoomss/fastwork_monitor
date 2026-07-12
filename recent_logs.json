@@ -1,8 +1,5 @@
 [
-  "[2026-07-12T04:34:52.218Z]     Notification sent successfully.",
-  "[2026-07-12T04:34:52.093Z]   FOUND NEW TARGET JOB: หาtester สัมภาษณ์สายครีเอทีฟ เพื่อร่วมทดลองใช้งานเว็บไซต์แพลตฟอร์มใหม่ (Cats: ออกแบบ UX UI) (Budget: 600 THB)",
-  "[2026-07-12T04:34:51.091Z]     Notification sent successfully.",
-  "[2026-07-12T04:34:50.899Z]   FOUND NEW TARGET JOB: หาcontent creator สายออกแบบกราฟฟิก uxui รีวิวเว็บแพลตฟอร์มลงผลงานใหม่ (Cats: ออกแบบ UX UI) (Budget: 2000 THB)",
-  "[2026-07-12T04:34:49.817Z] Checking Fastwork for new job posts...",
-  "[2026-07-12T04:34:49.814Z] Auto-cleanup: Removed 26 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-12T07:09:55.857Z] Checking Fastwork for new job posts...",
+  "[2026-07-12T07:09:55.856Z] Auto-cleanup: Removed 31 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-12T07:09:55.853Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
