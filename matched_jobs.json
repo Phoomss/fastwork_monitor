@@ -245,54 +245,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-12T01:08:46.646Z"
-  },
-  {
-    "id": "7f6611e7-eed9-493c-ba13-d39ee85321e1",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ตามหาพาร์ตเนอร์ร่วมพัฒนา BIDMHOD แอปประมูลออนไลน์ของไทย\n\nBIDMHOD มีแอปที่เปิดใช้งานแล้ว มีฐานผู้ใช้งานเดิม และเคยสร้างผู้สมัครใหม่ได้ประมาณ 40–50 คนต่อวันจากกิจกรรมประมูลการ์ดสะสม\n\nตอนนี้เรากำลังปรับทิศทางให้ BIDMHOD กลายเป็นสนามประมูลการ์ดและของสะสมที่มีรายการปิดจริงทุกวัน และกำลังตามหาพาร์ตเนอร์ที่ถนัดด้าน Marketplace Growth, การตลาด หรือการสร้าง Community\n\nภารกิจทดลอง 30 วัน:\n• สร้างลงขายจริง 100 คนต่อสัปดาห์\n• เพิ่มสินค้าใหม่ 300 รายการต่อเดือน\n• วางระบบดึงผู้ขายและทำกิจกรรมประมูลประจำวัน\n• วิเคราะห์ข้อมูลและวางแผนขยายตลาดร่วมกัน\n\nเราไม่ได้มองหาเพียงที่ปรึกษาหรือคนเสนอไอเดี�� แต่ต้องการคนที่พร้อมลงมือ ทดลอง และสร้างผลลัพธ์ไปด้วยกัน มีค่าตอบแทนตามโครงการและเปิดโอกาสพูดคุยเรื่องการเป็นพาร์ตเนอร์ระยะยาวเมื่อผ่านช่วงทดลอง\n\nผู้ที่สนใจ กรุณาส่งประสบการณ์ที่ผ่านมา พร้อมแผนสั้น ๆ ว่าใน 30 วันแรกจะเริ่มทำอะไรให้ BIDMHOD\n",
-    "title": "ตามหาพาร์ทเนอร์ผู้ร่วมพัฒนาแอปประมูล BIDMHOD แอปของคนไทยประมูลสินค้าได้ทั้งมือ 1-2",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "standard",
-    "budget": "15000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-11T15:37:04.819569Z",
-    "updated_at": "2026-07-11T15:37:05.926484Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-31",
-    "expired_at": "2026-08-10T15:37:04.761409Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "37392398-e54c-4c2e-bb1a-d84383a0258c",
-    "user_profile": {
-      "id": "37392398-e54c-4c2e-bb1a-d84383a0258c",
-      "username": "0drz1t34",
-      "display_name": "Tamashibkk",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/37392398-e54c-4c2e-bb1a-d84383a0258c/profile/e0804e74-bbe3-40d8-ba82-aa2dbdaab992.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "15000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-11T16:02:52.807Z"
   }
 ]
