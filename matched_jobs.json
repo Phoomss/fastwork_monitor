@@ -245,54 +245,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-12T04:34:50.898Z"
-  },
-  {
-    "id": "82caec72-6256-4625-82df-15e3e35cddb2",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": " ต้องการสร้างแพลตฟอร์มที่ควบคุมการเบิกจ่ายและตรวจสอบงานก่อสร้าง  \nNo code ที่เชี่ยวชาญ FlutterFlow หรือ Bubble ร่วมกับ Make \n",
-    "title": " ต้องการสร้างแพลตฟอร์มควบคุมการเบิกจ่าย และตรวจสอบงาน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-12T00:40:19.900749Z",
-    "updated_at": "2026-07-12T00:40:21.567511Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.3.1;iPhone;6.2.1-6000102"
-    },
-    "already_offered": false,
-    "business_type": "อสังหาริมทรัพย์ ก่อสร้าง",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-11T00:40:19.858607Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f69c39d1-4006-4b34-868c-0c8c83f7ae6b",
-    "user_profile": {
-      "id": "f69c39d1-4006-4b34-868c-0c8c83f7ae6b",
-      "username": "aqvzju55",
-      "display_name": "aqvzju55",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-12T01:08:46.646Z"
   }
 ]
