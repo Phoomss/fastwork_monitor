@@ -1,5 +1,56 @@
 [
   {
+    "id": "abce8664-1514-4fe9-b326-d47462a18811",
+    "status": "open",
+    "tag": {
+      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
+      "name": "แปลภาษา",
+      "sort": 10
+    },
+    "type": "freelance",
+    "description": "📢 รับฟรีแลนซ์แปลภาษาอังกฤษ → ภาษาไทย\n\nงาน UX/UI สำหรับ Web Application และ Mobile Application\n\n💰 งบประมาณ:** 500 บาท\n⏰ ระยะเวลาทำงาน:** ส่งภายใน 1 วัน\n\n📌 รายละเอียดงาน\n\nต้องการผู้ช่วยแปลข้อความจาก **ภาษาอังกฤษเป็นภาษาไทย** สำหรับใช้งานในระบบ **เว็บไซต์และแอปพลิเคชัน**\n\nเนื้อหาประกอบด้วย เช่น\n\n🔘 ปุ่มกด\n📋 เมนู\n🔔 ข้อความแจ้งเตือน\n⚙️ หน้าตั้งค่า\n📝 คำอธิบายการใช้งาน\n🚀 ข้อความแนะนำการเริ่มใช้งาน\n❓ คู่มือและข้อความช่วยเหลือ\n\n👥 กลุ่มผู้ใช้งานหลัก\n\n🎓 นักศึกษา\n👨‍🏫 อาจารย์\n🏫 บุคลากรในมหาวิทยาลัย\n\n✍️ รูปแบบภาษาที่ต้องการ\n\n* ใช้ภาษาไทยที่เป็นธรรมชาติ\n* อ่านง่ายและเข้าใจได้ทันที\n* กระชับ เหมาะกับข้อความบนหน้าจอ\n* ไม่แปลแบบคำต่อคำ\n* เลือกใช้คำให้เหมาะกับบริบทของ UX/UI\n* สามารถเสนอคำแปลที่เข้าใจง่ายกว่าเดิมได้\n\n📂 รูปแบบไฟล์งาน\n\n* ไฟล์ Excel\n* มีข้อความภาษาอังกฤษ\n* มีช่องสำหรับกรอกคำแปลภาษาไทย\n* ต้องตรวจสอบความสม่ำเสมอของคำที่ใช้ในแต่ละหน้า\n\n✅ คุณสมบัติที่ต้องการ\n\n* มีความเข้าใจภาษาไทยและภาษาอังกฤษในระดับดี\n* มีประสบการณ์แปล UX/UI, Application หรือ Software จะพิจารณาเป็นพิเศษ\n* สามารถใช้ ChatGPT หรือ AI ช่วยแปลได้\n* ต้องตรวจทานและปรับภาษาไทยด้วยตนเอง\n* ใส่ใจรายละเอียด\n* สามารถส่งงานได้ตรงเวลา\n\n🧪 การคัดเลือก\n\nก่อนเริ่มงาน จะมีข้อความตัวอย่างประมาณ **5–10 ประโยค** ให้ทดลองแปล เพื่อดูแนวทางการใช้ภาษาและความเหมาะสมกับงาน\n\n📩 ผู้สนใจรบกวนส่งตัวอย่างผลงาน หรือแจ้งประสบการณ์ที่เกี่ยวข้องมาด้วยครับ\n",
+    "title": "ฟรีแลนซ์แปลภาษาอังกฤษ → ภาษาไทย (UX/UI สำหรับ Web & Mobile App)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-13T08:18:47.553074Z",
+    "updated_at": "2026-07-13T08:18:49.190854Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-14",
+    "expired_at": "2026-08-12T08:18:47.456021Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "02a3eeb0-4e81-4ac5-b5d0-448651437973",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-13T10:46:50.430Z"
+  },
+  {
     "id": "28055c09-f260-4cb6-82d1-8ededf094b6a",
     "status": "open",
     "tag": {
@@ -245,54 +296,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-12T14:09:53.709Z"
-  },
-  {
-    "id": "088110b4-1903-48db-ab7c-0c5349137549",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "Recruiters SourcedOut เปิดรับสมัครด่วน! ตำแหน่ง Social Administrator‼️\n[รับจำนวนจำกัดเพียง 1 อัตราเท่านั้น | เน้นคนที่มีประสบการณ์ตรงและพร้อมเริ่มงานทันที]\n\n💻หน้าที่ความรับผิดชอบหลัก\n° บริหารจัดการและดูแล Social Media ทุกช่องทางของบริษัท (Facebook, IG, TikTok, YouTube, X) เพื่อเพิ่มยอดผู้ติดตามและ Engagement\n° วางแผน คิดค้น และสร้างสรรค์ Content คุณภาพสูงเพื่อกระตุ้นยอ��ขายและสร้างรายได้ให้บริษัท\n° บริหารจัดการแคมเปญ Social Media Marketing และการทำ Influencer Marketing\n° วิเคราะห์ข้อมูลเชิงลึก (Insights) วัดผล ROI และ Conversion Rate เพื่อนำมาปรับปรุงกลยุทธ์การตลาด\n° ตอบคำถามและสร้างปฏิสัมพันธ์ที่ดีกับผู้ติดตามบนหน้าเพจ\n° ปฏิบัติงานด้านการตลาดอื่นๆ ตามที่ได้รับมอบหมายเพื่อเพิ่มยอดขาย\n\nคุณสมบัติผู้สมัคร💯\n° จบปริญญาตรีขึ้นไป สาขาการตลาด สื่อสารมวลชน หรือสาขาที่เกี่ยวข้อง\n° มีประสบการณ์ตรงด้าน Social Media Marketing 2 ปีขึ้นไป (หากมีผลงานด้านการเพิ่มรายได้จะพิจารณาเป็นพิเศษ)\n° มีความรู้ความเชี่ยวชาญการย���งโฆษณา (Social Media Ads) และการวิเคราะห์ข้อมูล ROI\n° มีทักษะการสื่อสาร การเขียน และการใช้ภาษาไทยในระดับดีเยี่ยม\n° สามารถเริ่มงานได้ทันทีหลังจากผ่านการคัดเลือก\n\nสวัสดิการและแพ็กเกจผลตอบแทน\n- ฐานเงินเดือน: 20,000 - 23,000 บาท\n- ประกันสังคม และประกันสุขภาพกลุ่ม (OPD)\n- กองทุนสำรองเลี้ยงชีพ (Provident Fund)\n- ค่าออกกำลังกายสนับสนุนสุขภาพ\n- วันหยุดพักร้อนประจำปี 8 วัน (สูงสุด 11 วันเมื่อทำงานครบตามเงื่อนไข)\n\n❣️สถานที่และเวลาทำงาน:\nพิกัดออฟฟิศ: พระราม 2 (โซนพันท้าย)\nเวลาทำงาน: 10:00 - 17:30 น. (วันเสาร์รูปแบบ Work From Home รอ Standby / หยุดวันอาทิตย์)\n\n**แน���เรซูเม่เพื่อรับการติดต่อกลับ",
-    "title": "Social Admin สายลุยทำเริ่มงานทันที",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "23000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-12T08:50:09.051275Z",
-    "updated_at": "2026-07-12T08:50:10.066365Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-11T08:50:08.972788Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.1;iPhone;9.7.0-6001499"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "62d7e554-353f-4461-91be-517477196d71",
-    "user_profile": {
-      "id": "62d7e554-353f-4461-91be-517477196d71",
-      "username": "wrdpotae",
-      "display_name": "Recruiter SourcedOut",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/62d7e554-353f-4461-91be-517477196d71/profile/ebd6e5e9-64a9-404f-8bfa-56fa9a82f677.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "23000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-12T09:13:17.863Z"
   }
 ]
