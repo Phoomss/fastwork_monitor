@@ -247,54 +247,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-13T04:45:09.408Z"
-  },
-  {
-    "id": "588a28bc-4b24-470b-b5f4-238add6f52b9",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ\n\nผมกำลังมองหาระบบสำหรับจำหน่าย Voucher ผ่านเว็บไซต์หรือแอปพลิเคชัน โดยมีความต้องการดังนี้\n\n1. ลูกค้าสามารถซื้อ Voucher ผ่านระบบออนไลน์ได้\n2. Voucher ���ี Barcode หรือ QR Code สำหรับใช้สแกนเพื่อยืนยันสิทธิ์เมื่อเข้ารับบริการ\n3. เมื่อสแกนแล้ว ระบบสามารถตรวจสอบประวัติการซื้อและยืนยันสิทธิ์การใช้งานได้ทันที\n4. ระบบสามารถบันทึกประวัติการใช้งาน Voucher ของลูกค้า เพื่อป้องกันการนำสิทธิ์มาใช้ซ้ำ\n5. มีระบบจองคิวสำหรับร้านนวดแผนไทย โดยลูกค้าสามารถเลือกวันและช่วงเวลาที่ต้องการเข้ารับบริการได้ พร้อมทั้งแสดงช่วงเวลาที่ถูกจองแล้วหรือเต็ม เพื่อให้ลูกค้าเลือกเวลาว่างได้อย่างสะดวก\n6. หากระบบรองรับการชำระเงินออนไลน์ควบคู่กับการจองคิวได้ด้วย จะดีมากครับ\n\nหากมีรายละเอียด แพ็กเกจ หรือฟังก์ชันเพิ่มเติมที่แนะนำ รบกวนส่งข้อมูลมาให้พิจารณาได้เลยครับ\n\nขอบคุณครับ\n\n( เพื่อความปลอดภัยของทั้งสองฝ่าย ขอสงวนสิทธิ์รับชำระเงินผ่านระบบของ Fastwork เท่านั้น\nงดรับชำระผ่าน LINE, การโอนเงินโดยตรง หรือเว็บไซต์ภายนอกทุกกรณี เพื่อให้การทำรายการเป็นไปตามนโยบายของแพลตฟอร์ม และได้รับความคุ้มครองทั้งผู้ว่าจ้างและผู้รับงาน )",
-    "title": " ทำระบบจองคิวและทำเวเชอร์ขาย เรื่องราคาสามารถคุยกันได้",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-12T16:49:10.250633Z",
-    "updated_at": "2026-07-12T16:49:11.178051Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-11T16:49:10.159626Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;9.10.0-6001633"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "df2fe152-3bbe-46f4-9caf-bb3006db12fd",
-    "user_profile": {
-      "id": "df2fe152-3bbe-46f4-9caf-bb3006db12fd",
-      "username": "269lwe57",
-      "display_name": "269lwe57",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-12T17:13:56.190Z"
   }
 ]
