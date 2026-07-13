@@ -1,5 +1,54 @@
 [
   {
+    "id": "15311961-3ba6-41c3-85ad-7ddc4fde323c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนช่วยสอนทำ wix เบื้องต้นค่ะ ไม่ต้องลงลึก แค่สอนเบสิคคร่าวๆว่าเพิ่ม-ลบยังไง อะไรอยู่ตรงไหนประมาณนี้ค่ะ🙇🏻‍♀️",
+    "title": "คนช่วยสอนทำ wix",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "150",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-13T04:35:06.549067Z",
+    "updated_at": "2026-07-13T04:35:07.442132Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-12T04:35:06.470367Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.3.1-6002608"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "1b33da78-4043-4c34-b954-7915c1ee7573",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "150",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-13T04:45:09.408Z"
+  },
+  {
     "id": "588a28bc-4b24-470b-b5f4-238add6f52b9",
     "status": "open",
     "tag": {
@@ -147,103 +196,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-12T09:13:17.863Z"
-  },
-  {
-    "id": "6f51c55b-fa0d-4dde-aa48-cadd8924aa56",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "กำลังมองหาผู้ใช้งานสายครีเอทีฟ เพื่อร่วมทดลองใช้งานเว็บไซต์และให้ความคิดเห็นสำหรับนำไปพัฒนาระบบให้ตอบโจทย์ผู้ใช้งานจริงมากขึ้น\n\nกลุ่มที่กำลังมองหา\n• Graphic Designer\n• UX/UI Designer\n• Product Designer\n• นักศึกษา หรือผู้ที่ทำงานเกี่ยวกับงานออกแบบ\n• ทั้งฟรีแลนซ์ พนักงานประจำ และผู้ที่กำลังเริ่มต้นในสายงานสามารถสมัครได้\n\nรายละเอียดการสัมภาษณ์\n• ใช้เวลาประมาณ 45–60 นาที\n• สัมภาษณ์ออนไลน์ผ่าน Google Meet\n• ทดลองใช้งานเว็บไซต์ พร้อมแชร์หน้าจอและแสดงความคิดเห็น\n• ไม่มีคำตอบถูกหรือผิด ต้องการฟังประสบการณ์และความคิดเห็นจริง\n• รับสัมภาษณ์วันละประมาณ 1–2 คน\n\nค่าตอบแทน\n600 บาท/คน\n\nข้อมูลและความคิดเห็นจากการสัมภาษณ์จะนำไปใช้เพื่อการวิจัยและพัฒนาเว���บไซต์เท่านั้น โดยจะไม่เผยแพร่ข้อมูลส่วนตัวโดยไม่ได้รับอนุญาต",
-    "title": "หาtester สัมภาษณ์สายครีเอทีฟ เพื่อร่วมทดลองใช้งานเว็บไซต์แพลตฟอร์มใหม่",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "600",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-12T04:29:03.117356Z",
-    "updated_at": "2026-07-12T04:29:04.403473Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-11T04:29:03.098779Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A376B;10.12.0-6002405"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "40d8f21a-083b-4538-829b-a3419c57cf05",
-    "user_profile": {
-      "id": "40d8f21a-083b-4538-829b-a3419c57cf05",
-      "username": "bsmith",
-      "display_name": "BlackSmith Tools 3D Printing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/40d8f21a-083b-4538-829b-a3419c57cf05/profile/c3f67969-ff2f-4bdb-84dc-6ed26b935c5c.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "600",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-12T04:34:52.093Z"
-  },
-  {
-    "id": "4f2d47cc-ee66-42b8-98a1-3696d783dfb8",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "รับ Content Creator สาย Graphic Design / UXUI \nงาน: รีวิวเว็บแพลตฟอร์มครีเอเตอร์ + ลงผลงานใหม่จริง aplus1.app\n\nรายละเอียด\n- ใช้งานแพลตฟอร์มจริง แล้วทำคอนเทนต์รีวิว/วอล์กทรูแบบสายออกแบบ\n- ลงผลงานของตัวเองบนแพลตฟอร์ม แล้วเล่าเป็น case study สั้นๆ\n- ช่องทางหลัก: TikTok / IG Reels / Shorts / lemon8 (เลือกได้)\n- โทน: เป็นธรรมชาติ มองจากมุม designer ไม่ขายของแข็ง\n\nต้องการคนที่มี\n- พอร์ตออกแบบกราฟิกหรือ UX/UI จริง\n- ตัดคลิปสั้นได้\n- สื่อสารไทยชัด\n\nหมายเหตุ: งานนี้ต้องการคนที่ “ใช้แล้วรีวิว” ไม่ใช่แค่อ่านสคริปต์",
-    "title": "หาcontent creator สายออกแบบกราฟฟิก uxui รีวิวเว็บแพลตฟอร์มลงผลงานใหม่",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-12T03:53:19.689343Z",
-    "updated_at": "2026-07-12T03:53:20.781139Z",
-    "already_offered": false,
-    "brief_url": "https://aplus1.app/",
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-11T03:53:19.672672Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "40d8f21a-083b-4538-829b-a3419c57cf05",
-    "user_profile": {
-      "id": "40d8f21a-083b-4538-829b-a3419c57cf05",
-      "username": "bsmith",
-      "display_name": "BlackSmith Tools 3D Printing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/40d8f21a-083b-4538-829b-a3419c57cf05/profile/c3f67969-ff2f-4bdb-84dc-6ed26b935c5c.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-12T04:34:50.898Z"
   }
 ]
