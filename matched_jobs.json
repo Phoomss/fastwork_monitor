@@ -1,5 +1,105 @@
 [
   {
+    "id": "b402e2f7-8a29-4e43-8134-fd82d8345272",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการหา Developer ที่ประสบการณ์ PHP, Node, MySQL\nปัจจุบันใช้ Plesk สำหรับ Server และ Domain\n\nปัญหาที่เจอ:\n1. ข้อมูลใน Code ไม่ Sync ",
+    "title": "Developer ที่ช่วยหาปัญหาของโค้ด",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-14T03:15:51.145530Z",
+    "updated_at": "2026-07-14T03:15:52.339931Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-15",
+    "expired_at": "2026-08-13T03:15:51.074764Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+    "user_profile": {
+      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+      "username": "artmanomai",
+      "display_name": "Aphilak Manomai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-14T03:24:10.413Z"
+  },
+  {
+    "id": "f91325d4-4fea-4c8a-b327-782cffaa0d46",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจแล��การเงิน",
+      "sort": 5
+    },
+    "type": "freelance",
+    "description": "ERENDELL INNOVATION GROUP (THAILAND) CO., LTD. เปิดรับสมัครทีมงาน\n\nร่วมสร้างนวัตกรรมด้าน AI • Robotics • IoT • Medical Technology เพื่อพัฒนาอุปกรณ์ช่วยเดินอัจฉริยะ (AI-Powered Mobility Exoskeleton) และเทคโนโลยีเพื่อยกระดับคุณภาพชีวิต\n\nตำแหน่งที่เปิดรับ\n\n- Hardware Engineer\n\n- Embedded Systems / Firmware Engineer\n\n-AI / Machine Learning Engineer\n\n- Mobile Application Developer (iOS / Android)\n\n- Backend Developer\n\n- UI/UX Designer\n\n- Mechanical / Robotics Engineer\n \n- Test & Validation Engineer\n\n\nคุณสมบัติ\n\nอายุ 20–35 ปี (ยินดีรับนักศึกษาจบใหม่)\n\nหากกำลังศึกษา หรือสำเร็จการศึกษาด้าน\n* วิศวกรรมศาสตร์\n* วิทยาการคอมพิวเตอร์\n* AI / Data Science\n* Robotics\n* Mechatronics\n* Biomedical Engineering\n* Industrial Engineering\n    หรือสาขาที่เกี่ยวข้อง\n\n ม���ความรับผิดชอบ พร้อมเรียนรู้เทคโนโลยีใหม่\n สามารถทำงานเป็นทีมและแก้ไขปัญหาได้\n\nหากมีทักษะต่อไปนี้จะได้รับการพิจารณาเป็นพิเศษ\n* ESP32\n* STM32\n* Raspberry Pi\n* Arduino\n* ROS\n* Python\n* C/C++\n* Flutter\n* React\n* Node.js\n* Firebase\n* TensorFlow\n* OpenCV\n* SolidWorks\n* Fusion 360\n* Git / GitHub\n\nลักษณะงาน\n* พัฒนาอุปกรณ์ช่วยเดินอัจฉริยะ\n* วิจัยและพัฒนานวัตกรรม AI\n* พัฒนา Mobile Application\n* พัฒนาระบบ IoT และ Cloud\n* ทดสอบต้นแบบ (Prototype)\n* ทำงานร่วมกับทีมวิศวกร นักพัฒนา และนักวิจัย\n\nสิ่งที่คุณจะได้รับ\nได้ร่วมสร้างผลิตภัณฑ์จริง\n ทำงานกับเทคโนโลยี AI และ Robotics\n โอกาสเติบโตไปกับบริษัทเทคโนโลยี\n สภาพแวดล้อมการทำงานที่เปิดกว้างสำหรับการสร้างสรรค์\n มีส่วนร่วมในการพัฒนานวัตกรรมที่ช่วยยกระดับคุณภาพชีวิตของผู้คน\n\n ERENDELL INNOVATION GROUP (THAILAND) CO., LTD.\n\nAI • ROBOTICS • IoT • AUTOMATION • INNOVATION\n\n ส่ง Resume / Portfolio พร้อมระบุตำแหน่งที่สนใจ\n",
+    "title": "สมัครทีมงาน",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-14T02:36:08.469982Z",
+    "updated_at": "2026-07-14T02:36:09.538473Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-13T02:36:08.450158Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "2c1b806b-6c1f-4941-8064-95ea2b24c6e4",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-14T03:24:09.184Z"
+  },
+  {
     "id": "d13ff08f-e553-4903-bd1e-e401f1dc6ce1",
     "status": "open",
     "tag": {
