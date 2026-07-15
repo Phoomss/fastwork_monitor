@@ -1,5 +1,54 @@
 [
   {
+    "id": "163f560e-fa37-44fd-b25c-81c0df9dd11b",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "1. สอนทำเกมด้วย Adobe Animate เพื่อสร้างเกมแนว Interactive Animation (แบบเกม henry stickman) โดยเรียนตั้งแต่ระดับพื้นฐาน จนสามารถสร้างเกมที่สำเร็จได้จริง 1 โปรเจกต์\n2. เน้นการลงมือปฏิบัติจริง โดยมีผู้สอนคอยชี้แนะ แก้ไขปัญหา และให้คำแนะนำระหว่างการพัฒนา \nโดยมีระยะเวลา 3 วั��� วันละ 2 ชั่วโมง \n",
+    "title": "ผู้สอน/ที่ปรึกษาทำเกมแนว Interactive Animation ในโปรแกรม adobe animate จนจบโปรเจค",
+    "is_owner": false,
+    "source": "jobboard_web_home_nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-15T14:31:56.009733Z",
+    "updated_at": "2026-07-15T14:31:58.179551Z",
+    "already_offered": false,
+    "brief_url": "https://youtu.be/4gwK4lDUMX8?si=AlceHxZaofA_95z0",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-24",
+    "expired_at": "2026-08-14T14:31:55.992688Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "476f2bbc-5e20-41a2-8060-d43b7cef0695",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-15T15:57:48.543Z"
+  },
+  {
     "id": "a5736682-99cc-4816-b13e-2eaf99e02ce5",
     "status": "open",
     "tag": {
