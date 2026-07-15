@@ -1,5 +1,103 @@
 [
   {
+    "id": "0c4dbcf9-44c2-4121-b7d3-b6785633a2ec",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ออกแบบ CRM ให้ใข้งานได้จริง\nหัวข้อ\n-ยอดขาย ภาพรวม\n-ข้อมูลลูกค้า\n-เก็บสถิติ\n-จำนวนการออกPo และการติดตาม",
+    "title": "ออกแบบ Crm ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-15T05:28:52.364246Z",
+    "updated_at": "2026-07-15T05:28:54.334147Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-14T05:28:52.306699Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a5506d38-fbba-4f22-8e2d-8d8cb2e4f290",
+    "user_profile": {
+      "id": "a5506d38-fbba-4f22-8e2d-8d8cb2e4f290",
+      "username": "m5b8hcts",
+      "display_name": "m5b8hcts",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-15T05:43:21.956Z"
+  },
+  {
+    "id": "736567e2-14eb-4779-abed-6ab94760e1c2",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "สร้าง pos สำหรับร้านอาหาร ที่มีครัวกลางและสาขา\n\nModule A: ระบบ POS สาขา (Branch Frontend)\nระบบจัดการออเดอร์ (สั่งอาหาร, พักบิล, ยกเลิกบิล)\n\nระบบตัวเลือกเสริม (Modifiers / Add-ons / ระดับความหวาน)\n\nระบบชำระเงิน (เงินสด, สแกน QR, แยกบิล)\n\nOffline Mode: ทำงานและพิมพ์บิลได้แม้เน็ตหลุด และ Sync ข้อมูลเมื่อเน็ตกลับมา\n\nVirtual Printer Integration\n\nModule B: ระบบครัวกลาง (Central Kitchen HQ)\nระบบจัดการสูตรอาหาร (BOM - Bill of Materials) ผูกกับเมนู\n\nDashboard สรุปยอดขายและยอดคงเหลือวัตถุดิบทุกสาขาแบบ Real-time\n\nConsolidated Order: ระบบสรุปยอดวัตถุดิบรวมที่ครัวกลางต้องผลิตและจัดส่งให้แต่ละสาขาในวันพรุ่งนี้\n\nระบบจัดการพนักงาน และกำหนดสิทธิ์การเข้าถึง (Role-based access)",
+    "title": "สร้าง pos ตามrequirement ราคาสมเหตุสมผล",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-15T03:58:49.929812Z",
+    "updated_at": "2026-07-15T03:58:51.286910Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-14T03:58:49.878498Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S918B;11.3.0-6002585"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8e1f5f66-c853-44a1-a497-1ef88ef9e597",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-15T05:43:20.810Z"
+  },
+  {
     "id": "15d9a5ca-b3cc-4848-922d-449b0884a089",
     "status": "open",
     "tag": {
@@ -96,154 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-15T03:19:37.585Z"
-  },
-  {
-    "id": "ce430279-08ff-4ca1-8a3b-4d458bba2ebb",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการผู้มีประสบการณ์จัดทำไฟล์ Excel สำหรับติดตามโปรเจกต์ โดยมีรายละเอียดดังนี้:\n จัดทำตาราง Content Tracking แยกหลายชีต\n จัดทำตาราง Renovation Tracking\n ออกแบบไฟล์ให้อ่านง่าย ใช้งานจริง\n มี Dropdown สถานะ, Filter และจัดรูปแบบตาราง\n นำข้อมูลที่ให้ไปจัดลงตารางอย่างเป็นระบบ\nส่งงานเป็นไฟล์ Excel (.xlsx) พร้อมใช้งาน และสามารถแก้ไขได้ภายหลัง\n",
-    "title": "ฉันหา รับทำไฟล์ Excel ติดตามโปรเจกต์ (Project Tracking) พร้อมจัดระบบข้อมูล",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "400",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-14T04:26:39.484622Z",
-    "updated_at": "2026-07-14T04:26:40.785938Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-14",
-    "expired_at": "2026-08-13T04:26:39.434656Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.0.1;iPhone;10.12.0-6002405"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "28c65562-c28a-4dfd-935f-a526deae8647",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "400",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-14T05:43:13.887Z"
-  },
-  {
-    "id": "b402e2f7-8a29-4e43-8134-fd82d8345272",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการหา Developer ที่ประสบการณ์ PHP, Node, MySQL\nปัจจุบันใช้ Plesk สำหรับ Server และ Domain\n\nปัญหาที่เจอ:\n1. ข้อมูลใน Code ไม่ Sync ",
-    "title": "Developer ที่ช่วยหาปัญหาของโค้ด",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-14T03:15:51.145530Z",
-    "updated_at": "2026-07-14T03:15:52.339931Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-15",
-    "expired_at": "2026-08-13T03:15:51.074764Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-    "user_profile": {
-      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-      "username": "artmanomai",
-      "display_name": "Aphilak Manomai",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-14T03:24:10.413Z"
-  },
-  {
-    "id": "f91325d4-4fea-4c8a-b327-782cffaa0d46",
-    "status": "open",
-    "tag": {
-      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
-      "name": "ธุรกิจแล��การเงิน",
-      "sort": 5
-    },
-    "type": "freelance",
-    "description": "ERENDELL INNOVATION GROUP (THAILAND) CO., LTD. เปิดรับสมัครทีมงาน\n\nร่วมสร้างนวัตกรรมด้าน AI • Robotics • IoT • Medical Technology เพื่อพัฒนาอุปกรณ์ช่วยเดินอัจฉริยะ (AI-Powered Mobility Exoskeleton) และเทคโนโลยีเพื่อยกระดับคุณภาพชีวิต\n\nตำแหน่งที่เปิดรับ\n\n- Hardware Engineer\n\n- Embedded Systems / Firmware Engineer\n\n-AI / Machine Learning Engineer\n\n- Mobile Application Developer (iOS / Android)\n\n- Backend Developer\n\n- UI/UX Designer\n\n- Mechanical / Robotics Engineer\n \n- Test & Validation Engineer\n\n\nคุณสมบัติ\n\nอายุ 20–35 ปี (ยินดีรับนักศึกษาจบใหม่)\n\nหากกำลังศึกษา หรือสำเร็จการศึกษาด้าน\n* วิศวกรรมศาสตร์\n* วิทยาการคอมพิวเตอร์\n* AI / Data Science\n* Robotics\n* Mechatronics\n* Biomedical Engineering\n* Industrial Engineering\n    หรือสาขาที่เกี่ยวข้อง\n\n ม���ความรับผิดชอบ พร้อมเรียนรู้เทคโนโลยีใหม่\n สามารถทำงานเป็นทีมและแก้ไขปัญหาได้\n\nหากมีทักษะต่อไปนี้จะได้รับการพิจารณาเป็นพิเศษ\n* ESP32\n* STM32\n* Raspberry Pi\n* Arduino\n* ROS\n* Python\n* C/C++\n* Flutter\n* React\n* Node.js\n* Firebase\n* TensorFlow\n* OpenCV\n* SolidWorks\n* Fusion 360\n* Git / GitHub\n\nลักษณะงาน\n* พัฒนาอุปกรณ์ช่วยเดินอัจฉริยะ\n* วิจัยและพัฒนานวัตกรรม AI\n* พัฒนา Mobile Application\n* พัฒนาระบบ IoT และ Cloud\n* ทดสอบต้นแบบ (Prototype)\n* ทำงานร่วมกับทีมวิศวกร นักพัฒนา และนักวิจัย\n\nสิ่งที่คุณจะได้รับ\nได้ร่วมสร้างผลิตภัณฑ์จริง\n ทำงานกับเทคโนโลยี AI และ Robotics\n โอกาสเติบโตไปกับบริษัทเทคโนโลยี\n สภาพแวดล้อมการทำงานที่เปิดกว้างสำหรับการสร้างสรรค์\n มีส่วนร่วมในการพัฒนานวัตกรรมที่ช่วยยกระดับคุณภาพชีวิตของผู้คน\n\n ERENDELL INNOVATION GROUP (THAILAND) CO., LTD.\n\nAI • ROBOTICS • IoT • AUTOMATION • INNOVATION\n\n ส่ง Resume / Portfolio พร้อมระบุตำแหน่งที่สนใจ\n",
-    "title": "สมัครทีมงาน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-14T02:36:08.469982Z",
-    "updated_at": "2026-07-14T02:36:09.538473Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-13T02:36:08.450158Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "2c1b806b-6c1f-4941-8064-95ea2b24c6e4",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-14T03:24:09.184Z"
   }
 ]
