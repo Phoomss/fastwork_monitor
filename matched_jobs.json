@@ -1,5 +1,54 @@
 [
   {
+    "id": "3ca32749-9641-42aa-81c2-09be5d245004",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "เว็บของเรา: เว็บข้อมูลอสังหาริมทรัพย์ (แผนที่+ฐานข้อมูลโครงการใหม่ในกรุงเทพฯ) ไม่ใช่นายหน้า มีเนื้อหา 3 ภาษา (ไทย/อังกฤษ/จีน) และมีรายงานข้อมูลตลาดรายเดือนที่สื่อนำไปอ้างอิงได้\n\nงานที่ต้องการ: backlink คุณภาพหลายลิงก์ (แพ็กเกจ) ผ่านวิธีสายขาว\n1. Outreach ติดต่อเว็บ/บล็อกไทยสายอสังหาฯ การเงิน ไลฟ์สไตล์ expat เพื่อให้ได้ guest post, การอ้างอิงข้อมูล (data citation) หรือ resource page link\n2. หรือเสนอแพ็กเกจลงบทความบนเว็บจริงของคุณเอง โดยต้องเปิดเผย URL เว็บทั้งหมดก่อนเริ่มงาน\n\nสิ่งที่รับ:\n- เว็บจริงที่มีคนอ่านจริง เปิดเผย URL ล่วงหน้าให้ตรวจสอบ\n- ลิงก์ dofollow ในบทความที่มีคุณภาพ หรือการอ้างอิงข้อมูลจากรายงานของเรา\n- รายงานผลงานตรวจสอบได้ (URL จริงทุกลิงก์)\n\nไม่รับเด็ดขาด (ปฏิเสธทันที):\n- PBN, Web 2.0, blog network, backlink จำนวนมากราคาถูก\n- เว็บที่ไม่ยอมเปิดเผย URL ก่อนเริ่มงาน\n- บทความปั่น/สแปม\n\nราคา: เสนอราคามาได้เลย (quote) — ระบุราคาต่อลิงก์ และราคาแบบแพ็กเกจหลายลิงก์ (เช่น 5 หรือ 10 ลิงก์) ถ้าผลงานดีมีงานต่อเนื่องรายเดือน\n\nตอนเสนองาน กรุณาระบุ: ตัวอย่างเว็บที่จะติดต่อหรือลงได้ (URL จริง) + ราคาต่อลิงก์/แพ็กเกจ + ระยะเวลา\n\n(English proposals also welcome — white-hat outreach/link building for a Bangkok real estate data website. Multiple links preferred, quote your package price, no PBNs, disclose all domains upfront.)",
+    "title": "คนทำ Link Building สายขาว / Outreach เว็บไทย ให้เว็บข้อมูลอสังหาฯ (ไม่รับ PBN)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-16T12:22:55.174776Z",
+    "updated_at": "2026-07-16T12:22:57.002904Z",
+    "already_offered": false,
+    "brief_url": "https://baanscope.com",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-15T12:22:55.118890Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
+    "user_profile": {
+      "id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
+      "username": "kesarito",
+      "display_name": "Cesar Rodriguez",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7ebc1b66-f3aa-42e6-84d9-4600d04f2f98/profile/515ede0b-ddfb-42ab-9ffe-deabd8f7ce1f.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-16T14:14:49.749Z"
+  },
+  {
     "id": "66d2b7e0-9a95-498a-9f53-568d8e024e94",
     "status": "open",
     "tag": {
@@ -195,153 +244,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-15T15:57:48.543Z"
-  },
-  {
-    "id": "a5736682-99cc-4816-b13e-2eaf99e02ce5",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ให้ทำระบบที่ค่อยตรวจทุกข้อความแล้วtiggerเวลาที่ลูกค้าแจ้งปัญหา และค่อยสรุปทุกรอบที่มีการแก้ปัญหาเสร็จแล้วและทำ Dashboard ค่อยสรุปทุกงานและแสดงสถาณะว่าปัญหานี้อยู่ในขั้นตอนไหนแล้ว มี 3 สถาณะได้แก่ เกิดปัญหา กำลังแก้ไข และ แก้ไขเสร็จสิ้น ใช้ line เป็นตัวทำงาน",
-    "title": "งานระบบแจ้งปัญหาของลูกค้าแจ้งเตือนอัตโนมัต",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-15T12:25:30.434519Z",
-    "updated_at": "2026-07-15T12:25:31.525932Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-14T12:25:30.382863Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.5.2-6002720"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "df874d01-f409-4a12-b694-bbad65e244c6",
-    "user_profile": {
-      "id": "df874d01-f409-4a12-b694-bbad65e244c6",
-      "username": "j9jxo96d",
-      "display_name": "kunanan",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/df874d01-f409-4a12-b694-bbad65e244c6/profile/5e649110-9aa7-4a50-9ea7-9cffab9f8e7d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-15T12:40:08.936Z"
-  },
-  {
-    "id": "d13be905-c838-4d62-a8af-59eb244fb55e",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "เนื่องจากตัวระบบ หลังบ้านทำไว้ ถึงจะเรียบร้อยแล้ว ต้องการ คนมาช่วย ออกแบบหรือ Comment ux ui เพื่อให้ง่าย และสวยงามต่อผู้ใช้งาน",
-    "title": "หาคนทหรือ comment ux/ui ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-15T12:16:16.609547Z",
-    "updated_at": "2026-07-15T12:16:17.889416Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-30",
-    "expired_at": "2026-08-14T12:16:16.496795Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-F766B;10.9.0-6002212"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "311874f3-476f-4628-a982-df059e3e2b9d",
-    "user_profile": {
-      "id": "311874f3-476f-4628-a982-df059e3e2b9d",
-      "username": "saburo",
-      "display_name": "saburo",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-15T12:40:07.727Z"
-  },
-  {
-    "id": "8bd46e46-2fed-4d97-a260-4543871e2457",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "มีตัวระบบเว็บไซต์เรียบร้อยแล้ว ต้องการคนที่มีประสบการณ์มา comment หรือช่วยทำ ux/ui  ให้สวยงามและเหมาะกับกลุ่ม target ที่ใช้",
-    "title": "คนทำหรือ comment  ux/ui",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-15T11:46:13.432168Z",
-    "updated_at": "2026-07-15T11:46:14.808170Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-30",
-    "expired_at": "2026-08-14T11:46:13.382898Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-F766B;10.9.0-6002212"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "311874f3-476f-4628-a982-df059e3e2b9d",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-15T12:40:06.304Z"
   }
 ]
