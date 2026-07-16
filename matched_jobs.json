@@ -1,5 +1,54 @@
 [
   {
+    "id": "eb7cd2c8-0833-4679-9e27-3682f12b1354",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "หาคนทำหน้าเว็บที่รวบรวมผลงานต่างๆ ใส่ภาพ วิดีโอ\nจัดให้สวยงาม มีภาพ มีวิดีโอให้ \nลองแนบผลงานมาได้นะคะ ",
+    "title": "คนทำเว็บไซด์Portfolioรวบรวมผลงาน",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-16T04:40:11.415823Z",
+    "updated_at": "2026-07-16T04:40:12.515556Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-15T04:40:11.396122Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "90fc61d9-0cfd-40be-b5fa-0080a7123968",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-16T06:29:27.384Z"
+  },
+  {
     "id": "b9b8f955-f08d-4c6c-b72f-82c4121c666d",
     "status": "open",
     "tag": {
@@ -294,103 +343,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-15T11:09:56.123Z"
-  },
-  {
-    "id": "0c4dbcf9-44c2-4121-b7d3-b6785633a2ec",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ออกแบบ CRM ให้ใข้งานได้จริง\nหัวข้อ\n-ยอดขาย ภาพรวม\n-ข้อมูลลูกค้า\n-เก็บสถิติ\n-จำนวนการออกPo และการติดตาม",
-    "title": "ออกแบบ Crm ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-15T05:28:52.364246Z",
-    "updated_at": "2026-07-15T05:28:54.334147Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-14T05:28:52.306699Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a5506d38-fbba-4f22-8e2d-8d8cb2e4f290",
-    "user_profile": {
-      "id": "a5506d38-fbba-4f22-8e2d-8d8cb2e4f290",
-      "username": "m5b8hcts",
-      "display_name": "m5b8hcts",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-15T05:43:21.956Z"
-  },
-  {
-    "id": "736567e2-14eb-4779-abed-6ab94760e1c2",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "สร้าง pos สำหรับร้านอาหาร ที่มีครัวกลางและสาขา\n\nModule A: ระบบ POS สาขา (Branch Frontend)\nระบบจัดการออเดอร์ (สั่งอาหาร, พักบิล, ยกเลิกบิล)\n\nระบบตัวเลือกเสริม (Modifiers / Add-ons / ระดับความหวาน)\n\nระบบชำระเงิน (เงินสด, สแกน QR, แยกบิล)\n\nOffline Mode: ทำงานและพิมพ์บิลได้แม้เน็ตหลุด และ Sync ข้อมูลเมื่อเน็ตกลับมา\n\nVirtual Printer Integration\n\nModule B: ระบบครัวกลาง (Central Kitchen HQ)\nระบบจัดการสูตรอาหาร (BOM - Bill of Materials) ผูกกับเมนู\n\nDashboard สรุปยอดขายและยอดคงเหลือวัตถุดิบทุกสาขาแบบ Real-time\n\nConsolidated Order: ระบบสรุปยอดวัตถุดิบรวมที่ครัวกลางต้องผลิตและจัดส่งให้แต่ละสาขาในวันพรุ่งนี้\n\nระบบจัดการพนักงาน และกำหนดสิทธิ์การเข้าถึง (Role-based access)",
-    "title": "สร้าง pos ตามrequirement ราคาสมเหตุสมผล",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-15T03:58:49.929812Z",
-    "updated_at": "2026-07-15T03:58:51.286910Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-14T03:58:49.878498Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S918B;11.3.0-6002585"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "8e1f5f66-c853-44a1-a497-1ef88ef9e597",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-15T05:43:20.810Z"
   }
 ]
