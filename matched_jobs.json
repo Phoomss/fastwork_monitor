@@ -1,5 +1,152 @@
 [
   {
+    "id": "c89889b8-e8ed-421e-8db4-a52e02226b12",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ต้องการคนทำ APP ตรวจจับใบหน้าจากกล้องวงจรปิด แจ้งเตือน รายงาน ชื่อพนักงาน เข้าออก เทียบกับตารางเวลาพักงาน ",
+    "title": "ต้องการคนทำระบบ ตรวจจับใบหน้าจากกล้องวงจรปิด แจ้งเตือน รายงาน ชื่อพนักงาน เข้าออก เทียบกับตารางเวลาพักงาน ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-17T03:54:50.831444Z",
+    "updated_at": "2026-07-17T03:54:52.642615Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-24",
+    "expired_at": "2026-08-16T03:54:50.778797Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "60ddf847-61ea-4049-964b-f7b1fea53ffd",
+    "user_profile": {
+      "id": "60ddf847-61ea-4049-964b-f7b1fea53ffd",
+      "username": "th3zemgp",
+      "display_name": "th3zemgp",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-17T06:00:47.156Z"
+  },
+  {
+    "id": "bc65b188-6542-418b-a8d2-fd04b672af75",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "สร้างเกมในunity สร้างเกมตามไฟล์ word ที่ออกแบบไว้บ้างเเล้ว ไม่สวยมากเเต่ขอรวดเร็วใช้งานได้ตรงตามที่ออกแบบไว้ช่วยเเก้ไขให้ดีขึ้น ได้จะดีมาก",
+    "title": "คนสร้างเกม",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-17T03:45:56.543773Z",
+    "updated_at": "2026-07-17T03:45:58.273227Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-31",
+    "expired_at": "2026-08-16T03:45:56.525900Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3;iPhone;11.4.1-6002672"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "420cf643-c98d-47a9-b3e9-37ecfb43a406",
+    "user_profile": {
+      "id": "420cf643-c98d-47a9-b3e9-37ecfb43a406",
+      "username": "framphoto",
+      "display_name": "Fram photo",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/420cf643-c98d-47a9-b3e9-37ecfb43a406/profile/e5e11a85-6a0f-481a-9906-0557bed2989e.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-17T06:00:46.030Z"
+  },
+  {
+    "id": "ffd9b871-68ae-4a03-978e-a9d3911e2f8e",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "contract",
+    "description": "What you’ll Do:\n\n- Design beautiful user interfaces that come with intuitive and simple experiences.\n- Be autonomous. Take the lead and ownership in the design process of the assigned product from researching, designing, and delivering. Create prototypes or run research as needed.\n- Participate in strategic decisions of our products and businesses. Bringing in solutions and the understanding of what product experiences can do for our businesses.\n- Measure and improve your designs with qualitative and quantitative data.\n- Facilitate discussion. Consolidate feedback from other designers and different stakeholders to continuously iterate and improve upon your designs.\n- Question and define requirements, not just following the directive\n- Be data-driven and logical.\n- Work in cross-functional teams closely with engineers, product managers, business development, etc. to ship high-quality products.\n\nWhat you’ll Need: \n\n- Own a portfolio showcasing your UX/UI design skills.\n- Strong understanding and experience with basic design principles such as layout, contrast, spacing, hierarchy, typography, etc.\n- Understand user-centric design and design thinking concepts while being able to take apart, adapt, and apply the concept to best make an impact in a timely manner.\n- Love logic. Use a logical systematic approach to solving a problem and everything that you do.\n- Love UI, apps, and technology. Be pixel-perfect-ionist.\n- Willing to travel to the office in Ramkhamheang area for at least twice a week.",
+    "title": "UX/UI Intern",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-17T03:45:49.033585Z",
+    "updated_at": "2026-07-17T03:45:51.355870Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": "LINE MAN Wongnai",
+    "company_image_url": "https://blog.fastwork.co/wp-content/uploads/2026/07/line_man_wongnai_logo.jpeg",
+    "deadline_at": null,
+    "expired_at": "2026-08-16T03:45:49.011831Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": true,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "03ea0b33-c956-4153-a986-69ee369cf49d",
+    "user_profile": {
+      "id": "03ea0b33-c956-4153-a986-69ee369cf49d",
+      "username": "natthanans",
+      "display_name": "Natthanan S.",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-17T06:00:44.450Z"
+  },
+  {
     "id": "d314aa48-d2b9-43ef-a4d0-48cbf0502ee7",
     "status": "open",
     "tag": {
@@ -243,55 +390,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-16T06:29:27.384Z"
-  },
-  {
-    "id": "b9b8f955-f08d-4c6c-b72f-82c4121c666d",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "ลักษณะงาน\nโปรเจกต์นี้ ไม่ใช่งานสร้างเว็บไซต์ใหม่ และไม่ใช่งานออกแบบเว็บไซต์\nเว็บไซต์บริษัทพัฒนาเสร็จและเปิดใช้งานเรียบร้อยแล้ว (WordPress + Elementor Pro)\nสิ่งที่ต้องการคือการ พัฒนาระบบ Tracking และโครงสร้างข้อมูล เพื่อรองรับการวิเคราะห์ Lead และเชื่อมต่อ CRM ในอนาคต\n\nสิ่งที่ต้องดำเนินการ\n- พัฒนา Hidden Fields บน Elementor Form\n- เก็บ GCLID\n- เก็บ UTM Parameters\n- เก็บ Landing Page\n- เก็บ Referrer\n- ปรับปรุง Google Tag Manager\n- ตรวจสอบ Google Analytics 4 Event\n- เตรียมโครงสร้างข้อมูลสำหรับ CRM และ Dashboard\n- รองรับการส่ง Offline Conversion ในอนาคต\n\nเว็บไซต์ปัจจุบัน\n- WordPress\n- Elementor Pro\n- GTM ติดตั้งแล้ว\n- GA4 ต���ดตั้งแล้ว\n- Google Ads Conversion ติดตั้งแล้ว\n- งานนี้เป็นการ Optimize และพัฒนาระบบ Tracking ไม่ใช่การติดตั้งเว็บไซต์ใหม่\n\nคุณสมบัติที่ต้องการ\nมีประสบการณ์อย่างน้อยบางส่วนในเรื่องต่อไปนี้\n- WordPress\n- Elementor\n- Google Tag Manager\n- Google Analytics 4\n- Google Ads Conversion\n- Hidden Field\n- UTM Tracking\n- GCLID\n- JavaScript (เบื้องต้น)\n\nหากมีประสบการณ์ด้าน CRM Integration, Webhook, Offline Conversion\n(จะได้รับการพิจารณาเป็นพิเศษ)\n\nเอกสารประกอบ\n\nก่อนเสนอราคา กรุณาอ่านเอกสารต่อไปนี้ก่อน\n\n✅ Website Development Roadmap & Technical Requirement v1.0\nhttps://docs.google.com/document/d/1C2ZxjEacwTHrdYHfiFVjVN80SO6U7_HM4mfwyJP_nS0/edit?usp=sharing\n\n✅ Project Brief v1.0\nhttps://docs.google.com/document/d/1ZSyHuycW65qZl9xx77gmin3Z-chgAqqJlSkxrxCpdFU/edit?usp=sharing\n\nเพื่อให้เข้าใจ Scope งานก่อนพูด���ุยครับ\nหากอ่านเอกสารแล้ว เห็นว่างานตรงกับความเชี่ยวชาญของคุณ สามารถส่งประสบการณ์หรือ Portfolio ที่เกี่ยวข้องกับ GTM / GA4 / GCLID / UTM / CRM มาได้เลยครับ\n*ผู้ที่เชี่ยวชาญด้านการสร้างเว็บไซต์เพียงอย่างเดียว แต่ไม่มีประสบการณ์ด้าน Tracking System หรือ Marketing Analytics อาจไม่เหมาะกับโปรเจกต์นี้",
-    "title": "WordPress Tracking Developer (GTM / GA4 / GCLID / UTM / CRM)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "999999",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-16T03:20:19.113073Z",
-    "updated_at": "2026-07-16T03:20:21.122160Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-15T03:20:19.064114Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "cef197f4-876b-4dd5-a3c5-e80b2681d87e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "999999",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-16T04:10:50.405Z"
   }
 ]
