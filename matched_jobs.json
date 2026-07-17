@@ -342,54 +342,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-17T03:33:41.059Z"
-  },
-  {
-    "id": "8f6e9924-4607-453f-9d82-74a6a789d2ad",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการ production websites จาก vibe coding ภายในบริษัท\n\nหน่วยงานความปลอดภัย\n-audit system\n-incident reporting system\n-risk assessment system\n\nmain present site= sharepoint\npurpose: production vibe coding site to real production online with can merge to company it system (scope are Asia Pacific)\n\n",
-    "title": "programer: governance vibe coding website concept to production for company",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-16T16:44:30.204211Z",
-    "updated_at": "2026-07-16T16:44:31.273508Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-08-15T16:44:30.158895Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.3.1;iPhone;6.7.0-6000325"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7a591901-36bf-4d61-841a-ffb05cc8fb11",
-    "user_profile": {
-      "id": "7a591901-36bf-4d61-841a-ffb05cc8fb11",
-      "username": "kantapon.a",
-      "display_name": "guntapon",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7a591901-36bf-4d61-841a-ffb05cc8fb11/profile/6cff8d67-ef79-48bf-b0ad-2c5d75f80e7d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-16T16:54:46.866Z"
   }
 ]
