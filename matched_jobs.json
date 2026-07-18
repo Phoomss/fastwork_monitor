@@ -1,5 +1,54 @@
 [
   {
+    "id": "233c4552-6959-4cab-8b1f-adce0ff73799",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตอนนี��มีโดเมนและโฮสติ้งผ่าน Spaceship.com เรียบร้อยแล้ว และติดตั้ง WordPress ไว้แล้ว ต้องการหาผู้รับงานมาช่วยตกแต่งและจัดหน้าเว็บไซต์ให้สวยงามในสไตล์ Premium / Luxury / Minimal สำหรับแบรนด์สกินแคร์และแฮร์แคร์\n\nสิ่งที่ทางเรามีเตรียมไว้แล้ว:\n\n- โดเมนและโฮสติ้ง\n\n- WordPress\n\n- โลโก้แบรนด์\n\n- รูปสินค้า\n\n- รูปนายแบบและนางแบบ\n\n- ข้อมูลสินค้า\n\n- ข้อความภาษาไทยและภาษาอังกฤษ\n\n- รูปแบบและตัวอย่างหน้าตาเว็บไซต์ที่ต้องการ\n\n- โครงสร้างเว็บไซต์ประมาณ 9 หน้า\n\nลักษณะงานที่ต้องการ:\n\n- ไม่ต้องเขียนเว็บไซต์ใหม่ทั้งหมด\n\n- ไม่ต้องออกแบบแบรนด์ใหม่\n\n- ใช้ WordPress และ Theme / Page Builder ที่เหมาะสม\n\n- นำรูปและข้อมูลที่มีอยู่มาจัดวางและตกแต่งให้สวย\n\n- ปรับสี ฟอนต์ ระยะห่าง และองค์ประกอบให้ดูพรีเมียม\n\n- ทำให้เว็บไซต์รองรับทั้งคอมพิวเตอร์และโทรศัพท์มือถือ\n\n- จัดเมนูและปุ่มต่าง ๆ ให้ใช้งานง่าย\n\n- ปรับความเร็วพื้นฐานและตรวจสอบว่าเว็บแสดงผลถูกต้อง\n\n- สามารถให้ทางเราแก้ไขข้อความและรูปภาพเองภายหลังได้\n\nสไตล์ที่ต้องการ:\n\nPremium, Luxury, Minimal, Clean, Botanical Beauty\n\nโทนเรียบหรู ดูเป็นแบรนด์สากล ไม่รก และไม่ใช้รูปแบบสำเร็จรูปที่ดูทั่วไปเกินไป\n\nระยะเวลา:\n\nต้องการเริ่มงานทันที แ��ะต้องการให้เว็บไซต์พร้อมใช้งานภายในประมาณ 3–5 วัน หากสามารถทำได้\n\nรบกวนแจ้งข้อมูลดังนี้:\n\n1. ราคาที่เสนอ\n\n2. ระยะเวลาที่ใช้\n\n3. ใช้ Theme หรือ Page Builder อะไร\n\n4. รวมการปรับหน้ามือถือหรือไม่\n\n5. แก้ไขงานได้กี่รอบ\n\n6. มีค่า Theme หรือ Plugin รายปีเพิ่มเติมหรือไม่\n\n7. ขอชมผลงานเว็บไซต์สกินแคร์ เครื่องสำอาง หรือเว็บไซต์แนว Premiem",
+    "title": "หาคนตกแต่งเว็บไซต์ WordPress สำหรับแบรนด์สกินแคร์ PUDI",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "3500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-18T12:59:46.493028Z",
+    "updated_at": "2026-07-18T12:59:47.800886Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-23",
+    "expired_at": "2026-08-17T12:59:46.412703Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.1;iPhone;11.0.2-6002457"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "efecfa67-fcbe-4f45-ba79-7b2f1249211c",
+    "user_profile": {
+      "id": "efecfa67-fcbe-4f45-ba79-7b2f1249211c",
+      "username": "booksiqaphat",
+      "display_name": "booksiqaphat",
+      "image_url": "https://storage.googleapis.com/fastwork-static/b23e3298-e2cd-4726-8bab-e587a5d8fc64.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-18T13:44:34.591Z"
+  },
+  {
     "id": "cde7b074-4ece-4385-a108-9cabd9b20c38",
     "status": "open",
     "tag": {
@@ -194,54 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-18T03:18:51.107Z"
-  },
-  {
-    "id": "4554fcbe-0db3-4908-a2f8-1414bba3ce14",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": " ต้องการปรับจูน Buffer หรือวิธีการเล่น Stream ให้ได้ Latency ต่ำที่สุด\n ถ้าต้องเขียนโปรแกรมใหม่ที่จัดการ Stream ได้ดีกว่าวิธีเดิม ยินดีรับพิจารณา\n\n",
-    "title": " ฉันหาคนช่วยโปรแกรม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-17T12:17:26.341769Z",
-    "updated_at": "2026-07-17T12:17:27.550311Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-17",
-    "expired_at": "2026-08-16T12:17:26.287141Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.0.1;iPhone;10.12.0-6002405"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "28c65562-c28a-4dfd-935f-a526deae8647",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-17T12:46:00.399Z"
   }
 ]
