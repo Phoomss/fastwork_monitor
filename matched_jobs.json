@@ -1,5 +1,54 @@
 [
   {
+    "id": "346aa31f-676b-45d4-b004-4defe68d09be",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ฉันอยากได้คนช่วยหาเว็บไซต์หน่อยคือฉันเนี่ยไม่รู้ชื่อเว็บไซต์ หรือลิงก์ แต่ฉันรู้ว่าเว็บไซต์เนี่ยเป็นเว็บไซ���์ประเภทไหนเกี่ยวกับอะไรแล้วก็แถบสีอะไร ฟังก์ชันการใช้งานในเว็บไซต์ ฉันอยากรู้ว่าพอที่จะมีวิธีหาเว็บไซต์นี้ได้ไหม \n",
+    "title": "ช่วยค้นหาเว็ปไซส์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-18T07:13:05.188780Z",
+    "updated_at": "2026-07-18T07:13:06.760998Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-17T07:13:05.090946Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPhone;10.5.0-6002105"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "2f3c6bea-9d8b-45ed-b5c5-c35a8c652b64",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-18T07:15:06.766Z"
+  },
+  {
     "id": "20b9bae7-2e85-47f6-a5ef-1054bd4913c1",
     "status": "open",
     "tag": {
@@ -195,152 +244,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-17T08:17:39.828Z"
-  },
-  {
-    "id": "c89889b8-e8ed-421e-8db4-a52e02226b12",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการคนทำ APP ตรวจจับใบหน้าจากกล้องวงจรปิด แจ้งเตือน รายงาน ชื่อพนักงาน เข้าออก เทียบกับตารางเวลาพักงาน ",
-    "title": "ต้องการคนทำระบบ ตรวจจับใบหน้าจากกล้องวงจรปิด แจ้งเตือน รายงาน ชื่อพนักงาน เข้าออก เทียบกับตารางเวลาพักงาน ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-17T03:54:50.831444Z",
-    "updated_at": "2026-07-17T03:54:52.642615Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-24",
-    "expired_at": "2026-08-16T03:54:50.778797Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "60ddf847-61ea-4049-964b-f7b1fea53ffd",
-    "user_profile": {
-      "id": "60ddf847-61ea-4049-964b-f7b1fea53ffd",
-      "username": "th3zemgp",
-      "display_name": "th3zemgp",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-17T06:00:47.156Z"
-  },
-  {
-    "id": "bc65b188-6542-418b-a8d2-fd04b672af75",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สร้างเกมในunity สร้างเกมตามไฟล์ word ที่ออกแบบไว้บ้างเเล้ว ไม่สวยมากเเต่ขอรวดเร็วใช้งานได้ตรงตามที่ออกแบบไว้ช่วยเเก้ไขให้ดีขึ้น ได้จะดีมาก",
-    "title": "คนสร้างเกม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-17T03:45:56.543773Z",
-    "updated_at": "2026-07-17T03:45:58.273227Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-31",
-    "expired_at": "2026-08-16T03:45:56.525900Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.4.1-6002672"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "420cf643-c98d-47a9-b3e9-37ecfb43a406",
-    "user_profile": {
-      "id": "420cf643-c98d-47a9-b3e9-37ecfb43a406",
-      "username": "framphoto",
-      "display_name": "Fram photo",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/420cf643-c98d-47a9-b3e9-37ecfb43a406/profile/e5e11a85-6a0f-481a-9906-0557bed2989e.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-17T06:00:46.030Z"
-  },
-  {
-    "id": "ffd9b871-68ae-4a03-978e-a9d3911e2f8e",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "contract",
-    "description": "What you’ll Do:\n\n- Design beautiful user interfaces that come with intuitive and simple experiences.\n- Be autonomous. Take the lead and ownership in the design process of the assigned product from researching, designing, and delivering. Create prototypes or run research as needed.\n- Participate in strategic decisions of our products and businesses. Bringing in solutions and the understanding of what product experiences can do for our businesses.\n- Measure and improve your designs with qualitative and quantitative data.\n- Facilitate discussion. Consolidate feedback from other designers and different stakeholders to continuously iterate and improve upon your designs.\n- Question and define requirements, not just following the directive\n- Be data-driven and logical.\n- Work in cross-functional teams closely with engineers, product managers, business development, etc. to ship high-quality products.\n\nWhat you’ll Need: \n\n- Own a portfolio showcasing your UX/UI design skills.\n- Strong understanding and experience with basic design principles such as layout, contrast, spacing, hierarchy, typography, etc.\n- Understand user-centric design and design thinking concepts while being able to take apart, adapt, and apply the concept to best make an impact in a timely manner.\n- Love logic. Use a logical systematic approach to solving a problem and everything that you do.\n- Love UI, apps, and technology. Be pixel-perfect-ionist.\n- Willing to travel to the office in Ramkhamheang area for at least twice a week.",
-    "title": "UX/UI Intern",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-17T03:45:49.033585Z",
-    "updated_at": "2026-07-17T03:45:51.355870Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": "LINE MAN Wongnai",
-    "company_image_url": "https://blog.fastwork.co/wp-content/uploads/2026/07/line_man_wongnai_logo.jpeg",
-    "deadline_at": null,
-    "expired_at": "2026-08-16T03:45:49.011831Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": true,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "03ea0b33-c956-4153-a986-69ee369cf49d",
-    "user_profile": {
-      "id": "03ea0b33-c956-4153-a986-69ee369cf49d",
-      "username": "natthanans",
-      "display_name": "Natthanan S.",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-17T06:00:44.450Z"
   }
 ]
