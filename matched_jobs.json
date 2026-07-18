@@ -1,5 +1,54 @@
 [
   {
+    "id": "20b9bae7-2e85-47f6-a5ef-1054bd4913c1",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "- สร้าง Digital graphics เพื่อใช้ post IG,Facebook ของบริษัท ทั้งภาษาไทย&อังกฤษ\n-ยิง Add FB, IG, แชร์โพสต์ตามกรุ้ปต่างๆในเฟสบุค\n\n- Website ถ้าทำ SEO ได้จะพิจารณาเป็นพิเศษ\n\n5,000/month ราคาคุยได้แล้วแต่ผลงาน",
+    "title": "คนดูแล โฆษณา Digital Channels ของบริษัท",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-18T01:04:03.407054Z",
+    "updated_at": "2026-07-18T01:04:05.469204Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-17T01:04:03.344929Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6.2;iPhone;10.5.0-6002105"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f8f5a90f-d571-4fdd-96d2-6367d2f1c2b6",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-18T03:18:51.107Z"
+  },
+  {
     "id": "4554fcbe-0db3-4908-a2f8-1414bba3ce14",
     "status": "open",
     "tag": {
