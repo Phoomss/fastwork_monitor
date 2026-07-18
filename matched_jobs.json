@@ -342,54 +342,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-17T06:00:44.450Z"
-  },
-  {
-    "id": "d314aa48-d2b9-43ef-a4d0-48cbf0502ee7",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนทำ Mockup สินค้าประเภท เสื้อ / แก้วน้ำ\nสิ่งที่ต้องการ:\n-สามารถทำ Mockup ���ินค้าให้ดูสมจริง (Realistic)\n-จัดวาง Artwork/Logo ลงบนสินค้าได้สวยงาม\n-ส่งผลงานตัวอย่างที่เคยทำมาให้ดูด้วยครับ\n\nราคาพูดคุยกันได้",
-    "title": "หาคนทำ Mock up สินค้า ทักแชต",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-17T02:55:18.626796Z",
-    "updated_at": "2026-07-17T02:55:20.952397Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-23",
-    "expired_at": "2026-08-16T02:55:18.574738Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.1;iPhone;7.8.0-6000919"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "4ca116b1-9739-42ae-8673-d2202454389b",
-    "user_profile": {
-      "id": "4ca116b1-9739-42ae-8673-d2202454389b",
-      "username": "bomb.kridsada",
-      "display_name": "bomb.kridsada",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4ca116b1-9739-42ae-8673-d2202454389b/profile/8bf4e836-b2fd-490d-87bf-cc4ea6cafeb2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-17T03:33:41.059Z"
   }
 ]
