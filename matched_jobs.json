@@ -344,54 +344,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-18T19:41:38.853Z"
-  },
-  {
-    "id": "366d427c-210b-48f7-b974-f59dba2d2022",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาฟีเเลนท์สร้างระบบตอบกลับอัตโนมัติหรือออกเเบบระบบหลังบ้านเพื่อเก็บข้อมูลเชิงลึกใน line oa สำหรับธุรกิจร้านขนมหวาน",
-    "title": "คนสร้างระบบ chat bot ตอบกลับ line oa+membership ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-18T18:16:09.614245Z",
-    "updated_at": "2026-07-18T18:16:11.192573Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-17T18:16:09.388087Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.5.2-6002720"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "76833acd-33c6-4c10-9946-c75c66d3482b",
-    "user_profile": {
-      "id": "76833acd-33c6-4c10-9946-c75c66d3482b",
-      "username": "arnuphap04",
-      "display_name": "arnuphap saensawat",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/76833acd-33c6-4c10-9946-c75c66d3482b/profile/03da7ea2-4568-487e-b388-dc96267e4ae2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-18T18:29:04.169Z"
   }
 ]
