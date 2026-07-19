@@ -1,4 +1,6 @@
 [
-  "[2026-07-19T15:10:23.690Z] Checking Fastwork for new job posts...",
-  "[2026-07-19T15:10:23.687Z] Auto-cleanup: Removed 10 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-19T16:07:39.625Z]     Notification sent successfully.",
+  "[2026-07-19T16:07:39.529Z]   FOUND NEW TARGET JOB: Scraping Application  (Cats: พัฒนาแอปพลิเคชัน) (Budget: 40000 THB)",
+  "[2026-07-19T16:07:38.462Z] Checking Fastwork for new job posts...",
+  "[2026-07-19T16:07:38.460Z] Auto-cleanup: Removed 5 seen job tracking IDs older than 1 day(s)."
 ]
