@@ -1,5 +1,54 @@
 [
   {
+    "id": "705560e8-945c-4da0-9ac7-6a923332d63c",
+    "status": "open",
+    "tag": {
+      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
+      "name": "งานเขียน / บทความ",
+      "sort": 8
+    },
+    "type": "freelance",
+    "description": "จุดประสงค์\nผมมี Draft เอกสารคู่มือการใช้งาน Web Application และรูปภาพประกอบแล้ว แต่รูปยังขาดการทำ Label ชี้ส่วนประกอบของหน้าเว็บไซต์ให้สอดคล้องกับเนื้อหา\n\nรายละเอียดงาน\n- Label รูปภาพ: ชี้และใส่ตัวเลขบนรูปให้ตรงกับเนื้อหา (ระบบเกี่ยวกับ Network จึงต้องใช้ความรู้เชิง Technical เพื่อทำความเข้าใจและชี้ให้ถูกจุด)\n\nขอบเขตงาน: คู่มือมี 17 บท (ปัจจุบัน 103 หน้า คาดว่าเมื่อจัดหน้าใหม่แบบผลักหัวข้อขึ้นหน้าใหม่จะไม่เกิน 250 หน้า หน้าละประมาณ 1-3 รูป)\n- ตรวจสอบเนื้อหา: พิสูจน์อักษร ตรวจคำศัพท์แปลกๆ และตรวจทานโครงสร้างข้อมูลให้ถูกต้อง (หากผิดให้ปรับแก้)\n- จัดรูปแบบ: ปรับขนาดรูปและจัดหน้าตามรูปแบบที่กำหนด\n- การขอข้อมูลเพิ่ม: หากรูประบบไม่ครบ แจ้งขอเพิ่มเติมได้ (ผู้ทำไม่ต้องเข้าระบบไปแคปเอง)\n- รูปแบบการทำงาน: งานต้องมีการรับ-ส่ง Feedback และปรับปรุงเป็นเว���ร์ชัน ต้องอาศัยการสื่อสารกันอย่างต่อเนื่อง ไม่ใช่การรับงานไปทำครั้งเดียวจบ\n\nเงื่อนไขพิเศษ\n- คุณสมบัติ: หากเข้าใจและมีพื้นฐานด้านคอมพิวเตอร์ (โดยเฉพาะ Computer Network) จะพิจารณาเป็นพิเศษ\n- การรักษาความลับ: เนื้อหาและไอเดียของระบบเป็นความลับ ห้ามเผยแพร่หรือนำไปใช้ต่อทุกกรณี ต้องเซ็นเอกสารรักษาความลับ\n- เครื่องมือ: ต้องใช้ Microsoft Word (.docx) เท่านั้น พร้อมติดตั้งฟอนต์เฉพาะให้ตรงกัน (ห้ามใช้ Google Docs เพราะ Format จะเพี้ยน) ขอคนที่มีทักษะการจัดเอกสารใน Word เชี่ยวชาญระดับหนึ่งครับ\n\nหมายเหตุ: ตั้งใจจ้างเหมารวมทั้ง 17 บท (ไม่รับแยก) แต่อาจมีการให้ทดสอบจัดทำก่อน 1 บท เพื่อพิจารณาจ้างงานในส่วนที่เหลือครับ",
+    "title": "คนรับทำ Label รูปภาพและจัดเรียงเนื้อหาในเอกสารที่จัดทำด้วย Microsoft Word",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-19T12:18:46.536960Z",
+    "updated_at": "2026-07-19T12:18:47.914428Z",
+    "already_offered": false,
+    "brief_url": "https://drive.google.com/file/d/1gvVHdC4cNAWYM6fvcGRj5bEE-Mu8JCxd/view?usp=sharing",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-02",
+    "expired_at": "2026-08-18T12:18:46.490838Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "af9f652c-7c46-482a-a58c-3fb3ed14d946",
+    "user_profile": {
+      "id": "af9f652c-7c46-482a-a58c-3fb3ed14d946",
+      "username": "koraritp",
+      "display_name": "Korarit Pr",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/af9f652c-7c46-482a-a58c-3fb3ed14d946/profile/6bb9fcde-4288-4067-8c92-573ca950d3fa.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-19T12:38:01.920Z"
+  },
+  {
     "id": "dbbcb821-e73f-4744-b9af-cfae039ed1b7",
     "status": "open",
     "tag": {
