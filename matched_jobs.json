@@ -393,54 +393,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-20T03:54:55.687Z"
-  },
-  {
-    "id": "dfe15f23-53f5-4e13-86a0-9c191585d2d5",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "ต้องการคนที่เคยและสามารถScraping Application \nสิ่งที่ต้องการคือข้อมูลแบบรายชั่วโมง และตลอด24 ช.ม.\n\nรายละเอียด รอแจ้งเพิ่มเติม",
-    "title": "Scraping Application ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "40000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-19T15:33:13.649184Z",
-    "updated_at": "2026-07-19T15:33:15.538893Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-18T15:33:13.598267Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "3bd611b0-b274-45cb-9e58-87fe21a4ee9e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "40000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-19T16:07:39.529Z"
   }
 ]
