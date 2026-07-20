@@ -1,5 +1,103 @@
 [
   {
+    "id": "93c444c8-0755-4a68-9d3d-1687639a21e1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ทำตามโปรเจกต์ตามฐานข้อมูลที่ทางเรามีให้ทั้งหมด                                                        ",
+    "title": "หาคนรับทำโปรเจกต์qr code ร้านอาหาร ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-20T11:16:56.915935Z",
+    "updated_at": "2026-07-20T11:16:58.060352Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T11:16:56.897765Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.6.0-6002755"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "b0138ec5-51c7-4a64-a39e-00dc43f75ce2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-20T12:03:16.985Z"
+  },
+  {
+    "id": "88bf0f33-bf71-4706-98fd-66b243732069",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "📢 หา Wix Developer (Freelance) ด่วน❗️❗️\n\nScope งาน\n\n- แก้ Responsive Design (Mobile & Tablet)\n- ติดตั้งและตั้งค่า Wix Blog\n- แก้ไข Internal Links\n- จัดโครงสร้าง Heading (H1/H2/H3) ให้ถูกต้อง\n- ตรวจสอบและตั้งค่า SEO (Title & Meta Description)\n\nคุณสมบัติ\n\n- มีประสบการณ์กับ Wix Editor หรือ Wix Studio\n-เข้าใจ Responsive Design\n- มีความรู้ด้าน Technical SEO\n- มี Portfolio จะพิจารณาเป็นพิเศษ\n\nสมัคร\nส่ง Portfolio, ประสบการณ์, เรทราคา และระยะเวลาที่เริ่มงานได้มาได้เลย\nใต้โพสDm/ inbox 📩",
+    "title": "📢 หา Wix Developer (Freelance) ด่วน❗️❗️",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-20T10:25:22.256935Z",
+    "updated_at": "2026-07-20T10:25:23.384891Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T10:25:22.239054Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.4.1;iPad;9.9.0-6001589"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "2a6f28eb-83d6-4bdd-bfbc-be2f5f92fe7a",
+    "user_profile": {
+      "id": "2a6f28eb-83d6-4bdd-bfbc-be2f5f92fe7a",
+      "username": "yv6av2ws",
+      "display_name": "yv6av2ws",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-20T12:03:15.513Z"
+  },
+  {
     "id": "d58a0094-b1b3-4437-b16d-0f05364e7f46",
     "status": "open",
     "tag": {
