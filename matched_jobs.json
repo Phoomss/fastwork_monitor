@@ -1,5 +1,105 @@
 [
   {
+    "id": "90e783a3-8f10-49e3-b636-5809b567c214",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "รับสมัคร Freelance Mobile App UI/UX Designer & App Developer (Part-time / Project)\n\nเปิดรับสมัครผู้มีประสบการณ์ด้านการออกแบบและพัฒนา Mobile Application เพื่อร่วมพัฒนาแพลตฟอร์มซื้อขายสินทรัพย์โดยเป็นการร่วมงานแบบ Freelance / Project-based ระยะเวลาประมาณ 1 เดือน (อาจมีการขยายระยะเวลาตามขอบเขตงาน)\n\nลักษณะการทำงาน\n\n* รูปแบบการทำงาน: Freelance / Part-time\n* ประชุมเพื่อสรุป Requirement และ Scope งานร่วมกัน\n* ออกแบบ UX/UI ให้เหมาะกับ��ู้ใช้งานจริง\n* ให้คำแนะนำด้าน User Experience และ Workflow ของระบบ\n* พัฒนาระบบตามขอบเขตงานที่ตกลงร่วมกัน\n* ทดสอบระบบ แก้ไข และส่งมอบงานจนสามารถใช้งานได้\n* สามารถสื่อสารและอัปเดตความคืบหน้าเป็นระยะ\n\nคุณสมบัติ\n\n* มีประสบการณ์ในการออกแบบและพัฒนา Mobile Application\n* เคยมีผลงานที่เปิดใช้งานจริง หรือสามารถนำ Portfolio มาแสดงได้\n* หากเคยพัฒนาแอปด้านการเงิน การลงทุน FinTech E-Wallet หรือระบบซื้อขาย จะได้รับการพิจารณาเป็นพิเศษ\n* เข้าใจการออกแบบ UX/UI ที่ทันสมัย\n* สามารถทำ Prototype หรือ Demo ให้พิจารณาได้\n* มีความรับผิดชอบ ตรงต่อเวลา และสามารถทำง���นร่วมกับทีมได้\n\nขั้นตอนการคัดเลือก\n\n1. ส่ง Portfolio หรือผลงานที่ผ่านมา\n2. พูดคุยรายละเอียดโครงการ\n3. นำเสนอแนวทางการออกแบบและประสบการณ์ที่ผ่านมา\n4. ทดลองนำเสนอแนวคิดหรือ Prototype เบื้องต้น\n5. ตกลงขอบเขตงาน ระยะเวลา และงบประมาณร่วมกัน\n6. ลงนามสัญญาว่าจ้างและข้อตกลงรักษาความลับ (NDA) ก่อนเริ่มงาน\n\nประเภทของระบบ\nโครงการนี้เป็น Mobile Application สำหรับการซื้อขายสินทรัพย์มูลค่าสูง ซึ่งให้ความสำคัญกับ\n* ความปลอดภัยของข้อมูล\n* ความเสถียรของระบบ\n* ประสบการณ์ผู้ใช้งาน (UX/UI)\n* มาตรฐานการพัฒนาระดับองค์กร\n\nหากคุณมีประสบการณ์และสนใจร่วมพัฒนาโครงการนี้ กรุณาส่ง Portfolio, ผลงานที่ผ่านมา, ประวัติการทำงาน และช่องทางติดต่อ เพื่อพิจารณาเข้าร่วมสัมภาษณ์ต่อไป",
+    "title": "ทีมงานช่วยทำแอปพลิเคชั่น",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-20T02:52:54.199227Z",
+    "updated_at": "2026-07-20T02:52:55.521618Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T02:52:54.178921Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "2c1b806b-6c1f-4941-8064-95ea2b24c6e4",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-20T03:54:57.321Z"
+  },
+  {
+    "id": "a8a76f4c-6657-43d9-be2d-645a008a19f4",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "หาคนสอนเขียนพัฒนา App บน iOs / Android - สอนทำจริง ราคากันเอง โดยโปรอกรมที่จะพัฒนาพพวกระบบฝากถอนชำระเงิน รวมถึงระบบหอพัก\n",
+    "title": "คนสอนทำApplication iOs & Andriod",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-20T01:44:57.110678Z",
+    "updated_at": "2026-07-20T01:44:59.086711Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T01:44:57.088884Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android12;LMR-LX9;10.9.0-6002212"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "9d1ad443-8a6d-4554-a898-0802d166648e",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-20T03:54:55.687Z"
+  },
+  {
     "id": "dfe15f23-53f5-4e13-86a0-9c191585d2d5",
     "status": "open",
     "tag": {
@@ -244,55 +344,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-19T05:47:22.865Z"
-  },
-  {
-    "id": "617b70a4-6138-49ba-b631-321df2195b74",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "การทดสอบระบบเพื่อหาจุดบกพร่อง (Bug) หรือทดสอบประสบการณ์ผู้ใช้ (User Experience - UX) เช่น\"ต้องการผู้ทดสอบระบบลงทะเบียนเพื่อเช็กความเสถียรและรายงานข้อผิดพลาดของหน้าเว็บ\"\nจะมีลิงก์เว็บไซต์สำหรับทดสอบส่งให้ \"ในแชทหลังจากกดจ้างงานแล้วเท่านั้น\"",
-    "title": "จ้างงานทดสอบและรีวิวการใช้งานระบบเว็บไซต์ทั่วไป",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-19T02:44:50.393604Z",
-    "updated_at": "2026-07-19T02:44:52.055583Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-18T02:44:50.372468Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android9;CPH2015;11.5.2-6002720"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a3f5f656-fca8-4208-94d0-da4e1c556d4c",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-19T02:57:30.217Z"
   }
 ]
