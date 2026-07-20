@@ -1,5 +1,104 @@
 [
   {
+    "id": "d58a0094-b1b3-4437-b16d-0f05364e7f46",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาผู้เชี่ยวชาญด้าน Google Ads, SEO. \nเพื่อ เพิ่ม DR ให้เว็ปติดอันดับ \nหวังผล ระยะสั้น และ ระยะยาว\nรายละเอียดต่างๆ จะแจ้ง หลังจาก ตกลงว่าจ้างค่ะ",
+    "title": "หาผู้เชี่ยวชาญด้าน Google Ads, SEO",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-20T06:47:34.205321Z",
+    "updated_at": "2026-07-20T06:47:35.459388Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T06:47:34.186058Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "df0ec423-abff-4b4f-9344-e369c797d39e",
+    "user_profile": {
+      "id": "df0ec423-abff-4b4f-9344-e369c797d39e",
+      "username": "nyxcsebx",
+      "display_name": "Nipaporn",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/df0ec423-abff-4b4f-9344-e369c797d39e/profile/89ecca85-aa9f-41b4-88e7-eac8a4b1e1a1.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-20T09:43:41.791Z"
+  },
+  {
+    "id": "97082495-c5d1-4273-8ef1-b06b2ca93618",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ฉันมี dashboard บน Power BI อยู่แล้ว แต่อยากให้เพิ่ม ปุ่มเปิด Web App ที่มี ai มาวิเคราห์กราฟของ ของเสียในโรงงาน ที่อยู่ในแดชบอร์ด\n\n\nโครงสร้าง:\n\nPower BI Dashboard\n↓\nกดปุ่ม \"AI Analysis\"\n↓\nเปิด Web App\n↓\nWeb App ดึงข้อมูลจาก SQL Server\n↓\nAI วิเคราะห์\n↓\nแสดงผล",
+    "title": "คนสร้าง ai ที่วิเคราะห์ข้อมูลบน dashboard ของ power bi",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-20T06:44:08.262489Z",
+    "updated_at": "2026-07-20T06:44:09.365825Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-19T06:44:08.215326Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.2.0-6000087"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+    "user_profile": {
+      "id": "f7621698-81bd-47b7-824f-4e2875c7c2fe",
+      "username": "u9qv2hiu",
+      "display_name": "Zady",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-20T09:43:40.445Z"
+  },
+  {
     "id": "90e783a3-8f10-49e3-b636-5809b567c214",
     "status": "open",
     "tag": {
@@ -196,54 +295,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-19T12:38:01.920Z"
-  },
-  {
-    "id": "dbbcb821-e73f-4744-b9af-cfae039ed1b7",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รับสมัคร Full-Stack Developer ต่อยอดระบบจัดการแฟรนไชส์ (React + Supabase + LINE API) — หน้าบ้านเกือบ100%แล้ว ต้องการทำหลังบ้านให้ใช้งานจริง",
-    "title": "รับสมัคร Full-Stack Developer ต่อยอด���ะบบจัดการแฟรนไชส์ (React + Supabase + LINE API) — หน้าบ้านเกือบ100%แล้ว ต้องการทำหลังบ้านให้ใช้งานจริง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-19T07:27:13.029797Z",
-    "updated_at": "2026-07-19T07:27:14.408407Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-31",
-    "expired_at": "2026-08-18T07:27:13.009113Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S948B;8.9.0-6001195"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "e7bb7dab-2725-48d4-af4b-0ac55d5d3e99",
-    "user_profile": {
-      "id": "e7bb7dab-2725-48d4-af4b-0ac55d5d3e99",
-      "username": "kate_wipharat",
-      "display_name": "Kate_Wipharat",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-19T07:50:08.727Z"
   }
 ]
