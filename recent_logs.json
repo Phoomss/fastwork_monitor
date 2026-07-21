@@ -1,5 +1,9 @@
 [
-  "[2026-07-21T03:37:42.875Z]     Notification sent successfully.",
-  "[2026-07-21T03:37:42.767Z]   FOUND NEW TARGET JOB:  จัดสต๊อกสินค้าในคลัง   (Cats: พัฒนาแอปพลิเคชัน) (Budget: 1500 THB)",
-  "[2026-07-21T03:37:41.592Z] Checking Fastwork for new job posts..."
+  "[2026-07-21T06:14:35.844Z]     Notification sent successfully.",
+  "[2026-07-21T06:14:35.736Z]   FOUND NEW TARGET JOB: PACKAGING DESIGN มีตัวอย่างให้ (Cats: ออกแบบ UX UI) (Budget: 500 THB)",
+  "[2026-07-21T06:14:34.733Z]     Notification sent successfully.",
+  "[2026-07-21T06:14:34.392Z]   FOUND NEW TARGET JOB: หาคนรับจองคิวออนไลน์ (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
+  "[2026-07-21T06:14:33.245Z] Checking Fastwork for new job posts...",
+  "[2026-07-21T06:14:33.243Z] Auto-cleanup: Removed 19 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-21T06:14:33.240Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
