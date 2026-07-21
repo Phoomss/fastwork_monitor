@@ -342,54 +342,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-20T16:07:19.592Z"
-  },
-  {
-    "id": "2c141014-51d7-4e31-80c0-97d47828822b",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน\nต้องการระบบสำหรับธุรกิจพูลวิลล่า โดยมีคุณสมบัติดังนี้\n\n* มีฟอร์มสำหรับกรอกข้อมูลลูกค้า\n* กรอกข้อมูล เช่น\n    * ชื่อลูกค้า\n    * เบอร์โทร\n    * บ้านพัก\n    * วันที่เข้าพัก\n    * วันที่เช็กเอาต์\n    * จำนวนผู้เข้าพัก\n    * ราคา\n    * มัดจำ\n    * ยอดคงเหลือ\n    * หมายเหตุ\n* เมื่อกดปุ่ม “สร้างใบจอง” ระบบจะนำข้อมูลไปใส่ใน Template ที่ออกแบบไว้\n* สามารถดาวน์โหลดเป็น PDF\n* ต้องการให้หน้าตาใบจองเป็นรูปแบบของบริษัท (มีโลโก้ สี และฟอนต์)\n* หากเป็นไปได้ ต้องการเก็บข้อมูลลูกค้าไว้เพื่อค้นหาและออกใบจองย้อนหลังได้",
-    "title": "ระบบสร้างใบจองจากแบบฟอร์ม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-20T13:05:44.435662Z",
-    "updated_at": "2026-07-20T13:05:46.179986Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-19T13:05:44.379775Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.5.1;iPhone;8.2.0-6001027"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7d495189-d67c-46a7-b814-550e607be5ef",
-    "user_profile": {
-      "id": "7d495189-d67c-46a7-b814-550e607be5ef",
-      "username": "brook195",
-      "display_name": "Brook",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7d495189-d67c-46a7-b814-550e607be5ef/profile/8483e46f-7aea-4eda-ae2c-567948447c47.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-20T14:26:34.576Z"
   }
 ]
