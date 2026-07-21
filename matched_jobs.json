@@ -1,5 +1,54 @@
 [
   {
+    "id": "5a575ff0-e67b-4b0b-9b4d-d7420613a205",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "1. ระบบตัดสต๊อกอัตโนมัติ\n\n* แก้ไขการตัดสต๊อกให้ถูกต้องตามสูตรการใช้สินค้า\n* รองรับการปรับปริมาณการใช้จริงหน้าบริการ\n\n2. ระบบรายงาน (Dashboard)\n\n* แก้ไขรายงานรายรับ-รายจ่าย\n* แก้ไขรายงานต้นทุน���ินค้า\n* แสดงยอดคงเหลือสินค้าแบบ Real-time\n\n3. ระบบสต๊อกสินค้า\n\n* แก้ไขการรับเข้า / เบิกสินค้า\n* แก้ไขยอดคงเหลือให้ตรงกับข้อมูลจริง\n* ระบบแจ้งเตือนสินค้าใกล้หมด\n\n4. ระบบต้นทุน\n\n* คำนวณต้นทุนต่อบริการจากสูตรการใช้สินค้า\n* แสดงกำไรขั้นต้นของแต่ละบริการ\n\n5. แก้ไข Bug\n\n* แก้ไขข้อผิดพลาดที่พบระหว่างการทดสอบจนกว่าระบบจะใช้งานได้ตาม Requirement ที่ตกลงไว้\n\n6. การส่งมอบงาน\n\n* ส่งมอบระบบที่ใช้งานได้ครบตาม Scope\n* ส่งมอบฐานข้อมูล (Database)\n* ส่งมอบ Source Code (หากตกลงเป็นการซื้อขาด)\n\nหมายเหตุ\n\n* หากมีค่าใช้จ่ายเพิ่มเติม เช่น Hosting, Domain หร���อ Maintenance กรุณาแจ้งรายละเอียดและค่าใช้จ่ายก่อนดำเนินการ\n* หากมีค่าบริการรายเดือน ต้องได้รับความยินยอมจากผู้ว่าจ้างก่อน และไม่ถือว่าเป็นส่วนหนึ่งของข้อตกลงเดิม หากไม่ได้ระบุไว้ตั้งแต่เริ่มโครงการ",
+    "title": " จัดสต๊อกสินค้าในคลัง  ",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-21T01:20:19.970149Z",
+    "updated_at": "2026-07-21T01:20:21.771131Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-20T01:20:19.920346Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPhone;10.5.0-6002105"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "68ce3ce5-87b5-46e4-b8ad-edea20a7b5ca",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บ��ญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-21T03:37:42.766Z"
+  },
+  {
     "id": "1fc9c31d-6bc4-4823-9f58-2506554050fb",
     "status": "open",
     "tag": {
