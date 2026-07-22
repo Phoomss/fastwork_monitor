@@ -1,5 +1,103 @@
 [
   {
+    "id": "6a6308e9-8d4e-42e3-8b85-724c81a8b72a",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "full-time",
+    "description": "ฉันคือผู้จัดการบริษัทแอปพิเครชั่นเกี่ยวกับร้านเสริมสวย ฉันต้องการพนักงานที่ พูดเก่ง ขายเก่ง ไม่อู้งาน ค่าคอมมิชชั่น ให้ 300/1 ร้าน",
+    "title": "หาพนักงานแจกโบชังให้กับร้านเสริมสวย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "9000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-22T10:20:16.400942Z",
+    "updated_at": "2026-07-22T10:20:17.594280Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-21T10:20:16.346977Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.4.2;iPhone;11.6.0-6002755"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "5a620bd1-ee15-4267-a828-a7b88c3a4d04",
+    "user_profile": {
+      "id": "5a620bd1-ee15-4267-a828-a7b88c3a4d04",
+      "username": "alvibeauty_business",
+      "display_name": "Supathtra",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5a620bd1-ee15-4267-a828-a7b88c3a4d04/profile/696e4e77-a617-4cb9-b6fa-bd01d20062af.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "9000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-22T10:50:16.102Z"
+  },
+  {
+    "id": "6493c644-3477-4447-82b9-2794f6c8d945",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ปัญหา\nทุกวันนี้ลืมวันเวลาที่จะต้องทวงเงินจากลูกค้าเล���อยากได้แอปที่สามารถแจ้งเตือนว่าวันนี้เราต้องทวงเงินลูกค้าคนนี้ วันพรุ่งนี้เราต้องทวงเงินลูกค้าคนไหนเป็นต้น \n\nดังนั้นอยากได้แอปที่มีการแจ้งเตือนว่าวันนี้ต้องทวงเงินใคร",
+    "title": "ต้องการจ้างคนทำแอพแจ้งเตือนเกี่่ยวกับ เมื่อถึงเวลาลูกค้าต้องคืนเงินผ่านไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-22T10:17:17.294929Z",
+    "updated_at": "2026-07-22T10:17:18.671639Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-21T10:17:17.274192Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.6.1-6002768"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "43764e34-31d2-450c-b7b9-fed9c8398ce9",
+    "user_profile": {
+      "id": "43764e34-31d2-450c-b7b9-fed9c8398ce9",
+      "username": "championchamp",
+      "display_name": "อนุชา กิตติถาวร",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/43764e34-31d2-450c-b7b9-fed9c8398ce9/profile/16b58f7f-e748-46e8-90d5-d0f3b6ae07e7.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-22T10:50:14.865Z"
+  },
+  {
     "id": "ead57d4d-4e56-4d3e-935a-0b83ba488e2f",
     "status": "open",
     "tag": {
@@ -97,153 +195,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-22T03:32:08.838Z"
-  },
-  {
-    "id": "bf3452d0-d4bc-4072-9074-0a5e7fc4c0c1",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "We are looking for an experienced WordPress Developer (or Development Team) to build a premium healthcare website with a secure patient portal, appointment booking system, member login, document upload, administration dashboard and tele-consultation workflow.\n\nProject Scope: \nWordPress + Elementor Pro\nPremium responsive website (Desktop, Tablet & Mobile) with core features and pages \nSecure Member Login (Google & Email)\nPatient Questionnaire with Conditional Logic\nSecure Document Upload\nAppointment Booking System\nInternal Admin Dashboard\nPayment Gateway Integration\nCloudflare Configuration\nSEO & Performance Optimisation\nFull Content Upload & Page Design\nComplete Source Code & Ownership Transfer\n\nThe developer must:\n\nAttend weekly online progress meetings.\nDemonstrate completed work throughout the project.\nProvide unlimited reasonable amendments within the agreed project scope.\nDeliver a fully tested, production-ready website.\nWe are looking for someone with excellent communication skills, strong WordPress development experience, and the ability to become our long-term technical partner.\n\nInterested? Please send me a private message with:\n\nYour portfolio or company profile\nSimilar projects you've completed\nYour estimated timeline\nYour fixed-price quotation (preferred)\nAny recommendations for this project\n\nOnly applicants with relevant experience profile will be shortlisted.\nPlease PM me for the detailed project brief and system workflow.",
-    "title": "Freelance WordPress Developer Wanted – Premium Healthcare Website",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-21T10:06:02.032452Z",
-    "updated_at": "2026-07-21T10:06:03.514667Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-30",
-    "expired_at": "2026-08-20T10:06:01.971649Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "0bd1ae84-43e7-47b6-ac6a-c2e7138b4981",
-    "user_profile": {
-      "id": "0bd1ae84-43e7-47b6-ac6a-c2e7138b4981",
-      "username": "42xwot52",
-      "display_name": "Ling",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-21T10:49:59.609Z"
-  },
-  {
-    "id": "66867ced-0f0b-4c43-b84b-d969a02b3789",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "รับสมัครผู้ช่วยขาย ประชาสัมพันธ์ (เหมือนนายหน้า)\nในการโพสประกาศขายแฟนเพจ https://www.facebook.com/profile.php?id=61561214554227\nโดยมีหน้าที่ในการโพสและหาผู้มุ่งหวังที่สนใจรับเพจไปดูแลต่อและคัดกรองผู้มุ่งหวังที่มีสิทธิ์จบการขาย\nโดยเพจตั้งราคาไว้ที่ 2 แสนบาท กรณีปิดการขายได้สำเร็จผู้แนะนำหรือผู้รับงานจะได้รับส่วนแบ่ง 1 หมื่นบาท\nรายละเอียด หรือข้อมูลส่วนตัวของเพจที่ต้องการเพิ่มสามารถคุยเพิ่มเติมได้ทางกล่องข้อความ",
-    "title": "ผู้ช่วยขายเพจเฟสบุ๊คที่รู้จักน้องหมีเนย",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-21T08:20:22.071803Z",
-    "updated_at": "2026-07-21T08:20:23.398168Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-20T08:20:22.050863Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "6e10ccf6-80f3-4d95-862f-e7731ac3df25",
-    "user_profile": {
-      "id": "6e10ccf6-80f3-4d95-862f-e7731ac3df25",
-      "username": "nunthiwut",
-      "display_name": "nunthiwut",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6e10ccf6-80f3-4d95-862f-e7731ac3df25/profile/b1eac30c-83cf-45fe-9511-77cdaf394693.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-21T08:44:52.061Z"
-  },
-  {
-    "id": "9a9c28b6-037b-47df-8b6b-4f0db86ba139",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "กำลังมองหา Freelance Magento Developer เพื่อดูแลและพัฒนาระบบเว็บไซต์ E-commerce ที่เชื่อมต่อกับ Magento, Odoo ERP และ API โดยเป็นงานระยะยาวในลักษณะ Maintenance และพัฒนาฟีเจอร์เพิ่มเติม\n\nลักษณะงาน\n\n* แก้ไขปัญหา (Bug Fix) ของเว็บไซต์ทั้ง Frontend และ Backend\n* พัฒนาและปรับปรุงฟีเจอร์ใหม่บน Magento\n* ดูแลการเชื่อมต่อ API ระหว่าง Magento กับ Odoo\n* ตรวจสอบและแก้ไขปัญหาการ Sync ข้อมูล เช่น\n    * สินค้า\n    * สต๊อก\n    * ราคา\n    * ออเดอร์\n    * ลูกค้า\n* ปรับปรุงประสิทธิภาพเว็บไซต์ (Performance)\n* แก้ไขปัญหา CSS / Layout / UX เล็กน้อยตามที่ได้รับมอบหมาย\n* ตรวจสอบ Error Log และแก้ไขปัญหาที่เกิดขึ้น\n* Deploy งานผ่าน Git และทำงานร่วมกับทีมได้\n\nคุณสมบัติที่ต้องการ\n\n* มีประสบการณ์ Magento 2 อย่างน้อย 2 ปี\n* เข้าใจ PHP, MySQL, JavaScript\n* มีป��ะสบการณ์เชื่อมต่อ REST API / GraphQL\n* เคยทำระบบเชื่อมต่อกับ Odoo ERP จะพิจารณาเป็นพิเศษ\n* ใช้งาน Git ได้\n* สามารถวิเคราะห์และแก้ปัญหาได้ด้วยตนเอง\n* สื่อสารและอัปเดตความคืบหน้างานได้ดี\n\nรูปแบบการทำงาน\n\n* ฟรีแลนซ์ ระยะยาว\n* จ้างเป็นครั้ง ๆ ตาม Scope งาน หรือคิดรายชั่วโมงได้\n* มีงานเข้าต่อเนื่องสำหรับผู้ที่ทำงานได้ดี\n\nตัวอย่างงานที่ต้องการ\n\n* แก้ Bug หลังบ้าน Magento\n* แก้ปัญหา API Sync กับ Odoo\n* เพิ่มฟีเจอร์ในระบบหลังบ้าน\n* ปรับปรุงหน้าเว็บไซต์\n* แก้ไขปัญหา Checkout, Order, Product และ Inventory\n* ดูแลระบบโดยรวมและพร้อมแก้ไขปัญหาเร่งด่วนเมื่อจำเป็น",
-    "title": "หาคนพัฒนาระบบเว็บไซต์หลังบ้าน magento",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "25000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-21T06:32:53.149953Z",
-    "updated_at": "2026-07-21T06:32:54.968651Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-31",
-    "expired_at": "2026-08-20T06:32:53.130317Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.3.1;iPhone;6.9.0-6000395"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "25000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-21T08:44:50.666Z"
   }
 ]
