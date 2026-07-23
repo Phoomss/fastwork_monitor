@@ -1,5 +1,54 @@
 [
   {
+    "id": "ada48dee-e101-4b9e-903c-09b21494b883",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "Looking for GUEST POST / editorial article placements with a dofollow link for a Bangkok real estate data website.\n\nRequirements:\n1. Real Thai websites with Ahrefs DR 40+ (news, business, property, expat or lifestyle sites)\n2. Guaranteed DOFOLLOW link, permanent article, live URL delivered after publishing\n3. NO PBN, no link pyramids, no profile links, no Web 2.0 blasts - editorial placements only\n4. I supply the article (Thai or English, 800+ words, news style)\n\nIn your quote please include: the exact domains you can place on, DR of each, and price per placement.\n\nBudget: 3,000-4,000 THB for this first round (1-2 placements). If the first placements verify dofollow and stay live, I will order monthly.",
+    "title": "Dofollow guest post placements on Thai websites DR40+ (property/news/expat), 3,000-4,000 THB",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "4000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-23T06:20:25.806596Z",
+    "updated_at": "2026-07-23T06:20:27.139604Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-22T06:20:25.750944Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
+    "user_profile": {
+      "id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
+      "username": "kesarito",
+      "display_name": "Cesar Rodriguez",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7ebc1b66-f3aa-42e6-84d9-4600d04f2f98/profile/515ede0b-ddfb-42ab-9ffe-deabd8f7ce1f.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "4000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-23T07:05:11.849Z"
+  },
+  {
     "id": "3b4e3721-3a60-47d6-a772-7bc15aa58e3c",
     "status": "open",
     "tag": {
@@ -244,54 +293,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-22T10:50:14.865Z"
-  },
-  {
-    "id": "ead57d4d-4e56-4d3e-935a-0b83ba488e2f",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "* 🤖 ตอบคำถามอัตโนมัติ\n* 📝 รับแจ้งปัญหา\n* 📷 ส่งรูปภาพปัญหา\n* 💾 บันทึกข้อมูลลงฐานข้อมูล\n* 👨‍💻 หน้าเว็บสำหรับเจ้าหน้าที่ดูรายการแจ้งปัญหา\n* 🔔 แจ้งเตือนเมื่อมี Ticket ใหม่\n* 📊 Dashboard สรุปจำนวนปัญหา",
-    "title": "หาคนทำ line chat bot ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-22T03:35:15.379396Z",
-    "updated_at": "2026-07-22T03:35:16.628593Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-21T03:35:15.312119Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.6.0-6002755"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "b0138ec5-51c7-4a64-a39e-00dc43f75ce2",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-22T06:11:39.165Z"
   }
 ]
