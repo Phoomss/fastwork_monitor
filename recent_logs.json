@@ -1,4 +1,9 @@
 [
-  "[2026-07-23T01:09:37.463Z] Checking Fastwork for new job posts...",
-  "[2026-07-23T01:09:37.461Z] Auto-cleanup: Removed 2 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-23T04:28:50.489Z]     Notification sent successfully.",
+  "[2026-07-23T04:28:50.310Z]   FOUND NEW TARGET JOB: ปลดเฟสบุค อุทรณ์ ให้หน่อยค่ะ (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
+  "[2026-07-23T04:28:49.308Z]     Notification sent successfully.",
+  "[2026-07-23T04:28:48.734Z]   FOUND NEW TARGET JOB: หา reverse enginer c++ (Cats: พัฒนาแอปพลิเคชัน) (Budget: 100 THB)",
+  "[2026-07-23T04:28:47.931Z] Checking Fastwork for new job posts...",
+  "[2026-07-23T04:28:47.930Z] Auto-cleanup: Removed 22 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-23T04:28:47.927Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
