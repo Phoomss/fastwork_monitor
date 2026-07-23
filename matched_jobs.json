@@ -439,55 +439,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-23T04:28:48.734Z"
-  },
-  {
-    "id": "91e9ae42-26be-40d2-a96c-8eeb595ca7ec",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "รับสมัคร AI Creative (Freelance)\n\nลักษณะง���น\n\nรับ Brief จาก Founder\nศึกษาธุรกิจและเข้าใจแพลตฟอร์ม (เเอปเช่ารถยนต์)\nคิดไอเดีย Banner, Campaign และ Key Visual\nคิดไอเดีย TikTok / Reels / Shorts\nใช้ Claude / ChatGPT ช่วยคิดงาน\nใช้ Claude Code สร้าง HTML Draft สำหรับส่งต่อทีมกราฟิก\nBrainstorm ร่วมกับทีม\nคุณสมบัติ\nใช้ Claude ได้คล่อง\nใช้ Claude Code เป็น\nใช้ ChatGPT ได้\nมีความคิดสร้างสรรค์\nเข้าใจการตลาดออนไลน์\nชอบคิดไอเดียใหม่ ๆ\nรับ Feedback และปรับงานได้\n\nไม่จำเป็นต้อง\n\nเขียนโปรแกรมเก่ง\nทำกราฟิกเป็น\nใช้ Photoshop หรือ Figma เป็น\nรูปแบบการทำงาน\nFreelance\nWork from Anywhere\nรับงานเป็นโปรเจกต์\nคุยงานผ่าน Discord / LINE\n\nหากผลงานดี มีโอกาสร่วมงานระยะยาว\n\nวิธีสม���คร\n\nส่ง\n\nPortfolio (ถ้ามี)\nผลงานที่เคยใช้ AI\nระบุว่าใช้ Claude / Claude Code เวอร์ชันไหน\nแนะนำตัวสั้น ๆ\nทดสอบก่อนรับงาน\n\nผู้สมัครจะได้รับโจทย์จริง เช่น\n\nคิด Banner 3 ไอเดีย\nคิด TikTok 5 ไอเดีย\nใช้ Claude Code สร้าง HTML Draft",
-    "title": "AI Creative คิดงานให้ ใช้ Ai ได้ เเละสร้าง Html โดย Claude code",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-22T17:28:39.631380Z",
-    "updated_at": "2026-07-22T17:28:41.374052Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-21T17:28:39.583118Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d862898f-fc2e-42fb-890a-d2e30ab80c3b",
-    "user_profile": {
-      "id": "d862898f-fc2e-42fb-890a-d2e30ab80c3b",
-      "username": "xtarfofq",
-      "display_name": "Kew",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-22T18:18:31.254Z"
   }
 ]
