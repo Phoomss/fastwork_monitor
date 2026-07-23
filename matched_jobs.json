@@ -1,5 +1,103 @@
 [
   {
+    "id": "91c7fcb5-8872-4d61-a292-628df0ea5bff",
+    "status": "open",
+    "tag": {
+      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
+      "name": "จัดการร้านค้าออนไลน์",
+      "sort": 15
+    },
+    "type": "freelance",
+    "description": "ปัจจุบันมีสินค้าและบริการที่สามารถนำเสนอผ่านช่องทางอนนไลน์ได้ 3 รายการ คือ\n1. บริการทำเว็บไซต์ด้วย WordPress แ��บ Custom Theme ซึ่งเป็นบริการที่แปลกใหม่ ไม่เหมือนผู้ให้บริการรายอื่นๆทั่วไป\n2. บริการอำนวยความสะดวกเกี่ยวกับการนำเข้าสินต้า โดยเน้นการให้บริการด้านภาษีศุลกากร (Customs Clearance) โดยทีมงานมืออาชีพที่มากประสบการณ์\n3. จำหน่ายสินค้า \"กังหันลมระบายอากาศ\" ติดตั้งบนหลังคาอาคาร ซึ่งแตกต่างไปจากลูกหมุนทรงกลมที่พบเห็นกันอยู่ทั่วไป โดยสินค้าได้มีการจดสิทธิบัตร ป้องกันการลอกเลียนแบบ จึงเป็นสินค้าที่มีจุดขายที่ชัดเจน ไร้คู่แข่ง\n\nต้องการผู้ที่มีช่องทางการตลาดหรือการขายสินค้าออนไลน์ช่องทางต่างๆที่มี���วามสนใจ ต้องการประสานช่องทางในการทำธุรกิจร่วมกัน\n\nใครถนัดในรูปแบบไหนสามารถนำเสนอได้อย่างเต็มที่ ทุกรูปแบบ ยินดีรับทุกเงื่อนไข หากสามารถหาข้อสรุปที่ลงตัวร่วมกันได้\n\n# หมายเหตุ: ราคาที่ระบุไว้ในประกาศเป็นเพียงตัวเลขสมมติ ผลประโยชน์ที่จะได้รับจริงขึ้นอยู่กับข้อตกลงเป็นรายๆไป",
+    "title": "คนที่สนใจทำการตลาดหรือช่วยโปรโมทสินค้าช่องทางออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-23T11:23:22.893358Z",
+    "updated_at": "2026-07-23T11:23:23.954308Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-22T11:23:22.809783Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
+    "user_profile": {
+      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
+      "username": "mrwat1835",
+      "display_name": "Mr.Wat WordPress and Marketing",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-23T11:24:53.177Z"
+  },
+  {
+    "id": "dfd5b6b4-ebb9-461f-980b-a77c9338be49",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "ปัจจุบันมีสินค้าและบริการที่สามารถนำเสนอผ่านช่องทางอนนไลน์ได้ 3 รายการ คือ\n1. บริการทำเว็บไซต์ด้วย WordPress แบบ Custom Theme ซึ่งเป็นบริการที่แปลกใหม่ ไม่เหมือนผู้ให้บริการรายอื่นๆทั่วไป\n2. บริการอำนวยความสะดวกเกี่ยวกับการนำเข้าสินต้า โดยเน้นการให้บริการด้านภาษีศุลกากร (Customs Clearance) โดยทีมงานมืออาชีพที่มากประสบการณ์\n3. จำหน่ายสินค้า \"กังหันลมระบายอากาศ\" ติดตั้งบนหลังคาอาคาร ซึ่งแตกต่างไปจากลูกหมุนทรงกลมที่พบเห็นกันอยู่ทั่วไป โดยสินค้าได้มีการจดสิทธิบัตร ป้องกันการลอกเลียนแบบ จึงเป็นสินค้าที่มีจุดขายที่ชัดเจน ไร้คู่แข่ง\n\nต้องการผู้ที่มีช่องทางการตลาดหรือการขายสินค้าออนไลน์ช่องทางต่างๆที่มีความสนใจ ต้องการประสานช่องทางในการทำธุรกิจร่วมกัน\n\nใครถนัดในรูปแบบไหนสามารถนำเสนอได้อย่างเต็มที่ ทุกรูปแบบ ยินดีรับทุกเงื่อนไข หากสามารถหาข้อสรุปที่ลงตัวร่วมกันได้\n\n# หมายเหตุ: ราคาที่ระบุไว้ในประกาศเป็นเพียงตัวเลขสมมติ ผลประโยชน์ที่จะได้รับจริงขึ้นอยู่กับข้อตกลงเป็นรายๆไป",
+    "title": "คนที่สนใจทำการตลาดหรือช่วยโปรโมทสินค้าช่องทางออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-23T10:42:27.992788Z",
+    "updated_at": "2026-07-23T10:42:29.704559Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-22T10:42:27.944058Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
+    "user_profile": {
+      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
+      "username": "mrwat1835",
+      "display_name": "Mr.Wat WordPress and Marketing",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-23T11:24:51.834Z"
+  },
+  {
     "id": "9fd0d7b8-b05b-47c8-9c7f-36d98164a918",
     "status": "open",
     "tag": {
@@ -293,103 +391,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-22T18:18:31.254Z"
-  },
-  {
-    "id": "6a6308e9-8d4e-42e3-8b85-724c81a8b72a",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "full-time",
-    "description": "ฉันคือผู้จัดการบริษัทแอปพิเครชั่นเกี่ยวกับร้านเสริมสวย ฉันต้องการพนักงานที่ พูดเก่ง ขายเก่ง ไม่อู้งาน ค่าคอมมิชชั่น ให้ 300/1 ร้าน",
-    "title": "หาพนักงานแจกโบชังให้กับร้านเสริมสวย",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "9000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-22T10:20:16.400942Z",
-    "updated_at": "2026-07-22T10:20:17.594280Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-21T10:20:16.346977Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.2;iPhone;11.6.0-6002755"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "5a620bd1-ee15-4267-a828-a7b88c3a4d04",
-    "user_profile": {
-      "id": "5a620bd1-ee15-4267-a828-a7b88c3a4d04",
-      "username": "alvibeauty_business",
-      "display_name": "Supathtra",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5a620bd1-ee15-4267-a828-a7b88c3a4d04/profile/696e4e77-a617-4cb9-b6fa-bd01d20062af.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "9000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-22T10:50:16.102Z"
-  },
-  {
-    "id": "6493c644-3477-4447-82b9-2794f6c8d945",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ปัญหา\nทุกวันนี้ลืมวันเวลาที่จะต้องทวงเงินจากลูกค้าเล���อยากได้แอปที่สามารถแจ้งเตือนว่าวันนี้เราต้องทวงเงินลูกค้าคนนี้ วันพรุ่งนี้เราต้องทวงเงินลูกค้าคนไหนเป็นต้น \n\nดังนั้นอยากได้แอปที่มีการแจ้งเตือนว่าวันนี้ต้องทวงเงินใคร",
-    "title": "ต้องการจ้างคนทำแอพแจ้งเตือนเกี่่ยวกับ เมื่อถึงเวลาลูกค้าต้องคืนเงินผ่านไลน์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-22T10:17:17.294929Z",
-    "updated_at": "2026-07-22T10:17:18.671639Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-21T10:17:17.274192Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.6.1-6002768"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "43764e34-31d2-450c-b7b9-fed9c8398ce9",
-    "user_profile": {
-      "id": "43764e34-31d2-450c-b7b9-fed9c8398ce9",
-      "username": "championchamp",
-      "display_name": "อนุชา กิตติถาวร",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/43764e34-31d2-450c-b7b9-fed9c8398ce9/profile/16b58f7f-e748-46e8-90d5-d0f3b6ae07e7.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-22T10:50:14.865Z"
   }
 ]
