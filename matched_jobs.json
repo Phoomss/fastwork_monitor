@@ -1,5 +1,152 @@
 [
   {
+    "id": "9635621a-6e31-4db0-ba34-8c29eb29a5ec",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังมองหา Freelance Magento 2 Developer เพื่อดูแลและแก้ไข Bug ของเว็บไซต์ E-commerce ที่เชื่อมต่อกับ Magento, Odoo ERP และ API โดยเป็นงานระยะยาวแบบ Maintenance มีงานเข้าต่อเนื่อง\n\nScope งาน\n\n* แก้ไข Bug ทั้ง Frontend และ Backend ของ Magento 2\n* ตรวจสอบและแก้ไข Error Log\n* แก้ปัญหาการ Sync ระหว่าง Magento กับ Odoo\n* แก้ไขปัญหาเกี่ยวกับ Product / Inventory / Order / Customer\n* แก้ไข Checkout, Payment และ API Integration\n* ปรับปรุง Performance และ Security\n* Deploy ผ่าน Git และทำงานบน AWS ได้\n\nคุณสมบัติ\n\n* มีประสบการณ์ Magento 2 อย่างน้อย 3 ปี\n* เชี่ยวชาญ PHP, MySQL, JavaScript\n* ใช้งาน Git ได้\n* เข้าใจ REST API / GraphQL\n* หากเคยเชื่อมต่อ Odoo ERP จะพิจารณาเป็นพิเศษ\n* สามารถวิเคราะห์ปัญหาและแก้ไขได้ด้วยตัวเอง\n\nรูปแบบการจ้าง\n\n* ฟรีแลนซ์\n* จ้างเป็นครั้ง ๆ ตาม Scope หรือรายชั่วโมง\n* หากทำงานได้ดี มีงานต่อเนื่องระยะยาว\n",
+    "title": "Freelance Magento 2 Developer (Bug Fix & Maintenance | Magento + Odoo API)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-24T11:59:33.822421Z",
+    "updated_at": "2026-07-24T11:59:35.128365Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-30",
+    "expired_at": "2026-08-23T11:59:33.783766Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.9.0-6000395"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+    "user_profile": {
+      "id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+      "username": "sood7727",
+      "display_name": "ciarata",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-24T12:05:20.246Z"
+  },
+  {
+    "id": "e7c76ab8-d186-4674-84d5-d4c21d87e9fd",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังมองหา Freelance Magento 2 Developer เพื่อดูแลและแก้ไข Bug ของเว็บไซต์ E-commerce ที่เชื่อมต่อกับ Magento, Odoo ERP และ API โดยเป็นงานระยะยาวแบบ Maintenance มีงานเข้าต่อเนื่อง\n\nScope งาน\n\n* แก้ไข Bug ทั้ง Frontend และ Backend ของ Magento 2\n* ตรวจสอบและแก้ไข Error Log\n* แก้ปัญหาการ Sync ระหว่าง Magento กับ Odoo\n* แก้ไขปัญหาเกี่ยวกับ Product / Inventory / Order / Customer\n* แก้ไข Checkout, Payment และ API Integration\n* ปรับปรุง Performance และ Security\n* Deploy ผ่าน Git และทำงานบน AWS ได้\n\nคุณสมบัติ\n\n* มีประสบการณ์ Magento 2 อย่างน้อย 3 ปี\n* เชี่ยวชาญ PHP, MySQL, JavaScript\n* ใช้งาน Git ได้\n* เข้าใจ REST API / GraphQL\n* หากเคยเชื่อมต่อ Odoo ERP จะพิจารณาเป็นพิเศษ\n* สามารถวิเคราะห์ปัญหาและแก้ไขได้ด้วยตัวเอง\n\nรูปแบบการจ้าง\n\n* ฟรีแลนซ์\n* จ้างเป็นครั้ง ๆ ตาม Scope หรือรายชั่วโมง\n* หากทำงานได้ดี มีงานต่อเนื่องระยะยาว\n",
+    "title": "Freelance Magento 2 Developer (Bug Fix & Maintenance | Magento + Odoo API)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-24T11:59:33.316745Z",
+    "updated_at": "2026-07-24T11:59:35.165960Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-30",
+    "expired_at": "2026-08-23T11:59:33.259553Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.3.1;iPhone;6.9.0-6000395"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+    "user_profile": {
+      "id": "d5dbbb4b-137d-426f-83b0-4c65205a7955",
+      "username": "sood7727",
+      "display_name": "ciarata",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-24T12:05:19.088Z"
+  },
+  {
+    "id": "b6326b49-8fca-4d15-b2ad-01b34aa1e88e",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ต้องการหาคนช่วย test ใช้งาน Firefox extension และกรอก survey feedback & review\n\nSurvey เป็น multiple choice 6 ข้อ \nรีวิว feedback 1ข้อ\n= ใช้เวลาประมาณ 5นาที\n\n- เข้าใจ technology, passion for tech products",
+    "title": "ตอบแบบสอบถาม Firefox extension",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-24T10:43:25.556256Z",
+    "updated_at": "2026-07-24T10:43:27.218860Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-31",
+    "expired_at": "2026-08-23T10:43:25.532759Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "05f37a1b-5bcf-47ad-a4a1-efce3e4dc3f7",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-24T12:05:17.929Z"
+  },
+  {
     "id": "506d7d92-f842-45b2-8e7a-f76f5952be81",
     "status": "open",
     "tag": {
@@ -293,103 +440,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-23T14:57:05.167Z"
-  },
-  {
-    "id": "91c7fcb5-8872-4d61-a292-628df0ea5bff",
-    "status": "open",
-    "tag": {
-      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
-      "name": "จัดการร้านค้าออนไลน์",
-      "sort": 15
-    },
-    "type": "freelance",
-    "description": "ปัจจุบันมีสินค้าและบริการที่สามารถนำเสนอผ่านช่องทางอนนไลน์ได้ 3 รายการ คือ\n1. บริการทำเว็บไซต์ด้วย WordPress แ��บ Custom Theme ซึ่งเป็นบริการที่แปลกใหม่ ไม่เหมือนผู้ให้บริการรายอื่นๆทั่วไป\n2. บริการอำนวยความสะดวกเกี่ยวกับการนำเข้าสินต้า โดยเน้นการให้บริการด้านภาษีศุลกากร (Customs Clearance) โดยทีมงานมืออาชีพที่มากประสบการณ์\n3. จำหน่ายสินค้า \"กังหันลมระบายอากาศ\" ติดตั้งบนหลังคาอาคาร ซึ่งแตกต่างไปจากลูกหมุนทรงกลมที่พบเห็นกันอยู่ทั่วไป โดยสินค้าได้มีการจดสิทธิบัตร ป้องกันการลอกเลียนแบบ จึงเป็นสินค้าที่มีจุดขายที่ชัดเจน ไร้คู่แข่ง\n\nต้องการผู้ที่มีช่องทางการตลาดหรือการขายสินค้าออนไลน์ช่องทางต่างๆที่มี���วามสนใจ ต้องการประสานช่องทางในการทำธุรกิจร่วมกัน\n\nใครถนัดในรูปแบบไหนสามารถนำเสนอได้อย่างเต็มที่ ทุกรูปแบบ ยินดีรับทุกเงื่อนไข หากสามารถหาข้อสรุปที่ลงตัวร่วมกันได้\n\n# หมายเหตุ: ราคาที่ระบุไว้ในประกาศเป็นเพียงตัวเลขสมมติ ผลประโยชน์ที่จะได้รับจริงขึ้นอยู่กับข้อตกลงเป็นรายๆไป",
-    "title": "คนที่สนใจทำการตลาดหรือช่วยโปรโมทสินค้าช่องทางออนไลน์",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-23T11:23:22.893358Z",
-    "updated_at": "2026-07-23T11:23:23.954308Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-22T11:23:22.809783Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-    "user_profile": {
-      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-      "username": "mrwat1835",
-      "display_name": "Mr.Wat WordPress and Marketing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-23T11:24:53.177Z"
-  },
-  {
-    "id": "dfd5b6b4-ebb9-461f-980b-a77c9338be49",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "ปัจจุบันมีสินค้าและบริการที่สามารถนำเสนอผ่านช่องทางอนนไลน์ได้ 3 รายการ คือ\n1. บริการทำเว็บไซต์ด้วย WordPress แบบ Custom Theme ซึ่งเป็นบริการที่แปลกใหม่ ไม่เหมือนผู้ให้บริการรายอื่นๆทั่วไป\n2. บริการอำนวยความสะดวกเกี่ยวกับการนำเข้าสินต้า โดยเน้นการให้บริการด้านภาษีศุลกากร (Customs Clearance) โดยทีมงานมืออาชีพที่มากประสบการณ์\n3. จำหน่ายสินค้า \"กังหันลมระบายอากาศ\" ติดตั้งบนหลังคาอาคาร ซึ่งแตกต่างไปจากลูกหมุนทรงกลมที่พบเห็นกันอยู่ทั่วไป โดยสินค้าได้มีการจดสิทธิบัตร ป้องกันการลอกเลียนแบบ จึงเป็นสินค้าที่มีจุดขายที่ชัดเจน ไร้คู่แข่ง\n\nต้องการผู้ที่มีช่องทางการตลาดหรือการขายสินค้าออนไลน์ช่องทางต่างๆที่มีความสนใจ ต้องการประสานช่องทางในการทำธุรกิจร่วมกัน\n\nใครถนัดในรูปแบบไหนสามารถนำเสนอได้อย่างเต็มที่ ทุกรูปแบบ ยินดีรับทุกเงื่อนไข หากสามารถหาข้อสรุปที่ลงตัวร่วมกันได้\n\n# หมายเหตุ: ราคาที่ระบุไว้ในประกาศเป็นเพียงตัวเลขสมมติ ผลประโยชน์ที่จะได้รับจริงขึ้นอยู่กับข้อตกลงเป็นรายๆไป",
-    "title": "คนที่สนใจทำการตลาดหรือช่วยโปรโมทสินค้าช่องทางออนไลน์",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-23T10:42:27.992788Z",
-    "updated_at": "2026-07-23T10:42:29.704559Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-22T10:42:27.944058Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-    "user_profile": {
-      "id": "041527d2-8e39-43d6-ad63-d6279fabc16f",
-      "username": "mrwat1835",
-      "display_name": "Mr.Wat WordPress and Marketing",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/041527d2-8e39-43d6-ad63-d6279fabc16f/profile/e6fe3978-ee1d-4de5-a8ea-4b2db42041c5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-23T11:24:51.834Z"
   }
 ]
