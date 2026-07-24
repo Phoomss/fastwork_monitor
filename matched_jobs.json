@@ -1,5 +1,104 @@
 [
   {
+    "id": "7761dff3-0c4e-47c2-9694-e26cc501890c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "พัฒนาส่าวนหน้าเว็บ (Web Portal / Mobile UI) และหลังบ้าน (Database / API) ให้มีระบบความเสถียรและใช้งานได้ตามฟีเจอร์ที่วางไว้\n\n1. คุณสมบัติ\n- อายุ 25-35 ปี\n- วุฒิปริญญาตรีขึ้นไป สาขาวิศวกรรมคอมพิวเตอร์, วิทยาการคอมพิวเตอร์, เทคโนโลยีสารสนเทศ หรือสาขาที่เกี่ยวข้อง\n\n2. ทักษะ\n- Web Application (Node.js, React หรือ PHP Framework\n- Database Design (MySQL)\n- มีประสบการณ์ทำ RESTful API Integration\n- เข้าใจเรื่อง Security (Role-based Accecc Control)\n\n3. ผู้พักอาศัยหรือทำงานในชลบุรี เพื่อความสะดวกในการติดต่อประสานงานและเข้าถึงพื้นที่หน้างาน",
+    "title": "Full-Stack Developer (2 อัตรา) / ชลบุรี",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "24000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-24T07:39:44.341103Z",
+    "updated_at": "2026-07-24T07:39:45.521782Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-13",
+    "expired_at": "2026-08-23T07:39:44.270869Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a57d2bf7-da6e-416a-ba0f-71b3c9e18a5c",
+    "user_profile": {
+      "id": "a57d2bf7-da6e-416a-ba0f-71b3c9e18a5c",
+      "username": "atipath",
+      "display_name": "Atipath P.",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a57d2bf7-da6e-416a-ba0f-71b3c9e18a5c/profile/5f78a35e-9b10-4c85-99c9-c38fd5715649.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "24000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-24T08:40:51.862Z"
+  },
+  {
+    "id": "2357812a-77f7-4be3-9b1f-3d6efc40b906",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "อยากได้เว็บไว้สำหรับกระจายงานให้ทีม \nสามารถกำหนดข้อความ เวลางาน ตรวจสอบความถูกต้องได้ \nมีระบบหลังบ้าน กับ ทีม ที่แยกจากกัน ",
+    "title": "คนสร้างเว็บสำหรับการกระจายงาน",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-24T06:54:25.708109Z",
+    "updated_at": "2026-07-24T06:54:26.986290Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-23T06:54:25.686956Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "68c88d0d-9e68-437f-9e6c-3bb55b692952",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-24T08:40:50.538Z"
+  },
+  {
     "id": "df026610-1d76-4711-a851-6f8d3829d41a",
     "status": "open",
     "tag": {
@@ -341,54 +440,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-23T09:30:15.642Z"
-  },
-  {
-    "id": "ada48dee-e101-4b9e-903c-09b21494b883",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "Looking for GUEST POST / editorial article placements with a dofollow link for a Bangkok real estate data website.\n\nRequirements:\n1. Real Thai websites with Ahrefs DR 40+ (news, business, property, expat or lifestyle sites)\n2. Guaranteed DOFOLLOW link, permanent article, live URL delivered after publishing\n3. NO PBN, no link pyramids, no profile links, no Web 2.0 blasts - editorial placements only\n4. I supply the article (Thai or English, 800+ words, news style)\n\nIn your quote please include: the exact domains you can place on, DR of each, and price per placement.\n\nBudget: 3,000-4,000 THB for this first round (1-2 placements). If the first placements verify dofollow and stay live, I will order monthly.",
-    "title": "Dofollow guest post placements on Thai websites DR40+ (property/news/expat), 3,000-4,000 THB",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "4000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-23T06:20:25.806596Z",
-    "updated_at": "2026-07-23T06:20:27.139604Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-22T06:20:25.750944Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
-    "user_profile": {
-      "id": "7ebc1b66-f3aa-42e6-84d9-4600d04f2f98",
-      "username": "kesarito",
-      "display_name": "Cesar Rodriguez",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7ebc1b66-f3aa-42e6-84d9-4600d04f2f98/profile/515ede0b-ddfb-42ab-9ffe-deabd8f7ce1f.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "4000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-23T07:05:11.849Z"
   }
 ]
