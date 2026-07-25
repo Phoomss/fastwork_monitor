@@ -194,54 +194,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-24T12:05:17.929Z"
-  },
-  {
-    "id": "506d7d92-f842-45b2-8e7a-f76f5952be81",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนทำเว๊บไซต์ ตามลิงค์ที่ส่งให้\nเนื้อหางาน ตกลงคุยกันหลังบ้าน\nถ้าใครสามารถทำเว๊บไซต์ลักษณะตามภาพได้\nทักมาได้เลยค่ะ คุยจบคุยเรื่องราคาที่เหมาะสม",
-    "title": "หาคนทำเว๊บไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-24T09:28:38.608099Z",
-    "updated_at": "2026-07-24T09:28:40.329344Z",
-    "already_offered": false,
-    "brief_url": "https://www.instagram.com/pixoryprints?igsh=MXA2MnowMDQ2N3pmMg==",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-01",
-    "expired_at": "2026-08-23T09:28:38.560281Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPhone;9.2.0-6001405"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "bf9dcedc-ddae-4883-92f2-559ea5e63b2d",
-    "user_profile": {
-      "id": "bf9dcedc-ddae-4883-92f2-559ea5e63b2d",
-      "username": "cutenimzie",
-      "display_name": "nimnim",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/bf9dcedc-ddae-4883-92f2-559ea5e63b2d/profile/bf78da3a-a692-4149-8280-f347f2cc41a7.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-24T10:37:03.076Z"
   }
 ]
