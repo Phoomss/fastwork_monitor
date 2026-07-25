@@ -1,5 +1,54 @@
 [
   {
+    "id": "33ce77d0-6249-4ba4-9309-59a818afebb6",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "เรากำลังมองหาผู้เชี่ยวชาญหรือพาร์ทเนอร์ด้าน Product Development (PD) และ Fabric Sourcing ที่มีประสบการณ์ เพื่อมาร่วมงานใ���โปรเจกต์พัฒนาเสื้อผ้าคอลเลกชันใหม่ (เสื้อ Vest และกระโปรง) ตั้งแต่ขั้นตอนการคัดสรรเนื้อผ้า การขึ้นตัวอย่าง จนได้สินค้าที่สมบูรณ์แบบพร้อมผลิตจริง\n\n📌 ภาพรวมโปรเจกต์\n สินค้าที่ต้องพัฒนา: เสื้อ Vest (เสื้อกั๊ก/เสื้อสูทไม่มีแขน) และ กระโปรง\n\n โจทย์สำคัญ:\n• เสื้อ Vest และกระโปรงจะต้องใช้ \"ผ้าสีเดียวกัน\"\n• เนื้อผ้าต้องมีความหนาและน้ำหนักที่เหมาะสม ไม่บางหรือโปร่งแสงจนเกินไป ให้สัมผัสที่ดี (Hand-feel) และดูมีคุณภาพพรีเมียม\n\n• สิ่งที่เรามีให้แล้ว: แบบดีไซน์ (Design) และชุดตัวอย่าง Reference สำหรับเป็นแนวทาง\n\n ⏳ ระยะ���วลาโปรเจกต์: เริ่มงานทันที และ สิ้นสุดโปรเจกต์ (ได้ Final Product) ภายในวันที่ 29 สิงหาคม 2026\n\n\n🛠️ ขอบเขตการทำงาน (Scope of Work)\nต้องการผู้ร่วมงานแบบ Hands-on ทำงานร่วมกันอย่างใกล้ชิดในขั้นตอนสำคัญ ดังนี้:\n\n1. Phase 1: Fabric Selection & Sourcing\n• แนะนำและจัดหาเนื้อผ้าที่ตรงตามโจทย์ (สีเดียวกันสำหรับ Vest และกระโปรง, เนื้อผ้าไม่โป่ง, อยู่ทรงสวย, คุณภาพพรีเมียม) โดยเทียบจาก Reference ที่เราเตรียมไว้\n\n2. Phase 2: Prototyping & Sampling\n• ดูแลและให้คำปรึกษาเรื่องการทำแพทเทิร์นและการขึ้นตัวอย่าง (Prototype)\n• ปรับแก้ฟิตติ้งและรายละเอียดร่วมกันจนได้สินค้าที่ลงตัว\n\n3. Phase 3: Final Product Approval (29 สิงหาคม 2026)\n• ควบคุมและตรวจสอบคุณภาพจนได้ Final Product ที่พึงพอใจร่วมกัน (โปรเจกต์สิ้นสุดเมื่อได้ตัวอย่างไฟนอลที่พร้อมเข้าสู่กระบวนการผลิตจริง)\n\n👩‍💻 คุณสมบัติผู้สมัคร (Qualifications)\n• มีประสบการณ์ทำงานในสายงาน Product Development, Garment Sourcing หรือ Pattern Making สำหรับเสื้อผ้าแฟชั่น\n• มีความเชี่ยวชาญและสายตาเฉียบคมในการเลือกเนื้อผ้า (เข้าใจเรื่องน้ำหนักผ้า, โครงสร้างผ้า, การทอ และการเลือกผ้าให้แมตช์กัน)\n• มีความเข้าใจเรื่องโครงสร้างการตัดเย็บเสื้อผ้าผู้หญิง (โดยเฉพาะเสื้อ Vest และกระโปรง)\n• สามารถทำงานร่วมกันแบบลงพื��นที่ (Hands-on และ In-person) ในช่วงเลือกผ้าและฟิตติ้งตัวอย่างได้\n",
+    "title": "พาร์ทเนอร์ร่วมพัฒนาสินค้า เสื้อ Vest & กระโปรง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "3500",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-25T18:36:51.011662Z",
+    "updated_at": "2026-07-25T18:37:19.252353Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-29",
+    "expired_at": "2026-08-24T18:36:50.835651Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS17.0.1;iPhone;6.2.0-6000087"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "60c1f906-bf8c-48c0-9092-6572031bd701",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-25T19:23:04.966Z"
+  },
+  {
     "id": "813b49a7-1b9f-4c75-ae48-b6ebb8866b99",
     "status": "open",
     "tag": {
