@@ -1,5 +1,54 @@
 [
   {
+    "id": "f471094d-c045-4f30-b068-64095fe58782",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "full-time",
+    "description": "รับสมัครกราฟิกออกแบบเสื้อพิมพ์ลายด่วน\n งานเป็น WFH 100%🏠\n(ไม่ต้องเข้าออฟฟิศ)\n\nเข้างานเวลา 9.00น-17.00 น.\nเวลางานต้องติดต่อได้ตลอดเนื่องจากเป็นงาน wfh\n🔴หยุดทุกวันเสาร์ หรือ วันอาทิตย์ 🔴\n(จะแจ้งหลังผ่านทดลองงาน)\n\nรูปแบบงานที่ต้องออกแบบจะมี\n- งานเสื้อราชการ\n- งานเสื้อองค์กร\n- งานเสื้อซิ่ง\n- งานเสื้อกีฬา\n- งานเสื้อเจอร์ซี่\n- เสื้อทีม\n\n≤ (สามารถดราฟ,งานวาดได้)\n\n!! ใน1วัน ตามKPIต้องออกแบบ 7 แบบ ไม่รวมงานแก้ไขและส่งไฟล์ !!\n\n- สามารถขึ้น mockup วางแพทเทิน ส่งทีมผลิตเป็นไฟล์ ai \n- สามารถใช้ AI ในการ gen ภาพที่ใช้ในงานออกแบบกราฟฟิกได้ (ใช้Ai ในการgen เป็นหลัก)\n\n- เคยมีประสบการณ์ขึ้นแบบเสื้อพิมพ์ลายมาก่อน\n- มีอุปกรณ์คอมเป็นของตัวเอง \n- ใช้โปรแกรม Adobe lllustrator เป็น \n\nหากมีคุณสมบัติครบส่งผลงานการออกแบบมาทาง in box ได้เลย ค่ะ \n\nกำหนดระยะเวลาทดลองงานเบื้องต้น 7 วัน โดยบริษัทจะประเมินผลการปฏิบัติงานเมื่อครบกำหนด หากยังไม่สามารถประเมินได้อย่างชัดเจน บริษัทอาจพิจารณาขยายระยะเวลาทดลองงานเพิ่มเติมตามความเหมาะสม โดยจะแจ้งให้ผู้ทดลองงานทราบล่วงหน้า",
+    "title": "กราฟิกออกแบบเสื��อพิมพ์ลาย WFH‼️",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-25T02:41:58.255404Z",
+    "updated_at": "2026-07-25T02:41:59.312732Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-24T02:41:58.200258Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.0.1;iPhone;9.6.0-6001483"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "24f47678-12e1-4c37-9f37-41c64ace480e",
+    "user_profile": {
+      "id": "24f47678-12e1-4c37-9f37-41c64ace480e",
+      "username": "jerseyexpress",
+      "display_name": "jerseyexpress",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/24f47678-12e1-4c37-9f37-41c64ace480e/profile/35254f46-c0ae-415e-90a5-bcb8fd83e9f2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-25T03:40:43.307Z"
+  },
+  {
     "id": "9635621a-6e31-4db0-ba34-8c29eb29a5ec",
     "status": "open",
     "tag": {
@@ -293,54 +342,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-24T08:40:50.538Z"
-  },
-  {
-    "id": "df026610-1d76-4711-a851-6f8d3829d41a",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ไอเดียการสร้างโปรเจกต์จริง (Real-world Project) ระดับคุณภาพสูงที่สามารถนำไปใส่ในพอร์ตโฟลิโอ (Portfolio) เพื่อดึงดูดใจ Recruiter หรือคณะกรรมการศึกษาต่���ได้อย่างโดดเด่น โดยเลือกโปรเจกต์สาย Full-Stack Web Application ที่มีความสมบูรณ์และใช้งานได้จริง",
-    "title": "สร้างโปรเจกต์จริงเพื่อทำเป็นผลงาน ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-24T03:19:06.540654Z",
-    "updated_at": "2026-07-24T03:19:07.704478Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-07-24",
-    "expired_at": "2026-08-23T03:19:06.491488Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android12;V2204;11.6.1-6002768"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "f06d6f61-f408-4b36-8047-fe7d1fd20663",
-    "user_profile": {
-      "id": "f06d6f61-f408-4b36-8047-fe7d1fd20663",
-      "username": "ta0vpdxi",
-      "display_name": "aezeee",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f06d6f61-f408-4b36-8047-fe7d1fd20663/profile/80ecc78d-a3f4-431a-80e5-441faf016a6e.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-24T03:38:22.270Z"
   }
 ]
