@@ -1,5 +1,154 @@
 [
   {
+    "id": "316bd534-5fae-41f1-ae7c-61121af03399",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "ต้องการ frontend dev ที่มีความรู้พื้นฐาน uxui\n1. สัมภาษณ์เก็บข้อมูลสำหรับทำ thesis\n2. สัมภาษณ์ประมาณ 30 นาที - 1 ชั่วโมง\n3. ใน thesis จะไม่ระบุตัวตน คนที่สัมภาษณ์\n\n",
+    "title": "หา frontend developer ที่เป็น uxui มาสัมภาษณ์ thesis",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-26T03:29:46.369888Z",
+    "updated_at": "2026-07-26T03:29:47.351132Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-07-27",
+    "expired_at": "2026-08-25T03:29:46.348421Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.1.1;iPhone;6.16.1-6000686"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "7316b09e-2cf0-4184-8b7b-281326745358",
+    "user_profile": {
+      "id": "7316b09e-2cf0-4184-8b7b-281326745358",
+      "username": "lianli",
+      "display_name": "li",
+      "image_url": "https://storage.googleapis.com/fastwork-static/acf4c3a7-3515-4342-9efc-5f4db47cb7ae.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-26T03:51:33.007Z"
+  },
+  {
+    "id": "22082105-b465-4433-b197-8558b3275070",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ หาคนออกแบบเว็บไซต์ไว้ให้ลูกค้าติดตามอัพเดตงาน ที่แจ้งรูป คำนวณชิ้นงาน แจ้งเลขพัสดุ และรอบส่งได้",
+    "title": "ฉันหาคนที่ออกแบบเว็บไซต์สำหรับอัพเดตสินค้า/รอบส่ง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "600",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-26T02:41:39.943547Z",
+    "updated_at": "2026-07-26T02:41:41.553489Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-25T02:41:39.902927Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;V2440;11.5.0-6002702"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "2cf6d81f-598c-441a-a10b-e42a81058ad6",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ร��บุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "600",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-26T03:51:31.769Z"
+  },
+  {
+    "id": "aebd29ca-8dfd-4004-a99d-44d8865621b4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนกู้เฟสบุ๊คโดนปิดถาวร เข้าไม่ได้เลยครับ ตกลงราคากันก่อนได้ครับ ขอคนที่มีประสบการณ์ บริการแก้เฟสเข้าไม่ได้ กู้บัญชี Facebook",
+    "title": "หาคนกู้เฟสบุ๊คโดนปิดถาวร เข้าไม่ได้เลยครับ ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-26T00:38:27.368825Z",
+    "updated_at": "2026-07-26T00:38:28.950755Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-09",
+    "expired_at": "2026-08-25T00:38:27.350354Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "b1818982-80f8-465e-a50e-1b7c7ac30962",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บั���ชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-26T03:51:30.316Z"
+  },
+  {
     "id": "33ce77d0-6249-4ba4-9309-59a818afebb6",
     "status": "open",
     "tag": {
@@ -146,54 +295,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-25T16:09:38.869Z"
-  },
-  {
-    "id": "f471094d-c045-4f30-b068-64095fe58782",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "full-time",
-    "description": "รับสมัครกราฟิกออกแบบเสื้อพิมพ์ลายด่วน\n งานเป็น WFH 100%🏠\n(ไม่ต้องเข้าออฟฟิศ)\n\nเข้างานเวลา 9.00น-17.00 น.\nเวลางานต้องติดต่อได้ตลอดเนื่องจากเป็นงาน wfh\n🔴หยุดทุกวันเสาร์ หรือ วันอาทิตย์ 🔴\n(จะแจ้งหลังผ่านทดลองงาน)\n\nรูปแบบงานที่ต้องออกแบบจะมี\n- งานเสื้อราชการ\n- งานเสื้อองค์กร\n- งานเสื้อซิ่ง\n- งานเสื้อกีฬา\n- งานเสื้อเจอร์ซี่\n- เสื้อทีม\n\n≤ (สามารถดราฟ,งานวาดได้)\n\n!! ใน1วัน ตามKPIต้องออกแบบ 7 แบบ ไม่รวมงานแก้ไขและส่งไฟล์ !!\n\n- สามารถขึ้น mockup วางแพทเทิน ส่งทีมผลิตเป็นไฟล์ ai \n- สามารถใช้ AI ในการ gen ภาพที่ใช้ในงานออกแบบกราฟฟิกได้ (ใช้Ai ในการgen เป็นหลัก)\n\n- เคยมีประสบการณ์ขึ้นแบบเสื้อพิมพ์ลายมาก่อน\n- มีอุปกรณ์คอมเป็นของตัวเอง \n- ใช้โปรแกรม Adobe lllustrator เป็น \n\nหากมีคุณสมบัติครบส่งผลงานการออกแบบมาทาง in box ได้เลย ค่ะ \n\nกำหนดระยะเวลาทดลองงานเบื้องต้น 7 วัน โดยบริษัทจะประเมินผลการปฏิบัติงานเมื่อครบกำหนด หากยังไม่สามารถประเมินได้อย่างชัดเจน บริษัทอาจพิจารณาขยายระยะเวลาทดลองงานเพิ่มเติมตามความเหมาะสม โดยจะแจ้งให้ผู้ทดลองงานทราบล่วงหน้า",
-    "title": "กราฟิกออกแบบเสื��อพิมพ์ลาย WFH‼️",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "15000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-25T02:41:58.255404Z",
-    "updated_at": "2026-07-25T02:41:59.312732Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-24T02:41:58.200258Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.0.1;iPhone;9.6.0-6001483"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "24f47678-12e1-4c37-9f37-41c64ace480e",
-    "user_profile": {
-      "id": "24f47678-12e1-4c37-9f37-41c64ace480e",
-      "username": "jerseyexpress",
-      "display_name": "jerseyexpress",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/24f47678-12e1-4c37-9f37-41c64ace480e/profile/35254f46-c0ae-415e-90a5-bcb8fd83e9f2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "15000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-25T03:40:43.307Z"
   }
 ]
