@@ -1,5 +1,54 @@
 [
   {
+    "id": "c4bbc318-8a8f-4aaa-9ed3-32bbbcd6263e",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "1 ชั้นต้องการคนอธิบายวิธีการสร้างเว็ป \n2 สอนแบบลงมือทำจะ online or onsite ได้หมด \n3 ขอสอนจนชั้น deployed ได้เลย\n4 ไม่ต้องสอนเขียนโค้ดขอสอนแบบ prompt code by AI",
+    "title": "ฉันหาคนสอนฉันสร้าง web โดยใช้ vibe code",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-27T13:04:59.155450Z",
+    "updated_at": "2026-07-27T13:05:01.518909Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-31",
+    "expired_at": "2026-08-26T13:04:59.137718Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "e8e85aa9-97d5-4140-9747-4eb2f89736e4",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-27T13:57:36.906Z"
+  },
+  {
     "id": "1915baa1-506a-4c39-bffd-8abe1225917d",
     "status": "open",
     "tag": {
