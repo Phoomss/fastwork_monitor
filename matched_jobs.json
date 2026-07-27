@@ -1,5 +1,103 @@
 [
   {
+    "id": "aa91ba03-918f-467b-9a80-4719ecdab4c2",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ทำ website ที่สถาบันสอนพิเศษใช้เพื่อให้นักเรียนเข้ามาเรียนคลิป vdo\n\nทางสถาบันยังไม่มี website เป็นการทำใหม่ทั้งหมด\n\nเสนอราคามาได้ ทางเราจะพิจารณา รายละเอียดของเว็บไซต์ที่สามารถทำให้ได้และเรทราคาที่คุณเสนอมา",
+    "title": "ทำ website ที่สถาบันสอนพิเศษใช้เพื่อให้นักเรียนเข้ามาเรียนคลิป vdo",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-27T06:03:06.187116Z",
+    "updated_at": "2026-07-27T06:03:07.189756Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-26T06:03:06.137003Z",
+    "freelance_offers_count": 13,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.5;iPhone;9.6.0-6001483"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "6401b1a5-aeb9-454c-9f61-4351d0b4ac32",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-27T08:17:00.807Z"
+  },
+  {
+    "id": "233c6fb2-303b-4668-bba4-17582e37af19",
+    "status": "open",
+    "tag": {
+      "id": "9f240bc1-fde2-4217-a5f5-f6fc02ba3f54",
+      "name": "งาน IoT",
+      "sort": 22
+    },
+    "type": "freelance",
+    "description": "มี เวลา 5 วันครับ ติดต่อ ********** มีของพร้อม ต้องการคนมี know how แนะนำ และคอยตอบคำถามให้กับ นักศึกษาครับ",
+    "title": "หาคนเขียนโปรแกรม ทำ GPS RTK ด้วยบอร์ด RTK-GNSS ZED-F9R และเขียนโปรแกรมทำ Dashboard ครับ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-27T05:09:50.846822Z",
+    "updated_at": "2026-07-27T05:09:52.492544Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-05",
+    "expired_at": "2026-08-26T05:09:50.824832Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;Infinix X6870;9.1.0-6001398"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "ad437a26-5bce-4624-a254-f449de577275",
+    "user_profile": {
+      "id": "ad437a26-5bce-4624-a254-f449de577275",
+      "username": "phuwaset",
+      "display_name": "S.Phuwaset",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/ad437a26-5bce-4624-a254-f449de577275/profile/78d29017-01bc-403f-aeef-81d6ea1d0133.webp"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-27T08:16:59.607Z"
+  },
+  {
     "id": "c5a8adfe-9d4f-4dcd-99ff-6f91ccbebc90",
     "status": "open",
     "tag": {
@@ -96,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-27T04:50:34.964Z"
-  },
-  {
-    "id": "0320b745-cecc-4326-b797-62471b855961",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "เรากำลังมองหาผู้เชี่ยวชาญหรือพาร์ทเนอร์ด้าน Product Development (PD) และ Fabric Sourcing ที่มีประสบการณ์ เพื่อมาร่วมงานในโปรเจกต์พัฒนาเสื้อผ้าคอลเลกชันใหม่ (เสื้อ Vest และกระโปรง) ตั้งแต่ขั้นตอนการคัดสรรเนื้อผ้า การขึ้นตัวอย่าง จนได้สินค้าที่สมบูรณ์แบบพร้อมผลิตจริง\n\n📌 ภาพรวมโปรเจกต์\n สินค้าที่ต้องพัฒนา: เสื้อ Vest (เสื้อกั๊ก/เสื้อสูทไม่ม���แขน) และ กระโปรง\n\n โจทย์สำคัญ:\n• เสื้อ Vest และกระโปรงจะต้องใช้ \"ผ้าสีเดียวกัน\"\n• เนื้อผ้าต้องมีความหนาและน้ำหนักที่เหมาะสม ไม่บางหรือโปร่งแสงจนเกินไป ให้สัมผัสที่ดี (Hand-feel) และดูมีคุณภาพพรีเมียม\n\n• สิ่งที่เรามีให้แล้ว: แบบดีไซน์ (Design) และชุดตัวอย่าง Reference สำหรับเป็นแนวทาง\n\n ⏳ ระยะเวลาโปรเจกต์: เริ่มงานทันที และ สิ้นสุดโปรเจกต์ (ได้ Final Product) ภายในวันที่ 29 สิงหาคม 2026\n\n📍สถานที่นัดพบและพูดคุย: กรุงเทพฯ (สถานที่พูดคุยเป็นห้องประชุม Starbuck)\n\n\n🛠️ ขอบเขตการทำงาน (Scope of Work)\nต้องการผู้ร่วมงานแบบ Hands-on ทำงานร่วมกันอย่างใกล้ชิดในขั้นตอนสำคัญ ดังนี้:\n\n1. Phase 1: Fabric Selection & Sourcing\n• แนะนำและจัดหาเนื้อผ้าที่ตรงตามโจทย์ (สีเดียวกันสำหรับ Vest และกระโปรง, เนื้อผ้าไม่โป่ง, อยู่ทรงสวย, คุณภาพพรีเมียม) โดยเทียบจาก Reference ที่เราเตรียมไว้\n\n2. Phase 2: Prototyping & Sampling\n• ดูแลและให้คำปรึกษาเรื่องการทำแพทเทิร์นและการขึ้นตัวอย่าง (Prototype)\n• ปรับแก้ฟิตติ้งและรายละเอียดร่วมกันจนได้สินค้าที่ลงตัว\n\n3. Phase 3: Final Product Approval (29 สิงหาคม 2026)\n• ควบคุมและตรวจสอบคุณภาพจนได้ Final Product ที่พึงพอใจร่วมกัน (โปรเจกต์สิ้นสุดเมื่อได้ตัวอย่างไฟนอลที่พร้อมเข้าสู่กระบวนการผลิตจริง)\n\n👩‍��� คุณสมบัติผู้สมัคร (Qualifications)\n• มีประสบการณ์ทำงานในสายงาน Product Development, Garment Sourcing หรือ Pattern Making สำหรับเสื้อผ้าแฟชั่น\n• มีความเชี่ยวชาญและสายตาเฉียบคมในการเลือกเนื้อผ้า (เข้าใจเรื่องน้ำหนักผ้า, โครงสร้างผ้า, การทอ และการเลือกผ้าให้แมตช์กัน)\n• มีความเข้าใจเรื่องโครงสร้างการตัดเย็บเสื้อผ้าผู้หญิง (โดยเฉพาะเสื้อ Vest และกระโปรง)\n• สามารถทำงานร่วมกันแบบลงพื้นที่ (Hands-on และ In-person) ในช่วงเลือกผ้าและฟิตติ้งตัวอย่างได้\n",
-    "title": "พาร์ทเนอร์ร่วมพัฒนาสินค้า เสื้อ Vest & กระโปรง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "3500",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-26T04:28:36.473878Z",
-    "updated_at": "2026-07-26T04:28:37.573132Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-29",
-    "expired_at": "2026-08-25T04:28:36.425909Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.0.1;iPhone;6.2.0-6000087"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "60c1f906-bf8c-48c0-9092-6572031bd701",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-26T06:25:52.040Z"
   }
 ]
