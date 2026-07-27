@@ -1,4 +1,9 @@
 [
-  "[2026-07-27T01:11:33.786Z] Checking Fastwork for new job posts...",
-  "[2026-07-27T01:11:33.784Z] Auto-cleanup: Removed 3 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-27T04:50:36.313Z]     Notification sent successfully.",
+  "[2026-07-27T04:50:36.194Z]   FOUND NEW TARGET JOB: ธุรการประสบการณ์ 2 ปีขึ้นไป ทำงานห้วยข��าง (Cats: พัฒนาเว็บไซต์) (Budget: 20000 THB)",
+  "[2026-07-27T04:50:35.192Z]     Notification sent successfully.",
+  "[2026-07-27T04:50:34.964Z]   FOUND NEW TARGET JOB: คนติดตั้ง wordpress ด้วย window server (Cats: พัฒนาเว็บไซต์) (Budget: 5000 THB)",
+  "[2026-07-27T04:50:33.813Z] Checking Fastwork for new job posts...",
+  "[2026-07-27T04:50:33.812Z] Auto-cleanup: Removed 26 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-27T04:50:33.809Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
