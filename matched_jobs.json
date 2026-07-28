@@ -1,5 +1,54 @@
 [
   {
+    "id": "ceb0e659-28ca-4047-b47f-79b363a8ad2d",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาฟรีแลนซ์สำหรับออกแบบงานกราฟิกของวงเกิร์ลกรุ๊ป โดยต้องการผู้ที่สามารถออกแบบงานในสไตล์ K-Pop ได้\n\nขอบเขตงาน\n- ออกแบบโลโก้วง (Logo)\n- ออกแบบ Typography สำหรับชื่อเพลง / ซิงเกิล\n- ออกแบบ Mockup สินค้า\n\nคุณสมบัติที่ต้องการ\n- มีผลงานด้าน Branding หรือ Logo Design\n- มีความเข้าใจงาน Merchandise และงานพิมพ์\n- สามารถออกแบบได้หลายสไตล์ โดยเฉพาะแนว Idol, Anime, J-Pop หรือ K-Pop จะพิจารณาเป็นพิเศษ\n- สามารถแก้งานตาม Feedback ได้\n\nสิ่งที่ผู้จ้างจะเตรียมให้\n- คอนเซ็ปต์ของวง\n- Mood & Tone\n- ตัวอย่างอ้างอิง\n- รายละเอียดสินค้า\n\nการส่งผลงาน\n- ส่ง Portfolio ที่เกี่ยวข้องกับ Logo / Typography / Merchandise Mockup\n- แจ้งเรทราคาโดยประมาณ และระยะเวลาการทำงาน",
+    "title": "คนทำโลโก้วงเกิร์ลกรุ๊บ Typo เพลง และ mockup สินค้า",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-28T05:21:00.804591Z",
+    "updated_at": "2026-07-28T05:21:02.754173Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-29",
+    "expired_at": "2026-08-27T05:21:00.754961Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "0c491b0e-eed4-4b54-8433-bf487a2e5259",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-07-28T06:42:55.955Z"
+  },
+  {
     "id": "7f87fe71-d917-4033-bbf7-344cb3026d36",
     "status": "open",
     "tag": {
@@ -393,103 +442,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-27T08:16:59.607Z"
-  },
-  {
-    "id": "c5a8adfe-9d4f-4dcd-99ff-6f91ccbebc90",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "[URGENT] รับสมัคร Admin ภาษาดี มีประสบการณ์!\nทีมงาน Recruiter SourcedOut กำลังมองหา Admin ที่สามารถเริ่มงานได้ทันที\n\nหน้าที่ของคุณ\n• ดูแลงาน Admin ทั่วไป ประสานงานภายในองค์กร\n• สื่อสารภาษาอังกฤษกับผู้จัดการชาวสิงคโปร์และญี่ปุ่น\n• จัดทำเอกสารสั่งซื้อ/จัดซื้อ (ไม่เกี่ยวกับบัญชี)\n• สร้างและบริหารจัดการไฟล์ Excel สำหรับวางแผนการผลิต\n• จัดเตรียมรายงาน เอกสารการประชุม และกิจกรรมภายในบริษัท\n\nคุณสมบัติที่เราต้องการ\n- ทุกเพศ อายุ 24 - 30 ปี\n- ประสบการณ์งานธุรการ งานสนับสนุนสำนักงาน หรือบทบาทด้านการประสานงานทั่วไป อย่างน้อย 2 ปีขึ้นไป\n- ภาษาอังกฤษระดับสื่อสารได้ (Conversational) ใช้คุยงานกับ Manager ชาวสิงคโปร์และญี่ปุ่น\n- เก่ง Microsoft Excel: ทำไฟล์ จัดการข้อมูล และทำแผนการผลิตได้คล่อง\n- ทำงาน Proactive ลุยงานเองได้ มีความรับผิดชอบสูง\n\nเงินเดือน: 18,000 - 20,000บาท ต่อเดือน\nสถานที่ทำงาน: อาคาร MRM (บางกะปิ / ห้วยขวาง)\nเวลาทำงาน: จันทร์ - ศุกร์ 08:00 - 17:00 น. (หยุดเสาร์-อาทิตย์ และนักขัตฤกษ์)\nสวัสดิการจัดเต็ม: ประกันสังคม / โบนัสประจำปี / ปรับเงินเดือนประจำปี / ลาพักร้อน 7 วัน / เบี้ยขยัน / ลาพิเศษตามเทศกาลสำคัญ\n\nสมัครงานติดต่อ\nEmail: woradech.wrd@outlook.com",
-    "title": "ธุรการประสบการณ์ 2 ปีขึ้นไป ทำงานห้วยข��าง",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "20000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-27T04:15:52.774671Z",
-    "updated_at": "2026-07-27T04:15:54.408969Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-26T04:15:52.707450Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "62d7e554-353f-4461-91be-517477196d71",
-    "user_profile": {
-      "id": "62d7e554-353f-4461-91be-517477196d71",
-      "username": "wrdpotae",
-      "display_name": "Recruiter SourcedOut",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/62d7e554-353f-4461-91be-517477196d71/profile/ebd6e5e9-64a9-404f-8bfa-56fa9a82f677.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "20000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-27T04:50:36.194Z"
-  },
-  {
-    "id": "061ff681-7569-49b8-9f21-0303a8bb90f0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "ทำให้ wordpress รันได้ปกติผ่าน window server with IIS\nตอนนี้เหมือนรันได้หมดแล้ว แค่รัน path ภาษาไทยไม่ได้\nขอคนสะดวก onsite วันธรรมดา\nงานอยู่แถว BTS สะพานใหม่\n\nถ้ารู้เรื่อง wordpress ด้วยจะดีมาก",
-    "title": "คนติดตั้ง wordpress ด้วย window server",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-27T04:10:48.791346Z",
-    "updated_at": "2026-07-27T04:10:50.603416Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-26T04:10:48.769241Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "396a4fb3-f8db-49d8-8986-6d6a090c4e78",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-27T04:50:34.964Z"
   }
 ]
