@@ -245,55 +245,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-28T06:42:55.955Z"
-  },
-  {
-    "id": "7f87fe71-d917-4033-bbf7-344cb3026d36",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "หาคนช่วยออกแบบเว็บไซต์สถาบันการศึกษา ช่วยออกแบบเว็บไซต์มาให้ด้วยครับ\nหากนำเสนอเจ้านายแล้วเข้าตา\nเขาก็จะได้อนุมัติให้จ้างงานครับ\nงบประมาณสามารถบวกเพิ่มได้จากที่เสนอ",
-    "title": "คนทำเว็บไซต์สถาบันการศึกษา หน���าเว็บไซต์ภาษาอังกฤษ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "20000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-28T03:57:26.413566Z",
-    "updated_at": "2026-07-28T03:57:28.759494Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-27T03:57:26.367427Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;SM-S928B;8.8.0-6001188"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "d8eb25f1-2378-460d-bc48-8f61eee8b072",
-    "user_profile": {
-      "id": "d8eb25f1-2378-460d-bc48-8f61eee8b072",
-      "username": "kankongmeesin",
-      "display_name": "โอ้เอ้",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d8eb25f1-2378-460d-bc48-8f61eee8b072/profile/fd3fee65-76cc-4ddc-897a-b2239bb024c4.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "20000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-28T04:18:07.813Z"
   }
 ]
