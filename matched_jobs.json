@@ -145,56 +145,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-29T03:31:52.894Z"
-  },
-  {
-    "id": "c82ef61f-783b-4932-9b37-9d8a7ed6642d",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการทำเว็บ application ที่รองรับระบบ android และ iOS เป็น application คล้ายๆกับหาคู่เดท มี Wireframe ให้ \nและระบบหลังบ้านให้ไม่ซับซ้อนเผื่อที่จะแก้ข้อมูลหรือเพิ่มเติมข้อมูลได้ภายหลังหลังจากมีผู้ใช้งานไปแล้วแล้วพบปัญหา ",
-    "title": "คนรับทำ web application",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-28T16:44:27.851973Z",
-    "updated_at": "2026-07-28T16:44:29.137637Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-27T16:44:27.832612Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android14;SM-S928B;8.0.0-6000982"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "d961a027-3edc-4962-a76a-33434fb9aec0",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-28T17:01:41.008Z"
   }
 ]
