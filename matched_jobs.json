@@ -147,54 +147,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-28T15:32:12.550Z"
-  },
-  {
-    "id": "f2ea45dd-b66b-4910-b6bd-ce34548b104f",
-    "status": "open",
-    "tag": {
-      "id": "883a6909-c772-48fa-91e9-b8162e599aba",
-      "name": "ช่าง",
-      "sort": 13
-    },
-    "type": "freelance",
-    "description": "อยากได้คนไปช่วยดูรถก่อนซื้อครับ โซนขอนแก่นสารคามแถวนี้ครับ โดยรถส่วนใหญ่ที่อยากให้ไปดูช่วยจะเป็น suzuki swift mazda 2 รถรุ่นประมาณนี้ครับ\n",
-    "title": "หาคนไปช่วยดูรถมือสองโซนขอนแก่นสารคาม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-28T08:19:58.006874Z",
-    "updated_at": "2026-07-28T08:19:59.683399Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-27T08:19:57.987275Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;24129PN74G;10.4.0-6002062"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "43efc200-2734-436b-9228-fd29511fa65b",
-    "user_profile": {
-      "id": "43efc200-2734-436b-9228-fd29511fa65b",
-      "username": "durzflxn",
-      "display_name": "durzflxn",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1afefe61-c0f5-4302-97a5-4ede5c35f0ca.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-28T09:23:17.322Z"
   }
 ]
