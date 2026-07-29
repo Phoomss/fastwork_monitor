@@ -1,5 +1,54 @@
 [
   {
+    "id": "dc402ae9-e9ba-4044-90c3-6a94a7f77e12",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "full-time",
+    "description": "Hylme\n🎨 WE'RE LOOKING FOR\nGraphic Designer\nบริษัท ฮีลมี จำกัด\n\nเปิดรับสมัครพนักงาน\n\n💼 ข้อมูลตำแหน่ง\n\nตำแหน่ง\nGraphic Designer\n\nประเภทงาน\nเจ้าหน้าที่ (Full-Time)\n\nจำนวน\n3 อัตรา\n\nเงินเดือน\n18,000 – 25,000 บาท\n\nเวลาทำงาน\nจันทร์ – เสาร์\n09.00 – 18.00 น.\n\n✨ หน้าที่รับผิดชอบ\nออกแบบสื่อประชาสัมพันธ์ทั้ง Online และ Offline\nออกแบบ Artwork สำหรับ Facebook, TikTok, Instagram, Website และสื่อสิ่งพิมพ��\nทำงานร่วมกับทีม Marketing เพื่อพัฒนา Campaign และ Brand Identity\nวางแผนและบริหารเวลาให้งานเสร็จตามกำหนด\nหากมีทักษะ Motion Graphic จะได้รับการพิจารณาเป็นพิเศษ\n✅ คุณสมบัติ\nอายุ 22 ปีขึ้นไป\nวุฒิปริญญาตรี สาขาการออกแบบกราฟิก นิเทศศิลป์ หรือสาขาที่เกี่ยวข้อง\nใช้ Adobe Illustrator, Photoshop และ InDesign ได้ดี\nหากใช้ After Effects หรือ Premiere Pro ได้ จะพิจารณาเป็นพิเศษ\nมีความคิดสร้างสรรค์ ละเอียดรอบคอบ\nทำงานร่วมกับทีมได้ดี\nแนบ Portfolio ผลงานมาพร้อมใบสมัคร\n\nพิจารณาเฉพาะผู้ที่แนบ Portfolio เท่านั้น\n\n🌿 สถานที่ปฏิบัติงาน\n\n📍 ใกล้ห้าง Paradise Park ศรีนครินทร์\n\n🏡 โครงการ  Biztown\n\n📩 ���มัครงาน\n\nส่ง Resume พร้อม Portfolio\n\nตำแหน่ง Graphic Designer\n",
+    "title": "Graphic Designer 3 อัตรา",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-29T02:20:15.498059Z",
+    "updated_at": "2026-07-29T02:20:17.120888Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-28T02:20:15.473742Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "49fb747f-32ec-4363-8108-d1b81625ede8",
+    "user_profile": {
+      "id": "49fb747f-32ec-4363-8108-d1b81625ede8",
+      "username": "lukgolf",
+      "display_name": "Lukgolf",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/49fb747f-32ec-4363-8108-d1b81625ede8/profile/153972f6-5c80-48a1-bad5-a686b2233264.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-29T03:31:52.894Z"
+  },
+  {
     "id": "c82ef61f-783b-4932-9b37-9d8a7ed6642d",
     "status": "open",
     "tag": {
@@ -246,55 +295,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-07-28T04:18:07.813Z"
-  },
-  {
-    "id": "d45a2deb-2244-4324-96f6-085da7c2f0dc",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "ต้องการ Freelance ที่มีประสบการณ์ Embedded Linux, Bluetooth Classic และเครื่องพิมพ์ความร้อน เพื่อพัฒนา Prototype ขนาดเล็กบน Raspberry Pi, Orange Pi หรืออุปกรณ์ Linux เทียบเท่า\n\nวัตถุประสงค์คือต้องการให้อุปกรณ์ Linux ทำหน้าที่เป็น Bluetooth Printer รับ Raw Print Data แบบ ESC/POS จาก Android 1 เครื่อง เก็บสำเนาข้อมูล และส่งงานเดิมต่อไปยังเครื่องพิมพ์จริง 1 เครื่อง\n\nงานนี้เป็น Prototype สำหรับทดสอบแนวทางก่อน ยังไม่ต้องทำ Dashboard ระบบ Production หรือระบบบริหารอุปกรณ์หลายเครื่อง\n\nขอบเขตงานหลัก\n\n* ตั้งค่า Linux Device ให้แสดงชื่อและรับการเชื่อมต่อ Bluetooth Classic SPP/RFCOMM ในบทบาท Printer/Server\n* Android สามารถค้นหา Pair และส่ง Raw ESC/POS มายังอุปกรณ์ผ่าน Bluetooth ได้\n* บันทึกข้อมูลที่รับเป็นไฟล์ Raw/Binary พร้อมวันเวลา ขนาดข้อมูล และหมายเลข Job\n* ส่ง Raw Data เดิมต่อไปยังเครื่องพิมพ์ ESC/POS 1 เครื่องผ่าน USB หรือ LAN\n* ส่งสำเนาข้อมูลพร้อม Metadata ไปยัง Test HTTP Endpoint ที่ผู้ว่าจ้างเตรียมให้\n* ตั้งค่าชื่อ Bluetooth, PIN, Output Printer และ URL ผ่านไฟล์ Configuration แบบง่าย\n* มี Log สำหรับตรวจสอบการรับ การบันทึก การส่งต่อ และข้อผิดพลาด\n* รันเป็น Service และเริ่มทำงานอัตโนมัติเมื่อเปิดอุปกรณ์\n\nผลส่งมอบ\n\n* Source Code ทั้งหมดและรายการ Library ที่ใช้\n* Installation Script หรือขั้นตอนติดตั้งบน Linux Device\n* คู่มือติดตั้ง ตั้งค่า เริ่ม/หยุด Service และดู Log\n* Demo การ Pair รับงาน เก็บไฟล์ ส่งต่อ Printer และเรียก Test API\n* รายงานผลทดสอบและข้อจำกัดที่พบ",
-    "title": "ต้องการ Freelance ทำ Prototype รับและส่งต่องานพิมพ์ Bluetooth/ESC-POS",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-28T00:58:16.073265Z",
-    "updated_at": "2026-07-28T00:58:17.878675Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-27T00:58:16.025668Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S918B;11.3.0-6002585"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "8e1f5f66-c853-44a1-a497-1ef88ef9e597",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-28T01:04:01.417Z"
   }
 ]
