@@ -1,5 +1,103 @@
 [
   {
+    "id": "2eac10fc-3a67-447b-9016-d04bab49787f",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "พัฒนาระบบ Software ที่ใช้ AI  สำหรับการพัฒนาพนักงานกลุ่มผู้บริหารและ Successor ใน concept\n\n1. ใช้ AI ประเมินความเป็นผู้นำและวิเคราะห์สมรรถนะ (Assessment) : \n- Analysis วิเคราะห์ทักษะ ความคิดเชิงกลยุทธ์ และทัศนคติจากการตอบคำถามอัตนัย หรือผลงานที่ผ่านมา\n- ประมวลผลคะแนนดิบจากคนรอบข้าง (หัวหน้า, เพื่อนร่วมงาน, ลูกน้อง) ร่วมกับผลงานที่ผ่านมา เพื่อค้นหา Skill Gap และวางแผนการพัฒนาที่เหมาะสม\n\n2. ใช้ AI จำลองสถานการณ์เพื่อให้คะแนนการตัดสินใจ (Simulation) :\n- Dynamic Scenario  AI จำลองเนื้อเรื่องหรือวิกฤตการณ์ทางธุรกิจ เช่น ปัญหาราคาสินค้าตกต่ำ, ข้อมูลรั่วไหล ฯลฯ เปลี่ยนไปตามคำตอบก่อนหน้า ให้ผู้ทำไม่สามารถเดาคำตอบได้\n- Real-time Impact Evaluation คำนวณผลกระทบทันทีว่า การตัดสินใจนั้นส���งผลต่อ Budget, Timeline, และความพึงพอใจของทีมอย่างไร พร้อมให้คะแนนความเสี่ยง\n\nสามารถแบ่ง phase ทำ ในราคาต่อเฟส ไม่เกิน 30,000 \nใ\nสนใจ สามารถพูดคุยหารือรายละเอียดก่อนได้",
+    "title": "ระบบ software พัฒนาบุคลากร ด้วย AI",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-07-30T02:55:34.917533Z",
+    "updated_at": "2026-07-30T02:55:36.567223Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;V2347;7.3.1-6000830"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-29T02:55:34.864028Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7b8babc9-3a3c-4eb1-b5d8-e49fc45dfc4e",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-30T03:20:03.406Z"
+  },
+  {
+    "id": "d2bcec37-96b1-43fe-acf0-1578c3069e09",
+    "status": "open",
+    "tag": {
+      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
+      "name": "จัดการร้านค้าออนไลน์",
+      "sort": 15
+    },
+    "type": "freelance",
+    "description": " ทำเว็บไซต์ ขายของ ไม่เยอะ จำนวนและประเภท\n\nสัมพันธ์ กับ อินสตาแกรม เป็น หลัก\nขายของ เสื้อยืด กระเป๋า ตุ๊กตา และงานศิลปะ",
+    "title": "ทำเว็บไซต์ ขายของสัมพันธ์ กับ Instagram",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-30T02:51:09.865917Z",
+    "updated_at": "2026-07-30T02:51:11.523562Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;LGN-NX1;11.6.1-6002768"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-29T02:51:09.844365Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "5b7ce60a-8fa6-4c85-a36b-96fd64a28671",
+    "user_profile": {
+      "id": "5b7ce60a-8fa6-4c85-a36b-96fd64a28671",
+      "username": "d1fhhds1",
+      "display_name": "d1fhhds1",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-07-30T03:20:02.203Z"
+  },
+  {
     "id": "5a45b744-d4c1-49a0-b9e2-1bfd8b7c4a5e",
     "status": "open",
     "tag": {

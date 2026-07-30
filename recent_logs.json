@@ -1,5 +1,8 @@
 [
-  "[2026-07-30T00:07:04.505Z] No new target jobs found.",
-  "[2026-07-30T00:07:03.534Z] Checking Fastwork for new job posts...",
-  "[2026-07-30T00:07:03.532Z] Auto-cleanup: Removed 1 seen job tracking IDs older than 1 day(s)."
+  "[2026-07-30T03:20:03.540Z]     Notification sent successfully.",
+  "[2026-07-30T03:20:03.406Z]   FOUND NEW TARGET JOB: ระบบ software พัฒนาบุคลากร ด้วย AI (Cats: พัฒนาแอปพลิเคชัน) (Budget: 0 THB)",
+  "[2026-07-30T03:20:02.405Z]     Notification sent successfully.",
+  "[2026-07-30T03:20:02.203Z]   FOUND NEW TARGET JOB: ทำเว็บไซต์ ขายของสัมพันธ์ กับ Instagram (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
+  "[2026-07-30T03:20:01.209Z] Checking Fastwork for new job posts...",
+  "[2026-07-30T03:20:01.207Z] Auto-cleanup: Removed 6 seen job tracking IDs older than 1 day(s)."
 ]
