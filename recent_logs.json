@@ -1,5 +1,7 @@
 [
-  "[2026-07-31T12:07:30.206Z] Checking Fastwork for new job posts...",
-  "[2026-07-31T12:07:30.204Z] Auto-cleanup: Removed 23 seen job tracking IDs older than 1 day(s).",
-  "[2026-07-31T12:07:30.201Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-07-31T14:29:51.104Z]     Notification sent successfully.",
+  "[2026-07-31T14:29:51.009Z]   FOUND NEW TARGET JOB: ผู้รับจ้างเซ็ตอัป Self-hosted Map Server (OSM + OSRM + Nominatim) สำหรับแอปเดลิเวอรี (Cats: พัฒนาแอปพลิเคชัน) (Budget: 5000 THB)",
+  "[2026-07-31T14:29:49.851Z] Checking Fastwork for new job posts...",
+  "[2026-07-31T14:29:49.849Z] Auto-cleanup: Removed 8 seen job tracking IDs older than 1 day(s).",
+  "[2026-07-31T14:29:49.847Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]

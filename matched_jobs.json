@@ -1,5 +1,54 @@
 [
   {
+    "id": "471ece50-122f-4697-aa57-9fde2cdac93d",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "1. ติดตั้งระบบ Map Server บน Cloud Server (Ubuntu Linux + Docker)\n2. ดึงข้อมูลแผนที่ประเทศไทย (Thailand OpenStreetMap) เข้าสู่ระบบ\n3. เปิดใช้งานบริการ 3 ส่วน:\n\tTile Server (ส่งภาพแผนที่)\n\tOSRM Routing Engine (คำนวณเส้นทางและระยะทางสำหรับมอเตอร์ไซค์/รถยนต์)\n\tNominatim / Pelias Geocoding (ระบบค้นหาชื่อสถานที่และแปลงพิกัด)\n4. ทำเอกสาร API Endpoint (URL) และคำแนะนำในการเชื่อมต่อเข้ากับ Flutter/Laravel\n5. สอนวิธีอัปเดตข้อมูลแผนที่หรือการ Reboot เซิร์ฟเวอร์เบื้องต้น",
+    "title": "ผู้รับจ้างเซ็ตอัป Self-hosted Map Server (OSM + OSRM + Nominatim) สำหรับแอปเดลิเวอรี",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-07-31T14:26:03.014995Z",
+    "updated_at": "2026-07-31T14:26:04.742562Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-08",
+    "expired_at": "2026-08-30T14:26:02.962579Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
+    "user_profile": {
+      "id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
+      "username": "surasuk2482",
+      "display_name": "Surasuk Jumparat",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a61ddc9d-0ca5-4093-a5d1-f6413ad21f82/profile/193bb17f-9ddb-466b-bf56-413021ce98a2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-07-31T14:29:51.009Z"
+  },
+  {
     "id": "af6fbe66-c375-44df-a7f9-630464dcf81c",
     "status": "open",
     "tag": {
@@ -146,54 +195,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-07-30T14:33:41.321Z"
-  },
-  {
-    "id": "362aaa6f-9921-49c1-b580-9b9d026f8dfd",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": " ขอคนที่สืบแบบเก่งเก่งรู้ประวัติข้อมูลทุกอย่าง  \nพอดีโดนโพสต์ให้เกิดความเสียหายแต่ไม่สามารถสืบไปถึงต้นตอของคนที่โพสต์ได้เป็นแอคหลุมใครพอจะทำได้รบกวนแนบข้อมูลประวัติการทำงานมาให้ด้วยนะคะขอบคุณมากๆค่ะ",
-    "title": " หานักสืบไอที",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "400",
-    "is_anonymous": true,
-    "inserted_at": "2026-07-30T11:18:59.063108Z",
-    "updated_at": "2026-07-30T11:19:00.844328Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.1;iPhone;11.7.0-6002803"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-29T11:18:59.044604Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "41e51a33-116c-4436-bd06-009dcde84456",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "400",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-07-30T12:16:19.361Z"
   }
 ]
