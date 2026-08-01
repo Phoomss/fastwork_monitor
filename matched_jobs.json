@@ -1,5 +1,54 @@
 [
   {
+    "id": "a1921500-9177-4662-aa2b-4b449877be70",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "Create an inventory management system, such as a Stock,Inbound,Outbound,Delivery Dashboard in Real-Time (Using Google Sheet,AppSheet,Google Driver platform ) krab.",
+    "title": "Create an inventory management system",
+    "is_owner": false,
+    "files": [],
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-01T07:57:52.745069Z",
+    "updated_at": "2026-08-01T07:57:54.082301Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-31T07:57:52.700278Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.7.7;iPhone;11.7.0-6002803"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4a97dcc9-a1ca-4366-9170-678d019ff25a",
+    "user_profile": {
+      "id": "4a97dcc9-a1ca-4366-9170-678d019ff25a",
+      "username": "ford_pongsak23",
+      "display_name": "Ford Pongsak",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4a97dcc9-a1ca-4366-9170-678d019ff25a/profile/96968eca-3e04-420f-a332-1591a241746e.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-01T09:11:40.631Z"
+  },
+  {
     "id": "83abbcd6-22e3-40d6-a3c1-26465e42ba49",
     "status": "open",
     "tag": {
