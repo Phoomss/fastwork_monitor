@@ -1,5 +1,54 @@
 [
   {
+    "id": "83abbcd6-22e3-40d6-a3c1-26465e42ba49",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "สวัสดีครับ Buglaek Studio กำลังมองหา Freelance Sales ที่สามารถช่วยค้นหาและติดต่อกลุ่มลูกค้าที่สนใจจ้างพัฒนาเกม / สื่อ Interactive / Filter Tiktok ต่าง ๆ \n\nหน้าที่หลัก\n- ค้นหาและติดต่อลูกค้าใหม่ที่มีโอกาสสนใจใช้บริการของ Buglaek Studio\n- แนะนำบริการและผลงานของ Buglaek Studio ให้กับลูกค้า\n- สอบถามความต้องการและเก็บรายละเอียดเบื้องต้นของโปรเจกต์\n- สามารถทำให้ลูกค้ามาติดต่อจ้างกับ Buglaek Studio ได้\n- เมื่อ Buglaek Studio ได้งานจากลูกค้าที่ Sale หามาให้ ทาง Sale จะได้รับส่วนแบ่งหลังจากลูกค้าชำระเงินให้ Buglaek Studio 10-12% ต่อชิ้นงาน !\n\nรูปแบบค่าตอบแทน\n- ไม่มีเงินเดือนประจำ\n- ได้รับค่าคอมมิชชัน (ค่าตอบแทน) 10-12% ของมูลค่าโปรเจ็คที่ลูกค้าตกลงกับ Buglaek Studio\n- หากลูกค้ารายเดิมที่ Sale หามาให้ กลับมาจ้าง Buglaek Studio ซ้ำ (แม้จะไม่ผ่าน Sale ในรอบนี้) ทาง Sale ที่เคยหาลูกค้าคนนี้มาให้ ก็จะได้รับ 10-12% ด้วย\n\nบริการของ Buglaek Studio\n- รับผลิตและพัฒนาเกมด้วย Unity\n- เกม PC, Mobile และ WebGL\n- เกม VR และ AR\n- เกมเพื่อการศึกษาและเกมสำหรับงานอีเวนต์\n- เว็บไซต์ต่าง ๆ\n- แอปพลิเคชันและสื่อ Interactive\n- TikTok Effect House และฟิลเตอร์ AR\n- Prototype และ Demo สำหรับนำเสนอโปรเจ���ต์\n\nกรุณาส่งข้อมูลแนะนำตัว ประสบการณ์ที่เกี่ยวข้อง ช่องทางที่ถนัดในการค้นหาลูกค้า และตัวอย่างผลงานด้านการขายหรือการประสานงาน (หากมี)\n\nขอบคุณครับ",
+    "title": "Freelance Sales หาลูกค้าที่ต้องการจ้างคนทำ Game / สื่อ Interactive / Filter Tiktok",
+    "is_owner": false,
+    "files": [],
+    "source": "jobboard_web",
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-01T06:55:34.143154Z",
+    "updated_at": "2026-08-01T06:55:35.959637Z",
+    "already_offered": false,
+    "brief_url": "https://buglaek-studio.web.app/",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-08-31T06:55:34.095133Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3dcc3406-0a7e-45b5-960d-85b769858fd0",
+    "user_profile": {
+      "id": "3dcc3406-0a7e-45b5-960d-85b769858fd0",
+      "username": "yuk_yik_yak",
+      "display_name": "Buglaek Studio",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3dcc3406-0a7e-45b5-960d-85b769858fd0/profile/2346f094-4f03-45fc-bca9-e1dd4c1b07ac.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-01T07:03:17.567Z"
+  },
+  {
     "id": "471ece50-122f-4697-aa57-9fde2cdac93d",
     "status": "open",
     "tag": {
@@ -47,55 +96,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-07-31T14:29:51.009Z"
-  },
-  {
-    "id": "af6fbe66-c375-44df-a7f9-630464dcf81c",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "contract",
-    "description": "You will be responsible for bringing company's brand to life across our digital marketing channels. \n- This is a 100% remote, full-time role of 40 hours per week.\n- Your stakeholders are based in Jakarta, Indonesia, Bangkok, Thailand, and Mexico City, Mexico. You must choose a working schedule to overlap with all 3 time zones, including overlap with the Mexico City time zone for at least two hours each working day. \n\nMust Have\n• 2–5 years of experience as a Graphic Designer, preferably within B2B technology, SaaS, AI, or enterprise software.\n• A strong portfolio demonstrating high-quality visual design across digital marketing assets, particularly social media content, eBooks, reports, email campaigns, and other marketing collateral.\n• Advanced proficiency in Figma and Adobe Creative Suite, particularly Illustrator, Photoshop, and InDesign.\n• Experience designing eDMs, with best practices and responsive layouts.\n• Strong understanding of typography, layout, composition, colour, and visual hierarchy.\n• Ability to translate marketing briefs and written content into clean, engaging, and visually compelling designs.\n• Excellent attention to detail and the ability to manage multiple projects in a fast-moving environment.\n• Strong written and verbal English communication skills.\n• Ability to work 40 hours per week in a fully remote environment, with at least two hours of overlap with the Mexico City time zone each working day.\n\nNice to Have\n• Experience using AI-powered creative tools.\n• Hands-on experience within HubSpot.\n• Experience designing infographics, illustrations, or motion graphics.\n• Experience creating presentation decks, event collateral, exhibition booth graphics, or sales enablement materials.\n• Basic understanding of HTML and the technical considerations involved in email design.\n\nPlease share original work relevant to this role, including:\n• LinkedIn visuals\n• eBooks\n• Marketing eDMs.",
-    "title": "Graphic Designer (full-time freelance)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-31T02:33:05.349401Z",
-    "updated_at": "2026-07-31T02:33:07.237325Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-30T02:33:05.292226Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "94bd5d8d-6353-4c94-9a7f-93359deadcf1",
-    "user_profile": {
-      "id": "94bd5d8d-6353-4c94-9a7f-93359deadcf1",
-      "username": "ming_d",
-      "display_name": "Dhittaya Nuangchamnong",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/94bd5d8d-6353-4c94-9a7f-93359deadcf1/profile/45799aa4-84be-433b-ae42-84f72d475187.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-07-31T04:35:34.885Z"
   }
 ]
