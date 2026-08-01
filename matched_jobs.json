@@ -145,54 +145,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-01T07:03:17.567Z"
-  },
-  {
-    "id": "471ece50-122f-4697-aa57-9fde2cdac93d",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "1. ติดตั้งระบบ Map Server บน Cloud Server (Ubuntu Linux + Docker)\n2. ดึงข้อมูลแผนที่ประเทศไทย (Thailand OpenStreetMap) เข้าสู่ระบบ\n3. เปิดใช้งานบริการ 3 ส่วน:\n\tTile Server (ส่งภาพแผนที่)\n\tOSRM Routing Engine (คำนวณเส้นทางและระยะทางสำหรับมอเตอร์ไซค์/รถยนต์)\n\tNominatim / Pelias Geocoding (ระบบค้นหาชื่อสถานที่และแปลงพิกัด)\n4. ทำเอกสาร API Endpoint (URL) และคำแนะนำในการเชื่อมต่อเข้ากับ Flutter/Laravel\n5. สอนวิธีอัปเดตข้อมูลแผนที่หรือการ Reboot เซิร์ฟเวอร์เบื้องต้น",
-    "title": "ผู้รับจ้างเซ็ตอัป Self-hosted Map Server (OSM + OSRM + Nominatim) สำหรับแอปเดลิเวอรี",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-07-31T14:26:03.014995Z",
-    "updated_at": "2026-07-31T14:26:04.742562Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-08",
-    "expired_at": "2026-08-30T14:26:02.962579Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
-    "user_profile": {
-      "id": "a61ddc9d-0ca5-4093-a5d1-f6413ad21f82",
-      "username": "surasuk2482",
-      "display_name": "Surasuk Jumparat",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a61ddc9d-0ca5-4093-a5d1-f6413ad21f82/profile/193bb17f-9ddb-466b-bf56-413021ce98a2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-07-31T14:29:51.009Z"
   }
 ]
