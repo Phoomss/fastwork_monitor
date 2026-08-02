@@ -47,54 +47,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-02T10:18:28.549Z"
-  },
-  {
-    "id": "b2ca3e05-ae17-4524-9c24-ea5fe09f0ea6",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "1. แปลงไฟล์ PNG ทำเป็นไฟล์ สำหรับส่งโรงพิมพ์\n2. จะมีไพ่ให้ทำทั้งหมด 3 Project\n3. ต้องมีความรู้ด้านกราฟฟิคหรืออื่นๆ ช่วยแก้ไขไฟล์นิดหน่อยอาจจะเป็นคำหรือโทนสี เพราะเมนหลักผู้จ้างจะเป็นคนทำภาพเอง\n4. แต่ถ้ามีความรู้หรือชอบวาดชอบการทำไพ่หรือวาดภาพ อาจจะจ้างยาวๆเป็นเงินเดือน\n5. ระยะเวลาแปลงไฟล์ แก้ไฟล์ 6 เดือน\n6. ผู้จ้างวาลจะรับผิดชอบเรื่องอื่นๆเอง\n7.ใหากสิ่งใดเกิน SOW แจ้งคิดเงินเพิ่มได้ภายหลัง\n8.หากได้ืำงานร่วมกันต้องมีการ Sign NDA\n9.หากทำงานร่วมกันได้ดีก็จะได้เป็นพาร์ทเนอร์มีส่วนใน commission จากการขายไพ่\n10. 3 Project นี้กับขอบเขตงานเริ่มต้นที่ 4,000 บาท (ต่อรองได้ด้วยเหตุผลที่สมควร) \n11.เบื้องต้นรูปโปรเจคแรกเสร็จแล้ว 81 ใบ เป็นไฟล์รอแก้นิดหน่อยก่อนทำ mockup\n",
-    "title": "คนทำไฟล์ภาพธรรมดาแปลงเป็นไฟล์ภาพส่งโรงพิมพ์เพื่อทำไพ่ อาจจะต้องแก้คำนิดหน่อยในไพ่",
-    "is_owner": false,
-    "files": [],
-    "source": "jobboard_web",
-    "kind": "standard",
-    "budget": "4000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-01T09:50:57.825440Z",
-    "updated_at": "2026-08-01T09:50:58.755766Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-31T09:50:57.773710Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "b766e051-32e9-4acd-9a82-d8dd579cd8e3",
-    "user_profile": {
-      "id": "b766e051-32e9-4acd-9a82-d8dd579cd8e3",
-      "username": "sunatchaya.noon",
-      "display_name": "sunatchaya",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b766e051-32e9-4acd-9a82-d8dd579cd8e3/profile/abba7d7d-bea7-427c-9dd3-08e53d29c2d8.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "4000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-01T10:47:07.538Z"
   }
 ]
