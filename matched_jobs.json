@@ -1,5 +1,54 @@
 [
   {
+    "id": "a0e64986-5b8a-4644-924d-f8131ea7dc3d",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาผู้ทดลองใช้งานแอปพลิเคชันที่เพิ่งเปิดให้บริการ เพื่อช่วยทดสอบระบบและให้ Feedback\n\nคุณสมบัติที่ต้องการ\n\n1. มีสิ่งของในบ้านที่ไม่ได้ใช้งานหรือมีของสะสมหลายรายการ\n2. พร้อมทดลองลงขายสินค้าจริงอย่างน้อย 10-15 รายการ\n3. ใช้งานสมาร์ทโฟน (iOS หรือ Android) ได้\nสามารถให้ Feedback เกี่ยวกับการใช้งานได้จริงจัง \n\nทดลองใช้งานฟีเจอร์ต่าง ๆ แจ้งปัญหาหรือข้อเสนอแนะ มีเครดิตและตัวตนบริษัทจริงครับ \nใช้เวลาประมาณ 20–30 นาที\n\nรับเพียง 10 คนแรก ที่มีคุณสมบัติตรงตามที่กำหนด",
+    "title": "หาคนมาทดสอบแอปพลิเคชัน (Beta Tester) 1 ชั่วโมง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "250",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-02T08:50:15.399337Z",
+    "updated_at": "2026-08-02T08:50:16.540384Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.7.0-6002803"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-04",
+    "expired_at": "2026-09-01T08:50:15.354588Z",
+    "freelance_offers_count": 12,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4ac58c92-d748-4ea7-8e19-30482916176f",
+    "user_profile": {
+      "id": "4ac58c92-d748-4ea7-8e19-30482916176f",
+      "username": "doitloveit",
+      "display_name": "chap.st",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "250",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-02T10:18:28.549Z"
+  },
+  {
     "id": "b2ca3e05-ae17-4524-9c24-ea5fe09f0ea6",
     "status": "open",
     "tag": {
@@ -47,54 +96,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-01T10:47:07.538Z"
-  },
-  {
-    "id": "a1921500-9177-4662-aa2b-4b449877be70",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "Create an inventory management system, such as a Stock,Inbound,Outbound,Delivery Dashboard in Real-Time (Using Google Sheet,AppSheet,Google Driver platform ) krab.",
-    "title": "Create an inventory management system",
-    "is_owner": false,
-    "files": [],
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "kind": "standard",
-    "budget": "1500",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-01T07:57:52.745069Z",
-    "updated_at": "2026-08-01T07:57:54.082301Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-08-31T07:57:52.700278Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.7;iPhone;11.7.0-6002803"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "4a97dcc9-a1ca-4366-9170-678d019ff25a",
-    "user_profile": {
-      "id": "4a97dcc9-a1ca-4366-9170-678d019ff25a",
-      "username": "ford_pongsak23",
-      "display_name": "Ford Pongsak",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4a97dcc9-a1ca-4366-9170-678d019ff25a/profile/96968eca-3e04-420f-a332-1591a241746e.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-01T09:11:40.631Z"
   }
 ]
