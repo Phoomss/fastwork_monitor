@@ -1,5 +1,54 @@
 [
   {
+    "id": "b5cc3fc4-bd4e-4760-9945-1c7052a7286f",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "🚩เรากำลังมองหาวิศวกรที่ทำงานร่วมกับ AI เป็นหลัก เพื่อร่วมพัฒนาระบบ ERP และระบบปฏิบัติการทางธุรกิจขนาดใหญ่บนแพลตฟอร์ม Stardeck\nStardeck กำลังสร้างอนาคตของการพัฒนาซอฟต์แวร์สำหรับเจ้าของธุรกิจ แทนที่จะบังคับให้องค์กรต้องปรับตัวเข้าหาซอฟต์แวร์ที่แข็งตัว เราใช้ AI ที่เราพัฒนาขึ้นโดยทีม CTO สร้างระบบขึ้นรอบวิธีการทำงานจริงของแต่ละธุรกิจ\nผู้ที่ได้รับคัดเลือกจะได้ทำงานอย่างใกล้ชิดและได้รับการถ่ายทอดความรู้โดยตรงจากอดีต Senior AI Engineer ระดับแนวหน้าจา��� Silicon Valley พร้อมเรียนรู้การออกแบบสถาปัตยกรรมและการส่งมอบระบบ production ที่ซับซ้อนซึ่งสร้างด้วย AI\n\n🚩ขอบเขตความรับผิดชอบ :\nแปลงกระบวนการทำงานทางธุรกิจที่ซับซ้อนให้เป็นสถาปัตยกรรมระบบที่มั่นคงออกแบบโครงสร้างข้อมูล โมดูล สิทธิ์การเข้าถึง การเชื่อมต่อระบบ และระบบบันทึกการตรวจสอบ (audit trail)กำกับ AI coding agent ให้พัฒนาระบบแบบ full-stackระบุความเสี่ยงเชิงสถาปัตยกรรม กรณีขอบ (edge case) และความเกี่ยวเนื่องเชิงปฏิบัติการทำงานร่วมกับทีมตลอดขั้นตอนการพัฒนา การทดสอบ UAT และการนำระบบขึ้นใช้งานจริง\n\n🚩คุณสมบัติที่เรามองห�� :\nพื้นฐานด้านวิศวกรรมซอฟต์แวร์และการออกแบบระบบที่แข็งแรงความเข้าใจในระบบ ERP, CRM, คลังสินค้า, บัญชี หรือกระบวนการปฏิบัติการทางธุรกิจใช้ Claude Code, Codex, Cursor หรือเครื่องมือ AI coding อื่นได้ในระดับเชี่ยวชาญคุ้นเคยกับฐานข้อมูลเชิงสัมพันธ์ API RBAC และการเชื่อมต่อระบบภายนอกสามารถรักษาคุณภาพเชิงสถาปัตยกรรมไว้ได้ โดยไม่จำเป็นต้องตรวจสอบโค้ดที่ AI สร้างทีละบรรทัดมีความสนใจใคร่รู้ว่า AI กำลังเปลี่ยนวิธีการสร้างซอฟต์แวร์ระดับ production อย่างไร\n\n🚩ประสบการณ์ที่จะได้รับการพิจารณาเป็นพิเศษ :\nTypeScript, Node.js, Next.js และ ReactPostgreSQL หรื���ฐานข้อมูลเชิงสัมพันธ์อื่นระบบ multi-tenant หรือ multi-entityระบบชำระเงิน บัญชี คลังสินค้า เงินเดือน หรือการย้ายข้อมูล",
+    "title": "วิศวกรระบบ ERP (Freelance ERP Systems Engineer)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-02T13:08:38.302082Z",
+    "updated_at": "2026-08-02T13:08:39.350467Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.7.0-6002803"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-01",
+    "expired_at": "2026-09-01T13:08:38.248032Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "857e6b47-dd98-4be6-bc7a-a41f8ebdca45",
+    "user_profile": {
+      "id": "857e6b47-dd98-4be6-bc7a-a41f8ebdca45",
+      "username": "greenfieldlabs",
+      "display_name": "Greenfield Labs",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/857e6b47-dd98-4be6-bc7a-a41f8ebdca45/profile/c740c453-dae0-40fa-8af5-13b7bb8d4bf8.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-02T14:12:24.199Z"
+  },
+  {
     "id": "a0e64986-5b8a-4644-924d-f8131ea7dc3d",
     "status": "open",
     "tag": {
