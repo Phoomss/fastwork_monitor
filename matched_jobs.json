@@ -1,5 +1,55 @@
 [
   {
+    "id": "d65cc0a7-51ac-4d6e-9d03-3620ef7c23ef",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "**[ประกาศหาโปรแกรมเมอร์] รับงานพัฒนาต่อยอดระบบบริหารจัดการการศึกษา (Grading System)**\n\n**รายละเอียดงาน:**\nต้องการหาโปรแกรมเมอร์หรือทีมพัฒนาที่มีความเชี่ยวชาญ เพื่อเข้ามารับช่วงพัฒนาต่อยอดระบบเดิมที่มีอยู่ โดยมีขอบเขตงานหลักดังนี้:\n\n**1. Update Existing Functions:** \n- ตรวจสอบโครงสร้าง Code เดิมและปรับปรุงฟังก์ชันการทำงานให้มีประสิทธิภาพมากขึ้น (Optimization)\n- แก้ไข Bug หรือจุดที่ทำงานผิดพลาดในระบบปัจจุบันให้ถูกต้องและสมบูรณ์\n\n**2. Add New Features:** \n- พัฒนาและเพิ่มฟังก์ชันการทำงานใหม่ๆ ตามความต้องการของทางเรา (จะมีการระบุรายละเอียด Feature และ Requirement เพิ่มเติมในขั้นตอนการจ้างงาน)\n\n**รายละเอียดทางเทคนิค (Technical Stack):**\n- **Language:** PHP\n- **Framework:** Laravel (โครงสร้างแบบ MVC)\n- **Database:** MySQL \n- **Frontend:** มีการใช้ Webpack Mix / JavaScript \n- **ลักษณะระบบ:** ระบบจัดการข้อมูลนักเรียน, ครู, การเข้าเรียน, การส่งงาน และการตัดเกรด (มีโครงสร้าง Model พื้นฐานครบถ้วน)\n\n**คุณสมบัติที่ต้องการ:**\n- มีประสบการณ์การทำงานกับ **Laravel Framework** ในระดับที่สามารถอ่าน Code ของผู้อื่นและนำมาพัฒนาต่อยอดได้ทันที\n- สามารถออกแบบและจัดการ Database เพื่อรองรับการเพิ่มฟังก์ชันใหม่ๆ ได้อย่างเป็นระบบ\n- มีความรับผิดชอบในการส่งมอบงานตามกำหนดเวลา และสามารถสื่อสารรายละเอียดทางเทคนิคให้เข้าใจง่าย\n\n**การส่งงานและค่าตอบแทน:**\n- พิจารณาตามตกลง \n- ผู้ที่สนใจรบกวน��่ง Portfolio หรือผลงานที่เคยทำ (โดยเฉพาะงานที่ใช้ Laravel) พร้อมแจ้งเรทราคาการจ้างงานมาที่  Email : **********\n\n",
+    "title": "[ประกาศหาโปรแกรมเมอร์] รับงานพัฒนาต่อยอดระบบบริหารจัดการการศึกษา (Grading System) Language : PHP",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-03T07:43:01.577029Z",
+    "updated_at": "2026-08-03T07:43:02.766634Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2027-01-01",
+    "expired_at": "2026-09-02T07:43:01.528400Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8e70cd00-a83e-4a0c-a387-fc298da22cd9",
+    "user_profile": {
+      "id": "8e70cd00-a83e-4a0c-a387-fc298da22cd9",
+      "username": "l1oltqjc",
+      "display_name": "PAosweedtz",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-03T07:59:29.159Z"
+  },
+  {
     "id": "d6d310a7-81cc-4998-b269-62ac07b03c72",
     "status": "open",
     "tag": {
