@@ -1,5 +1,54 @@
 [
   {
+    "id": "36f17d3e-3dff-4b8b-a773-7ff2cf88210c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการพัฒนาเว็บไซต์ระบบ E-Order สำหรับร้านค้าส่งและค้าปลีกอาหาร ให้ลูกค้าสามารถสั่งซื้อสินค้าออนไลน์ผ่านมือถือและคอมพิวเตอร์ได้ โดยไม่ต้องติดตั้งแอปพลิเคชัน\n\nสิ่งที่อยากให้มีเบื้องต้น เช่น\n\n- ลูกค้าเข้าสู่ระบบ\n- ค้นหาสินค้า\n- เลือกสินค้าและกดเพิ่มจำนวน\n- ใส่ตะกร้า\n- ส่งออเดอร์เข้ามาที่ร้าน\n- ร้านสามารถดูออเดอร์ผ่านระบบหลังบ้าน\n- เพิ่ม แก้ไข ลบสินค้าได้\n- แก้ไขราคาและรูปสินค้าได้\n- ใช้งานได้ทั้งมือถือและคอมพิวเตอร์\n\nหากเคยทำระบบลักษณะนี้มาก่อน รบกวนส่งผลงานและแจ้งงบประมาณกับระยะเวลาที่ใช้พัฒนาให้ด้วยค่ะ\n",
+    "title": "ทำเว็บไซต์สั่งซื้อสินค้า (E-Order)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-04T17:53:11.480454Z",
+    "updated_at": "2026-08-04T17:53:13.282247Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6.2;iPhone;11.8.0-6002827"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-03T17:53:11.426877Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "e18ac032-5103-4bd4-a4b6-639db8181dfa",
+    "user_profile": {
+      "id": "e18ac032-5103-4bd4-a4b6-639db8181dfa",
+      "username": "zllavyri",
+      "display_name": "Prim",
+      "image_url": "https://storage.googleapis.com/fastwork-static/29cb4022-4a36-4fd5-9810-28fa3beb08e7.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-04T18:58:24.258Z"
+  },
+  {
     "id": "009baa1f-be92-44d6-8818-eb08e91d5a3a",
     "status": "open",
     "tag": {
@@ -96,54 +145,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-04T11:49:13.050Z"
-  },
-  {
-    "id": "c002dbe5-5309-4710-9124-8a91c6c97882",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "อธิบายให้เข้าใจง่ายๆ\nคือ เรากำลังทำโปรเจ็ค exe imgui ให้ที่ๆนึงอยู่\nซึ่งใน Src เป็นโปรแกรม ที่จะมีปุ่ม ฟีเจอร์ให้กดใช้งานต่างๆ\n\nปุ่มที่กด จะเป็น ตัว .bat ด้านหลังโค้ด\n\nติดปัญหาตรงนี้แหละ เราใช้.bat ภาษาธรรมดา อ่านได้ พอยัดใส่โปรเจ็ก บิ้วออกมาเป็นexe ก็รันได้ กดปุ่มใช้งานได้ตามปกติ\n\nแต่พอ obfuscator ตัว .bat ให้เป็นภาษาที่อ่านไม่ได้ แต่ใช้งานได้ปกติ ถ้ารัน .bat ตรงๆเลยนะ\n\nแต่พอ ยัดใ���่โปรเจ็กที่จะทำปุ่มต่างๆ มันกลับไม่ทำงาน แต่ๆ มันแตกไฟล์ลงเครื่องตามปกติเลย แต่ registry ต่างๆ ไม่เปลี่ยนตามที่ตั้งไว้\n\nถามว่ารู้ได้ยังไง เพราะ เราใส่เสียง Beep ใน.bat 2ครั้ง\nครั้งแรก คือตอนที่กดรัน Beep1ครั้ง เพื่อบอกว่า กำลังทำงาน\nครั้งที่สอง คือ รันเสร็จแล้ว ใส่ Beep เป็นจังหวะไว้ เพื่อบอกว่าทำงานเสร็จแล้ว\n\nปัญหาตรงนี้ ตอนแรก ไม่มีนะ ใช้ได้ตามปกติเลย แต่พอปล่อยทิ้งไว้พักนึง กลับมาทำอีกที ก็เป็นปัญหาแล้ว\n\nอธิบายตอนนี้ง่ายๆคือ\n1. ถ้าใช้ .bat ภาษาปกติ = รันได้ ทั้ง รัน .bat ตรงๆ หรือ ยัดใส่โปรเจ็กexe แล้วกดรันตามปุ่มต่างๆ\n2. ถ้าใช้ .bat ภาษาเอเลี่ยน = รันได้แค่ ตอนรัน .bat ตรงๆ แต่ถ้ายัดใส่โปรเจ็กexe แล้วกดรันตามปุ่มต่างๆ มันไม่ทำงาน\n\nซึ่งตอนแรก นึกว่าเป็นที่วินโดว์ว่าเราไปตั้งอะไรมา ไปปิดอะไรแปลกๆรึเปล่า แต่ลองดูแล้ว วินโดว์ไม่มีอะไรผิดปกติเลยครับ\n",
-    "title": "หาคนช่วยแก้Src โค้ดบัค/error ภาษา c++",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "700",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-03T16:21:25.577564Z",
-    "updated_at": "2026-08-03T16:21:27.919462Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4;iPhone;11.7.0-6002803"
-    },
-    "user_id": "396128d5-6035-4f28-b35b-c723cc638bb8",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-02T16:21:25.558062Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "700",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-03T18:05:29.472Z"
   }
 ]
