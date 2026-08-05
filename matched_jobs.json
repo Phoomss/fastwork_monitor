@@ -1,5 +1,153 @@
 [
   {
+    "id": "4a266509-06ed-46ae-8266-31dfd7d39c93",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "สวัสดีค่ะ บริษัท ซิสเท็ม ยู โซลูชั่น \nบริษัทสายพัฒนา Software \nต้องการ Full time Full-Stack Dev\nเงินเดือน 25000-35000+++ (ขึ้นอยู่กับความสามารถ)\nงาน WFH , Hybrid , ส่วนใหญ่จะ WFH \n\nประสบการณ์ 3+ Yrs \nถนัด React , Next.js , Node.js , C# , JavaScript , TypeScript , CSS\nDB : MS SQL Server , postgresql , Cloud AWS , Google Cloud , คำสั่ง SQL \nVersion : Git , GitLAB \n\nมีระบบ Software น่าสนใจให้ร่วมทีม \nมีให้เรียนรู้พร้อมปฏิบัติงานจริง \n\nต้องการด่วน พร้อมเริ่มงาน ทันที",
+    "title": "ProgrammerFull-Stack Dev ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-05T08:47:12.030511Z",
+    "updated_at": "2026-08-05T08:47:13.303353Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-04T08:47:11.967413Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
+    "user_profile": {
+      "id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
+      "username": "aghzhgwf",
+      "display_name": "ผกาวัลย์  ศิลขันธ์",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-05T09:25:29.910Z"
+  },
+  {
+    "id": "9faa73a5-d36f-426b-b449-561986fe4017",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "แอปพลิเคชัน Unni (แอปรวมข้อมูลศัลยกรรมและหัตถการจากเกาหลี) กำลังเปิดรับสมัครผู้เชี่ยวชาญจากคลินิกหรือโรงพยาบาลศัลยกรรมในไทย เพื่อร่วมโปรเจกต์ Category Localization ปรับหมวดหมู่หัตถการในแอปฯ ให้ตรงกับความเข้าใจของคนไทยค่ะ\n\nรายละเอียดงาน:\n\nตรวจสอบและให้ข้อเสนอแนะในการจัดกลุ่มหมวดหมู่หัตถการและศัลยกรรม\n\nทำงานผ่าน Google Sheet และพูดคุยผ่าน Google Meet\n\nระยะเวลาทำงาน:\n\nประมาณ 2–3 สัปดาห์ (เริ่มช่วงกลางเดือนสิงหาคม - อาจมีการเปลี่ยนแปลงตามความเหมาะสม)\n\nคุณสมบัติที่มองหา:\n\nมีประสบการณ์ทำงานในคลินิกความงามหรือโรงพยาบาลศัลยกรรม (เช่น ที่ปรึกษา/เซลล์ประจำคลินิก หรือผู้เชี่ยวชาญด้านหัตถการ)\n\nเข้าใจพฤติกรรม ภาษา และวิธีคิดของคนไทยเวลาค้นหาข้อมูลศัลยกรรม/หัตถการเป็นอย่างดี\n\nรับทั้งผู้เชี่ยวชาญที่ดูแลทั้งหัตถการและศัลยกรรม หรือแยกเฉพาะทางก็ได้ค่ะ\n\nค่าตอบแ��น:\n\nผู้เชี่ยวชาญด้านหัตถการ (Non-surgical): 7,000 THB\n\nผู้เชี่ยวชาญด้านศัลยกรรม (Surgical): 4,500 THB\n\nหากดูแลได้ทั้ง 2 ส่วน: 11,500 THB",
+    "title": "ฟรีแลนซ์ ผู้เชี่ยวชาญ/ที่ปรึกษาด้านหัตถการและศัลยกรรมความงาม ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-05T07:36:28.650994Z",
+    "updated_at": "2026-08-05T07:36:30.504104Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-04T07:36:28.594735Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "68261019-94f8-4c53-a87e-e8ad393b90ff",
+    "user_profile": {
+      "id": "68261019-94f8-4c53-a87e-e8ad393b90ff",
+      "username": "patc09",
+      "display_name": "patc09",
+      "image_url": "https://storage.googleapis.com/fastwork-static/03c815ec-4df1-4885-9e26-57685dccb041.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-05T09:25:28.774Z"
+  },
+  {
+    "id": "c19e18d5-2ed9-41e1-87ab-27863be7d3af",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "สนใจนักศึกษาฝึกงาน (วิศวกรรม คอมพิวเตอร์)\n1. งานเขียนโปรแกรม\n2. งานพัฒนาโปรแกรม\n\nกำหนดการทำงาน จ.-ศ. เวลา 08.00-17.00 น. \nระยะเวลา 4 เดือน\n***มีค่าจ้างตามที่บริษัทกำหนด(สามารถสอบถามได้)***\n\nบ.เจ้าคุณเกษตรพืชผล จำกัด ผลิตและจัดจำหน่ายน้ำเชื่อมไฮฟรุคโทส เปิดดำเนินการกว่า 40 ปี\nโรงงานตั้งอยู่ที่ อำเภอแก่งคอย จังหวัดสระบุรี\nสนใจ ติดต่อ คุณวราภรณ์ แผนกทรัพยากรบุคคล 02 2764909 ต่อ 502\n",
+    "title": "นักศึกษาฝึกงานวิศวกรรม คอมพิวเตอร์",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-05T07:23:42.111947Z",
+    "updated_at": "2026-08-05T07:23:43.913020Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-04T07:23:42.086855Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "97eb49c8-cd78-4bb4-8adb-b6cd11a9e17f",
+    "user_profile": {
+      "id": "97eb49c8-cd78-4bb4-8adb-b6cd11a9e17f",
+      "username": "varaporna",
+      "display_name": "varaporna",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-05T09:25:27.052Z"
+  },
+  {
     "id": "04dde6a6-2e7a-45af-a0ce-bfeaefb60300",
     "status": "open",
     "tag": {
