@@ -293,54 +293,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-05T06:44:32.630Z"
-  },
-  {
-    "id": "36f17d3e-3dff-4b8b-a773-7ff2cf88210c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการพัฒนาเว็บไซต์ระบบ E-Order สำหรับร้านค้าส่งและค้าปลีกอาหาร ให้ลูกค้าสามารถสั่งซื้อสินค้าออนไลน์ผ่านมือถือและคอมพิวเตอร์ได้ โดยไม่ต้องติดตั้งแอปพลิเคชัน\n\nสิ่งที่อยากให้มีเบื้องต้น เช่น\n\n- ลูกค้าเข้าสู่ระบบ\n- ค้นหาสินค้า\n- เลือกสินค้าและกดเพิ่มจำนวน\n- ใส่ตะกร้า\n- ส่งออเดอร์เข้ามาที่ร้าน\n- ร้านสามารถดูออเดอร์ผ่านระบบหลังบ้าน\n- เพิ่ม แก้ไข ลบสินค้าได้\n- แก้ไขราคาและรูปสินค้าได้\n- ใช้งานได้ทั้งมือถือและคอมพิวเตอร์\n\nหากเคยทำระบบลักษณะนี้มาก่อน รบกวนส่งผลงานและแจ้งงบประมาณกับระยะเวลาที่ใช้พัฒนาให้ด้วยค่ะ\n",
-    "title": "ทำเว็บไซต์สั่งซื้อสินค้า (E-Order)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-04T17:53:11.480454Z",
-    "updated_at": "2026-08-04T17:53:13.282247Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPhone;11.8.0-6002827"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-03T17:53:11.426877Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "e18ac032-5103-4bd4-a4b6-639db8181dfa",
-    "user_profile": {
-      "id": "e18ac032-5103-4bd4-a4b6-639db8181dfa",
-      "username": "zllavyri",
-      "display_name": "Prim",
-      "image_url": "https://storage.googleapis.com/fastwork-static/29cb4022-4a36-4fd5-9810-28fa3beb08e7.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-04T18:58:24.258Z"
   }
 ]
