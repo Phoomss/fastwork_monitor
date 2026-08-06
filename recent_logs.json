@@ -1,9 +1,5 @@
 [
-  "[2026-08-06T11:31:33.946Z]     Notification sent successfully.",
-  "[2026-08-06T11:31:33.413Z]   FOUND NEW TARGET JOB: Programmer สัญญาจ้าง 1 ปี (Cats: พัฒนาเว็บไซต์) (Budget: 25000 THB)",
-  "[2026-08-06T11:31:32.410Z]     Notification sent successfully.",
-  "[2026-08-06T11:31:32.103Z]   FOUND NEW TARGET JOB: รับสมัครผู้เชี่ยวชาญด้านหัตถการและศัลยกรรมความงามมำทำแบบสอบถาม (Cats: พัฒนาเว็บไซต์) (Budget: 4500 THB)",
-  "[2026-08-06T11:31:31.128Z] Checking Fastwork for new job posts...",
-  "[2026-08-06T11:31:31.127Z] Auto-cleanup: Removed 39 seen job tracking IDs older than 1 day(s).",
-  "[2026-08-06T11:31:31.124Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
+  "[2026-08-06T13:10:58.983Z] Checking Fastwork for new job posts...",
+  "[2026-08-06T13:10:58.983Z] Auto-cleanup: Removed 26 seen job tracking IDs older than 1 day(s).",
+  "[2026-08-06T13:10:58.980Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
