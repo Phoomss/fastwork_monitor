@@ -341,54 +341,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-06T03:54:23.734Z"
-  },
-  {
-    "id": "e2850871-c27a-41b7-ae07-c45c14fa8aed",
-    "status": "open",
-    "tag": {
-      "id": "883a6909-c772-48fa-91e9-b8162e599aba",
-      "name": "ช่าง",
-      "sort": 13
-    },
-    "type": "full-time",
-    "description": "ต้องการคนที่ ซื่อสัตย์ ไว้ใจได้ แล้วพร้อมที่จะเรียนรู้ มีประสบการเกี่ยวกับ it นิดหน่อยพร้อมเรียนรู้ ",
-    "title": "ช่างจอ android ",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-05T12:08:29.991269Z",
-    "updated_at": "2026-08-05T12:08:31.831323Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-F946B;9.10.1-6001690"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-04T12:08:29.934180Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "9fb7a3ab-634e-4830-9f4b-f55c0f15a8f5",
-    "user_profile": {
-      "id": "9fb7a3ab-634e-4830-9f4b-f55c0f15a8f5",
-      "username": "suphavitn",
-      "display_name": "suphavit",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9fb7a3ab-634e-4830-9f4b-f55c0f15a8f5/profile/95c55dfd-139d-4c06-9819-2163f03e6210.webp"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-05T13:15:30.130Z"
   }
 ]
