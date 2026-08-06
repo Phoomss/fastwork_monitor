@@ -1,5 +1,103 @@
 [
   {
+    "id": "7f294606-10a2-4d6e-88fc-167bd3911e7c",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "contract",
+    "description": "- ออกแบบและพัฒนา Frontend ด้วย Next.js (App Router) ให้รองรับ SSR / SSG / ISR ตามความเหมาะสม\n- พัฒนา RESTful API  และ Backend Service ด้วย NestJS บน Node.js\n- ออกแบบ Database Schema และเขียน Query ด้วย PostgreSQL ร่วมกับ ORM (เช่น Prisma หรือ Drizzle)\n- เขียน Unit Test และ Integration Test\n- ทํางานร่วมกับทีม BA, Designer และ DevOps\n- Code Review และแนะนํา Best Practice ให้กับทีม\n",
+    "title": " Full Stack Developer (Next.js and NestJS)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "35000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-06T03:30:53.938793Z",
+    "updated_at": "2026-08-06T03:30:55.175553Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-05T03:30:53.856562Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+      "username": "psp2005",
+      "display_name": "Professional Service Provider",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "35000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-06T03:54:24.961Z"
+  },
+  {
+    "id": "e2802ad2-02f8-42e6-b6e7-c62c0564b150",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการหา Developer ที่ประสบการณ์ PHP, Node, MySQL\n\nช่วยปรับโค้ดเพิ่มเติมเและช่วยแก้ไขปัญหา logic ของปัจจุบันที่ข้อมูลไม่ sync",
+    "title": "Developer ที่ช่วยหาปัญหาของโค้ด",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-06T03:15:18.633657Z",
+    "updated_at": "2026-08-06T03:15:19.955315Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-05T03:15:18.614158Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-08-07",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
+      "username": "artmanomai",
+      "display_name": "Aphilak Manomai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-06T03:54:23.734Z"
+  },
+  {
     "id": "e2850871-c27a-41b7-ae07-c45c14fa8aed",
     "status": "open",
     "tag": {
