@@ -1,5 +1,103 @@
 [
   {
+    "id": "a6d34ad7-220c-49c2-a56b-3ec29a2c42f7",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "สวัสดีครับ\n\nต้องการหาคนเชื่อม API ของ Flow Account และ Shopify ให้ครับ\n\nตอนนี้ Flow account ผมเชื่อม Shopee และ TikTok อยู่\nต้องการเชื่อม Shopify เพิ่มครับโดยอยากให้ทั้ง 3 อันรันเลขแบบ Smooth ครับ\n\nสอบถามเพิ่มเติมได้ครับ \nขอบคุณครับ",
+    "title": "เชื่อม API Flowaccount และ Shopify",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-06T07:40:20.294874Z",
+    "updated_at": "2026-08-06T07:40:21.399123Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-05T07:40:20.240406Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d8870a1d-165d-4dc7-a414-a8ebdb7a1323",
+    "user_profile": {
+      "id": "d8870a1d-165d-4dc7-a414-a8ebdb7a1323",
+      "username": "hiuweihp",
+      "display_name": "KONG",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-06T09:11:45.515Z"
+  },
+  {
+    "id": "98c66068-e1d4-44d6-bd7b-4c89a0aeec40",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "1. หน้าเว็บไซต์บนมือถือ (Frontend):\n ทำหน้าเว็บ Mobile-friendly ที่ลูกค้าสแกน QR Code หน้าตู้แล้วเด้งขึ้นมา\n แสดงหน้าจอสถานะตู้ล็อกเกอร์จำนวน 12 ช่อง (บอกสถานะว่าช่องไหนว่างพร้อมซื้อ หรือช่องไหนสินค้าหมด)\n มีปุ่มให้ลูกค้ากดเลือกช่องล็อกเกอร์ที่ต้องการ\n2. ระบบชำระเงินและหลังบ้าน (Backend & Payment):\n เมื่อลูกค้ากดเลือกช่อง ระบบจะสร้าง PromptPay QR Code (แสดงราคาตามที่กำหนด) ขึ้นมาให้ชำระเงิน\n มีระบบหลังบ้าน (Webhook / API Integration) สำหรับตรวจสอบสถานะการชำระเงินแบบเรียลไทม์ (เช่น เชื่อมต่อกับระบบ Payment Gateway หรือ API ตรวจสลิป)\n เมื่อได้รับยืนยันว่าชำระเงินสำเร็จ ระบบหลังบ้านจะยิงคำสั่งไปเปิดล็อกเกอร์ช่องที่ลูกค้าเลือกทันที\n3. ระบบควบคุมฮาร์ดแวร์ (IoT ESP32):\n เขียนโค้ดสำหรับฝังลงในบอร์ด ESP32 (เชื่อมต่อ Wi-Fi) เพื่อคอยฟังคำสั่ง (HTTP Request / Webhook) จากเซิร์ฟเวอร์\n เมื่อได้รับคำสั่งให้เปิดช่องที่ระบุ บอร์ดจะส่งสัญญาณไฟผ่านรีเลย์ (Relay) ไปกระตุกกลอนประตูไฟฟ้า (Solenoid Lock 12V) ให้เด้งเปิดออกเป็นเวลา 3 วินาทีแล้วปิดล็อกอัตโนมัติ\nสิ่งที่ผู้พัฒนาต้องส่งมอบ (Deliverables):\n Source code ทั้งหมด (หน้าเว็บ Backend และโค้ดสำหรับบอร์ด ESP32)\n คู่มือหรือคำแนะนำสั้นๆ ในการเชื่อมต่อระบบและวิธีอัปโหลดโค้ดลงบอร์ด ESP32\n",
+    "title": "ต้องการจ้างฟรีแลนซ์ช่วยพัฒนาโปรเจกต์ตู้ล็อกเกอร์ขายน้ำดื่มอัตโนมัติแบบไม่มีหน้าจอที่ตัวตู้ โดยใช้มือถือของลูกค้า��นการทำ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-06T07:32:55.349117Z",
+    "updated_at": "2026-08-06T07:32:56.655683Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPad;11.9.0-6002840"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-05T07:32:55.327631Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "2e37e2da-0e5e-407a-80fd-a793e1dfc23d",
+    "user_profile": {
+      "id": "2e37e2da-0e5e-407a-80fd-a793e1dfc23d",
+      "username": "whl9utzf",
+      "display_name": "Ken nutthapol",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-06T09:11:44.303Z"
+  },
+  {
     "id": "d320e013-c727-403f-887b-f286d7019aae",
     "status": "open",
     "tag": {
@@ -391,54 +489,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-05T09:25:27.052Z"
-  },
-  {
-    "id": "04dde6a6-2e7a-45af-a0ce-bfeaefb60300",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "เป็นแอพสำหรับ ให้คนเช่าห้องแจ้งโอนเงิน โดยการแนบสลิป แนบรูปใบแจ้งหนี้(ถ้ามี)  และใส่เลขห้อง พร้อมทั้งเราสามารถเช็คสลิปได้เลย",
-    "title": "อยากหาคนทำแอพสำหรับแจ้งโอนเงิน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-05T04:29:42.541214Z",
-    "updated_at": "2026-08-05T04:29:43.974627Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.8.0-6002827"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-04T04:29:42.491184Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "fe046116-bc2b-48cf-96f6-ef9772186777",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-05T06:44:32.630Z"
   }
 ]
