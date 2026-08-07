@@ -1,5 +1,55 @@
 [
   {
+    "id": "83c82f5a-5a1c-49cf-86e3-f2fd414cf6e5",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ ต้องการ UX/UI Designer ออกแบบระบบหลังบ้าน (Web Dashboard) สำหรับ Healthcare Recruitment Agency เน้นออกแบบ Workflow การจัดการ Job, Candidate, Clinic, Dashboard และ Approval Flow\n\nหากเป็นท่านที่สามารถช่วยวิเคราะห์ Workflow และเสนอแนวทาง UX ได้ด้วยจะดีมากค่ะ ",
+    "title": "เน้น UX/UI ระบบหลังบ้าน เข้าใจ Workflow เคยออกแบบระบบ Approve/จัดการข้อมูล/Dashboard ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-07T14:01:01.226348Z",
+    "updated_at": "2026-08-07T14:01:03.269118Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.9.0-6002840"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-06T14:01:01.126319Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4dffbdb2-fe4e-47f1-8d83-e3cae5e1b507",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-07T14:27:25.271Z"
+  },
+  {
     "id": "c1d7aea2-c27a-4f21-8e19-4025e6685cc9",
     "status": "open",
     "tag": {
