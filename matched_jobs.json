@@ -1,5 +1,103 @@
 [
   {
+    "id": "4577810e-64fa-4f12-be97-f27eb5a0b009",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตามหา Senior Developer มาเป็นคนกลางช่วยสัมภาษณ์และประเมินทักษะฝั่ง Tech\n\nพวกเรากำลังมองหา Senior Developer / Tech Lead มาร่วมงานในรูปแบบ Consult เพื่อช่วยสัมภาษณ์ คัดเลือก และประเมินผู้สมัครตำแหน่ง Developer ของทีม (คาดว่าจะสัมภาษณ์ประมาณ 15-20 คน) เพื่อวัดระดับความรู้ความสามารถจริงอย่างเป็นกลางค่ะ\n\n\n🎯 ขอบเขตงาน (Scope of Work)\n\n1. Technical Interview: ร่วมเข้าสัมภาษณ์ผู้สมัคร (ออนไลน์) เป็นผู้ถามคำถามเชิงเทคนิค วัด Logical Thinking และประเมินความรู้จริง\n2. Evaluation & Checklist: ทำ Checklist ประเมินทักษ��ความรู้ด้าน Technology ในแต่ละหมวดหมู่ เพื่อสรุปว่าผู้สมัครคนไหนเก่งจริง อยู่ในระดับใด (Junior / Mid / Senior)\n3. Insight Translation: อธิบาย สรุปผล และ Translate ผลการสัมภาษณ์ให้ทีมงานในบริษัทฟัง โดยแปลศัพท์เทคนิคคอมพิวเตอร์ยากๆ ให้เป็นภาษาพูดที่เข้าใจง่าย ช่วยให้บริษัทตัดสินใจคัดเลือกได้แม่นยำ\n\n\n👤 คุณสมบัติที่เรามองหา\n\n- มีประสบการณ์ระดับ Senior Developer, Tech Lead หรือเคยทำหน้าที่เป็น Technical Interviewer คัดคนเข้าทีม\n- มีความรู้กว้างและลึกในสายงาน Software Development สามารถตั้งคำถามและดูออกว่าผู้สมัครเก่งจริงหรือแค่จำมาตอบ\n- มีทักษะการสื่อสารที่ดีเยี่���ม สามารถแปลเรื่องเทคซับซ้อนให้คนนอกสายงานเข้าใจได้ง่าย\n\n\n💰 ค่าตอบแทน & รูปแบบการทำงาน\n\n- รูปแบบ: Freelance / Consult (รับสัมภาษณ์ประมาณ 10 คน)\n- งบประมาณ: ผู้สมัครสามารถเสนอราคามาได้ทั้งแบบ Per Job (เหมาทั้งเคส 10 คน) หรือ Per Hour (คิดตามชั่วโมงจริง) ตามที่สะดวกได้เลยค่ะ\n\n\n📩 สนใจร่วมงาน/สอบถามรายละเอียด:\nส่ง Profile / portfolio",
+    "title": "ตามหา Senior Developer มาเป็นคนกลางช่วยสัมภาษณ์และประเมินทักษะฝั่ง Tech",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-07T18:24:36.830483Z",
+    "updated_at": "2026-08-07T18:24:38.323362Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.8.0-6002827"
+    },
+    "user_id": "f578527a-a6ef-4c19-9640-da358f7354b4",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-06T18:24:36.573691Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-07T18:40:37.747Z"
+  },
+  {
+    "id": "73b8ed9f-1dcc-45d4-a072-97aeaf83b207",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตามหา Senior Dev มาช่วยทำ Code Review & Architecture Audit สำหรับเว็บ\n\nพวกเรากำลังมองหา Senior Developer / Tech Lead ที่มีประสบการณ์ มาช่วย Review Code และประเมินโครงสร้างระบบทั้งหมด ของเว็บ เพื่อให้มั่นใจว่าโค้ดที่เขียนมาได้มาตรฐานสากลและพร้อมสำหรับเติบโตต่อในอนาคตค่ะ\n\n��� ขอบเขตงาน (Scope of Work)\nCode & Architecture Review: ตรวจสอบความสะอาดของโค้ด (Clean Code), โครงสร้างโปรเจกต์ (Project Structure), Performance และ Security เบื้องต้น \nStandard & Maintainability Assessment: ประเมินว่าโค้ดเป็นไปตามมาตรฐานสากล (Best Practices) มากน้อยแค่ไหน สามารถส่งต่อให้ Developer คนอื่นมาทำต่อได้ราบรื่นไหม (Technical Debt เป็นอย่างไร) \nWalkthrough & Summary Session: อธิบายผลการรีวิวและข้อเสนอแนะในการ Refine/Improve แบบเข้าใจง่าย สรุปภาพรวมเชิงเทคนิคให้ฟัง (1-on-1 หรือ Team Call) \n👤 คุณสมบัติที่เรามองหา\nมีประสบการณ์ระดับ Senior Developer / Tech Lead (Full-stack / Backend / Frontend) \nเข้าใจเรื่อง Software Architecture, Design Patterns และ Best Practices ระดับสากล \nสามารถสื่อสาร สรุปประเด็���เทคนิคที่ซับซ้อนให้เข้าใจได้ชัดเจน และให้ Constructive Feedback ได้ \nมีประสบการณ์ทำ Code Audit หรือพา Team Onboarding โค้ดชุดใหม่ๆ จะพิจารณาเป็นพิเศษ \n💰 ค่าตอบแทน & รูปแบบการทำงาน\nรูปแบบ: Freelance / Consult (Project-based หรือ Hourly ตามตกลง) \n\n📩 สนใจร่วมงาน/สอบถามรายละเอียด:\nส่ง Profile / portfolio",
+    "title": "ตามหา Senior Dev มาช่วยทำ Code Review & Architecture Audit สำหรับเว็บ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "3000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-07T18:21:28.443854Z",
+    "updated_at": "2026-08-07T18:21:30.492516Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.8.0-6002827"
+    },
+    "user_id": "f578527a-a6ef-4c19-9640-da358f7354b4",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-06T18:21:28.248935Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-07T18:40:36.230Z"
+  },
+  {
     "id": "83c82f5a-5a1c-49cf-86e3-f2fd414cf6e5",
     "status": "open",
     "tag": {
