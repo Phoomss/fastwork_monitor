@@ -1,5 +1,54 @@
 [
   {
+    "id": "bda67a0f-fddd-447d-bd60-7cb5be3ac047",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "part-time",
+    "description": "บรีฟงาน\nกำลังมองหาผู้ทดลองใช้งานแอปฟลิเคชันที่เพิ่งเปิดให้\nบริการ เพื่อช่วยทดสอบระบบและให้ Feedback\n\nคุณสมบัติที่ต้องการ\n\n1. มีสิ่งของในบ้านที่ไม่ได้ใช้งานหรือมีของสะสมหลาย\nรายการ และหลายหมวดหมู่\n2. พร้อมทดลองลงขายสินค้าจริงอย่างน้อย 15-20\nรายการและคละหมวดหมู่\n3. ใช้งานสมาร์ทโฟน (iOS หรือ Android) ได้\nสามารถให้ Feedback เกี่ยวกับการใช้งานได้จริงจ���ง\nทดลองใช้งานฟีเจอร์ต่าง ๆ แจ้งปัญหาหรือข้อเสนอแนะ\nมีเครดิตและตัวตนบริษัทจริงครับ\nใช้เวลาประมาณ 20-30 นาที่",
+    "title": "คนมาทดสอบแอปพลิเคชั่น Beta tester 1 ชม.",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-07T09:43:56.531810Z",
+    "updated_at": "2026-08-07T09:43:58.301937Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.1;iPad;11.8.0-6002827"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-08",
+    "expired_at": "2026-09-06T09:43:56.481813Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4ac58c92-d748-4ea7-8e19-30482916176f",
+    "user_profile": {
+      "id": "4ac58c92-d748-4ea7-8e19-30482916176f",
+      "username": "doitloveit",
+      "display_name": "chap.st",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-07T10:29:42.351Z"
+  },
+  {
     "id": "f8b5b0b8-71b1-4901-8075-c42c2521af32",
     "status": "open",
     "tag": {
