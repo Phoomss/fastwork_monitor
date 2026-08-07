@@ -1,5 +1,54 @@
 [
   {
+    "id": "f8b5b0b8-71b1-4901-8075-c42c2521af32",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "1 ช่วยออกแบบ site map พร้อมออกแบบ Key visual ให้คำปรึกษาได้ตลอดการทำงาน\n2 แนะนำ หรือ discuss ได้ ถ้าสิ่งที่เราต้องการเป็นไปได้ยากหรือมีวิธีอื่นที่น่าทำมากกว่า\n3 ไม่ทิ้งงาน ไม่หาย ไม่เงียบ ไม่ตอบ แบบนี้ไม่เอาค่ะ\n4 มีมุมมองการแนะนำป���ะหนึ่งว่าเป็นเจ้าของเว็บไซต์ธุรกิจนี้เอง และพัฒนาจนสำเร็จภายในเวลาที่กำหนด\n5 จบงานแล้วยังสามารถบริการเพิ่มเติมหลังงานได้ เช่น คำปรึกษาและคำแนะนำต่างๆในการพัฒนาต่อไป",
+    "title": "คนช่วยวางแผน site map และทำ web site",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-07T09:15:29.016440Z",
+    "updated_at": "2026-08-07T09:15:30.768415Z",
+    "brief_url": "https://www.quietevents.com/?srsltid=AfmBOoqDo_J-NzP8CqKZne-Wt1M3tMEKW1tg8qtmnHkPaVmdWx76DCnB",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S918B;11.8.0-6002827"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-09-06T09:15:28.899986Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "9baecd38-93df-488a-b7c0-ce2f29b0e3d2",
+    "user_profile": {
+      "id": "9baecd38-93df-488a-b7c0-ce2f29b0e3d2",
+      "username": "kanomcake.x",
+      "display_name": "kanomcake.x",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9baecd38-93df-488a-b7c0-ce2f29b0e3d2/profile/a3c3a82f-a637-4ea5-9bec-0362cd1b4c80.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-07T09:37:34.035Z"
+  },
+  {
     "id": "312bf2e9-aa2f-407c-bb42-0be21a23e9e0",
     "status": "open",
     "tag": {
@@ -293,103 +342,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-06T11:31:32.102Z"
-  },
-  {
-    "id": "a6d34ad7-220c-49c2-a56b-3ec29a2c42f7",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ\n\nต้องการหาคนเชื่อม API ของ Flow Account และ Shopify ให้ครับ\n\nตอนนี้ Flow account ผมเชื่อม Shopee และ TikTok อยู่\nต้องการเชื่อม Shopify เพิ่มครับโดยอยากให้ทั้ง 3 อันรันเลขแบบ Smooth ครับ\n\nสอบถามเพิ่มเติมได้ครับ \nขอบคุณครับ",
-    "title": "เชื่อม API Flowaccount และ Shopify",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-06T07:40:20.294874Z",
-    "updated_at": "2026-08-06T07:40:21.399123Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-05T07:40:20.240406Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d8870a1d-165d-4dc7-a414-a8ebdb7a1323",
-    "user_profile": {
-      "id": "d8870a1d-165d-4dc7-a414-a8ebdb7a1323",
-      "username": "hiuweihp",
-      "display_name": "KONG",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-06T09:11:45.515Z"
-  },
-  {
-    "id": "98c66068-e1d4-44d6-bd7b-4c89a0aeec40",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "1. หน้าเว็บไซต์บนมือถือ (Frontend):\n ทำหน้าเว็บ Mobile-friendly ที่ลูกค้าสแกน QR Code หน้าตู้แล้วเด้งขึ้นมา\n แสดงหน้าจอสถานะตู้ล็อกเกอร์จำนวน 12 ช่อง (บอกสถานะว่าช่องไหนว่างพร้อมซื้อ หรือช่องไหนสินค้าหมด)\n มีปุ่มให้ลูกค้ากดเลือกช่องล็อกเกอร์ที่ต้องการ\n2. ระบบชำระเงินและหลังบ้าน (Backend & Payment):\n เมื่อลูกค้ากดเลือกช่อง ระบบจะสร้าง PromptPay QR Code (แสดงราคาตามที่กำหนด) ขึ้นมาให้ชำระเงิน\n มีระบบหลังบ้าน (Webhook / API Integration) สำหรับตรวจสอบสถานะการชำระเงินแบบเรียลไทม์ (เช่น เชื่อมต่อกับระบบ Payment Gateway หรือ API ตรวจสลิป)\n เมื่อได้รับยืนยันว่าชำระเงินสำเร็จ ระบบหลังบ้านจะยิงคำสั่งไปเปิดล็อกเกอร์ช่องที่ลูกค้าเลือกทันที\n3. ระบบควบคุมฮาร์ดแวร์ (IoT ESP32):\n เขียนโค้ดสำหรับฝังลงในบอร์ด ESP32 (เชื่อมต่อ Wi-Fi) เพื่อคอยฟังคำสั่ง (HTTP Request / Webhook) จากเซิร์ฟเวอร์\n เมื่อได้รับคำสั่งให้เปิดช่องที่ระบุ บอร์ดจะส่งสัญญาณไฟผ่านรีเลย์ (Relay) ไปกระตุกกลอนประตูไฟฟ้า (Solenoid Lock 12V) ให้เด้งเปิดออกเป็นเวลา 3 วินาทีแล้วปิดล็อกอัตโนมัติ\nสิ่งที่ผู้พัฒนาต้องส่งมอบ (Deliverables):\n Source code ทั้งหมด (หน้าเว็บ Backend และโค้ดสำหรับบอร์ด ESP32)\n คู่มือหรือคำแนะนำสั้นๆ ในการเชื่อมต่อระบบและวิธีอัปโหลดโค้ดลงบอร์ด ESP32\n",
-    "title": "ต้องการจ้างฟรีแลนซ์ช่วยพัฒนาโปรเจกต์ตู้ล็อกเกอร์ขายน้ำดื่มอัตโนมัติแบบไม่มีหน้าจอที่ตัวตู้ โดยใช้มือถือของลูกค้า��นการทำ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-06T07:32:55.349117Z",
-    "updated_at": "2026-08-06T07:32:56.655683Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPad;11.9.0-6002840"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-05T07:32:55.327631Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "2e37e2da-0e5e-407a-80fd-a793e1dfc23d",
-    "user_profile": {
-      "id": "2e37e2da-0e5e-407a-80fd-a793e1dfc23d",
-      "username": "whl9utzf",
-      "display_name": "Ken nutthapol",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-06T09:11:44.303Z"
   }
 ]
