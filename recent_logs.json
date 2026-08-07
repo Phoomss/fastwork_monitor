@@ -1,5 +1,8 @@
 [
-  "[2026-08-07T12:02:11.623Z] Checking Fastwork for new job posts...",
-  "[2026-08-07T12:02:11.623Z] Auto-cleanup: Removed 37 seen job tracking IDs older than 1 day(s).",
-  "[2026-08-07T12:02:11.620Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-08-07T13:20:39.556Z]     Notification sent successfully.",
+  "[2026-08-07T13:20:39.389Z]   FOUND NEW TARGET JOB: Customize Android OS จาก AOSP (Cats: พัฒนาแอปพลิเคชัน) (Budget: 5000 THB)",
+  "[2026-08-07T13:20:38.386Z]     Notification sent successfully.",
+  "[2026-08-07T13:20:37.816Z]   FOUND NEW TARGET JOB: นทำ fontend (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 500 THB)",
+  "[2026-08-07T13:20:36.852Z] Checking Fastwork for new job posts...",
+  "[2026-08-07T13:20:36.849Z] Auto-cleanup: Removed 16 seen job tracking IDs older than 1 day(s)."
 ]
