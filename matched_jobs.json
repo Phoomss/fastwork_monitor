@@ -391,54 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-06T09:11:44.303Z"
-  },
-  {
-    "id": "d320e013-c727-403f-887b-f286d7019aae",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "1. Background & Pain Point\nเป็นคลินิกทันตกรรมที่กำลังเปลี่ยนผ่านไปสู่ระบบบริหารจัดการคลินิกตัวใหม่\nปัญหาปัจจุบัน: \nทันตแพทย์คีย์ประวัติ/หัตถการเป็นภาษาอังกฤษและศัพท์แพทย์เฉพาะทาง \nแต่พนักงานเคาน์เตอร์ไม่ได้จบสายสุขภาพ (จบ ม.6) ทำให้เสียเวลาอ่าน ตีความ หรือคีย์รายการคิดเงินและจัดยา การนัดหมายผิดพลาด\nโดนมีการเทรนพนักงานให้ความรู้เบื้องต้น แต่ยังคงผิดพลาดอยู่ ในการอ่านชาร์ทคนไข้\nความต้องการ: \nที่คิดไว้อาจจะต้องการสร้าง ตัวกลางแปลงภาษา ที่รับ input เป็นศัพท์แพทย์/รหัสหัตถการ แล้วแสดงผลฝั่งเคาน์เตอร์เป็นภาษาไทย + รหัสคิดเงิน + ภาษาพูดที่เข้าใจง่าย\n\n2. Scope \nมีเวลาทำโปรเจกต์ 100 วัน เพื่อให้เห็น KPI (เวลาบริการลดลง / Errorลดลง)\n\n3. สิ่งที่อยากขอคำแนะนำ/ไอเดีย :\nอยากฟังมุมมองว่า ถ้าเป็นคุณจะเลือกแก้ปัญหานี้ด้วย Tech Stack หรือ Approach แบบไหนที่ \"เร็ว คุ้มค่า และยั่งยืนที่สุด\" \nเป้าหมายตอนนี้: อยากได้ ข้อเสนอแนวคิด (Concept & Architecture Recommendation) และประเมินความเป็นไปได้/ระยะเวลา/งบประมาณเบื้องต้นก่อน \nหากแนวคิดไหนตอบโจทย์ จะพิจารณาจ้างทำ Prototype / UX Design ในขั้นตอนถัดไป\n\n\n\n\n",
-    "title": "[Consult Only] อยากได้ไอเดีย/มุมมองจากสาย Dev/UX: โจทย์ระบบช่วยแปลศัพท์แพทย์ทันตกรรมเป็นภาษาไทยหน้าเคาน์เตอร์",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "420",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-06T05:45:10.362040Z",
-    "updated_at": "2026-08-06T05:45:12.754740Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "user_id": "540b17f0-7791-4008-82bb-8dafbac78873",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-05T05:45:10.340052Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": "2026-08-15",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "540b17f0-7791-4008-82bb-8dafbac78873",
-      "username": "angsara.p",
-      "display_name": "Angsara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/540b17f0-7791-4008-82bb-8dafbac78873/profile/911ac1f1-7344-451e-8a07-832e6deeea19.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": "420",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-06T06:19:39.777Z"
   }
 ]
