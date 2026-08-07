@@ -1,5 +1,54 @@
 [
   {
+    "id": "97036ad3-0621-49e9-9d97-9e1a5d2ed018",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "เจ้าหน้าที่สนับสนุนลูกค้า\n• ให้ความช่วยเหลือลูกค้าในการใช้งานบริการ\n• ให้คำปรึกษาและคำแนะนำ\n• ประสานงานการนัดหมายและการ��ิดตามผล\n• มอบบริการลูกค้าที่เป็นเลิศ\n\nทำงานแค่ 1 วันก็พอ",
+    "title": "ผู้ช่วยส่วนตัว",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "16000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-07T02:08:27.258132Z",
+    "updated_at": "2026-08-07T02:08:28.304195Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.9.0-6002840"
+    },
+    "user_id": "4ea0dc55-87c4-43bf-917d-f2a154d56c9c",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-06T02:08:27.210311Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 6,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "4ea0dc55-87c4-43bf-917d-f2a154d56c9c",
+      "username": "zc6952jw",
+      "display_name": "satin",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "16000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-07T03:25:58.849Z"
+  },
+  {
     "id": "e9efaccc-77fb-4227-b150-2f8bc4b7bef4",
     "status": "open",
     "tag": {
