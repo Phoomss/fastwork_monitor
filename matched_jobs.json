@@ -1,5 +1,54 @@
 [
   {
+    "id": "312bf2e9-aa2f-407c-bb42-0be21a23e9e0",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "contract",
+    "description": "บทบาทและความรับผิดชอบหลัก (Key Responsibilities)\n- System Architecture Design: ออกแบบและวางโครงสร้างพื้นฐานของระบบ SINT ตั้งแต่ต้น (End-to-End) ให้มีความ���สถียร ปลอดภัย และมีต้นทุนการดูแลรักษาที่เหมาะสมที่สุด (Cost-Efficient Cloud)\n- LINE Platform Integration: พัฒนาและเชื่อมต่อระบบกับ LINE Messaging API, LINE Official Account (OA) และ LIFF (LINE Front-end Framework) เพื่อสร้าง User Interface ที่ใช้งานง่าย\n- IoT & Inverter API Integration: พัฒนาการเชื่อมต่อข้อมูล (API/Webhook/MQTT) เข้าสู่ฐานข้อมูล\n- Data Pipeline & Alerting Engine: สร้างระบบประมวลผลข้อมูลแบบ Real-time เพื่อแจ้งเตือนเคสเร่งด่วน (Urgent Alerts) ได้อย่างแม่นยำ ทันที ไม่ดีเลย์\n- Product Ownership: ทำงานร่วมกับ CEO เพื่อเปลี่ยน Business Requirements ให้กลายเป็น Feature ที่ตอบโจทย์ลูกค้าได้อย่างรวดเร็ว (Agile Development)\n\n\nคุณสมบัติที่มองหา (Qualifications & Skills) Technical Skills (ทักษะทางเทคนิค)\n- ม���ประสบการณ์ในสายงาน Full-Stack Development หรือ Backend Heavy Development\n- Backend: เชี่ยวชาญภาษา Node.js, Python หรือ Go (เน้นภาษาที่จัดการกับ Data API และ Real-time notification ได้ดี)\n- LINE Ecosystem: มีประสบการณ์ทำ LINE Messaging API, Flex Messages, LIFF อย่างเชี่ยวชาญ\n- API & Protocols: เข้าใจการเชื่อมต่อ RESTful API, Webhooks, MQTT และการดึงข้อมูลจากอุปกรณ์ IoT / Third-party APIs\n- Database: มีความเข้าใจในการเลือกใช้ Database ที่เหมาะสม เช่น PostgreSQL, MongoDB, หรือ Time-Series Database (สำหรับเก็บค่าพลังงานไฟฟ้า)\n- Cloud Infrastructure: สามารถวางระบบบน AWS / GCP / Azure ได้ด้วยตนเอง เข้าใจแนวคิด Serverless / Container (Docker) และ Cloud Cost Optimization (รู้วิธีควบคุมค่า Server ไม่ให้บานปลาย)\n\n\n** ต้องการคนที่พร้อมเข้ามาร่วมทำ���านที่บริษัทได้ในช่วงสัญญาจ้าง\nสำนักงานอยู่ ลาดพร้าว 87 กทม.",
+    "title": "Developer มาช่วยพัฒนา Service ของบริษัท [ระยะสั้น]",
+    "is_owner": false,
+    "source": "jobboard_web_seller-center_top-nav-bar",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-07T03:58:38.877793Z",
+    "updated_at": "2026-08-07T03:58:39.903938Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "user_id": "54beeae0-6b1f-436d-82d9-61b5b3e72e23",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-06T03:58:38.818242Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-07T05:10:28.269Z"
+  },
+  {
     "id": "97036ad3-0621-49e9-9d97-9e1a5d2ed018",
     "status": "open",
     "tag": {
@@ -391,103 +440,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-06T06:19:39.777Z"
-  },
-  {
-    "id": "7f294606-10a2-4d6e-88fc-167bd3911e7c",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "contract",
-    "description": "- ออกแบบและพัฒนา Frontend ด้วย Next.js (App Router) ให้รองรับ SSR / SSG / ISR ตามความเหมาะสม\n- พัฒนา RESTful API  และ Backend Service ด้วย NestJS บน Node.js\n- ออกแบบ Database Schema และเขียน Query ด้วย PostgreSQL ร่วมกับ ORM (เช่น Prisma หรือ Drizzle)\n- เขียน Unit Test และ Integration Test\n- ทํางานร่วมกับทีม BA, Designer และ DevOps\n- Code Review และแนะนํา Best Practice ให้กับทีม\n",
-    "title": " Full Stack Developer (Next.js and NestJS)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "35000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-06T03:30:53.938793Z",
-    "updated_at": "2026-08-06T03:30:55.175553Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-05T03:30:53.856562Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "35000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-06T03:54:24.961Z"
-  },
-  {
-    "id": "e2802ad2-02f8-42e6-b6e7-c62c0564b150",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการหา Developer ที่ประสบการณ์ PHP, Node, MySQL\n\nช่วยปรับโค้ดเพิ่มเติมเและช่วยแก้ไขปัญหา logic ของปัจจุบันที่ข้อมูลไม่ sync",
-    "title": "Developer ที่ช่วยหาปัญหาของโค้ด",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-06T03:15:18.633657Z",
-    "updated_at": "2026-08-06T03:15:19.955315Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-05T03:15:18.614158Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": "2026-08-07",
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-      "username": "artmanomai",
-      "display_name": "Aphilak Manomai",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-06T03:54:23.734Z"
   }
 ]
