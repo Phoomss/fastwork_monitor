@@ -1,5 +1,54 @@
 [
   {
+    "id": "0c22687b-0a1d-4b00-9e11-d7fb7617436e",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "part-time",
+    "description": "\n\"ตามหาฟรีแลนซ์มือไวเน็ตแรงมาร่วมทีมช่วยกดบัตรคอนเสิร์ตและอีเวนต์ต่าง ๆ แบบออนไลน์ร้อยเปอร์เซ็นต์โดยให้คุณสแตนด์บายกดจากที่บ้านหรือสถานที่ของตัวเองผ่านคอมพิวเตอร์และอินเทอร์เน็ตความเร็วสูงที่มีความเสถียร โดยขอคนที่มีความรับผิดชอบ ตรงต่อเวลา คุยง่าย เข้าใจง่าย และมีประสบการณ์คุ้นเคยกับระบบเว็บกดบัตรเป็นอย่างดี ซึ่งจะมีการแจ้งล่วงหน้าก่อนวันกดจริงอย่างน้อยสามวัน โดยเราเสนอค่าจ้างเหมาจ่ายตามระบบ Fastwork ต่อรอบการทำงาน พร้อมทั้งมีโบนัสพิเศษเพิ่มให้ทันทีหากคุณสามารถกดบัตรได้สำเร็จตามบร��ฟที่ตกลงกันไว้ หากใครสนใจร่วมงานยาว ๆ รบกวนทักแชทพร้อมส่งผลการทดสอบความเร็วอินเทอร์เน็ตและประวัติการกดบัตรที่ผ่านมามาให้พิจารณาได้เลยครับ\"\n",
+    "title": "หัวข้อประกาศ: หาคนมือไวเน็ตแรง ช่วยกดบัตร ",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-08T11:46:52.673171Z",
+    "updated_at": "2026-08-08T11:46:54.611985Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.4;iPhone;9.13.0-6001854"
+    },
+    "user_id": "80c3d895-8015-447a-8d5f-31a3abe932ee",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-07T11:46:52.641154Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-08T11:57:46.712Z"
+  },
+  {
     "id": "20f6c7d5-6861-4a33-97bf-d95a0fad309d",
     "status": "open",
     "tag": {
