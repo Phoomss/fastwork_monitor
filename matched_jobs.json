@@ -294,54 +294,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-07T10:29:42.351Z"
-  },
-  {
-    "id": "f8b5b0b8-71b1-4901-8075-c42c2521af32",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "1 ช่วยออกแบบ site map พร้อมออกแบบ Key visual ให้คำปรึกษาได้ตลอดการทำงาน\n2 แนะนำ หรือ discuss ได้ ถ้าสิ่งที่เราต้องการเป็นไปได้ยากหรือมีวิธีอื่นที่น่าทำมากกว่า\n3 ไม่ทิ้งงาน ไม่หาย ไม่เงียบ ไม่ตอบ แบบนี้ไม่เอาค่ะ\n4 มีมุมมองการแนะนำป���ะหนึ่งว่าเป็นเจ้าของเว็บไซต์ธุรกิจนี้เอง และพัฒนาจนสำเร็จภายในเวลาที่กำหนด\n5 จบงานแล้วยังสามารถบริการเพิ่มเติมหลังงานได้ เช่น คำปรึกษาและคำแนะนำต่างๆในการพัฒนาต่อไป",
-    "title": "คนช่วยวางแผน site map และทำ web site",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-07T09:15:29.016440Z",
-    "updated_at": "2026-08-07T09:15:30.768415Z",
-    "brief_url": "https://www.quietevents.com/?srsltid=AfmBOoqDo_J-NzP8CqKZne-Wt1M3tMEKW1tg8qtmnHkPaVmdWx76DCnB",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S918B;11.8.0-6002827"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-09-06T09:15:28.899986Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "9baecd38-93df-488a-b7c0-ce2f29b0e3d2",
-    "user_profile": {
-      "id": "9baecd38-93df-488a-b7c0-ce2f29b0e3d2",
-      "username": "kanomcake.x",
-      "display_name": "kanomcake.x",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9baecd38-93df-488a-b7c0-ce2f29b0e3d2/profile/a3c3a82f-a637-4ea5-9bec-0362cd1b4c80.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-07T09:37:34.035Z"
   }
 ]
