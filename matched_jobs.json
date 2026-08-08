@@ -1,5 +1,54 @@
 [
   {
+    "id": "3e47cf6d-61b1-4175-bbf3-6ebea6daecaa",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "หน้าที่และความรับผิดชอบ\n\nกำหนดกลยุทธ์ และแผนการตลาดทั้ง Online และ Offline ให้สอดคล้องกับเป้าหมายองค์กร\nจัดทำแผนการตลาดประจำ���ี งบประมาณ และ KPI ของฝ่ายการตลาด\nบริหารและพัฒนาทีม Marketing Online, Marketing Offline, Graphic Design, Video Production และ Content Creator\nวางแผนและควบคุมการดำเนินงาน Digital Marketing, Social Media, Website, SEO/SEM และ Online Advertising\nวางแผนกิจกรรมการตลาดออนไลน์ เช่น Exhibition, Seminar, Dealer Event, Partnership, CSR และกิจกรรมส่งเสริมการขาย\nกำหนดแผน Brand Communication และ Corporate Identity ให้เป็นมาตรฐานเดียวกันทุกช่องทาง\nบริหาร Campaign แบบ Omni-channel เชื่อมโยง Online และ Offline เพื่อสร้างยอดขายและ Brand Awareness\nวิเคราะห์ตลาด พฤติกรรมผู้บริโภค คู่แข่ง และโอกาสทางธุรกิจใหม่ พร้อมนำเสนอแผนพัฒนา\nบริหาร CRM, Customer Journey, Loyalty Program และฐานข้อมูลลูกค้า\nควบคุมงบประมาณก���รตลาด วิเคราะห์ ROI, ROAS และประสิทธิภาพของทุกกิจกรรม\nกำหนดและติดตาม Timeline ของทุกโครงการ พร้อมบริหารความเสี่ยงและแก้ไขปัญหา\nตรวจสอบคุณภาพของ Artwork, Video, Content, Brochure, Catalog และสื่อการตลาดทั้งหมดก่อนเผยแพร่\nกำหนด Workflow และมาตรฐานการทำงานของฝ่ายการตลาด พร้อมติดตาม KPI รายบุคคล\nนำ AI และ Marketing Technology มาประยุกต์ใช้เพื่อเพิ่มประสิทธิภาพการทำงาน\nประสานงานกับฝ่ายขาย ฝ่ายผลิต ฝ่ายบริการ ลูกค้า คู่ค้า และเอเจนซี่ภายนอก\nจัดทำรายงานสรุปผลการดำเนินงานรายเดือน รายไตรมาส และรายปี พร้อมข้อเสนอแนะต่อผู้บริหาร\nปฏิบัติงานอื่น ๆ ตามที่ได้รับมอบหมาย\n\nคุณสมบัติ\n\n• ปริญญาตรีหรือสูงกว่า สาขาการตลาด บริหารธุรกิจ นิเทศศาสตร์ หรือสาขาที่เกี่ยวข้อง\n• มีประสบการณ์ด้านการตลาด 3–5 ปีขึ้นไป และมีประสบการณ์บริหารทีม\n• มีความรู้ทั้ง Online Marketing และ Offline Marketing\n• มีทักษะด้านการวางแผน วิเคราะห์ข้อมูล การบริหารงบประมาณ และการบริหารโครงการ\n• มีภาวะผู้นำ สามารถสื่อสาร ประสานงาน และพัฒนาทีมงานได้\n• สามารถใช้เครื่องมือด้าน Digital Marketing, Analytics และ AI Tools ได้",
+    "title": "ต้องการด่วน Marketing Strategy",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-08T23:27:14.141429Z",
+    "updated_at": "2026-08-08T23:27:17.025020Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-20",
+    "expired_at": "2026-09-07T23:27:14.076441Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "1e91a980-c529-461f-9b03-e7f5cc00fd54",
+    "user_profile": {
+      "id": "1e91a980-c529-461f-9b03-e7f5cc00fd54",
+      "username": "joe_design",
+      "display_name": "joe_design",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/1e91a980-c529-461f-9b03-e7f5cc00fd54/profile/fc0cd1dd-790e-42f1-890e-4e17e82a2114.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-08T23:52:10.673Z"
+  },
+  {
     "id": "630791b5-0616-43ef-9c9d-3095a1a6c872",
     "status": "open",
     "tag": {
