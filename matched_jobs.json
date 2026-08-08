@@ -343,54 +343,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-07T09:37:34.035Z"
-  },
-  {
-    "id": "312bf2e9-aa2f-407c-bb42-0be21a23e9e0",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "contract",
-    "description": "บทบาทและความรับผิดชอบหลัก (Key Responsibilities)\n- System Architecture Design: ออกแบบและวางโครงสร้างพื้นฐานของระบบ SINT ตั้งแต่ต้น (End-to-End) ให้มีความ���สถียร ปลอดภัย และมีต้นทุนการดูแลรักษาที่เหมาะสมที่สุด (Cost-Efficient Cloud)\n- LINE Platform Integration: พัฒนาและเชื่อมต่อระบบกับ LINE Messaging API, LINE Official Account (OA) และ LIFF (LINE Front-end Framework) เพื่อสร้าง User Interface ที่ใช้งานง่าย\n- IoT & Inverter API Integration: พัฒนาการเชื่อมต่อข้อมูล (API/Webhook/MQTT) เข้าสู่ฐานข้อมูล\n- Data Pipeline & Alerting Engine: สร้างระบบประมวลผลข้อมูลแบบ Real-time เพื่อแจ้งเตือนเคสเร่งด่วน (Urgent Alerts) ได้อย่างแม่นยำ ทันที ไม่ดีเลย์\n- Product Ownership: ทำงานร่วมกับ CEO เพื่อเปลี่ยน Business Requirements ให้กลายเป็น Feature ที่ตอบโจทย์ลูกค้าได้อย่างรวดเร็ว (Agile Development)\n\n\nคุณสมบัติที่มองหา (Qualifications & Skills) Technical Skills (ทักษะทางเทคนิค)\n- ม���ประสบการณ์ในสายงาน Full-Stack Development หรือ Backend Heavy Development\n- Backend: เชี่ยวชาญภาษา Node.js, Python หรือ Go (เน้นภาษาที่จัดการกับ Data API และ Real-time notification ได้ดี)\n- LINE Ecosystem: มีประสบการณ์ทำ LINE Messaging API, Flex Messages, LIFF อย่างเชี่ยวชาญ\n- API & Protocols: เข้าใจการเชื่อมต่อ RESTful API, Webhooks, MQTT และการดึงข้อมูลจากอุปกรณ์ IoT / Third-party APIs\n- Database: มีความเข้าใจในการเลือกใช้ Database ที่เหมาะสม เช่น PostgreSQL, MongoDB, หรือ Time-Series Database (สำหรับเก็บค่าพลังงานไฟฟ้า)\n- Cloud Infrastructure: สามารถวางระบบบน AWS / GCP / Azure ได้ด้วยตนเอง เข้าใจแนวคิด Serverless / Container (Docker) และ Cloud Cost Optimization (รู้วิธีควบคุมค่า Server ไม่ให้บานปลาย)\n\n\n** ต้องการคนที่พร้อมเข้ามาร่วมทำ���านที่บริษัทได้ในช่วงสัญญาจ้าง\nสำนักงานอยู่ ลาดพร้าว 87 กทม.",
-    "title": "Developer มาช่วยพัฒนา Service ของบริษัท [ระยะสั้น]",
-    "is_owner": false,
-    "source": "jobboard_web_seller-center_top-nav-bar",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-07T03:58:38.877793Z",
-    "updated_at": "2026-08-07T03:58:39.903938Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "user_id": "54beeae0-6b1f-436d-82d9-61b5b3e72e23",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-06T03:58:38.818242Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-07T05:10:28.269Z"
   }
 ]
