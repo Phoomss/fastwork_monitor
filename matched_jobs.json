@@ -292,54 +292,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-08T11:57:46.712Z"
-  },
-  {
-    "id": "20f6c7d5-6861-4a33-97bf-d95a0fad309d",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "บริษัทรับออกแบบเว็บไซต์จากยุโรป กำลังมองหาทีมงานที่สามารถสื่อสารภาษาไทย เพื่อดูแลลูกค้าชาวไทยในยุโรป\n\nหน้าที่รับผิดชอบ\n* ตอบแชทลูกค้าผ่าน Facebook และ WhatsApp\n* ตอบคำถามเบื้องต้นและติดตามลูกค้าที่สนใจ\n* คัดกรองลูกค้าเบื้องต้น และนัดหมายเวลาคุยที่สะดวกสำหรับทั้งสองฝ่าย\n* สร้างความสัมพันธ์กับลูกค้า และช่วยแนะนำบริการที่เหมาะสมกับความต้องการ\n\nค่าตอบแทน\n* งานฟรีแลนซ์แบบ Commission-Based\n* รับค่าคอมมิชชัน สูงสุด 1,000 บาท ต่อการปิดการขายสำเร็จ\n* มีโบนัสเพิ่มเติมตามการรักษาลูกค้า (Client Retention)\n\nคุณสมบัต��\n* สื่อสารภาษาไทยและอังกฤษได้ดี\n* มีมนุษยสัมพันธ์ดี รับผิดชอบ และตอบข้อความได้ค่อนข้างรวดเร็ว\n* หากมีประสบการณ์ด้านงานขายหรือบริการลูกค้า จะได้รับการพิจารณาเป็นพิเศษ \n* มีคู่มือการทำงาน (SOP) และการอบรมให้\n\nรูปแบบการทำงาน\n* ทำงานจากที่ไหนก็ได้ (Remote)\n* เวลาทำงานยืดหยุ่น\n* สามารถนัดหมายเวลาคุยกับลูกค้าได้ตามเวลาที่สะดวก\n\nสนใจสมัคร\nกรุณาส่ง:\n* Resume (CV) - ภาษาอังกฤษ\n* ช่วงเวลาที่สะดวกในการทำงาน",
-    "title": "Appointment Setter / Sales Representative (Freelance | Remote)",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-08T11:10:52.805841Z",
-    "updated_at": "2026-08-08T11:10:54.718277Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.6.1;iPhone;6.5.0-6000261"
-    },
-    "already_offered": false,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-07T11:10:52.753096Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "8e014dbd-5792-4303-b8f9-6ae3fb64810b",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-08T11:35:57.264Z"
   }
 ]
