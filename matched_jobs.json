@@ -1,5 +1,54 @@
 [
   {
+    "id": "38500a55-f738-4954-a276-e59e365fd26d",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "มีแบบดีไซน์ที่ออกแบบไว้แล้ว (ภาพ mockup หน้า-หลัง-แขน\nพร้อมสเปกครบ) แต่ยังไม่มีไฟล์สำหรับผลิตจริง\nต้องการหาโรงงาน/ผู้ผลิตที่รับทำต่อจากแบบนี้ได้\nสำหรับเสื้อประจำห้องเรียนวิทยาศาสตร์พลังสิบ\n\nสเปกที่ต้องการ\n- แจ็คเก็ตผ้าร่ม \"โพลีเอสเตอร์\" พิมพ์ซับลิเมชั่นทั้งตัว\n  (ลายไล่เฉดกรมท่า-ขาว ต้องต่อเนื่องข้ามตะเข็บ)\n- คอตั้ง ซิปหน้า กระเป๋าเจาะซิป 2 ข้าง ปลายแขนและเอวจั๊มยางยืด\n- มีซับใน (รบกวนเสนอทั้งแบบซับในผ้าร่มและผ้าขน พร้อมส่วนต่างราคา)\n- โลโก้ตราโรงเรียนที่อกซ้าย: รบกวนเสนอทั้งแบบปักและแบบพิมพ์ซับ\n- ไซส์ XS-3XL\n\nรบกวนแจ้ง\n- รับจัดทำไฟล์ผลิตต่อจากภาพ mockup ที่มีอยู่ได้ไหม\n  มีค่าใช้จ่ายส่วนนี้เพิ่มเท่าไหร่\n- ขั้นต่ำกี่ตัว\n- ราคาต่อตัวที่จำนวน 10 / 20 / 40 ตัว\n- เคยทำงานลายไล่เฉดต่อตะเข็บไหม ขอดูรูปงานจริงที่เคยผลิต\n- ขอดูผลงานที่ผ่านมา\n-หน้าเพจ Facebook/Tiktok/Instartgram (ถ้ามี)\n- ระยะเวลาผลิต\n\nงบที่ตั้งไว้ 300-400 บาทต่���ตัว ถ้าเกินงบรบกวนเสนอทางเลือก\nที่ลดต้นทุนได้ เช่น เปลี่ยนชนิดผ้าหรือเปลี่ยนวิธีทำโลโก้",
+    "title": "รับผลิตเสื้อแจ็คเก็ตผ้าร่ม พิมพ์ซับลิเมชั่นทั้งตัว (มีแบบดีไซน์แล้ว)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-09T14:02:59.646174Z",
+    "updated_at": "2026-08-09T14:03:01.830508Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
+    },
+    "user_id": "35fa33a7-9091-46e3-85a4-82e11bd9ffe9",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-08T14:02:59.623256Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-09T14:37:45.658Z"
+  },
+  {
     "id": "fb4de7da-c163-42ef-8cfd-5869196e8abd",
     "status": "open",
     "tag": {
