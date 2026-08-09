@@ -1,5 +1,54 @@
 [
   {
+    "id": "54908ae3-eaa0-4b4a-b1e9-843eca84074b",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "ทำworkflow 2 รูปแบบ\n1.search webเอง\n2.แปลงเอกสารจากpdfให้เป็นmarkdownก่อน\nข้อจำกัด\nให้ใช้ Ai จาก Openrouter ",
+    "title": "หาคนทำ n8n",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "350",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-09T16:04:50.165224Z",
+    "updated_at": "2026-08-09T16:04:51.220637Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.9.0-6002840"
+    },
+    "user_id": "e33cace8-6514-4f23-8633-05cf4094d23e",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-08T16:04:50.144339Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-08-09",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุ��ื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "350",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-09T16:44:05.797Z"
+  },
+  {
     "id": "38500a55-f738-4954-a276-e59e365fd26d",
     "status": "open",
     "tag": {
