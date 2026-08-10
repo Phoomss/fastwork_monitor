@@ -341,54 +341,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-09T08:20:50.398Z"
-  },
-  {
-    "id": "204dd70a-64d5-4e9c-ad62-cfd4856eb886",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการระบบแจกงานในไ ลน์กลุ่มพร้อมหักค่าคอมพ์ ตาม % หรือ ยอดเท่ากัน ตามแต่ละงาน \n1. คนในกลุ่ม กด รับงานไนไลน์  - ระบบ  match งาน กับ ผู้ทำ \n2. ทำงานเสร็จ \n3. รับค่าคอมพ์ \n4. รายงานยอด สรุป งาน แต่ละคน  / แต่ละเดือน \n\nใช้  google sheet / หรือ airtable หรืออะไรที่ง่ายกว่า แนะนำได้เลย \n\nประมาณนี้คะ ",
-    "title": "ระบบแจกงาน-รับงาน ในไลน์กลุ่มพร้อมหักค่า��อมพ์ และรายงานการทำงานของแต่ละคน / แต่ะละเดือน ",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-09T02:49:48.975065Z",
-    "updated_at": "2026-08-09T02:49:50.191801Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-31",
-    "expired_at": "2026-09-08T02:49:48.952970Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "2452a0de-a85e-40fc-a315-43f6b7a30e2f",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-09T04:02:47.316Z"
   }
 ]
