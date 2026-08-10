@@ -445,54 +445,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-10T05:42:12.579Z"
-  },
-  {
-    "id": "d9dbcfd1-833a-4d3f-bd12-528c43652624",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ออกแบบให้เข้าธีมทั้งเซิฟเวอร์ มีสคริปประมาณ 10-15 สคริป ใช้ vite ได้ดีและเข้าใจ lua five m ในการออกแบบ ui",
-    "title": "หาคนออกแบบ Ux ui five m nui",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-09T23:08:49.638276Z",
-    "updated_at": "2026-08-09T23:08:51.618100Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.9.0-6002840"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-08T23:08:49.617964Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8d837c88-7417-40c9-9652-ab9c500859e8",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-09T23:39:33.176Z"
   }
 ]
