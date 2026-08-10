@@ -1,5 +1,55 @@
 [
   {
+    "id": "924b4db2-d3a7-4f67-9ede-8fe8eff86dbb",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "[รายละเอียดงาน]\nCustomize Android OS จาก source project AOSP\nโดยมี requirements ที่ต้อง custom ประมาณ 3-4 ข้อ (มีลิสต์ให้)\n\n[กำหนดส่งงาน]\nเดดไลน์ 17/08 (งานค่อนข้างด่วน)\n\n[สิ่งที��จัดเตรียมให้]\n- Build Server\n- ลิสต์ requirements ที่ต้อง custom\n- ซัพพอร์ตการ flash และเทสบนฮาร์ดแวร์จากฝั่งผมเอง\n\n[ขอบเขตความรับผิดชอบ]\n1. Customize, build และ test ให้ครบ จนกว่า OS จะใช้งานได้อย่างสมบูรณ์\n2. เนื่องจาก OS ต้องนำไปเทสบนฮาร์ดแวร์ ฝั่งผมจะเป็นผู้ flash และเทสให้ หากผลลัพธ์ยังไม่เวิร์ค ผู้รับงานต้องรับผิดชอบแก้ไขจนกว่างานจะเสร็จสมบูรณ์\n\n[คุณสมบัติผู้รับงาน]\n- ใช้ Linux ได้คล่อง (requirements ที่ต้อง custom ไม่ได้ยากมาก)\n- พิจารณาเป็นพิเศษ: เคย build Android OS หรือ Linux OS อื่น ๆ มาก่อน\n- ไม่เคยทำ OS มาก่อนก็สมัครได้ หากใช้ Linux คล่อง (ดูขั้นตอนคัดเลือกด้านล���าง)\n\n[ขั้นตอนสำหรับผู้ที่ยังไม่มีประสบการณ์ด้าน OS]\nเนื่องจากงานค่อนข้างด่วน จะมีขั้นตอนประเมินก่อนเริ่มงานจริง ดังนี้\n1. ให้สิทธิ์ read-only เข้า build server\n2. ให้เวลา 1 วัน ในการศึกษาและนำเสนอแผนการ implement\n3. หากแผนที่นำเสนอใช้งานได้จริง ถือว่าผ่านและเริ่มงานได้ทันที",
+    "title": "คนถนัด Linux มา Customize Android OS จาก AOSP",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-10T08:01:33.509175Z",
+    "updated_at": "2026-08-10T08:01:34.712670Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;V2538;11.9.0-6002840"
+    },
+    "user_id": "aa5d6583-a0b6-4455-b65d-491f3d883014",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-09T08:01:33.446746Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": "2026-08-17",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-10T08:21:01.476Z"
+  },
+  {
     "id": "6c76daff-3e56-49c7-833a-0a345fc4abf5",
     "status": "open",
     "tag": {
@@ -390,103 +440,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-09T14:37:45.658Z"
-  },
-  {
-    "id": "fb4de7da-c163-42ef-8cfd-5869196e8abd",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "อยากได้ ให้มันคิด Content  ส่งต่อไปยังการสร้างวีดีโอ แล้วส่งต่อไปโพสต์ใน Facebook ติ๊กต๊อก Instagram YouTube",
-    "title": "หาคนทำ AI automation work floor",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "15000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-09T08:12:47.118855Z",
-    "updated_at": "2026-08-09T08:12:48.780150Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-F976B;11.9.0-6002840"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-08T08:12:47.053996Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "56dac1c1-654a-4b21-83ff-ad6399caa45b",
-    "user_profile": {
-      "id": "56dac1c1-654a-4b21-83ff-ad6399caa45b",
-      "username": "geniusbag",
-      "display_name": "geniusbag",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "15000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-09T08:20:51.940Z"
-  },
-  {
-    "id": "5545affc-8498-42be-997f-221a348f936d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนทำเสียง tts ผ่านระแอปมือถือ\ntts อยากได้เสียงในโทรศัพท์ใหม่\nหาคนที่สามารถทำได้ ใช้กับแอปไหนก็ได้\nไม่เข้าใจทักเพิ่ม",
-    "title": "หาคนทำเสียงเพิ่ม tts ผ่านระแอปมือถือ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-09T08:03:02.101289Z",
-    "updated_at": "2026-08-09T08:03:03.274920Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S938B;11.9.0-6002840"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2028-08-09",
-    "expired_at": "2026-09-08T08:03:02.078446Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-09T08:20:50.398Z"
   }
 ]
