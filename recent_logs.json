@@ -1,6 +1,5 @@
 [
-  "[2026-08-10T16:28:42.799Z]     Notification sent successfully.",
-  "[2026-08-10T16:28:42.568Z]   FOUND NEW TARGET JOB: สร้างแอพการสอน (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-08-10T16:28:41.454Z] Checking Fastwork for new job posts...",
-  "[2026-08-10T16:28:41.451Z] Auto-cleanup: Removed 2 seen job tracking IDs older than 1 day(s)."
+  "[2026-08-10T17:24:33.695Z] Checking Fastwork for new job posts...",
+  "[2026-08-10T17:24:33.694Z] Auto-cleanup: Removed 12 seen job tracking IDs older than 1 day(s).",
+  "[2026-08-10T17:24:33.691Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
