@@ -394,54 +394,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-10T14:46:15.874Z"
-  },
-  {
-    "id": "53212bca-7004-4bcc-934e-7b47fb890864",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนทำ WebApp สำหรับให้ User มาลงงานที่ได้รับมอบหมาย รวมถึงมอบหมายงานให้ User อื่นได้ โดยใส่ลำดับความสำคัญได้ และมีการจัดการงานในแต่ละวัน รวมถึง มีแจ้งเตือน Line ว่าวันนี้ต้องทำงานอะไรบ้าง\nและมีระบบสำหรับลงรายละเอียดยอดขาย-ต้นทุน เพื่อมาสรุปคำนวน\n\nรบกวนลงวันเวลา และราคาคร่าวๆเพื่อเสนอมาเลยครับถ้าสนใจจะติดต่อไป",
-    "title": "หาคนทำ WebApp",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-10T10:58:31.420730Z",
-    "updated_at": "2026-08-10T10:58:33.280604Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "user_id": "2ffe2896-6c27-479e-a6da-2e4f448b50d2",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-09T10:58:31.348367Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 3,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-10T11:36:50.161Z"
   }
 ]
