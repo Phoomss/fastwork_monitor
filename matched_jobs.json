@@ -1,5 +1,54 @@
 [
   {
+    "id": "ffbf44ac-6368-4b14-9a56-7524bfc0f834",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนใช้AIสตูดิโอ ทำเว็บเป็นด่วน ผมทำเว็บเสร็จเเต่มันไม่เก็บข้อมูลเลยตอนเเรกบันทึกพอ1วันผ่านไปข้อมูลที่ลงไว้หาย อยากให้สอนหรือเเก้ไขให้พร้อมใช้งาน",
+    "title": "หาคนใช้AIสตูดิโอเป็น ทำเว็บเป็นด่วน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-11T14:52:20.297884Z",
+    "updated_at": "2026-08-11T14:52:22.383328Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-10T14:52:20.250509Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPad;11.10.0-6002863"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f1868439-ba5f-4173-9c7c-4d5879fb78ff",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-11T14:56:09.413Z"
+  },
+  {
     "id": "818a9c50-efc4-465b-a214-acf3368ef8f5",
     "status": "open",
     "tag": {
@@ -292,107 +341,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-10T16:28:42.567Z"
-  },
-  {
-    "id": "04108b2a-f0f9-4cb8-86eb-c14e79413455",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการทีมพัฒนา หรือบริษัทรับพัฒนาซอฟต์แวร์ มาพัฒนาแอปสุขภาพ/นับแคลอรี่ ให้ขึ้น App Store และ Google Play\n\n*งานออกแบบ UX/UI ไว้แล้วทั้งหมด  มี Design System ครบ ทั้ง Type Scale, Colour Palette และ Screen Index\n\nขอบเขตงาน\n\n1. แอปมือถือ (iOS + Android)\n\nOnboarding + สมัครสมาชิก — ชุดคำถามเก็บข้อมูลผู้ใช้ (น้ำหนัก เป้าหมาย พฤติกรรมการกิน การออกกำลัง��าย) → สร้างแผนเฉพาะบุคคล พร้อมหน้า Paywall/สมัครแพ็กเกจ\nบันทึกอาหารและแคลอรี่ — บันทึกมื้ออาหาร คำนวณแคลอรี่และสารอาหาร (macros) รายวัน\nติดตามความคืบหน้า — กราฟน้ำหนัก, daily check-in, streak\nAudio / Affirmations — เครื่องเล่นเสียงสำหรับฟัง affirmation รายวัน\nCommunity — ฟีดชุมชน แชร์ความคืบหน้า โปรไฟล์ผู้ใช้\nWorkout videos + Blog — ดูวิดีโอออกกำลังกายและอ่านบทความในแอป\nPush Notifications — reminder\nSubscription (In-App Purchase) — ระบบสมาชิกรายเดือน/รายปี\n\n2. ระบบหลังบ้าน (Backend + Admin Panel บนเว็บ)\n\nDashboard ภาพรวมผู้ใช้และรายได้\nจัดการผู้ใช้, ฐานข้อมูลอาหาร, คอนเทนต์ (affirmations, วิดีโอ workout, blog)\nจัดการแจ้งเตื��น, รายงาน/สถิติ, ระบบ Affiliate และ Subscription\n\nผู้รับงานเสนอ tech stack ที่เห็นว่าเหมาะสมมาได้เลย (เช่น Flutter, React Native หรือ Native) พร้อมเหตุผลประกอบ\n\nสิ่งที่ต้องส่งมอบ\nแอป iOS + Android พร้อมเผยแพร่บน App Store และ Google Play (รวมช่วยยื่น submit)\nBackend + Admin Panel พร้อมใช้งานจริง\nSource code ทั้งหมด (กรรมสิทธิ์เป็นของผู้ว่าจ้าง)\nเอกสารประกอบ + ช่วงรับประกันแก้บั๊กหลังส่งมอบ\n\nกรุณาแนบ\nแนะนำตัว/ทีม/บริษัท และผลงานแอปที่เคยทำ (ลิงก์บน App Store / Google Play ยิ่งดี)\nTech stack ที่เสนอ พร้อมเหตุผลสั้นๆ\nราคาประเมิน (แยกเป็นงวดงานได้) และระยะเวลาพัฒนาโดยประมาณ\nทีมงานมีใครบ้าง (Dev / PM / QA) และรูปแบบการอัปเดตงานระหว่างทำ\nเงื่อนไขการดูแลหลังส่งมอบ (maintenance / bug fixing)\n\n(ผู้ที่ผ่านการคัดเลือกรอบแรกจะได้รับลิงก์ Figma เพื่อประเมินราคาอย่างละเอียด — อาจมีการขอเซ็น NDA ก่อน)",
-    "title": "ทีมพัฒนาแอป iOS + Android (มี UX/UI ไว้แล้ว)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "30000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-10T14:37:20.042053Z",
-    "updated_at": "2026-08-10T14:37:21.345174Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-31",
-    "expired_at": "2026-09-09T14:37:19.999757Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S918B;11.9.0-6002840"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "23cbbc1f-46d5-4152-bdda-4fb79551f3fb",
-    "user_profile": {
-      "id": "23cbbc1f-46d5-4152-bdda-4fb79551f3fb",
-      "username": "merittcreation",
-      "display_name": "Meritt",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/23cbbc1f-46d5-4152-bdda-4fb79551f3fb/profile/7c67e388-0463-413b-88c0-9c3760355d97.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-10T14:46:17.075Z"
-  },
-  {
-    "id": "bf3286df-bf1b-4f96-8c09-29e2e7dbd761",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รับสมัครฟรีแลนซ์ / ทีม / บริษัท พัฒนาแอป iOS + Android\n\nกำลังมองหาผู้พัฒนาแอปสุขภาพ/นับแคลอรี่ ให้ขึ้น App Store และ Google Play ค่ะ\n\n✅ จุดเด่น: UX/UI ออกแบบไว้แล้ว มี Design System ครบทั้ง Type Scale, Colour Palette, Screen Index  เริ่มพัฒนาได้ทันที \n\nขอบเขตงาน\n\nแอปมือถือ (iOS + Android)\nOnboarding + สมัครสมาชิก — ชุดคำถามผู้ใช้ → สร้างแผนเฉพาะบุคคล + หน้า Paywall\nบันทึกอาหาร คำนวณแคลอรี่/macros รายวัน\nติดตามผล — กราฟน้ำหนัก, daily check-in, streak\nเครื่องเล่นเสียง Affirmation รายวัน\nCommunity — ฟีดชุมชน แชร์ความคืบหน้า โปรไฟล์\nWorkout videos + Blog ในแอป\nPush Notifications\nSubscription รายเดือน/รายปี (In-App Purchase ผ่าน Apple/Google)\nBackend + Admin Panel (เว็บ)\nDashboard ภาพรวมผู้ใช้และรายได้\nจัดการผู้ใช้, ฐานข้อมูลอาหาร, คอนเทนต์ (affirmations, วิดีโอ, blog)\nแจ้งเตือน, รายงาน/สถิติ, ระบบ Affiliate และ Subscription\n\nเทคโนโลยี: เปิดรับข้อเสนอ — เสนอ tech stack ที่เหมาะสมมาได้เลย (Flutter / React Native / Native) พร้อมเหตุผลสั้นๆ\n\nสิ่งที่ต้องส่งมอบ: แอปพร้อมเผยแพร่ทั้ง 2 สโตร์ (รวมช่วยยื่น submit), Backend + Admin พร้อมใช้จริง, source code ทั้งหมด (กรรมสิทธิ์เป็นของผู้ว่าจ้าง), เอกสาร + ระยะประกันแก้บั๊กหลังส่งมอบ\n\nวิธีเสนองาน กรุณาแนบ\n\nแนะนำตัว/ทีม/บริษัท + ผลงานแอปบนสโตร์จริง\nTech stack ที่เสนอ + เหตุผล\nราคาประเมิน (แบ่งงวดได้) + ระยะเวลาพัฒนา\nทีมงาน (Dev/PM/QA) + รูปแบบอัปเดตงาน\nเงื่อนไขดูแลหลังส่งมอบ (maintenance/bug fixing)\n\n📩 สนใจทักแชท/Inbox มาได้เลยค่ะ (ผู้ผ่านการคัดเลือกรอบแรกจะได้รับลิงก์ Figma เพื่อประเมินราคาละเอียด — อาจมีการขอเซ็น NDA ก่อนค่ะ)",
-    "title": "รับสมัครฟรีแลนซ์ / ทีม / บริษัท พัฒนาแอป iOS + Android (มี UX/UI ไว้แล้ว)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-10T14:36:01.967846Z",
-    "updated_at": "2026-08-10T14:36:03.190741Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-09T14:36:01.918354Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f86e2952-8e7c-4eae-a7ec-309388ce6c81",
-    "user_profile": {
-      "id": "f86e2952-8e7c-4eae-a7ec-309388ce6c81",
-      "username": "pondly.ai",
-      "display_name": "pollylean.ai",
-      "image_url": "https://storage.googleapis.com/fastwork-static/8bddf006-2468-4699-8815-baff3670111b.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-10T14:46:15.874Z"
   }
 ]
