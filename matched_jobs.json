@@ -1,5 +1,54 @@
 [
   {
+    "id": "f30057df-7e3f-43db-95ef-dcf4ca0b3c9b",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "สร้าง AI Agent ทำBOQ work flow\n1.ออกแบบ AI Agent ตาม Workflow ของบริษัทให้ช่วยทีมทำงานแทนคุณอัตโนมัติ\n2.ถอด BOQ จากปริมาณวัสดุไ��้เร็วและแม่นยำ ลดเวลาทำงานหลายเท่า\n3.วางแผนงานอัจฉริยะติดตามความคืบหน้า คาดการณ์ความเสี่ยง และแจ้งเตือนก่อนปัญหาจะเกิด\n4.เก็บความรู้ขององค์กรให้เป็นระบบใช้ซ้ำได้ ไม่ว่าคุณจะอยู่ที่ไหน",
+    "title": "AI Agent ทำBOQ work flow",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-11T05:52:58.979839Z",
+    "updated_at": "2026-08-11T05:53:00.781781Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-11",
+    "expired_at": "2026-09-10T05:52:58.960022Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.10.0-6002863"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "4baa5d17-cbad-4764-bc33-3a1011112c56",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-11T06:06:58.944Z"
+  },
+  {
     "id": "fc4afb15-1d43-4573-8f84-8d3ee2d3c7a1",
     "status": "open",
     "tag": {
@@ -347,103 +396,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-10T06:55:38.396Z"
-  },
-  {
-    "id": "76d3eee7-8c11-4bc8-8193-571f1c9748b4",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "กำลังมองหาร้านคาเฟ่ 3–5 ร้านครับ ☕️\n\nผมกำลังพัฒนา Tablet-first POS สำหรับร้านคาเฟ่ขนาดเล็ก–กลาง และกำลังหาร้านที่สนใจนำไปใช้งานจริงในช่วงแรก\n\nเหมาะกับร้านที่ตอนนี้ยังเจอปัญหา เช่น\n• รับออเดอร์ช่วงลูกค้าเยอะแล้วเริ่มวุ่น\n• ออเดอร์ตกหล่นหรือสื่อสารกับคนทำเครื่องดื่มยาก\n• อยากรู้ยอดขายและสถานะร้านได้ง่ายกว่านี้\n• POS ที่ใช้อยู่มีหลายขั้นตอนหรือซับซ้อนเกินความจำเป็น\n\nอยากได้ร้านที่ยินดีแชร์ Feedback จากการใช้งานจริง เพื่อพัฒนาระบบไปด้วยกันครับ\n\nสนใจทักมาคุยกันได้ครับ 🙏",
-    "title": "หาร้านคาเฟ่ที่ต้องการใช้ POS",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-10T05:28:29.258400Z",
-    "updated_at": "2026-08-10T05:28:31.620510Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPad;11.9.0-6002840"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-09T05:28:29.238812Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "3295fedf-d78c-41c1-888b-26e7d82e6a20",
-    "user_profile": {
-      "id": "3295fedf-d78c-41c1-888b-26e7d82e6a20",
-      "username": "jaran.dch",
-      "display_name": "Jaran",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3295fedf-d78c-41c1-888b-26e7d82e6a20/profile/fc2ba33e-4337-473b-906f-e10a9d9a3763.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-10T05:42:13.811Z"
-  },
-  {
-    "id": "0ddd71fe-0ce8-4831-9498-7ae5249b93da",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "สร้างเว็บไซต์สำหรับแบรนด์เสื้อผ้าผู้หญิงแบรนด์ของ LIMEY by Dina \nสิ่งที่เน้นคือ - เว็บไซต์นี้ ไม่ได้ต้องการหน้าตาแบบ Shopify ทั่วไปแต่ต้องการประสบการณ์ที่ให้ความรู้สึกเหมือนเว็บไซต์แบรนด์แฟชั่นระดับพรีเมียม\nแรงบัลดาลใจจาก Loro Piana meets DÔEN  https://www.shopdoen.com\n",
-    "title": "ทำเว็บไซต์ shopify มีตะกร้าสินค้าและชำระเงิน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "8000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-10T04:14:25.405813Z",
-    "updated_at": "2026-08-10T04:14:26.679640Z",
-    "brief_url": "https://www.shopdoen.com",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-24",
-    "expired_at": "2026-09-09T04:14:25.357544Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "668abd47-b212-44b8-9fb3-6cfb13f96c8d",
-    "user_profile": {
-      "id": "668abd47-b212-44b8-9fb3-6cfb13f96c8d",
-      "username": "sevenseventy",
-      "display_name": "sevenseventy",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/668abd47-b212-44b8-9fb3-6cfb13f96c8d/profile/68275173-1eca-4b73-98a7-b4be3b544230.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "8000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-10T05:42:12.579Z"
   }
 ]
