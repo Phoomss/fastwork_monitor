@@ -1,7 +1,4 @@
 [
-  "[2026-08-11T09:30:02.459Z]     Notification sent successfully.",
-  "[2026-08-11T09:30:02.256Z]   FOUND NEW TARGET JOB: สอนเขียนเว็บDashboard (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-08-11T09:30:01.254Z]     Notification sent successfully.",
-  "[2026-08-11T09:30:00.715Z]   FOUND NEW TARGET JOB: หาคนสอนใช้ Upwork (Cats: พัฒนาเว็บไซต์) (Budget: 500 THB)",
-  "[2026-08-11T09:29:59.640Z] Checking Fastwork for new job posts..."
+  "[2026-08-11T10:24:51.383Z] Checking Fastwork for new job posts...",
+  "[2026-08-11T10:24:51.380Z] Auto-cleanup: Removed 13 seen job tracking IDs older than 1 day(s)."
 ]
