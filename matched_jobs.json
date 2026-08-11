@@ -1,5 +1,54 @@
 [
   {
+    "id": "ba86f164-582b-4855-bf38-251fe5cf61fe",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการจ้าง Graphic Designer / Brand Designer ออกแบบ Brand CI + Logo + Packaging + Menu + Booth สำหรับแบรนด์ “กรุบบบ (Groobbb)”\n\nกรุบบบเป็นแบรนด์ผลไม้สด / ผลไม้แช่อิ่ม / น้ำปลาหวาน ปัจจุบันขายตาม Event และห้างในรูปแบบ Pop-up Booth และมีแผนพัฒนาไปสู่หน้าร้านและ Online จุดเด่นคือ “ผลไม้ + น้ำปลาหวาน” ต้องการนำของกินที่คุ้นเคยมานำเสนอใหม่ให้ดู Modern มี Character และจดจำง่าย\n\nต้องการออกแบบ Brand Identity ใหม่ โดยอ��ากได้ Designer ที่ช่วย “คิด Brand” และ Visual Direction ไม่ใช่แค่ทำ Logo ตามคำสั่ง\n\n1. LOGO + CI\n    ต้องการ Logo ใหม่ แนว Minimal / Modern / Clean แต่ต้อง “เรียบแต่จำได้” มี Signature และไม่เหมือนร้านผลไม้ทั่วไป ไม่จำเป็นต้องใช้รูปมะม่วงตรง ๆ\n    ต้องการ Logo หลัก + Variation + Icon/Brand Mark, Color Palette ใหม่ พร้อม HEX/RGB/CMYK, Font ไทย/อังกฤษ และ Graphic Element/Basic Guideline\n2. PACKAGING\n    ออกแบบ Packaging Direction / Master System สำหรับน้ำปลาหวาน ผลไม้ ผลไม้แช่อิ่ม และ Set/Ready-to-eat ให้ Modern / Premium / Minimal / Fun สามารถต่อยอดหลาย SKU พร้อม Mockup\n3. MENU\n    ออกแบบ Menu สำหรับ Booth/Event ให้เป็นระบบเดียวกับ CI อ่านง่าย เห็นสินค้าและราคาได้รวดเร็ว และแก้ไข/นำไปใช้ต่อได้\n4. BOOTH\n    อ��กแบบ Booth ประมาณ 2×2 ม. โดยคำนึงถึงการใช้งานจริง เช่น Counter, Logo, Menu Board, Product Display, Lighting, Storage, Customer Flow และ Photo Spot ต้องถอดประกอบ/ขนย้ายได้ และมองเห็นแบรนด์จากระยะไกล\n5. MOOD\n    MINIMAL + MODERN + MEMORABLE + PREMIUM + FUN\n    ต้องการความเป็นไทยแบบร่วมสมัย ไม่ต้องการงานวัด, Traditional Thai ตรง ๆ, Logo ผลไม้ Generic, สีเยอะ หรือ Graphic ซับซ้อน\n    Target หลัก 20–35 ปี แต่ต้องเข้าถึง 35–45 ได้ด้วย\n\nงบประมาณ 5,000–10,000 บาท สามารถเสนอ Package/Phase ตาม Scope ได้\n\nรบกวนส่ง Portfolio งาน Branding/Logo โดยเฉพาะ Minimal/Modern และหากมี Packaging/Food/Retail/Booth จะพิจารณาเป็นพิเศษ พร้อมแจ้ง Scope งาน, ระยะเวลา, จำนวนครั้งแก้ไข, ไฟล์ที่ได้รับ และค่าใช้จ่ายเพิ่มเ���ิมหากมี\n\nเป้าหมายคือสร้างแบรนด์ที่ “เห็นแล้วจำได้” และเมื่อเห็น Logo / สี / Packaging / Booth ก็รู้ทันทีว่าเป็น “กรุบบบ”",
+    "title": "Brand CI + Logo ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-11T08:00:31.349072Z",
+    "updated_at": "2026-08-11T08:00:33.881870Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-10T08:00:31.324782Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.4.1;iPhone;7.9.0-6000937"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "58e8a28d-aca9-444c-97c7-f82a3457ec47",
+    "user_profile": {
+      "id": "58e8a28d-aca9-444c-97c7-f82a3457ec47",
+      "username": "xbqyrdxq",
+      "display_name": "JN",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-11T08:27:52.504Z"
+  },
+  {
     "id": "a2e3ab03-5a08-4baf-adc5-82fcf544f5d3",
     "status": "open",
     "tag": {
@@ -346,55 +395,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-10T10:51:53.539Z"
-  },
-  {
-    "id": "924b4db2-d3a7-4f67-9ede-8fe8eff86dbb",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "[รายละเอียดงาน]\nCustomize Android OS จาก source project AOSP\nโดยมี requirements ที่ต้อง custom ประมาณ 3-4 ข้อ (มีลิสต์ให้)\n\n[กำหนดส่งงาน]\nเดดไลน์ 17/08 (งานค่อนข้างด่วน)\n\n[สิ่งที��จัดเตรียมให้]\n- Build Server\n- ลิสต์ requirements ที่ต้อง custom\n- ซัพพอร์ตการ flash และเทสบนฮาร์ดแวร์จากฝั่งผมเอง\n\n[ขอบเขตความรับผิดชอบ]\n1. Customize, build และ test ให้ครบ จนกว่า OS จะใช้งานได้อย่างสมบูรณ์\n2. เนื่องจาก OS ต้องนำไปเทสบนฮาร์ดแวร์ ฝั่งผมจะเป็นผู้ flash และเทสให้ หากผลลัพธ์ยังไม่เวิร์ค ผู้รับงานต้องรับผิดชอบแก้ไขจนกว่างานจะเสร็จสมบูรณ์\n\n[คุณสมบัติผู้รับงาน]\n- ใช้ Linux ได้คล่อง (requirements ที่ต้อง custom ไม่ได้ยากมาก)\n- พิจารณาเป็นพิเศษ: เคย build Android OS หรือ Linux OS อื่น ๆ มาก่อน\n- ไม่เคยทำ OS มาก่อนก็สมัครได้ หากใช้ Linux คล่อง (ดูขั้นตอนคัดเลือกด้านล���าง)\n\n[ขั้นตอนสำหรับผู้ที่ยังไม่มีประสบการณ์ด้าน OS]\nเนื่องจากงานค่อนข้างด่วน จะมีขั้นตอนประเมินก่อนเริ่มงานจริง ดังนี้\n1. ให้สิทธิ์ read-only เข้า build server\n2. ให้เวลา 1 วัน ในการศึกษาและนำเสนอแผนการ implement\n3. หากแผนที่นำเสนอใช้งานได้จริง ถือว่าผ่านและเริ่มงานได้ทันที",
-    "title": "คนถนัด Linux มา Customize Android OS จาก AOSP",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-10T08:01:33.509175Z",
-    "updated_at": "2026-08-10T08:01:34.712670Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;V2538;11.9.0-6002840"
-    },
-    "user_id": "aa5d6583-a0b6-4455-b65d-491f3d883014",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-09-09T08:01:33.446746Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": "2026-08-17",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-10T08:21:01.476Z"
   }
 ]
