@@ -292,54 +292,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-11T06:06:58.944Z"
-  },
-  {
-    "id": "fc4afb15-1d43-4573-8f84-8d3ee2d3c7a1",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "1. ระบบนักเรียน\n    สมัครเรียน • เลือกคอร์ส • ��รียนออนไลน์ • ทำแบบทดสอบ • ดูตารางเรียน • ดูผลการเรียน • ชำระเงิน\n2. ระบบครูผู้สอน\n    โปรไฟล์ครู • ตารางสอน • จัดการนักเรียน • สอนออนไลน์ • เช็กการเข้าเรียน • บันทึกคะแนน\n3. ระบบสถาบัน (Admin)\n    จัดการครู • นักเรียน • คอร์สเรียน • ตารางเรียน • การเงิน • ข่าวสาร • รายงานผล\n\nทั้งหมดอยู่ในแอปเดียว ขอราคาเบาเบาหน่อยนะคะเพิ่งเริ่มเปิดค่ะ",
-    "title": "สร้างแอพการสอน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-10T15:56:17.744551Z",
-    "updated_at": "2026-08-10T15:56:18.917416Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-09T15:56:17.725693Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.9.0-6002840"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "4d7bf5c7-50e2-4051-a705-77ec8c887bd3",
-    "user_profile": {
-      "id": "4d7bf5c7-50e2-4051-a705-77ec8c887bd3",
-      "username": "nattawat55",
-      "display_name": "Nattawat55",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4d7bf5c7-50e2-4051-a705-77ec8c887bd3/profile/7ee10a1e-40e3-4921-987e-03655441d63b.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-10T16:28:42.567Z"
   }
 ]
