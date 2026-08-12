@@ -1,5 +1,54 @@
 [
   {
+    "id": "1146354a-7335-45b0-935a-be4e335f0c81",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "*กรุณาอ่านรายละเอียดให้ครบก่อนสมัครค่ะ*\n\nรับสมัคร Freelance Sales Representative / Appointment Setter💻 Remote | งานเสริม | เวลายืดหยุ่น\n\nบริษัทรับออกแบบเว็บไซต์จากยุโรป กำลังมองหาคนช่วยดูแลลูกค้าชาวไทยในยุโรป ตั้งแต่ ตอบแชท → พูดคุย → นัดหมาย → Follow-up → ปิดการขาย\n\n💬 หน้าที่\n\n- ตอบแชทลูกค้าผ่าน WhatsApp\n\n- ให้ข้อมูลและตอบคำถามเบื้องต้น\n\n- พูดคุยกับลูกค้าผ่าน Chat / Video Call\n\n- สอบถามและคัดกรองความต้องการของลูกค้า\n\n- นัดหมายและ Follow-up ลูกค้าที่สนใจ\n\n- แ���ะนำบริการและดูแลลูกค้าจนถึงขั้นตอนปิดการขาย\n\nประสานงานกับทีมเมื่อจำเป็น\n\n💰 ค่าตอบแทน\n\n- 300 บาท/วัน สำหรับงาน Support ตอบแชทลูกค้าปัจจุบัน\n\n- Commission สูงสุด 1,000 บาท / การปิดการขาย (Target ประมาณ ±10 Leads)\n\n- มีโบนัสเพิ่มเติมตาม Client Retention\n\n👤 คุณสมบัติ\n\n- สื่อสาร ไทยและอังกฤษได้ดี\n\n- *สะดวกตอบแชทเป็นประจำตลอดช่วงเวลาที่รับงาน*\n\n- *สะดวกพูดคุย / โทรกับลูกค้า*\n\n- มนุษยสัมพันธ์ดี สื่อสารคล่อง และ Follow-up ลูกค้าได้\n\n- มีประสบการณ์ Sales / Telesales จะพิจารณาเป็นพิเศษ\n\nมี SOP + Training ให้\n\n🕐 รูปแบบงาน\n\nRemote 100% เวลายืดหยุ่น\n\n\n📩 สนใจสมัคร กรุณาส่ง:\n\nResume / CV ภ��ษาอังกฤษ\n\n*ลูกค้าเป็นคนเลือกในขั้นตอนสุดท้าย*\n\nขอบคุณค่ะ",
+    "title": "ฉันหาคนช่วยตอบแชท / โทรคุยกับลูกค้า",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-12T09:27:47.320519Z",
+    "updated_at": "2026-08-12T09:27:49.084628Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-11T09:27:47.247670Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.6.1;iPhone;6.5.0-6000261"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "8e014dbd-5792-4303-b8f9-6ae3fb64810b",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-12T09:33:12.533Z"
+  },
+  {
     "id": "b52543ae-5e23-485f-9925-dddc62f5670d",
     "status": "open",
     "tag": {
@@ -145,152 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-11T14:56:09.413Z"
-  },
-  {
-    "id": "818a9c50-efc4-465b-a214-acf3368ef8f5",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "เรามีเว็บDashboard แล่วก้มีไฟล์code / เครื่องมือที่ใช้ ที่คนทำส่งให้มาแล้ว เราอยากทำความเข้าใจcodeที่เค้าเขียนมาทั้งหมด แล้วก็อยากลองปรับแก้ไขดีเทลเล็กๆได้เอง \n*เราเคยเรียนพื้นฐานpythonมา พอเก็ทโลจิกการเขียนเว็บอยู่บ้างเล็กน้อยค่ะ*\nขอดูหน้าเว็บที่จะให้สอนมาทางแชทได้เลยค่ะ\nสามารถเสนอราคาใต้โพสต์ได้เลยค่ะ",
-    "title": "สอนเขียนเว็บDashboard",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-11T09:17:01.226564Z",
-    "updated_at": "2026-08-11T09:17:02.493750Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-10T09:17:01.202331Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.10.0-6002863"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "901e98c2-bd20-4670-b8ff-8133e6e7070d",
-    "user_profile": {
-      "id": "901e98c2-bd20-4670-b8ff-8133e6e7070d",
-      "username": "skg3nu3i",
-      "display_name": "skg3nu3i",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-11T09:30:02.256Z"
-  },
-  {
-    "id": "d81c1025-2d05-448e-a238-9edc69c2fd3a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "\n\n\n\n\n\n\n\n\n\nผมหาคนสอนซื้อ connects ในUpwork\nเเละช่วยหางานครับ\n\nหากช่วยหางานให้ได้มีทิปเพิ่มให้2 เท่าครับ",
-    "title": "หาคนสอนใช้ Upwork",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-11T09:05:30.768158Z",
-    "updated_at": "2026-08-11T09:05:33.441292Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-10T09:05:30.746362Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.10.0-6002863"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "c52ac135-82bb-411b-895f-ed946ec7ec53",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-11T09:30:00.714Z"
-  },
-  {
-    "id": "ba86f164-582b-4855-bf38-251fe5cf61fe",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการจ้าง Graphic Designer / Brand Designer ออกแบบ Brand CI + Logo + Packaging + Menu + Booth สำหรับแบรนด์ “กรุบบบ (Groobbb)”\n\nกรุบบบเป็นแบรนด์ผลไม้สด / ผลไม้แช่อิ่ม / น้ำปลาหวาน ปัจจุบันขายตาม Event และห้างในรูปแบบ Pop-up Booth และมีแผนพัฒนาไปสู่หน้าร้านและ Online จุดเด่นคือ “ผลไม้ + น้ำปลาหวาน” ต้องการนำของกินที่คุ้นเคยมานำเสนอใหม่ให้ดู Modern มี Character และจดจำง่าย\n\nต้องการออกแบบ Brand Identity ใหม่ โดยอ��ากได้ Designer ที่ช่วย “คิด Brand” และ Visual Direction ไม่ใช่แค่ทำ Logo ตามคำสั่ง\n\n1. LOGO + CI\n    ต้องการ Logo ใหม่ แนว Minimal / Modern / Clean แต่ต้อง “เรียบแต่จำได้” มี Signature และไม่เหมือนร้านผลไม้ทั่วไป ไม่จำเป็นต้องใช้รูปมะม่วงตรง ๆ\n    ต้องการ Logo หลัก + Variation + Icon/Brand Mark, Color Palette ใหม่ พร้อม HEX/RGB/CMYK, Font ไทย/อังกฤษ และ Graphic Element/Basic Guideline\n2. PACKAGING\n    ออกแบบ Packaging Direction / Master System สำหรับน้ำปลาหวาน ผลไม้ ผลไม้แช่อิ่ม และ Set/Ready-to-eat ให้ Modern / Premium / Minimal / Fun สามารถต่อยอดหลาย SKU พร้อม Mockup\n3. MENU\n    ออกแบบ Menu สำหรับ Booth/Event ให้เป็นระบบเดียวกับ CI อ่านง่าย เห็นสินค้าและราคาได้รวดเร็ว และแก้ไข/นำไปใช้ต่อได้\n4. BOOTH\n    อ��กแบบ Booth ประมาณ 2×2 ม. โดยคำนึงถึงการใช้งานจริง เช่น Counter, Logo, Menu Board, Product Display, Lighting, Storage, Customer Flow และ Photo Spot ต้องถอดประกอบ/ขนย้ายได้ และมองเห็นแบรนด์จากระยะไกล\n5. MOOD\n    MINIMAL + MODERN + MEMORABLE + PREMIUM + FUN\n    ต้องการความเป็นไทยแบบร่วมสมัย ไม่ต้องการงานวัด, Traditional Thai ตรง ๆ, Logo ผลไม้ Generic, สีเยอะ หรือ Graphic ซับซ้อน\n    Target หลัก 20–35 ปี แต่ต้องเข้าถึง 35–45 ได้ด้วย\n\nงบประมาณ 5,000–10,000 บาท สามารถเสนอ Package/Phase ตาม Scope ได้\n\nรบกวนส่ง Portfolio งาน Branding/Logo โดยเฉพาะ Minimal/Modern และหากมี Packaging/Food/Retail/Booth จะพิจารณาเป็นพิเศษ พร้อมแจ้ง Scope งาน, ระยะเวลา, จำนวนครั้งแก้ไข, ไฟล์ที่ได้รับ และค่าใช้จ่ายเพิ่มเ���ิมหากมี\n\nเป้าหมายคือสร้างแบรนด์ที่ “เห็นแล้วจำได้” และเมื่อเห็น Logo / สี / Packaging / Booth ก็รู้ทันทีว่าเป็น “กรุบบบ”",
-    "title": "Brand CI + Logo ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-11T08:00:31.349072Z",
-    "updated_at": "2026-08-11T08:00:33.881870Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-10T08:00:31.324782Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.4.1;iPhone;7.9.0-6000937"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "58e8a28d-aca9-444c-97c7-f82a3457ec47",
-    "user_profile": {
-      "id": "58e8a28d-aca9-444c-97c7-f82a3457ec47",
-      "username": "xbqyrdxq",
-      "display_name": "JN",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-11T08:27:52.504Z"
   }
 ]
