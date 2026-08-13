@@ -1,5 +1,153 @@
 [
   {
+    "id": "d3a82d27-a4e4-4296-b518-8002fc860982",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการคนทำเว็บไซต์บริษัท\nโดยมีเซิฟเวอร์เดิมอยู่แล้ว เป็นเว็บสำเร็จรูป wewyn ของโปรดักซ์ รถบ้านให้เช่า รวมถึงการถ่ายภาพสำหรับใช้งานบนเว็บไซต์",
+    "title": "คนทำเว็บไซต์บริษัท(เว็บสำเร็จรูป)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-13T08:02:56.797287Z",
+    "updated_at": "2026-08-13T08:02:58.057718Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-25",
+    "expired_at": "2026-09-12T08:02:56.743542Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "22b25def-6368-47a7-a587-f4b0dbb88639",
+    "user_profile": {
+      "id": "22b25def-6368-47a7-a587-f4b0dbb88639",
+      "username": "campervanthailand",
+      "display_name": "Campervan Thailand",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/22b25def-6368-47a7-a587-f4b0dbb88639/profile/af43d02d-6e37-4d05-98c8-f68164d8da11.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-13T08:03:57.602Z"
+  },
+  {
+    "id": "0af95e81-a9e6-420a-be21-132a66f995a1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "โครงการ ThaiWay Platform Core / LocalLink รับ Technical Reviewer สำหรับ M-D0 — Onboarding and Baseline Verification เป็นงานตรวจเอกสาร Baseline แบบ Read-only ไม่ใช่งานเขียนโค้ดและไม่มีสิทธิ์เข้าระบบ\n\nขอบเขตงาน\n\n1. ตรวจ SHA-256 ของ ZIP และ checksum รายไฟล์\n2. ตรวจความครบถ้วนตาม Package Manifest\n3. อ่านและสรุปลำดับอำนาจของเอกสารกับข้อกำหนด\n4. ยืนยันความเข้าใจสถาปัตยกรรม Multi-tenant, RLS/RBAC และ LocalLink 4 แพลตฟอร์ม: Executive, Citizen, Merchant, Driver\n5. ยืนยันว่า ThaiWay Express เป็นบริการภายใต้ Driver + ThaiWay Core ไม่ใช่แพลตฟอร์มที่ 5\n6. ตรวจรายการ Migration 17 ไฟล์และ Rollback 9 ไฟล์เชิงเอกสารเท่านั้น ห้ามรัน\n7. จัดทำ Baseline Comprehension Report และ Gap/Question/Risk Register แบบมีเลขกำกับ\n\nชุดส่งมอบประมาณ 130 ไฟล์ จะมอบเฉพาะผู้ได้รับคัดเลือกและลงนาม NDA/IP กับสัญญา M-D0 แล้ว\n\nผลส่งมอบ\n\n- รายงานตรวจ checksum/การรับไฟล์\n- รายงานความเข้าใจ Baseline\n- รายการคำถาม ช่องว่าง ความเสี่ยง และข้อขัดแย้ง\n- ยืนยันว่าไม่มีการแก้ Repository หรือระบบ\n\nข้อห้าม\nห้ามแก้/สร้างโค้ด เข้าถึง GitHub หรือฐานข้อมูล รัน Migration/Seed/Reset/Deploy รับ Secret/API Key/Service-role เข้าถึง Production/Sandbox/Staging/Cloud/Supabase เปิด AI Agent เริ่ม Phase 2 หรือทำ Milestoneถัดไป\n\nคุณสมบัติ\n\n- มีประสบการณ์ PostgreSQL, Supabase, RLS, FORCE RLS, RBAC และ Multi-tenant\n- อ่าน Architecture/API/Security Document และ SQL Migration ได้\n- ตรวจ checksum และเขียนรายงานที่ตรวจสอบย้อนกลับได้\n- สื่อสารไทยได้ดี อ่านเอกสารอังกฤษได้ และรักษาความลับ\n\nกรุณาส่ง Portfolio/ผลงานที่ตรวจสอบได้ ประสบการณ์ที่เกี่ยวข้อง แนวทางทำ M-D0 ระยะเวลาไม่เกิน 7 วันทำการ ราคาเหมาจ่าย และรายชื่อทุกคนที่จะเข้าถึงเอกสาร พร้อมยืนยันว่าเข้าใจขอบเขต Read-only\n\nประกาศนี้เป็นการรับสมัครเท่านั้น ไม่ใช่คำสั่งเริ่มงานหรือ Implementation/Production Approval",
+    "title": "รับ Technical Reviewer เชี่ยวชาญ Supabase/PostgreSQL ตรวจสอบ System Baseline (M-D0)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-13T07:28:16.240767Z",
+    "updated_at": "2026-08-13T07:28:17.491759Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-20",
+    "expired_at": "2026-09-12T07:28:16.213182Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A346N;11.10.1-6002879"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+    "user_profile": {
+      "id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+      "username": "ii0z4bpe",
+      "display_name": "ZOON STUDIO",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/59f144a3-c79c-4cfc-8b65-735b49b98da0/profile/48f6fc13-d501-4eb9-a7d6-a65e03abb374.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-13T08:03:56.526Z"
+  },
+  {
+    "id": "f6e3e50e-6e20-44e5-893f-1d6c89ae3b66",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ประกาศหา Freelance UI/UX & HubSpot Website Developer\n\nFound Academic ต้องการ Freelancer หรือทีม เพื่อออกแบบและพัฒนาเว็บไซต์บน HubSpot ให้มีสไตล์ Modern, Premium, Friendly และ International รองรับลูกค้าทั่วโลก เว็บไซต์เป็นภาษาอังกฤษทั้งหมด\n\nเกี่ย��กับเรา\nFound Academic เป็นที่ปรึกษาด้านการศึกษาต่อต่างประเทศ เน้นประเทศไทย จีน และสหราชอาณาจักร รวมถึงหลักสูตรระยะสั้นที่ University of Cambridge และการแนะแนวระดับมัธยม/เตรียมแพทย์\n\nเว็บไซต์ปัจจุบัน: [www.foundacademic.com](http://www.foundacademic.com)\n\nขอบเขตงาน\n\n* ตรวจสอบเว็บไซต์และจัดทำ Sitemap, User Flow และ Wireframe\n* ออกแบบ Desktop/Mobile ใน Figma พร้อม Mini Design System\n* พัฒนาเว็บไซต์จริงบน HubSpot CMS\n* สร้าง Templates และ Editable Modules ที่ทีมแก้ไขเองได้\n* เชื่อมต่อ Forms, CRM และระบบจอง Free 30-Minute Consultation\n* จัดทำ Responsive Navigation, Blog และ Article Template\n* ตั้งค่า CTA, Cookie Consent, Basic SEO และ Google Analytics\n* ทดสอบ Mobile, Browser และความเร็วเว็บไซต์\n* ส่งมอบคู่มือและ Training อย่างน้อย 1 ครั้ง\n\nหน้าที่ต้องการ\n\nHome, About, Services, Study in Thailand/China/UK, Short Courses, Resources/Blog, Article Template, Partner With Us, Free Consultation, FAQ, Privacy Policy และ Terms\n\nคุณสมบัติ\n\n* มีประสบการณ์ HubSpot, HubL, Themes และ Custom Modules\n* มี HubSpot Portfolio ที่เปิดใช้งานจริง\n* ทำ UI/UX ใน Figma และ Responsive Development ได้\n* เข้าใจ SEO, Conversion และ Website Performance\n* เริ่มงานได้ทันทีและส่งมอบภายใน 15 วัน\n\nกรุณาส่ง\n\n* ข้อมูลแนะนำตัวและ Portfolio\n* ตัวอย่างงาน HubSpot และ Figma\n* ขั้นตอนและ Timeline ภายใน 15 วัน\n* วันที่เริ่มงานได้\n* จำนวนรอบแก้ไขและระยะ Support\n* ใบเสนอราคา พร้อมสิ่งที่รวมและไม่รวม\n\nเงื่อนไข\n\nFound Academic ต้องได้รับ Ownership ของ Figma, Source Files, Assets, Templates และ Modules เว็บไซต์ต้องแก้ไขเนื้อหาได้เอง ค่าใช้จ่ายเพิ่มเติมต้องแจ้งก่อน และมี Support แก้ไขข้อผิดพลาดหลังเปิดเว็บอย่างน้อย 14 วัน\n\nกรุณาส่ง Proposal, Portfolio, Timeline และใบเสนอราคาผ่าน Fastwork\n",
+    "title": "ฉันหามืออาชีพ ออกแบบและสร้าง Website บนโปรแกรม Hubspot",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-13T06:52:38.265237Z",
+    "updated_at": "2026-08-13T06:52:39.437838Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-12T06:52:38.209510Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "311d65e3-3e85-4c9b-9526-3364d225ff93",
+    "user_profile": {
+      "id": "311d65e3-3e85-4c9b-9526-3364d225ff93",
+      "username": "sasithorb",
+      "display_name": "SasithonB",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/311d65e3-3e85-4c9b-9526-3364d225ff93/profile/4ccf7eac-8267-42f6-a222-eba67584ff30.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-13T08:03:55.395Z"
+  },
+  {
     "id": "c877a269-3086-47b7-8bf6-ac5ee96a45c1",
     "status": "open",
     "tag": {
