@@ -1,5 +1,55 @@
 [
   {
+    "id": "2ad98d6a-c78a-412d-84e9-ab4377f2e3a0",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "บรีฟงาน\nประกาศเชิญชวนยื่นข้อเสนอโครงการ (RFP): พัฒนาและยกเครื่องเว็บไซต์แบรนด์ พร้อมบริการ SEO\n\nเปิดรับสมัครบริษัทรับพัฒนาเว็บไซต์และผู้เชี่ยวชาญด้าน SEO เข้ามาร่วมเสนองาน (Pitching) เพื่อปรับปรุงและยกระดับแพลตฟอร์มดิจิทัลของแบรนด์บนโดเมนเดิม โดยมีรายละเอียดและขอบเขตงานดังนี้\n\nขอบเขตงาน (Scope of Work)\n1. งานพัฒนาและออกแบบเว็บไซต์ (Website Redesign & Replatforming)\n\nออกแบบ UX/UI ใหม่ทั้งหมดให้ทันสมัย รองรับ Mobile Responsive และสอดคล้องกับ��าพลักษณ์ใหม่ของแบรนด์\n\nวางโครงสร้างและพัฒนาระบบเว็บไซต์ใหม่ (ระบบเดิมใช้โดเมนเดิม)\n\nคำนึงถึงความเร็วในการโหลด (Core Web Vitals) ความปลอดภัย และรองรับการขยายตัวในอนาคต\n\n2. งานรับทำ SEO (Search Engine Optimization)\n\nวางโครงสร้าง SEO On-Page และ Technical SEO ตั้งแต่กระบวนการพัฒนาระบบ\n\nวางแผนและดำเนินการ SEO Off-Page / Content Strategy เพื่อเพิ่มอันดับและ Traffic ในระยะยาว\n\nเอกสารที่ต้องจัดส่งเพื่อประกอบการพิจารณา\nProposal รายละเอียดแนวทางการทำงาน เทคโนโลยีที่เลือกใช้ และระยะเวลาดำเนินงาน (Timeline)\n\nใบเสนอราคา (Quotation) จำแนกราคาแยกตามสโคป (งานพัฒนาเว็บไซต์ และ งาน SEO)\n\nแฟ้มสะสมผลงาน (Portfolio) ผลงานพัฒนาเว็บไซต์และเคสความสำเร็จด้าน SEO ที่ผ่านมา\n\nเอกสารนิติบุคคล (หากบริษัทสามารถออกใบกำกับภาษีเต็มรูปแบบได้ จะได้รับ การพิจารณาเป็นพิเศษ)\n\nเงื่อนไขสำคัญสำหรับการยื่นข้อเสนอ (สำคัญที่สุด)\nทางเราดำเนินงานในฐานะ ตัวกลาง/นายหน้า (Middleman)\n\nเงื่อนไขค่าตอบแทน: หากบริษัทของท่านได้รับการคัดเลือก จะมีการ หักส่วนแบ่งจำนวน 20% จากยอดรวมของราคาที่ท่านเสนอมาในใบเสนอราคา\n\nบริษัทที่ส่งเอกสารเข้ามาร่วม Pitching ถือว่ารับทราบและยอมรับเงื่อนไขการหักส่วนแบ่ง 20% และเงื่อนไขอื่นๆ ตา��ที่บริษัทกำหนดทุกประการ",
+    "title": "ประกาศเชิญชวนยื่นข้อเสนอโครงการ (RFP): พัฒนาและยกเครื่องเว็บไซต์แบรนด์ พร้อมบริการ SEO",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-13T10:21:40.309813Z",
+    "updated_at": "2026-08-13T10:21:41.524383Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-12T10:21:40.244021Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "bb6d04d2-0ff2-4ada-afe2-aeca81b06ba2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-13T10:31:10.020Z"
+  },
+  {
     "id": "44b05bad-fc83-4c45-bf8a-7841610fe18a",
     "status": "open",
     "tag": {
@@ -392,54 +442,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-12T13:37:09.272Z"
-  },
-  {
-    "id": "1146354a-7335-45b0-935a-be4e335f0c81",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "*กรุณาอ่านรายละเอียดให้ครบก่อนสมัครค่ะ*\n\nรับสมัคร Freelance Sales Representative / Appointment Setter💻 Remote | งานเสริม | เวลายืดหยุ่น\n\nบริษัทรับออกแบบเว็บไซต์จากยุโรป กำลังมองหาคนช่วยดูแลลูกค้าชาวไทยในยุโรป ตั้งแต่ ตอบแชท → พูดคุย → นัดหมาย → Follow-up → ปิดการขาย\n\n💬 หน้าที่\n\n- ตอบแชทลูกค้าผ่าน WhatsApp\n\n- ให้ข้อมูลและตอบคำถามเบื้องต้น\n\n- พูดคุยกับลูกค้าผ่าน Chat / Video Call\n\n- สอบถามและคัดกรองความต้องการของลูกค้า\n\n- นัดหมายและ Follow-up ลูกค้าที่สนใจ\n\n- แ���ะนำบริการและดูแลลูกค้าจนถึงขั้นตอนปิดการขาย\n\nประสานงานกับทีมเมื่อจำเป็น\n\n💰 ค่าตอบแทน\n\n- 300 บาท/วัน สำหรับงาน Support ตอบแชทลูกค้าปัจจุบัน\n\n- Commission สูงสุด 1,000 บาท / การปิดการขาย (Target ประมาณ ±10 Leads)\n\n- มีโบนัสเพิ่มเติมตาม Client Retention\n\n👤 คุณสมบัติ\n\n- สื่อสาร ไทยและอังกฤษได้ดี\n\n- *สะดวกตอบแชทเป็นประจำตลอดช่วงเวลาที่รับงาน*\n\n- *สะดวกพูดคุย / โทรกับลูกค้า*\n\n- มนุษยสัมพันธ์ดี สื่อสารคล่อง และ Follow-up ลูกค้าได้\n\n- มีประสบการณ์ Sales / Telesales จะพิจารณาเป็นพิเศษ\n\nมี SOP + Training ให้\n\n🕐 รูปแบบงาน\n\nRemote 100% เวลายืดหยุ่น\n\n\n📩 สนใจสมัคร กรุณาส่ง:\n\nResume / CV ภ��ษาอังกฤษ\n\n*ลูกค้าเป็นคนเลือกในขั้นตอนสุดท้าย*\n\nขอบคุณค่ะ",
-    "title": "ฉันหาคนช่วยตอบแชท / โทรคุยกับลูกค้า",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-12T09:27:47.320519Z",
-    "updated_at": "2026-08-12T09:27:49.084628Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-11T09:27:47.247670Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.6.1;iPhone;6.5.0-6000261"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "8e014dbd-5792-4303-b8f9-6ae3fb64810b",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-12T09:33:12.533Z"
   }
 ]
