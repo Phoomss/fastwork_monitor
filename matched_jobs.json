@@ -494,54 +494,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-13T05:11:11.218Z"
-  },
-  {
-    "id": "51c2c24f-12d4-4676-866a-0f0e7c421e06",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "กำลังมองหา Industrial / Product Designer เพื่อพัฒนาแนวคิดผลิตภัณฑ์สกินแคร์ซิลิโคนแบบสวมปลายนิ้วจำนวน 2 ชิ้น ซึ่งอยู่ในระบบผลิตภัณฑ์เดียวกัน\n\nงานรอบนี้เป็น M0 Concept Direction เน้นการคิดและพัฒนาแนวทางผลิตภัณฑ์ตั้งแต่ต้น ไม่ใช่งาน Render อย่างเดียว และไม่ใช่เพียงการขึ้นโมเดลตามแบบที่เสร็จแล้ว\n\nขอบเขตงานโดยย่อ\n\n* ศึกษาบรีฟและวิเคราะห์ความเป็นไปได้เบื้องต้น\n* เสนอแนวคิดของระบบผลิตภัณฑ์ 2–3 แนวทาง\n* พิจารณารูปทรง การสวม ความกระชับ การจับขณะเปียก การล้าง การระบายน้ำ และการทำให้แห้ง\n* เลือกและพัฒนาต่อ 1 แนวทางตามความคิดเห็น\n* จัดทำ Concept Presentation พร้อมภาพมุมที่จำเป็นและเหตุผลการออกแบบ\n* แก้ไขงานตามขอบเขตที่ตกลงอย่างน้อย 2 รอบ\n\nงานรอบนี้ยังไม่รวม\n\nProduction CAD, STEP/STL, Technical Drawing, DFM, Tooling, Prototype และการประสานงานผลิตกับโรงงาน โดยขั้นตอนเหล่านี้จะพิจารณาว่าจ้างแยกภายหลัง\n\nคุณสมบัติที่ต้องการ\n\n* มีประสบการณ์ Industrial Design หรือ Physical Product Design\n* มีผลงานผลิตภัณฑ์ที่แสดงกระบวนการคิด ไม่ใช่เฉพาะภาพ Render\n* หากเคยทำ silicone, LSR, TPE, rubber หรือ flexible molded product จะได้รั���การพิจารณาเป็นพิเศษ\n* เข้าใจ ergonomics ของผลิตภัณฑ์ขนาดเล็กและการออกแบบเพื่อใช้งานในสภาวะเปียก\n* สามารถเริ่มงานได้ภายในประมาณ 3–5 วัน\n* ยินดีรักษาความลับและลงนาม NDA ก่อนรับ Controlled Brief ฉบับเต็ม\n\nกรุณาส่งข้อมูลต่อไปนี้\n\n1. ผลงานที่ใกล้เคียงที่สุด 2 โครงการ พร้อมระบุหน้าที่ที่ทำเอง\n2. ประสบการณ์เกี่ยวกับ silicone/LSR/TPE หรือ flexible molded products\n3. วิธีเริ่มวิเคราะห์และสร้าง Concept Directions สำหรับงานลักษณะนี้\n4. โปรแกรมและไฟล์ต้นฉบับที่จะส่งมอบ\n5. ราคาแบบ Fixed Price สำหรับ M0\n6. วันที่เริ่มได้ กำหนดส่ง First Review และวันส่งงานฉบับสมบูรณ์\n7. จำนวนรอ���แก้ไขและรายการที่ไม่รวมในราคา\n\nรายละเอียดทางเทคนิคและข้อมูลโครงการฉบับเต็มจะส่งให้เฉพาะผู้สมัครที่ผ่านการคัดกรองและยืนยัน NDA แล้วเท่านั้น\n\nงบประมาณ: เปิดรับข้อเสนอแบบ Fixed Price ตามประสบการณ์และผลงาน\nระยะเวลาเป้าหมาย: ประมาณ 2–3 สัปดาห์",
-    "title": "ตามหา Industrial / Product Designer สำหรับพัฒนาอุปกรณ์สกินแคร์ซิลิโคน — งาน M0 Concept Direction",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-12T12:09:51.279867Z",
-    "updated_at": "2026-08-12T12:09:53.309804Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-11T12:09:51.223855Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.10.1-6002879"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "4b2beac0-6012-472e-b171-ed7b3a1cdada",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-12T13:37:09.272Z"
   }
 ]
