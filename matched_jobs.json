@@ -1,5 +1,103 @@
 [
   {
+    "id": "4c418561-a27f-4de9-bc7c-033f38824d5d",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ผู้เชี่ยวชาญการทำ dash board ด้วย Google Data Studio\nมีข้อมูลตารางเอ็กเซลใหเแล้ว างแผนการทำฐานข้อมูร่วมกัน",
+    "title": "ผู้เชี่ยวชาญก��รทำ dash board ด้วย Google Data Studio",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-14T06:03:11.829460Z",
+    "updated_at": "2026-08-14T06:03:12.910266Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-16",
+    "expired_at": "2026-09-13T06:03:11.808225Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a7c73f94-c18f-4074-aef8-f062e8831374",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-14T06:16:32.490Z"
+  },
+  {
+    "id": "f3f94795-eec9-43f1-845d-b7588558a3bf",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ทำบอท/โปรแกรมMercari JP เวลามีสินค้าลงใหม่ แบบเรียลไทม์ คัดกรองเฉพาะสินค้าที่ต้องการ ผ่าน Discord หรืออะไรก็ได้หมด ขอแบบเรียลไทม์ ",
+    "title": "ทำบอท/โปรแกรมMercari JP เวลามีสินค้าลงใหม่ แบบเรียลไทม์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-14T05:22:26.209328Z",
+    "updated_at": "2026-08-14T05:22:27.565723Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-13T05:22:26.192205Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.11.0-6002897"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "b7b58c24-b3e5-403b-8b0c-91dbc937da1c",
+    "user_profile": {
+      "id": "b7b58c24-b3e5-403b-8b0c-91dbc937da1c",
+      "username": "dknoozoi",
+      "display_name": "dknoozoi",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-14T06:16:31.017Z"
+  },
+  {
     "id": "cf98f148-3e9b-47d2-9ec1-c4f53d0be4d2",
     "status": "open",
     "tag": {
@@ -396,153 +494,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-13T08:03:55.395Z"
-  },
-  {
-    "id": "c877a269-3086-47b7-8bf6-ac5ee96a45c1",
-    "status": "open",
-    "tag": {
-      "id": "09c9348f-da0e-4389-a70a-78ef58f8b7b7",
-      "name": "อินฟลูเอนเซอร์",
-      "sort": 11
-    },
-    "type": "contract",
-    "description": "PR Marketing (นักประชาสัมพันธ์และการตลาด) คือตำแหน่งที่ทำหน้าที่ผสานการสร้างภาพลักษณ์องค์กร (PR) เข้ากับการส่งเสริมการตลาด (Marketing) โดยเน้นการสร้างความเข้าใจและความนิยมในแบรนด์ เพื่อผลักดันให้เกิดผลลัพธ์ทางธุรกิจ เช่น ยอดขาย หรือการยอมรับจากสาธารณชน\n\nหน้าที่และความรับผิดชอบ (Role & Responsibilities)\nวางแผนกลยุทธ์การสื่อสาร: วางแผนการประชาสัมพันธ์ทั้งภายในและภายนอกองค์กร เพื่อสร้างภาพลักษณ์ที่ดี\nจัดการสื่อและข่าวสาร (Media Relations): เขียนข่าวประชาสัมพันธ์ (Press Release), ติดต่อสื่อมวลชน, ทำข่าวแจก และดูแลความสัมพันธ์กับสื่อ\nสร้างคอนเทนต์: ผลิตเนื้อหา คอนเทนต์สร้างสรรค์ ผ่านช่องทางต่างๆ ทั้งออนไลน์ (Social Media, Website) และออฟไลน์\nจัดกิจกรรมทางการตลาด: จัดอีเวนต์, งานแถลงข่าว (Press Conference), หรือกิจกรรมส่งเสริมการขายร่วมกับทีมการตลาด\nบริหารจัดการวิกฤต (Crisis Management): ดูแลและจัดการภาพลักษณ์เมื่อเกิดปัญหาหรือข่าวลบต่อองค์กร\nประเมินผล: ติดตามข่าวสาร (Monitoring) และรายงานผลการประชาสัมพันธ์ที่ผ่านมา\n\nคุณสมบัติที่สำคัญ\nวุฒิปริญญาตรี นิเทศศาสตร์, วารสารศาสตร์, การตลาด หรือสาขาที่เกี่ยวข้อง\nทักษะการสื่อสารดีเยี่ยม (การเขียนและการพูด)\nมีความคิดสร้างสรรค์และติดตามเทรนด์ใหม่ๆ\nสามารถทำงานภายใต้ความกดดันและบริหารจัดการสถานการณ์วิกฤตได้\n\n",
-    "title": "PR Marketing (นักประชาสัมพันธ์และการตลาด) ",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "25000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-13T04:30:48.541419Z",
-    "updated_at": "2026-08-13T04:30:50.289540Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-12T04:30:48.480477Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;11.10.0-6002863"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
-    "user_profile": {
-      "id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
-      "username": "marisa23.",
-      "display_name": "hrLing Ling",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8413ffaf-07ce-48ee-912b-c3a9427b8d67/profile/f53c2306-b5eb-479e-8f0c-7cc4e5a11bb2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "25000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-13T05:11:13.723Z"
-  },
-  {
-    "id": "1797c01e-b2ce-4f3b-95b6-2187fe6ee9ee",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการโปรแกรมเมอร์รับพัฒนา Web Application ระบบหลังบ้าน���ำหรับบริษัท\n\nเงื่อนไขสำคัญ:\nงานนี้สามารถใช้ AI / ChatGPT ช่วย Generate Code ได้ และทางเราสามารถให้ ChatGPT ช่วยจัดทำ Code, Database Structure, Workflow และ Specification เบื้องต้นให้\n\nไม่จำเป็นต้องเขียนทุกอย่างใหม่ตั้งแต่ 0\n\nต้องการโปรแกรมเมอร์ที่สามารถนำ Code ที่สร้างร่วมกับ AI/ChatGPT มาตรวจสอบ แก้ไข เชื่อมระบบ ทดสอบ และ Deploy ให้สามารถใช้งานออนไลน์จริงได้\n\nFunction หลักที่ต้องการ\n\n* Order Management\n* Order Queue เรียงออเดอร์ก่อน–หลัง\n* ดูออเดอร์ค้างส่ง\n* Product / SKU Management\n* Inventory\n* Physical / Reserved / Available Stock\n* Stock Movement\n* Picking / Packing\n* Shipping Status\n* Dashboard\n\nInvoice / Quotation\n\n* Upload PDF หรือรูป Invoice\n* ใช้ AI/OCR อ่าน Invoice\n* ดึง Customer / Invoice No. / SKU / Product / Quantity / Price\n* สร้าง Order Items อัตโนมัติ\n* ให้พนักงานตรวจสอบก่อน Confirm และ Reserve Stock\n\nWebsite Integration\n\n* ในอนาคตต้องสามารถเชื่อม Website / Shopify เพื่อดึง Order อัตโนมัติได้\n\nสิ่งที่ต้องการจาก Programmer\n\nต้องสามารถ:\n\n* เข้าใจและตรวจสอบ Code ที่ Generate จาก AI/ChatGPT\n* แก้ Bug / Refactor Code\n* ออกแบบและตรวจสอบ Database\n* ทำ API / Authentication\n* ดูเรื่อง Security และสิทธิ์ User\n* Deploy Web App ขึ้น Server/Cloud\n* ตั้งค่า Database / Backup\n* ส่งมอบ Source Code และ Account ที่เกี่ยวข้องให้บริษัท\n* ทำ Documentation เพื่อให้ Developer คนอื่นสามารถพัฒนาต่อได้\n\nไม่ต้องการให้ระบบผูกติดกับ Programmer คนเดียว\n\nTechnology เปิดให้เสนอ เช่น Next.js / React / Node.js / PostgreSQL / Supabase หรือ Stack อื่นที่เหมาะสม",
-    "title": "หา Freelance Programmer / Full Stack Developer รับพัฒนาระบบ Order & Stock Management",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-13T04:13:01.191308Z",
-    "updated_at": "2026-08-13T04:13:02.467185Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-12T04:13:01.115010Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3.1;iPhone;11.10.0-6002863"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d8803296-5788-4347-a144-b1c9529c2b1b",
-    "user_profile": {
-      "id": "d8803296-5788-4347-a144-b1c9529c2b1b",
-      "username": "vqhibulw",
-      "display_name": "NewyearGarden",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-13T05:11:12.415Z"
-  },
-  {
-    "id": "a54240d1-61f0-4372-abae-9bbc838805e2",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนทำโปรแกรมให้เวลาเราขยับเท้าหรือกดตีบอร์ดแปลงinputเป็น joystick เวลาเล่นเกม ให้เกมตรวจจับว่าเป็นjoystick เล่นอยู่run ผ่าน browser ",
-    "title": "หาคนทำโปรแกรม joy to key",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-13T03:30:30.343620Z",
-    "updated_at": "2026-08-13T03:30:31.521045Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-12T03:30:30.321153Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.10.0-6002863"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "1fb2a728-5f0f-42ae-a2b1-f69132f79d24",
-    "user_profile": {
-      "id": "1fb2a728-5f0f-42ae-a2b1-f69132f79d24",
-      "username": "doyvinci",
-      "display_name": "doyvinci",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/1fb2a728-5f0f-42ae-a2b1-f69132f79d24/profile/0ea1d365-4e6c-486f-9b66-cab351bc109d.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-13T05:11:11.218Z"
   }
 ]
