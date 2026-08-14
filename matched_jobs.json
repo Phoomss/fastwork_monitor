@@ -247,55 +247,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-13T11:21:58.820Z"
-  },
-  {
-    "id": "2ad98d6a-c78a-412d-84e9-ab4377f2e3a0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "contract",
-    "description": "บรีฟงาน\nประกาศเชิญชวนยื่นข้อเสนอโครงการ (RFP): พัฒนาและยกเครื่องเว็บไซต์แบรนด์ พร้อมบริการ SEO\n\nเปิดรับสมัครบริษัทรับพัฒนาเว็บไซต์และผู้เชี่ยวชาญด้าน SEO เข้ามาร่วมเสนองาน (Pitching) เพื่อปรับปรุงและยกระดับแพลตฟอร์มดิจิทัลของแบรนด์บนโดเมนเดิม โดยมีรายละเอียดและขอบเขตงานดังนี้\n\nขอบเขตงาน (Scope of Work)\n1. งานพัฒนาและออกแบบเว็บไซต์ (Website Redesign & Replatforming)\n\nออกแบบ UX/UI ใหม่ทั้งหมดให้ทันสมัย รองรับ Mobile Responsive และสอดคล้องกับ��าพลักษณ์ใหม่ของแบรนด์\n\nวางโครงสร้างและพัฒนาระบบเว็บไซต์ใหม่ (ระบบเดิมใช้โดเมนเดิม)\n\nคำนึงถึงความเร็วในการโหลด (Core Web Vitals) ความปลอดภัย และรองรับการขยายตัวในอนาคต\n\n2. งานรับทำ SEO (Search Engine Optimization)\n\nวางโครงสร้าง SEO On-Page และ Technical SEO ตั้งแต่กระบวนการพัฒนาระบบ\n\nวางแผนและดำเนินการ SEO Off-Page / Content Strategy เพื่อเพิ่มอันดับและ Traffic ในระยะยาว\n\nเอกสารที่ต้องจัดส่งเพื่อประกอบการพิจารณา\nProposal รายละเอียดแนวทางการทำงาน เทคโนโลยีที่เลือกใช้ และระยะเวลาดำเนินงาน (Timeline)\n\nใบเสนอราคา (Quotation) จำแนกราคาแยกตามสโคป (งานพัฒนาเว็บไซต์ และ งาน SEO)\n\nแฟ้มสะสมผลงาน (Portfolio) ผลงานพัฒนาเว็บไซต์และเคสความสำเร็จด้าน SEO ที่ผ่านมา\n\nเอกสารนิติบุคคล (หากบริษัทสามารถออกใบกำกับภาษีเต็มรูปแบบได้ จะได้รับ การพิจารณาเป็นพิเศษ)\n\nเงื่อนไขสำคัญสำหรับการยื่นข้อเสนอ (สำคัญที่สุด)\nทางเราดำเนินงานในฐานะ ตัวกลาง/นายหน้า (Middleman)\n\nเงื่อนไขค่าตอบแทน: หากบริษัทของท่านได้รับการคัดเลือก จะมีการ หักส่วนแบ่งจำนวน 20% จากยอดรวมของราคาที่ท่านเสนอมาในใบเสนอราคา\n\nบริษัทที่ส่งเอกสารเข้ามาร่วม Pitching ถือว่ารับทราบและยอมรับเงื่อนไขการหักส่วนแบ่ง 20% และเงื่อนไขอื่นๆ ตา��ที่บริษัทกำหนดทุกประการ",
-    "title": "ประกาศเชิญชวนยื่นข้อเสนอโครงการ (RFP): พัฒนาและยกเครื่องเว็บไซต์แบรนด์ พร้อมบริการ SEO",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-13T10:21:40.309813Z",
-    "updated_at": "2026-08-13T10:21:41.524383Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-12T10:21:40.244021Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "bb6d04d2-0ff2-4ada-afe2-aeca81b06ba2",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-13T10:31:10.020Z"
   }
 ]
