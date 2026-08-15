@@ -1,5 +1,54 @@
 [
   {
+    "id": "b18f86d1-177c-4f3f-a03c-1dc653f9e634",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนมี Claude Max จะใช้ login Cluade CLI ยืมแค่ 4 ชั่วโมง ใช้เสร็จ revoke acess/logout ได้เลย ทักมาจะรีบติดต่อไปครับ",
+    "title": "Claude Max ยืม 4 ชั่วโมง",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-15T05:46:33.593452Z",
+    "updated_at": "2026-08-15T05:46:36.243910Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-14T05:46:33.573760Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a28e7fc5-65d7-4e7d-85f4-640f9ddcbe15",
+    "user_profile": {
+      "id": "a28e7fc5-65d7-4e7d-85f4-640f9ddcbe15",
+      "username": "kiddibob",
+      "display_name": "Bobbi",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a28e7fc5-65d7-4e7d-85f4-640f9ddcbe15/profile/9cffae45-1b39-4961-9926-3e7979c4b26d.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-15T05:57:53.744Z"
+  },
+  {
     "id": "3f11a003-099f-435f-bc4f-49f6c32b641b",
     "status": "open",
     "tag": {
