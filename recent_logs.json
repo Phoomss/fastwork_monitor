@@ -1,5 +1,4 @@
 [
-  "[2026-08-15T10:34:54.672Z]     Notification sent successfully.",
-  "[2026-08-15T10:34:54.565Z]   FOUND NEW TARGET JOB: รับช่วงพัฒนาเว็บจองบริการและระบบหลังบ้าน (Next.js / PostgreSQL) (Cats: พัฒนาเว็บไซต์, พัฒนาแอปพลิเคชัน) (Budget: 30000 THB)",
-  "[2026-08-15T10:34:53.403Z] Checking Fastwork for new job posts..."
+  "[2026-08-15T10:52:11.217Z] Checking Fastwork for new job posts...",
+  "[2026-08-15T10:52:11.214Z] Auto-cleanup: Removed 11 seen job tracking IDs older than 1 day(s)."
 ]
