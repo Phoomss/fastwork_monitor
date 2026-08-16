@@ -1,5 +1,6 @@
 [
-  "[2026-08-16T16:07:34.849Z]     Notification sent successfully.",
-  "[2026-08-16T16:07:34.653Z]   FOUND NEW TARGET JOB: ผู้เชี่ยวชาญ claude น่าจะเป็น cowork เพราะต้องการให้ access web แล้วเข้าไปแปลข้อมูล (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-08-16T16:07:33.575Z] Checking Fastwork for new job posts..."
+  "[2026-08-16T16:37:13.823Z]     Notification sent successfully.",
+  "[2026-08-16T16:37:13.008Z]   FOUND NEW TARGET JOB: คนทำการตลาดสอนออนไลน์ (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
+  "[2026-08-16T16:37:12.031Z] Checking Fastwork for new job posts...",
+  "[2026-08-16T16:37:12.029Z] Auto-cleanup: Removed 3 seen job tracking IDs older than 1 day(s)."
 ]

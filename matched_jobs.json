@@ -1,5 +1,54 @@
 [
   {
+    "id": "9b280e59-7341-458f-a0fd-2e2712da3d39",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "หาคนมีประสบการณ์ด้านการตลาด มาทำการตลาดสอนออนไลน์ วิชาเขียนโปรแกรมและวิชาคณิตศาสตร์ (ไม่เกิน ม.3) ครับ\nเริ่มใหม่ตั้งแต่ 0 ���ั้งแต่เปิดเพจ ทำไลน์ OA ",
+    "title": "คนทำการตลาดสอนออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-16T16:25:24.302098Z",
+    "updated_at": "2026-08-16T16:25:25.277925Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-31",
+    "expired_at": "2026-09-15T16:25:24.277585Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "79c2fb98-b5a0-44ed-9608-1e7d661c7410",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-16T16:37:13.008Z"
+  },
+  {
     "id": "f19b94a9-7ab1-4fa2-a6d0-44abb711cf00",
     "status": "open",
     "tag": {
