@@ -1,5 +1,54 @@
 [
   {
+    "id": "ead3489a-d4cf-4064-ad15-161912a594a0",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "   ต้องการหาคนทำเวป แนว Directory รวบรวมสินค้า-บริการ-โรงแรม-ร้านอาหาร\n  - มี  filter\n -  มี searh\n  แยกตาม   Location / ประเภทสินค้า-บริการ \n\n - สามารถ print คูปอง/ส่วนลด  ได้ \n\nแนะนำ การลง Database ที่ง่ายและไม่ซับซ้อน \nสามารถ แก้ไข เองได้ภายหลัง \n\nใช้ Hostinger  ได้คล่อง \n\nสนใจ ทักมาจ้า \n\n1.เสนอผลงานที่เคยทำมา\n 2.ระบุ เวลาทำงาน \n3. เสนอแนะ แนวทางการทำงานให้เสร็จไว \n   ได้เลยจ้า",
+    "title": "ทำ  website Directory รวบรวมข้อมูลเป็นระบบ  ด้วย  Hostinger Wordpress ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-16T10:41:50.497071Z",
+    "updated_at": "2026-08-16T10:41:52.047156Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-05",
+    "expired_at": "2026-09-15T10:41:50.476101Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "2452a0de-a85e-40fc-a315-43f6b7a30e2f",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-16T10:50:55.680Z"
+  },
+  {
     "id": "0a8c3c0f-288f-4d12-b394-2a6ea9f0d6cc",
     "status": "open",
     "tag": {
@@ -96,55 +145,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-16T03:29:48.210Z"
-  },
-  {
-    "id": "ed92191f-2c01-416f-8c54-d2f1563d9b7f",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "## หา Full-stack Developer รับช่วงโปรเจกต์เว็บและระบบหลังบ้าน\n\nต้องการนักพัฒนา Next.js / TypeScript / PostgreSQL มารับช่วงระบบเว็บจองบริการ ระบบขายหน้าร้าน และระบบหลังบ้าน\n\nงานหลักคือ ตรวจงานเดิมก่อน แล้วพัฒนาฟีเจอร์ที่เหลือ เช่น ระบบ QR/Scanner, ระบบชำระเงิน, ระบบจัดการหลังบ้าน และปรับปรุงความปลอดภัยของระบบฐานข้อมูล\n\nต้องการผู้ที่ทำงานละเอียด มีประสบการณ์ Next.js, TypeScript, PostgreSQL และหากเคยทำ POS, QR Code, Booking หรือ Payment จะพิจารณาเป็นพิเศษ\n\nขอเริ่มจาก Audit งานเดิมและเสนอแผนงาน/ราคา ก่อนเริ่มพัฒนาต่อ\n\nกรุณาส่ง Portfolio และประสบการณ์ที่เกี่ยวข้องมาด้วยครับ",
-    "title": "รับช่วงพัฒนาเว็บจองบริการและระบบหลังบ้าน (Next.js / PostgreSQL)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "30000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-15T10:14:03.687605Z",
-    "updated_at": "2026-08-15T10:14:04.658942Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-14T10:14:03.636469Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "2385a544-2fed-44b2-bdf7-d5e82cd1f8cf",
-    "user_profile": {
-      "id": "2385a544-2fed-44b2-bdf7-d5e82cd1f8cf",
-      "username": "aqjync5b",
-      "display_name": "KENG",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-15T10:34:54.565Z"
   }
 ]
