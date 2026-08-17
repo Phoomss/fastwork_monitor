@@ -145,54 +145,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-17T03:57:51.809Z"
-  },
-  {
-    "id": "ceaeb061-a83a-46f8-806d-ccdae3d372e8",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ติดตั้งปลั๊กอินจัดการแบนเนอร์โฆษณา (เช่น Advanced Ads) ทำช่องวางโฆษณาบริเวณ Header, Sidebar และ In-Feed ที่รองรับการตั้งเวลาหมดอายุโฆษณาอัตโนมัติ\n\n-ระบบสมาชิก (User Portal)\n-ระบบผู้ดูแลระบบ (Admin Portal)\n-ระบบจัดการพื้นที่โฆษณา (Ad Management System)",
-    "title": "ทำเว็บเว็บบอร์ด/บอร์ดประกาศด้วย WordPress",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "6000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-16T23:27:10.334821Z",
-    "updated_at": "2026-08-16T23:27:11.718972Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-15T23:27:10.315261Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "d2753d5c-f2bb-4e5e-b2bb-d66870bf815d",
-    "user_profile": {
-      "id": "d2753d5c-f2bb-4e5e-b2bb-d66870bf815d",
-      "username": "ljqrhgdd",
-      "display_name": "B",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "6000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-16T23:41:52.177Z"
   }
 ]
