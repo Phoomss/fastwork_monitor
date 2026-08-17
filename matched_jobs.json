@@ -292,54 +292,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-16T16:07:34.652Z"
-  },
-  {
-    "id": "e627d44c-50f1-48d1-8d35-81d948bf0f16",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "กราฟิกออกแบบ UI / ทำรูป สโปคงานที่ต้องทำ หน้าจอ Wiki , ข้อมูลมอนในเกม , Battlepass เป็นต้น\n\nมีงาน UI ที่เป็น Pixelart ให้อ้างอิง",
-    "title": "ตามหาคนอ��กเเบบ Graphic UI ในเกม",
-    "is_owner": false,
-    "source": "jobboard_web_web_chat_profile-menu_jobboard",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-16T15:36:05.030742Z",
-    "updated_at": "2026-08-16T15:36:06.266312Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-23",
-    "expired_at": "2026-09-15T15:36:04.979095Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "3ffe0b41-3228-4891-ae03-82f94026df08",
-    "user_profile": {
-      "id": "3ffe0b41-3228-4891-ae03-82f94026df08",
-      "username": "dgb44w6v",
-      "display_name": "Olivier",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-16T15:36:44.277Z"
   }
 ]
