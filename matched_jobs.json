@@ -243,54 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-16T16:37:13.008Z"
-  },
-  {
-    "id": "f19b94a9-7ab1-4fa2-a6d0-44abb711cf00",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "ไม่แน่ใจว่าจะทำได้มั้ย เพราะมันไม่สามารถ access หน้า log in ได้เอง  มันบอกต้องให้เราเป็นคนทำ และมันจะทำต่อ \nและนี่คือสิ่งที่ claude แนะนำ\n\n***  ลองดูว่าจะคิดราคาช่วงประเมิน ก่อนว่าทำได้หรือไม่ได้ แล้วค่อยทำให้อีกทีก็ได้ครับ\nงานนี้ ดูเหมือนง่ายมาก  ถ้าคนเข้าใจ \n\nsoftware ที่ผมต้องการให้มันแปลหมดอายุวันที่  18 สิงหาคม ****  \n\nแบบที่ 1 — ติดตั้ง Claude in Chrome extension (ถ้าอยากให้ผมเข้าไปไล่ดูหน้าจอเองแบบอัตโนมัติ)\n\nเปิด Chrome บนคอมพิวเตอร์ที่คุณใช้งานจริง\nไปที่ Chrome Web Store → ค้นหา \"Claude\" → ติดตั้ง extension\nล็อกอิน extension ด้วยบัญชี Claude เดียวกับที่ใช้ตอนนี้\nล็อกอินเข้า โปรแกรม (ความลับ) เอง ไปที่หน้า Analyze ที่ต้องการ\nบอกผมว่าพร้อมแล้ว — ผมจะเรียกใช้เครื่องมือเพื่อเข้าไปอ่าน/แปลหน้านั้นให้\n\nเมื่อหาไม่เจอ   claude บอกอีกว่า\n\nขอโทษที่ทำให้เข้าใจผ���ดครับ — จริง ๆ แล้ว extension \"Claude in Chrome\" อย่างเป็นทางการของ Anthropic ยังเป็นฟีเจอร์ที่เปิดให้ใช้แบบจำกัด (beta) ไม่ได้เปิดให้ค้นหาและติดตั้งจาก Chrome Web Store ทั่วไปสำหรับทุกบัญชีครับ ต้องเปิดใช้งานผ่านหน้าตั้งค่าในบัญชี Claude ของคุณเอง (ที่ claude.ai) และอาจไม่พร้อมใช้งานสำหรับทุกแผนบัญชี",
-    "title": "ผู้เชี่ยวชาญ claude น่าจะเป็น cowork เพราะต้องการให้ access web แล้วเข้าไปแปลข้อมูล",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-16T15:59:18.842493Z",
-    "updated_at": "2026-08-16T15:59:20.111815Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-17",
-    "expired_at": "2026-09-15T15:59:18.820555Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a2d6beee-9619-4e66-9b9a-42967aa67600",
-    "user_profile": {
-      "id": "a2d6beee-9619-4e66-9b9a-42967aa67600",
-      "username": "kbhkpv",
-      "display_name": "Katha Prabhasavat",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a2d6beee-9619-4e66-9b9a-42967aa67600/profile/5b50afc3-849b-4d69-8a9a-88a6b55d876c.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-16T16:07:34.652Z"
   }
 ]
