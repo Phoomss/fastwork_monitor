@@ -194,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-16T23:41:52.177Z"
-  },
-  {
-    "id": "ede6f93f-dd4c-4882-9769-90d8f9442c82",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "Please read this job post carefully before applying. We prefer that applicants do not submit an AI-generated response.\n\nWe are looking for a freelancer with the following skills and experience:\n\nEnglish proficiency sufficient to communicate clearly with the client.\nStrong knowledge and experience with Squarespace 7.1.\nExperience with HTML, CSS, and JavaScript.\nAbility to troubleshoot forms, buttons, links, redirects, and custom code.\nAbility to diagnose and fix existing website problems.\nWeb design skills are a plus, as we may have additional website work.\n\nWe prefer to work collaboratively, so good communication and the ability to explain problems and solutions are important.\n\nWe will conduct a short 10-minute interview with selected candidates before hiring.\n\nRate: 200–500 THB per hour, depending on experience and skills.\n\nPlease briefly describe your Squarespace experience and give an example of a Squarespace problem you have diagnosed and fixed.",
-    "title": "Squarespace 7.1. Experience with HTML, CSS, and JavaScript.",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-16T23:06:58.436148Z",
-    "updated_at": "2026-08-16T23:07:00.211033Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-15T23:06:58.375180Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "c644ed90-1713-4c46-b740-5a68dac14815",
-    "user_profile": {
-      "id": "c644ed90-1713-4c46-b740-5a68dac14815",
-      "username": "sanfranciscoschool",
-      "display_name": "San Francisco School",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-16T23:26:56.945Z"
   }
 ]
