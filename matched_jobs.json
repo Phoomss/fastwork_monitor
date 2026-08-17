@@ -1,5 +1,54 @@
 [
   {
+    "id": "cb35adea-f488-425f-81a5-fcbbbfbf1a4c",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "contract",
+    "description": "คนที่มีความคิดสร้างสรรค์ ชอบพัฒนาสิ่งใหม่ ๆ และอยากสร้าง “ถุงเท้าที่แตกต่างจากตลาด” ไม่ใช่เพียงพัฒนาสินค้าตามแบบเดิม ๆ\nหากคุณเป็นคนที่ชอบตั้งคำถามว่า “เราจะทำให้สินค้านี้ดีขึ้น แตกต่างขึ้น และตอบโจทย์ลูกค้าได้อย่างไร?”\n\nคุณสมบัติ\n-มีความคิดสร้างสรรค์ ชอบคิดสิ่งใหม่ และมี Innovation Mindset\n-สนใจด้าน Product Development, Fashion, Textile, Apparel หรือ Consumer Products\n-มีทักษะด้าน Research และสามารถนำข้อมูลมาวิเคราะห์เพื่อพัฒนา Product ได้\n-สามารถมองเห็น ปัญหาหรือความต้องการของลูกค้า และเปลี่ยนเป็น Product Solution ได้\n-มีความรู้หรือความสนใจด้าน ผ้า เส้นใย วัสดุ การถัก หรือเทคโนโลยีสิ่งทอ\n-มีทักษะในการแก้ปัญหาและสามารถทำงานตั้งแต่ Concept จนถึงสินค้าจริงได้\n-สามารถสื่อสาร ประสานงาน และเจรจากับ Supplier / Factory ได้\n-เข้าใจเรื่องต้นทุนและสามารถค���ด Product ที่ Innovation แต่ยังสามารถผลิตและขายได้จริง\n-สามารถทำงานด้วยตัวเองได้ มีความรับผิดชอบ และกล้าที่จะเสนอความคิดเห็นใหม่ ๆ\n-หากมีประสบการณ์ด้าน Hosiery / Knitwear / Textile / Footwear / Apparel หรือ Product Development จะได้รับการพิจารณาเป็นพิเศษ\n-หากมี Portfolio ผลงาน Product Development หรือ Product Innovation จะได้รับการพิจารณาเป็นพิเศษ\n\nหน้าที่ความรับผิดชอบ\n-ค้นคว้าและวิเคราะห์เทรนด์ ตลาด คู่แข่ง และความต้องการของผู้บริโภค เพื่อนำมาพัฒนา Product ใหม่\n-คิดและพัฒนา Product Concept / Product Innovation ตั้งแต่ไอเดียจนถึงสินค้าจริง\n-ค้นหาและทดลองวัสดุ เทคโนโลยี และรูปแบบการผลิตใหม่ ๆ ที่สามารถนำมาประยุกต์ใช้กับถุงเท้า\n-พัฒนา Prototype และ Sample ร่วมกับโรงงานและ Supplier\n-ทดสอบและปรับปรุงสินค้าในด้าน คุณภาพ ฟังก์ชัน ความสบาย ความสวยงาม และการใช้งานจริง\n-ประสานงานและทำงานร่วมกับ Supplier / Factory ทั้งในและต่างประเทศ\n-ควบคุมและพัฒนาสินค้าให้เหมาะสมทั้งในด้าน คุณภาพ ต้นทุน และราคาขาย\n-วิเคราะห์ Feedback จากลูกค้าและนำมาปรับปรุง Product\n-ติดตาม Product Trends และ Innovation ใหม่ ๆ ในตลาดอยู่เสมอ\n-ร่วมวางแผนและพัฒนาสินค้าใหม่ตั้งแต่ Concept → Prototype → Testing → Production → Launch",
+    "title": "Product Development & Innovation",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-17T03:29:30.262726Z",
+    "updated_at": "2026-08-17T03:29:32.083009Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.7.8;iPad;11.10.0-6002863"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-16T03:29:30.185490Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "0dac9726-9808-4fca-890e-ff71f80b8e2b",
+    "user_profile": {
+      "id": "0dac9726-9808-4fca-890e-ff71f80b8e2b",
+      "username": "alicenakul",
+      "display_name": "Alice Nakul",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0dac9726-9808-4fca-890e-ff71f80b8e2b/profile/eee526d8-d53a-40ec-a0cb-6290ef1d2b7b.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-17T03:57:51.809Z"
+  },
+  {
     "id": "ceaeb061-a83a-46f8-806d-ccdae3d372e8",
     "status": "open",
     "tag": {
@@ -341,54 +390,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-16T04:46:51.322Z"
-  },
-  {
-    "id": "44bf52e0-9bfe-44fb-b97a-57dd8a3d91e0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนทำระบบเติมเงินเข้าเว็บไซต์\n-ไม่ต้องอัพสลิปเข้าเว็บ\n-สร้างqrตามจำนวนเงินที่เลือก\n-เช็คสถานะออโต้ไม่ต้องกดปุ่ม��ช็ค",
-    "title": "ระบบเติมเงินไม่อัพโหลดสลิป",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-16T03:17:18.549198Z",
-    "updated_at": "2026-08-16T03:17:20.053522Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.10.0-6002863"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-15T03:17:18.474766Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "028cc450-6626-403e-a80e-3c796b0aff07",
-    "user_profile": {
-      "id": "028cc450-6626-403e-a80e-3c796b0aff07",
-      "username": "suazgvir",
-      "display_name": "Riu",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-16T03:29:48.210Z"
   }
 ]
