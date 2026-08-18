@@ -194,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-18T02:20:15.674Z"
-  },
-  {
-    "id": "01c53d6a-af26-4e92-ba0a-28a3b1bc8caf",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "contract",
-    "description": "I'm looking for someone skilled with Adobe Illustrator or Figma or similar to create original designs from my ideas. \n\nGood communication required. If you are the type of person who would disappear without saying anything, please do not apply. Thank you :)\n\n\nฉันกำลังมองหาคนที่มีทักษะด้าน Adobe Illustrator หรือ Figma หรือโปรแกรมที่คล้ายกัน เพื่อสร้างสรรค์งานออกแบบต้นฉบับจากไอเดียของฉัน\n\nต้องมีทักษะการสื่อสารที่ดี หากคุณเป็นคนประเภทที่หายตัวไปโดยไม่บอกกล่าว โปรดอย่าสมัคร ขอบคุณค่ะ :)",
-    "title": "Graphic Designer Wanted",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-17T16:48:27.610870Z",
-    "updated_at": "2026-08-17T16:48:28.637752Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-16T16:48:27.559182Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android13;Pixel 4;11.11.0-6002897"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "685e5cc8-b6ad-43e9-b633-f7b2286078fb",
-    "user_profile": {
-      "id": "685e5cc8-b6ad-43e9-b633-f7b2286078fb",
-      "username": "jeezlaweez",
-      "display_name": "Jeez LaWeez",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-17T16:58:01.164Z"
   }
 ]
