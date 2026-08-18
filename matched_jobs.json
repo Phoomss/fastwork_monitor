@@ -194,54 +194,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-17T16:58:01.164Z"
-  },
-  {
-    "id": "5e8dd462-bac4-4b0d-a95b-8949d14abe2a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการสร้างระบบที่ออกเลขพัสดุ และเอาข้อมูลที่ได้รับจากขนส่งมาแสดง dashboard รายงานต่างๆกำไรขาดทุน อื่นๆ",
-    "title": "โปรแกรมเมอร์ทำระะบบออกเลขพัสดุ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-17T07:27:01.231208Z",
-    "updated_at": "2026-08-17T07:27:02.784006Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-16T07:27:01.210670Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "679c4af2-5181-4f2a-a4e3-6f0845c72e7a",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-17T07:28:16.006Z"
   }
 ]
