@@ -47,54 +47,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-18T10:58:19.071Z"
-  },
-  {
-    "id": "31a38c21-c5e7-490f-b5c7-8ab5c8356beb",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "วางแผนทิศทางการพัฒนาแอปพลิเคชัน (Product Roadmap) และจัดลำดับความสำคัญของฟีเจอร์ที่จะพัฒนาในแต่ละช่วงเวลา\n•\nออกแบบและปรับปรุงหน้าหลัก เมนู พื้นที่ใช้งานต่างๆ (Spaces) ตลอดจนเส้นทางการใช้งานของสมาชิก (Member Journey) ให้มีความสะดวกและน่าใช้งานยิ่งขึ้น\n•\nจัดกลุ่มสมาชิก กำหนดสิทธิ์การเข้าถึง และตั้งค่าระบบทำงานอัตโนมัติ (Workflow Automation) ภายในแพลตฟอร์ม Circle เฉพาะส่วนที่อยู่ภายในระบบดังกล่าว\n•\nจัดทำปฏิทินกิจกรรม ระบบลงทะเบียนเข้าร่วม (RSVP) ระบบแจ้งเตือน ตลอดจนการจัดเก็บเนื้อหาภายหลังจากจบกิจกรรมแต่ละครั้ง\n•\nประสานงานและรวบรวมข้อมูลจากฝ่ายสมาชิก คณะกรรมาธิการ เครือข่ายภูมิภาค และงาน ASA Expo\n•\nทำงานร่วมกับทีมผู้ผลิตเนื้อหา (Content Producer) จำนวนประมาณ 5-10 คน เพื่อวางแผนปฏิทินเนื้อหา (Content Calendar) ล่วงหน้า\n•\nติดตามและรายงานข้อมูลการใช้งาน ทั้งในด้านการมีส่วนร่วม (Engagement) และการเข้าร่วมกิจกรรม (Event Attendance) ให้แก่ทีมการตลาดและฝ่ายบริหารนำไปใช้ในการวิเคราะห์ต่อไป\n•\nประสานงานกับทีม Circle ฝ่ายเทคโนโลยีสารสนเทศ และผู้พัฒนาระบบหรือผู้เชี่ยวชาญด้านการเชื่อมต่อระบบ (Developer/Integration Specialist) ภายนอก ในกรณีที่ต้องเชื่อมต่อกับระบบอื่น\n•\nดำเนินการพัฒนาหรือแก้ไขซอร์สโค้ด (Source Code) ของระบบสมาชิกเดิม เพื่อเชื่อมต่อเข้ากับแอปพลิเคชันใหม่",
-    "title": "พัฒนาแอป พลิเคชั่น",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-18T06:42:32.527812Z",
-    "updated_at": "2026-08-18T06:42:33.628036Z",
-    "already_offered": false,
-    "brief_url": "https://canva.link/v7j0nwrhv0184xg",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-31",
-    "expired_at": "2026-09-17T06:42:32.479575Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f36fb2a2-090f-4004-9bde-57a7b1f5569d",
-    "user_profile": {
-      "id": "f36fb2a2-090f-4004-9bde-57a7b1f5569d",
-      "username": "nawamin_translator",
-      "display_name": "nawamin trabut",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f36fb2a2-090f-4004-9bde-57a7b1f5569d/profile/35a8523d-d92b-468f-9f82-46f8a2964aa5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-18T07:21:07.875Z"
   }
 ]
