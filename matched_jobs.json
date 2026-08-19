@@ -145,54 +145,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-18T03:55:57.045Z"
-  },
-  {
-    "id": "d9b7b9b9-2326-42b3-af68-fa8668d42096",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "1.ต้องการคนที่สามารถดูแลเว็ปเพจได้จริง มีเว็ปอยู่แล้ว\n2.สามารถแก้ไขและอัพเดทเว็ปให้เป็นปัจจุงบัน\n3.สามารถติดต่องานได้ตลอด 8.00น.-17.00น. ห��ือ นอกเวลางานเป็นบางครั้ง \n4.ต้องการคนที่เป็นมืออาชีพ รักในการทำงานจริงๆ ไม่ทิ้งงาน\n5.ผู้จ้างค่อนข้างจริงจังเรื่องเวลา ถ้าคิดว่า เป็นคนติดต่อลำบาก ไม่ต้องติดต่อมานะคะ แต่ถ้ารับผิดชอบงานดี มีงานเพิ่มให้อีกรวมถึงค่าตอบแทนที่เพิ่มด้วย\n6.ขอทดลองงานระยะเวลาดูงาน 2 อาทิตย์",
-    "title": "คนดูแลเว็ปเพจ และ สามารถทำ SEO ได้",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1500",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-18T01:46:52.265970Z",
-    "updated_at": "2026-08-18T01:46:53.378843Z",
-    "brief_url": "https://www.vipvanlimusine.com/th",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-31",
-    "expired_at": "2026-09-17T01:46:52.173225Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "468cd3bb-4eef-45c9-9289-3a5082a76d50",
-    "user_profile": {
-      "id": "468cd3bb-4eef-45c9-9289-3a5082a76d50",
-      "username": "grayscale72",
-      "display_name": "Grayscale72",
-      "image_url": "https://storage.googleapis.com/fastwork-static/648c1dde-3ea0-4f46-9f21-346f570e1457.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-18T02:20:15.674Z"
   }
 ]
