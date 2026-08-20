@@ -244,56 +244,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-19T15:51:46.305Z"
-  },
-  {
-    "id": "4d8336a1-c4da-4e62-b0db-4b4047a87569",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "Background คร่าว ๆ\n\n* เริ่มเข้าสาย Tech จาก Full-stack Web Development Bootcamp ในปี 2021\n* หลังจากนั้นมีประสบการณ์ทำงานจริงในตำแหน่ง Front-end Developer\n* มีการเรียนรู้และทดลองใช้ Tools / Technology ใหม่ ๆ เพิ่มเติมด้วยตัวเองเป็นระยะ\n* รู้สึกว่าจุดแข็งของตัวเองคือ เรียนรู้ Tools ใหม่ไ���้ค่อนข้างเร็ว และสามารถนำมาประยุกต์ใช้กับ Project ได้\n* ช่วงหลัง Career Path ไม่ได้ต่อเนื่องในสาย Developer จึงอยากกลับมาต่อยอด แต่ยังไม่แน่ใจว่าควรสร้าง Portfolio และวาง Direction อย่างไร\n* นอกจาก Front-end ยังสนใจสำรวจสายใกล้เคียง เช่น Business/System Analyst, Project/Product, UX Research หรือ Technical roles อื่น ๆ",
-    "title": "หาที่ปรึกษา / Mentor ช่วยวาง Portfolio และ Direction สำหรับสายงาน Tech",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-19T14:05:08.601271Z",
-    "updated_at": "2026-08-19T14:05:09.540741Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-18T14:05:08.580857Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.3;iPhone;10.10.0-6002269"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "5e17f78a-62b2-4297-b338-27b806d93262",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-19T14:20:34.531Z"
   }
 ]
