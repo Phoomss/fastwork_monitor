@@ -195,54 +195,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-19T17:34:45.101Z"
-  },
-  {
-    "id": "2b127a1b-8290-4c9a-b86d-29c486271203",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ\nหานักโภชนาการ หรือ นักกำหนดอาหาร (มีใบประกอบวิชาชีพ/ใบรับรอง) เพื่อร่วมตรวจรับรองชุดข้อมูลโภชนาการสำหรับ \"โปรเจกต์จบการศึกษา (ปริญญาตรี) มหาวิทยาลัยขอนแก่น\" \nขอบเขต\n   -ตรวจสอบความถูกต้องของชุดข้อมูลอาหารและคุณค่าโภชนาการ\n   -ให้คำแนะนำ/ข้อติชมสั้นๆ ผ่านแบบฟอร์ม หรือพูดคุยสรุปงาน (ออนไลน์)\n   -อนุญาตให้ระบุชื่อ-นามสกุล และวุฒิการศึกษา/ต���แหน่ง ในเอกสารรายงานโปรเจกต์จบ  เพื่ออ้างอิงอิงความน่าเชื่อถือทางวิชาการ\n\nเงื่อนไขและข้อตกลง\n   -ไม่ใช่เชิงพาณิชย์ 100% เป็นเพียงสอฟต์แวร์โครงงานนักศึกษา\n   -ไม่อยู่ในนามแอปพลิเคชันหลักของมหาวิทยาลัย\n",
-    "title": "หาผู้เชี่ยวชาญ/นักกำหนดอาหาร ตรวจรับรองข้อมูลอาหาร โปรเจกต์จบ มข.",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "600",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-19T15:46:27.546945Z",
-    "updated_at": "2026-08-19T15:46:28.652288Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-18T15:46:27.527342Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "c58cd300-1b89-4250-8cf2-eb85ed01fbd4",
-    "user_profile": {
-      "id": "c58cd300-1b89-4250-8cf2-eb85ed01fbd4",
-      "username": "pola_97x",
-      "display_name": "POLA97x",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/c58cd300-1b89-4250-8cf2-eb85ed01fbd4/profile/e5705353-2500-486a-aa9d-910440c98764.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "600",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-19T15:51:46.305Z"
   }
 ]
