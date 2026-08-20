@@ -295,54 +295,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-19T14:20:34.531Z"
-  },
-  {
-    "id": "4b7c9c59-6430-4953-9a46-15ba899682b9",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "เช็คโพสต์tiktok1โพสต์ว่าปั๊มไลค์มาหรือไม่ มีโพสต์ที่ดูผิดปกติ…………………………………………………………………………………………………\n\nเช็คโพสต์tiktok1โพสต์ว่าปั๊มไลค์มาหรือไม่ มีโพสต์ที่ดูผิดปกติ…………………………………………………………………………………………………",
-    "title": "หาคนเช็คโพสต์TikTokว่าปั๊มไลค์มาหรือไม่",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-19T13:45:03.040172Z",
-    "updated_at": "2026-08-19T13:45:04.184886Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-26",
-    "expired_at": "2026-09-18T13:45:02.992308Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.3.1;iPhone;11.11.0-6002897"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "37a71d63-c1a6-4f32-b939-d02369dc93ce",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-19T13:54:29.924Z"
   }
 ]
