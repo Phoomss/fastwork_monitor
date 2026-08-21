@@ -47,54 +47,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-21T03:13:51.688Z"
-  },
-  {
-    "id": "9e1266e4-45ec-4c23-b9c1-6d6361e78fa2",
-    "status": "open",
-    "tag": {
-      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
-      "name": "ธุรกิจและการเงิน",
-      "sort": 5
-    },
-    "type": "part-time",
-    "description": "รับสมัครผู้ทดสอบระบบ WebApp และตอบแบบสอบถามความพึงพอใจ \nเนื่องจากเป็นงานวิจัยจึงต้องกำหนดกลุ่มเป้าหมาย สำหรับธุรกิจ SME อิสลาม ใน 5 จังหวัดชายแดนภาคใต้ (สงขลา สตูล ปัตตานี ยะลา นราธิวาส) เท่านั้น\n\nผู้ที่สามารถทดสอบระบบและตอบแบบสอบถาม ได้แก่\n- ผู้ประกอบการ/เจ้าของกิจการ \n- พนักงาน \n- ฝ่ายไอที \n\nงานที่ต้องทำ\n1.ตอบ��บบสอบถามสภาพและความต้องการ เรื่อง สภาพ ความต้องการ ขอบเขต ลักษณะการใช้งานแอปพลิเคชันอิสลาม สำหรับธุรกิจ SMEs ในพื้นที่ 5 จังหวัดชายแดนภาคใต้\n2.ทดสอบใช้งานระบบต้นแบบที่พัฒนาขึ้น\n3.ตอบแบบสอบถามความพึงพอใจ เรื่อง แนวทางการพัฒนาแอปพลิเคชันอิสลามสำหรับธุรกิจ SMEs ในพื้นที่ 5 จังหวัดชายแดนภาคใต้",
-    "title": "ผู้ทดสอบระบบ WebApp และตอบแบบสอบถาม(งานวิจัย) สำหรับธุรกิจอิสลาม กลุ่มเป้าหมาย ผู้ประกอบการ เจ้าของกิจการ พนักงาน ฝ่ายไอที ใน 5 จังหวัดชายแดนภาคใต้ (เท่านั้น)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-20T08:27:46.039566Z",
-    "updated_at": "2026-08-20T08:27:47.556638Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-19T08:27:46.019846Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "028c7d5d-da4d-476e-9e93-e115abfb7a9e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-20T08:44:01.011Z"
   }
 ]
