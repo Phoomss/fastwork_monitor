@@ -1,5 +1,54 @@
 [
   {
+    "id": "4bd2e950-2fb9-492d-974e-70d9406cf759",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการหา Graphic Designer สำหรับออกแบบ UI ภายในเกม Minecraft \nเน้นงานสไตล์ Modern Game UI / Fantasy / Pokémon-like / Clean UI ไม่ใช่งาน Pixel Art\n\nตัวงานจะเป็นการออกแบบกรอบและหน้าต่าง UI สำหรับระบบต่าง ๆ ภายในเซิร์ฟเวอร์ เช่น\n\nMail / Mailbox UI\nDaily Check-in / Daily Rewards\nBattle Pass\nReward / Claim Reward\n\nUI สำหรับระบบใหม่ ๆ ของเซ���ร์ฟเวอร์ในอนาคต\n\nแนวทางงานที่ต้องการ\n\nต้องการ UI ที่ให้ความรู้สึกเหมือน Interface จากเกมทั่วไป มากกว่า GUI Minecraft แบบดั้งเดิม สามารถใช้กรอบโค้ง, Gradient, Glow, Icon, Illustration และองค์ประกอบ Graphic ต่าง ๆ ได้\nMood & Tone หลักของ Pixelclub จะเป็น สีม่วง / ขาว / น้ำเงิน ดูทันสมัย น่ารัก และเข้ากับธีม Pokémon แต่แต่ละระบบสามารถมีธีมและสีเฉพาะของตัวเองได้\nเน้นงาน Clean อ่านง่าย ไม่รก และมี Hierarchy ชัดเจน เช่น หัวข้อ, ปุ่ม, Reward, Progress, Highlight และสถานะต่าง ๆ\nงานนี้เป็นงาน Graphic Design เท่านั้น ไม่จำเป็นต้องเขียน Code หรือทำระบบ \n\nต้องการไฟล์:\n\nPNG พื้นหลังโปร่งใสสำหรับนำไปใช้���าน\nSource File เช่น PSD / AI / Figma\nLayer แยกและจัดระเบียบเพื่อสามารถนำไปแก้ไขหรือเพิ่ม Content ภายหลังได้\nหากเป็นปุ่ม อาจมีหลายสถานะ เช่น Normal / Hover / Locked / Claimed ตามแต่ละงาน\n\nสิ่งที่อยากได้จากผู้รับงาน\n\nมีประสบการณ์ทำ Game UI / Mobile Game UI / RPG UI จะพิจารณาเป็นพิเศษ\nสามารถออกแบบจาก Reference และปรับให้เข้ากับ Branding ของ Pixelclub ได้\nไม่จำเป็นต้องทำงานสไตล์ Pixel Art\nสามารถรับงานต่อเนื่องได้ เพราะเซิร์ฟเวอร์มีระบบและ Content ใหม่เพิ่มเป็นระยะ\n\nสามารถส่ง Portfolio งาน UI / Game UI ที่เคยทำ พร้อมเรทราคา มาเพื่อพิจารณาได้ครับ",
+    "title": "ออกแบบ Game UI / Graphic UI สำหรับเกม — Non Pixel Art",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-21T17:47:09.734567Z",
+    "updated_at": "2026-08-21T17:47:11.413756Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-20T17:47:09.715241Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "3ffe0b41-3228-4891-ae03-82f94026df08",
+    "user_profile": {
+      "id": "3ffe0b41-3228-4891-ae03-82f94026df08",
+      "username": "dgb44w6v",
+      "display_name": "Olivier",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3ffe0b41-3228-4891-ae03-82f94026df08/profile/f18765b6-0aa3-439e-a6c8-fc442c34fae6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-21T18:02:52.112Z"
+  },
+  {
     "id": "6637bc02-e38e-4019-b886-edac39c3a76b",
     "status": "open",
     "tag": {
