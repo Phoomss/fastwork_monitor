@@ -96,54 +96,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-08-20T08:44:01.011Z"
-  },
-  {
-    "id": "e4cda54f-02b9-4b4c-bf9d-2da524be8fc8",
-    "status": "open",
-    "tag": {
-      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
-      "name": "ธุรกิจและการเงิน",
-      "sort": 5
-    },
-    "type": "part-time",
-    "description": "รับสมัครผู้ทดสอบระบบ WebApp และตอบแบบสอบถามความพึงพอใจ \nเนื่องจากเป็นงานวิจัยจำต้องกำหนดกลุ่มเป้าหมาย สำหรับธุ��กิจอิสลาม ใน 5 จังหวัดชายแดนภาคใต้ ได้แก่\n- ผู้ประกอบการ/เจ้าของกิจการ \n- พนักงาน \n- ฝ่ายไอที \n\n1.แบบสอบถามสภาพและความต้องการ เรื่อง สภาพ ความต้องการ ขอบเขต ลักษณะการใช้งานแอปพลิเคชันอิสลาม สำหรับธุรกิจ SMEs ในพื้นที่ 5 จังหวัดชายแดนภาคใต้\n2.แบบสอบถามความพึงพอใจ เรื่อง แนวทางการพัฒนาแอปพลิเคชันอิสลามสำหรับธุรกิจ SMEs ในพื้นที่ 5 จังหวัดชายแดนภาคใต้",
-    "title": "ผู้ทดสอบระบบ WebApp และตอบแบบสอบถามความพึงพอใจ (งานวิจัย) สำหรับธุรกิจอิสลาม กลุ่มเป้าหมาย ผู้ประกอบการ เจ้าของกิจการ พนักงาน ฝ่ายไอที ใน 5 จังหวัดช���ยแดนภาคใต้",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-20T07:56:28.384702Z",
-    "updated_at": "2026-08-20T07:56:29.841709Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-09-19T07:56:28.361396Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "028c7d5d-da4d-476e-9e93-e115abfb7a9e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-08-20T08:00:46.382Z"
   }
 ]
