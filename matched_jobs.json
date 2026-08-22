@@ -47,55 +47,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-21T18:02:52.112Z"
-  },
-  {
-    "id": "6637bc02-e38e-4019-b886-edac39c3a76b",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สร้างเกมใน Scratch การแยกขยะ 2 ด่าน เล่นได้จริง\nมีระบบ คะแนน/พลังชีวิต/Uiสวย หน้าตาน่าเล่น ไม่มีบั๊ก",
-    "title": "หาคนทำเกมใน Scratch",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "250",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-21T11:07:55.057276Z",
-    "updated_at": "2026-08-21T11:07:57.041314Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-26",
-    "expired_at": "2026-09-20T11:07:55.037153Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3.1;iPhone;11.11.0-6002897"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "f8532dfd-3c09-4b2a-8579-1d0e357ed89a",
-    "user_profile": {
-      "id": "f8532dfd-3c09-4b2a-8579-1d0e357ed89a",
-      "username": "r7ush7040",
-      "display_name": "Ratchanon Panpad",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f8532dfd-3c09-4b2a-8579-1d0e357ed89a/profile/8fede787-38cb-4186-988b-206700776811.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "250",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-21T11:33:47.863Z"
   }
 ]
