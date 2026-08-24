@@ -1,5 +1,54 @@
 [
   {
+    "id": "b5b3421b-a0b7-429f-a7c3-4d3297fd9506",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หา Freelance Developer ทำระบบหลังบ้าน — เคยทำระบบ internal/back-office\n\nบริษัททัวร์กอล์ฟในกรุงเทพฯ ข้อมูลทริปกระจายอยู่ ต้องคีย์ซ้ำหลายรอบ อยากได้ระบบกลางที่จบในที่เดียว\n\nสิ่งที่ต้องทำ\n\nฐานข้อมูลทริปกลาง\nฟอร์มยืนยันการจอ���ของลูกค้า\nติดตามการชำระเงินรายคนในกลุ่ม (มัดจำ/ยอดคงเหลือ)\nบอร์ดจ่ายเงินซัพพลายเออร์\nคำนวณกำไรต่อทริปอัตโนมัติ\nแจ้งเตือนแต่ละแผนกอัติโนมัติ\nAI ทำงานซ้ำแทน\n",
+    "title": "Freelance ช่วยทำระบบ AI Automation workflow",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-24T07:15:10.096601Z",
+    "updated_at": "2026-08-24T07:15:11.880005Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-09-23T07:15:10.041297Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "e34e99bc-f2ab-4f1a-84a0-4c56056c6419",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-24T07:34:49.965Z"
+  },
+  {
     "id": "b28cb86c-74d1-4dbe-83b2-c5dd77fbbd8a",
     "status": "open",
     "tag": {
@@ -195,152 +244,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-23T15:32:49.859Z"
-  },
-  {
-    "id": "5d3387be-ee89-4eeb-a246-24601d57788a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "จัดทำเว็บไซต์ของบริษัทสตาร์ทอัพ มีรูปภาพโลโก้ และ ข้อมูลให้แล้ว หากสนใจติดต่อมาได้เลยค่ะ งานไม่ซับซ้อน",
-    "title": "หาคนสร้างเว็บไซต์บริษัท",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "3500",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-23T07:10:36.591525Z",
-    "updated_at": "2026-08-23T07:10:38.930850Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-28",
-    "expired_at": "2026-09-22T07:10:36.533537Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "c29a203a-18ba-4b25-8f7a-b0e6ab031b9c",
-    "user_profile": {
-      "id": "c29a203a-18ba-4b25-8f7a-b0e6ab031b9c",
-      "username": "eu5aml93",
-      "display_name": "eu5aml93",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-23T07:17:53.388Z"
-  },
-  {
-    "id": "4dd6bc3a-6c65-4c93-a78b-28d36e582345",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการสร้างเว็บไชต์ สอนพิเศษ ทีมีรายละเอียดระบบสมาชิก นักเรียน ครู ระบบหลังบ้านแอดมิน ระบบชำระเงินของนักเรียน และคิดเงินค่าตอบแทนของครูผู้สอน ระบบตารางเรียนตารางสอนแบบเรียลไทม์ ",
-    "title": "คนรับทำเว็งไชต์ สอนพิเศษ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-23T06:37:25.095393Z",
-    "updated_at": "2026-08-23T06:37:26.257173Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-22T06:37:25.025566Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "c1abc59d-0c69-4a0d-b92e-bdac0ff30e4c",
-    "user_profile": {
-      "id": "c1abc59d-0c69-4a0d-b92e-bdac0ff30e4c",
-      "username": "bank_ss",
-      "display_name": "bank_ss",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/c1abc59d-0c69-4a0d-b92e-bdac0ff30e4c/profile/91c061f0-1958-489b-8855-bb4b96424684.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-23T07:17:52.064Z"
-  },
-  {
-    "id": "25709c66-67ea-41f9-89ae-d49b600561aa",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการสร้างเว็บไชต์สอนพิเศษ ทีให้มีระบบ login ระบบสมาชิก ระบบ แอดมิน มีระบบตารางสอนครู ระบบคิดคำนวณเงินแบบเรี���ลไทม์ ",
-    "title": "ต้องการสร้างเว็บไชต์ ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-23T06:21:58.995051Z",
-    "updated_at": "2026-08-23T06:22:00.056457Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-22T06:21:58.941505Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "c1abc59d-0c69-4a0d-b92e-bdac0ff30e4c",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-23T06:37:05.684Z"
   }
 ]
