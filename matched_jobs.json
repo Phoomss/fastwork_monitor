@@ -1,5 +1,54 @@
 [
   {
+    "id": "70683bd7-2e67-4614-acc0-0101f1284b75",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "part-time",
+    "description": "1. ข้อมูลงาน ขอสัมภาษณ์ เวลาประมาณ 10 นาที รับสมัคร 3 คน \n2. รายละเอียดงาน\n2.1 จะมีคำถามหลักประมาณ 7 ข้อ เกี่ยวกับการเงินสำหรับเด็กจบใหม่ \n2.2 อาจมีคำถามรองอื่นๆ เช่น อยากให้โทรศัพท์เรามีแอพเกี่ยวกับการเงินอย่างไร\n2.3 คุยผ่าน discord ขอชื่อ นามสกุล สาขาที่จบมา และขออนุญาตบันทึกเสียง\n",
+    "title": "หาคนสัมภาษณ์ เป็นเด็กจบใหม่เกี่ยวกับมุมมองเรื่องเงิน เพื่อทำโครงงานปริญญาโท",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-24T07:35:39.772980Z",
+    "updated_at": "2026-08-24T07:35:41.779120Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-26",
+    "expired_at": "2026-09-23T07:35:39.692036Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "b890202d-30f7-4303-9e0e-ee7a6f227550",
+    "user_profile": {
+      "id": "b890202d-30f7-4303-9e0e-ee7a6f227550",
+      "username": "vba_avatar",
+      "display_name": "VBA_avatar",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b890202d-30f7-4303-9e0e-ee7a6f227550/profile/c4aa5f46-d57e-41cd-a7e7-2f55018eb085.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-24T08:22:10.975Z"
+  },
+  {
     "id": "b5b3421b-a0b7-429f-a7c3-4d3297fd9506",
     "status": "open",
     "tag": {
