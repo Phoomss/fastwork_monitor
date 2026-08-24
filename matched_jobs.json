@@ -1,5 +1,54 @@
 [
   {
+    "id": "7a9e19e5-c8f5-419c-b22f-da95146016ae",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "มีงานให้จำนวน 1 ชิ้น\nขอที่แก้ไขได้ 3 ครั้ง และสามารถทำงานส่งดราฟแรกได้ภายใน 5 วันหลังตกลงกัน\n\nเรามี Storyboard ให้\n\nตัวอย่างที่ต้องการ\n\nhttps://web.facebook.com/reel/811510124390470?locale=th_TH\n\nhttps://web.facebook.com/curecodeth/videos/1373936809987562?locale=th_TH",
+    "title": "คนทำ Motion Graphic แบรนด์สกินแคร์ ความยาวไม่เกิน 2 นาที",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-24T13:11:59.757945Z",
+    "updated_at": "2026-08-24T13:12:00.688485Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-23T13:11:59.700858Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "455f4e45-6bf2-4c74-bb89-b8d6dd11a19a",
+    "user_profile": {
+      "id": "455f4e45-6bf2-4c74-bb89-b8d6dd11a19a",
+      "username": "knoware",
+      "display_name": "Know Are",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/455f4e45-6bf2-4c74-bb89-b8d6dd11a19a/profile/3bbe22a7-4e9e-4269-b2a7-2cf6f227153b.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-24T13:36:17.645Z"
+  },
+  {
     "id": "67d7d5de-0161-4bce-87f6-a8b352b233de",
     "status": "open",
     "tag": {
