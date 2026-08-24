@@ -1,5 +1,54 @@
 [
   {
+    "id": "67d7d5de-0161-4bce-87f6-a8b352b233de",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หา Freelance Developer — ระบบหลังบ้าน + AI Automation\nบริษัททัวร์กอล์ฟในกรุงเทพฯ ข้อมูลทริปกระจายอยู่หลายที่ ต้องคีย์ซ้ำหลายรอบ อยากได้ระบบกลางที่จบในที่เดียว และให้ AI ทำงานซ้ำๆ แทนคน\n\nสิ่งที่ต้องทำ\n\nฐานข้อมูลทริปกลา��\nฟอร์มยืนยันการจองของลูกค้า\nติดตามการชำระเงินรายคนในกลุ่ม (มัดจำ / ยอดคงเหลือ)\nบอร์ดจ่ายเงินซัพพลายเออร์\nคำนวณกำไรต่อทริปอัตโนมัติ\nแจ้งเตือนข้ามแผนกอัตโนมัติ (Sales → Booking → Finance → Clients Management)\nAI Agent ช่วยงานซ้ำ:\nอ่านใบแจ้งหนี้จากอีเมลซัพพลายเออร์ (PDF/รูป) แล้วดึงข้อมูลเข้าระบบอัตโนมัติ — ชื่อซัพพลายเออร์ ยอดเงิน วันครบกำหนด แล้วจับคู่กับทริปที่ถูกต้อง\nร่างอีเมลจองโรงแรม / สนามกอล์ฟ / ทัวร์ จากข้อมูลทริป\nสรุปข้อมูลทริปให้แต่ละแผนก\n\nต้องการ\nเคยทำระบบ internal / back-office จริง ไม่ใช่มีแต่เว็บไซต์\nเคยทำ API integration และ workflow automation\nเคยทำ document extraction / OCR หรือ LLM อ่านเอกสาร (จะพิจารณาเป็นพิเศษ)\nสามารถสื่อสารรภาษาอังกฤษได้\n\nFreelance Developer — Back-Office System + AI Automation \n\nBangkok golf tour operator. Trip data is scattered across systems and re-keyed constantly. We want one central system, with AI handling the repetitive work.\n\nScope\n\nCentral trip database\nClient booking confirmation form\nPer-person payment tracking within groups (deposit / balance)\nSupplier payments board\nAutomated per-trip P&L\nCross-department notifications (Sales → Booking → Finance→ Clients Management)\nAI for repetitive work:\nRead supplier invoices from email (PDF/image), extract supplier, amount and due date, and match them to the right trip automatically\nDraft hotel / golf course / tour booking emails from trip data\nSummarise trip data per department\n\nRequirements\nHave built internal / back-office systems, not just websites\nAPI integration and workflow automation experience\nDocument extraction / OCR or LLM-based document parsing (strong plus)\nEnglish Speaking\n",
+    "title": "Freelance Developer — ระบบหลังบ้าน + AI Automation",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-24T10:10:18.334380Z",
+    "updated_at": "2026-08-24T10:10:19.858086Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-09-23T10:10:18.273146Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "e34e99bc-f2ab-4f1a-84a0-4c56056c6419",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-24T10:35:28.622Z"
+  },
+  {
     "id": "74507d44-ac6a-4807-9f6e-f7c6eece1f71",
     "status": "open",
     "tag": {
