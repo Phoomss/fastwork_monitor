@@ -1,5 +1,54 @@
 [
   {
+    "id": "74507d44-ac6a-4807-9f6e-f7c6eece1f71",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "Project Details : Developed an enterprise-grade Applicant Tracking System (ATS) to digitalize and streamline the entire talent acquisition process. The platform serves as a centralized recruitment hub, enabling HR teams and hiring managers to manage job requisitions, publish vacancies, source candidates, track applications, schedule interviews, evaluate applicants, and monitor recruitment performance through real-time dashboards and analytics.\n\nThe system features automated recruitment workflows, candidate relationship management, resume parsing, talent pooling, interview feedback collection, approval processes, email communications, and customizable recruitment pipelines. It also provides advanced search and filtering capabilities, recruitment metrics, and role-based access controls to improve hiring efficiency and collaboration across departments.\n\nKey Features :\n\nJob requisition and vacancy management\nCandidate database and talent pool management\nResume parsing and profile creation\nCustomizable recruitment pipelines and workflows\nInterview scheduling and feedback management\nAutomated email notifications and communications\nRecruitment analytics and KPI dashboards\nRole-based access control and audit logs\nIntegration with job boards, career pages, and HR systems\n\nProject Scope : Internal web-based recruitment platform designed to support end-to-end hiring operations, reduce recruitment cycle time, improve candidate experience, and provide data-driven decision-making for talent acquisition teams.\n\nNote: We would like to discuss the project requirements in more detail with shortlisted freelancer. As part of the evaluation process, freelancers may be invited to an online meeting to present their proposed solution, technical approach, relevant experience, estimated timeline, and overall project understanding before any formal agreement is made. This discussion will help ensure alignment on project expectations, scope, and deliverables.",
+    "title": "Software Developer - ATS Internal Recuitment Platform",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-24T09:48:14.835687Z",
+    "updated_at": "2026-08-24T09:48:16.528982Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-23T09:48:14.746780Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "ca5de7fa-beaf-4958-adca-3ea8af47c071",
+    "user_profile": {
+      "id": "ca5de7fa-beaf-4958-adca-3ea8af47c071",
+      "username": "apa5urkh",
+      "display_name": "Prim",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/ca5de7fa-beaf-4958-adca-3ea8af47c071/profile/f2835354-d836-45ee-9992-d9996c5776e4.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-24T09:58:41.444Z"
+  },
+  {
     "id": "70683bd7-2e67-4614-acc0-0101f1284b75",
     "status": "open",
     "tag": {
