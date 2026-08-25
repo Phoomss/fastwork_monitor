@@ -1,5 +1,54 @@
 [
   {
+    "id": "31f037da-62c7-4e07-a8b0-71d922a61dfd",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจและการเงิน",
+      "sort": 5
+    },
+    "type": "freelance",
+    "description": "I need help recovering USD 5,800 from an international wire transfer that was sent through Krungthai Bank but never reached the intended recipient.\n\nBackground\n\nThe transfer was sent on 27 April 2026 through Krungthai Bank / DBS Singapore and was ultimately routed to Wells Fargo.\n\nDue to an incorrect account number, the funds were not credited to the intended recipient. I immediately contacted Krungthai Bank and requested a recall/recovery of the funds.\n\nSince then, Krungthai/its correspondent banking channel has made multiple attempts to contact Wells Fargo and initiate the recovery process. However, after months of communication and multiple service requests, the funds have still not been recovered and I have not received a clear resolution.\n\nI have the complete email correspondence, transaction details, UETR, references, recall requests, and supporting documents and can provide everything to someone who is able to properly investigate the case.\n\nI am looking for someone with experience in international wire transfers, SWIFT/UETR investigations, correspondent banking, wire recalls, US banking operations, Wells Fargo, or bank escalation procedures or as well as connections within the US Banking industry who can help. I need someone who can review the case, understand what has happened to the funds, identify where the process is currently stuck, and advise or assist with the appropriate escalation to ultimately recover the money.\n\nI am happy to provide compensation to whoever can genuinely help solve this case and get the money back.",
+    "title": "Specialist Needed to Investigate & Recover Failed International Wire Transfer — Krungthai Bank / Wells Fargo",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-25T00:49:55.035947Z",
+    "updated_at": "2026-08-25T00:49:56.088356Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-06",
+    "expired_at": "2026-09-24T00:49:55.017103Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "5f6753a8-822d-443b-b7ac-89c835342a28",
+    "user_profile": {
+      "id": "5f6753a8-822d-443b-b7ac-89c835342a28",
+      "username": "sathinc",
+      "display_name": "Eng",
+      "image_url": "https://storage.googleapis.com/fastwork-static/6c05bd73-9c9a-4270-875d-b32cf055fc57.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-25T01:57:12.446Z"
+  },
+  {
     "id": "bd3ccdd7-8912-4be5-b358-43236a36bfd5",
     "status": "open",
     "tag": {
