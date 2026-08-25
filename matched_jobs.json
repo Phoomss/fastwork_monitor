@@ -390,55 +390,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-24T04:25:58.842Z"
-  },
-  {
-    "id": "81e27ecb-9ea6-40d9-a2c1-207e07685437",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ อยากได้คนเขียนเว็ปและแอปเกี่ยวกับงานก่อสร้างที่สามารถทำให้บุคคลทั่วไปเข้าถึงง่าย หน้าตาเว็ปและแอปดูไม่ซับซ้อน ขอแค่มีไอเดียกันจัดวางไอคอนต่างๆและการทำให้ดูเข้าถึงง่ายและน่าสนใจครับ ข้อมูลต่างๆถ้าสนใจเดี๋ยวส่งรายละเอียดภายหลังครับ ",
-    "title": "ผู้ที่สามารถสร้าง web page และ app mobile สำหรับใช้งานในการนำเสนอให้เห็นตัวงานการใช้งานจริงครับ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "7000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-24T02:08:44.148524Z",
-    "updated_at": "2026-08-24T02:08:45.853833Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-23T02:08:44.090988Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "55fd3a78-ee69-4a01-9ad9-80e7ffc73418",
-    "user_profile": {
-      "id": "55fd3a78-ee69-4a01-9ad9-80e7ffc73418",
-      "username": "homira",
-      "display_name": "s.FaH_Homira",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/55fd3a78-ee69-4a01-9ad9-80e7ffc73418/profile/cc9a08ba-360a-427b-8cd8-bc2884920e11.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "7000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-24T02:48:58.297Z"
   }
 ]
