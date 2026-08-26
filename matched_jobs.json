@@ -1,5 +1,54 @@
 [
   {
+    "id": "6f69fd39-6671-41cf-94da-7dd3dc81e858",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "contract",
+    "description": "🎯 กูรูบางนา by Digihype — เปิดรับสมัครทีมงาน Creative Sales\n\n**เกี่ยวกับตำแหน่ง**\n\nเรากำลังขยายธุรกิจ และต้องการคนที่มีความสามารถในการ:\n• ขายแพคเกจ โฆษณา Content + Landing Page/ website + GuruBangna Connect ให้ธุรกิจในบางนา\n\n• ทำงานเป็นทีม และสื่อสารได้ดี\n\n**ความต้องการ**\n\n📍 **สถานที่ & ความยืดหยุ่น**\n• ต้องอยู่ในโซนบางนา (รู้จักบางนาดี)\n• สามารถ Work from Home ได้\n• เข้าประชุมที่ BTS ราชเทวี 3-5 ครั้ง/เดือน\n\n💼 **ลักษณะงาน**\n• Part-time / Full-time / Freelance (เลือกได้)\n• ตำแหน่ง: Creative Content Creator หรือ Sales Executive\n\n💡 **ความสามารถ**\n• มีพื้นฐานงาน Creative (Design, Video, Content) หรือ Sales\n• รู้จักบางนา และสามารถให้ข้อมูลที่เป็นประโยชน์\n• ยินดีเรียนรู้ และพัฒนาทักษะ\n\n**ผลตอบแทน**\n\n💰 **เงินเดือน/ค่าจ้าง**\n• เงินเดือนเริ่มต้น: 20,000 บาท\n(มีคนเคยทำได้ถึง 60,000 บาท/เดือน)\n• ระบบขั้นบันไดเงินเดือน (ตามผลงาน)\n\n🎁 **Incentive & Bonus**\n• Incentive ตามปริมาณโปรเจคที่ขายและทำได้\n• ยิ่งขายเยอะ ยิ่งได้เยอะ (ระบบ Performance-Based)\n• Bonus เพิ่มเติมตามเป้าหมายประจำเดือน\n\n**วิธีสมัคร**\n\nถ้าคุณสนใจและเหมาะสมกับตำแหน่ง ติดต่อเรา:\n\nเราคิดว่า \"คนที่เหมาะสม\" คือ \"ทรัพย์สินที่มีค่า\" ของทีม\nมาร่วมสร้างสิ่งดีๆ ให้กับบางนาไปด้วยกัน! 🚀\n\n#กูรูบาง��า #หางาน #CreativeJobs #SalesJobs #E13Bangna #บางนา",
+    "title": "หาเซลล์มือทองขายงาน creative โฆษณา",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T11:32:58.662723Z",
+    "updated_at": "2026-08-26T11:32:59.552811Z",
+    "already_offered": false,
+    "brief_url": "https://www.digihypedesign.com",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T11:32:58.605337Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.7.8;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "e5a3ac65-1bee-4531-a271-e5a46c6613e9",
+    "user_profile": {
+      "id": "e5a3ac65-1bee-4531-a271-e5a46c6613e9",
+      "username": "nhvqcglg",
+      "display_name": "Digihype Design",
+      "image_url": "https://storage.googleapis.com/fastwork-static/62636f85-40ba-4ea6-8257-e3448507610d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-26T11:38:09.585Z"
+  },
+  {
     "id": "7eb67e4c-70bc-42ca-8cdc-44d919769ef7",
     "status": "open",
     "tag": {
