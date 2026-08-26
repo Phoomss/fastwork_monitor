@@ -1,5 +1,103 @@
 [
   {
+    "id": "7eb67e4c-70bc-42ca-8cdc-44d919769ef7",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "กรุณาอ่านรายละเอียดให้ครบ\nต้องทำให้เสร็จภายใน 24 ชม.หลังได้รับรหัส\n(ไม่ดองงาน ไม่เทงาน)\n📌 รายละเอียดงาน (Job Description)\nรายละเอียดและลักษณะงาน:\nต้องการผู้ทดสอบอัดเสียงภาษาไทย (Native Speaker) จำนวนมาก สำหรับลงเสียงอ่านข้อความสั้นๆ 210 ประโยค \n ใช้เวลาทำรายการประมาณ 15–20 นาที\n ทำผ่านสมาร์ตโฟน (iOS / Android)\n อัดเสียงในห้องที่เงียบ สงบ ไม่มีเสียงรบกวน (เช่น เสียงพัดลม, เสียงทีวี, เสียงคนคุยกัน)\nคุณสมบัติผู้สมัคร:\n1. พูดภาษาไทยเป็นภาษาแม่ (สำเนียงไทยปกติ ฟังชัดเจน)\n2. อายุระหว่าง 18 – 60 ปี (รับทั้งชายและหญิง)\n\nข้อกำหนดเรื่องคุณภาพเสียง (QC Standard):\n อ่านออกเสียงเป็นธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เว่อร์ และไม่อ่านเว้นจังหวะแปลกๆ\n อ่านตรงตามข้อความในสคริปต์ 100% (ห้ามเติมคำ ห้ามตัดคำ ห้ามอ่านตก)\n เสียงชัดเจน ไม่มีเสียงซ่า/เสียงก้อง หรือเสียงรบกวนรอบข้���ง\n หมายเหตุ: หากผ่าน QC เกณฑ์มาตรฐาน (95% ขึ้นไป) จะได้รับการอนุมัติงานทันที (หากมีจุดแก้ไข สามารถแก้ไขได้ 1 ครั้ง)\n⏳ ระยะเวลาการตรวจงาน (QC):\n-แจ้งผลการตรวจเบื้องต้น: ภายใน 3–5 วัน นับจากวันที่ส่งไฟล์อัดเสียง\n-ระยะเวลารออนุมัติเงิน: ระบบใหญ่ใช้เวลาตรวจอย่างเป็นทางการประมาณ 10–12 วันทำการ หรืออาจเร็วกว่านี้ (หากผลผ่าน QC เกณฑ์ 95% ขึ้นไป จะได้รับการอนุมัติเงินทันทีค่ะ)\n",
+    "title": "รับสมัครคนอัดเสียงภาษาไทย (อ่านสคริปต์สั้นๆ 210) ใช้เวลา 15-20 นาที",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "120",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-26T09:50:53.259614Z",
+    "updated_at": "2026-08-26T09:50:54.358235Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-27",
+    "expired_at": "2026-09-25T09:50:53.240191Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "120",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-26T10:01:29.966Z"
+  },
+  {
+    "id": "47dd28f2-20fa-42d9-bd53-29e9de50eec8",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังพัฒนาปากกาแบบใหม่ที่รว��� ปากกาเขียน + Correction Tape ไว้ในตัวเดียวกัน\n\nปัจจุบันมี โมเดล 3D และแนวคิดกลไกหลักแล้ว ต้องการคนช่วยต่อยอดและจบงานให้พร้อมทำ Prototype และส่งโรงงานประเมินการผลิต\n\nงานที่ต้องการ:\n\n- ตรวจและแก้โมเดล 3D เดิม\n- ปรับกลไกภายใน, Assembly, Clearance และจุดที่อาจชนกัน\n- ปรับดีไซน์ภายนอกให้สวยและดูพร้อมขาย\n- ปรับ Ergonomics ให้จับสบายและเขียนได้นาน\n- เตรียมไฟล์ STEP / STL / CAD Assembly สำหรับ Prototype และส่งโรงงาน\n- สามารถเสนอการแก้โครงสร้างหรือกลไกได้หากมีวิธีที่ดีกว่า\n\nมองหาคนที่มีประสบการณ์ด้าน Product Design / Mechanical Design / 3D CAD / Prototype",
+    "title": "Product / Mechanical Designer ช่วยจบแบบปากกา��ลไกพิเศษ 3D CAD ให้พร้อมทำ Prototype และส่งโรงงาน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "7500",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T09:39:29.542681Z",
+    "updated_at": "2026-08-26T09:39:33.123440Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T09:39:29.492299Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-F966B;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a55f8d2c-c24a-4ee7-8653-e5903338d378",
+    "user_profile": {
+      "id": "a55f8d2c-c24a-4ee7-8653-e5903338d378",
+      "username": "gonggavin",
+      "display_name": "GavinRatta",
+      "image_url": "https://lh3.googleusercontent.com/a/AAcHTtdGVSsj3egTllRFaXEsfrHK6J1JAvcZ8EoTA5W80xZS=s96-c"
+    },
+    "freelance_offers": null,
+    "budget_2": "7500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-26T10:01:28.799Z"
+  },
+  {
     "id": "b4c3b2a1-0e32-4940-85b3-ac99e44dc056",
     "status": "open",
     "tag": {
