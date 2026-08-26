@@ -1,5 +1,251 @@
 [
   {
+    "id": "b4c3b2a1-0e32-4940-85b3-ac99e44dc056",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "Primary Market: Thailand Regional (Thailand, Singapore, Malaysia, future markets)\nFocus: Frontend Development, Headless Commerce, Thai Localisation\n\nAbout the Role\nAutoclinic is hiring a Freelance Thai Native Frontend Developer to help build regional websites and transition toward a headless commerce architecture. You will create reusable frontend components and customer journeys across multiple markets. As the Thai language owner, you will ensure Thai website content, campaigns, and experiences sound natural while working with cross-functional teams to support B2C and B2B requirements.\n\nResponsibilities\n* Frontend: Develop regional websites, build responsive components, create product/cart/checkout pages, integrate backend APIs, and optimize SEO and performance.\n* Thai Localisation: Adapt content into natural Thai, support Thai SEO, and advise on local UX expectations.\n* Regional Foundation: Build a shared frontend foundation for Thailand, Singapore, Malaysia, and future markets.\n\nTechnology\nJavaScript, TypeScript, React, Next.js, HTML/CSS, REST/GraphQL APIs, Git, Component-based Dev, Headless CMS/Commerce.\n\nRequirements\n* Native Thai speaker with good working English.\n* Strong JS, HTML, CSS, React skills and working knowledge of TypeScript.\n* Experience with API integration, Git, and component-based architecture.\n* Strong UI/UX awareness and ability to work independently.\n\nPreferred Experience\nNext.js, Headless CMS/Commerce, E-commerce (B2C/B2B), Carts/Checkout, Payment APIs, Shopify/Shopify APIs/Liquid, Figma, GA4/GTM, SEO/CRO, Automotive e-commerce.\n\nWhat Success Looks Like\nDeliver responsive frontend experiences across regional markets, create an authentic Thai customer journey, and help build a reusable platform that scales across AutoClinic markets.",
+    "title": "Freelance Frontend Developer - Headless Commerce & Thailand (Automotive)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T08:37:58.077033Z",
+    "updated_at": "2026-08-26T08:37:59.650101Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-09-25T08:37:58.011561Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "b6973e11-f28f-49e1-ac0e-1c18aa4d97d3",
+    "user_profile": {
+      "id": "b6973e11-f28f-49e1-ac0e-1c18aa4d97d3",
+      "username": "autoclinic_thailand",
+      "display_name": "Autoclinic_Thailand",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b6973e11-f28f-49e1-ac0e-1c18aa4d97d3/profile/2e07819e-e5b8-4160-ac94-26eba89322a8.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-26T08:38:55.621Z"
+  },
+  {
+    "id": "cad84d1c-7169-46bd-bfdc-94865fbab564",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "หาคนขึ้นแบบและผลิต 3D Clicker \nมี mockup แบบที่ต้องการไว้แล้ว อยากได้ชิ้นงานภายในเดือน กันยายน รลกวนแปะตัวอย่างงานที่เคยทำให้ด้วยนะคะ ขอบคุณค่ะ",
+    "title": "หาคนขึ้นแบบและผลิต 3D Clicker",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T08:25:16.131246Z",
+    "updated_at": "2026-08-26T08:25:17.626617Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T08:25:16.101772Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "65e5bc5c-a12d-4797-a280-7dac5d3f5ebe",
+    "user_profile": {
+      "id": "65e5bc5c-a12d-4797-a280-7dac5d3f5ebe",
+      "username": "rdgasbof",
+      "display_name": "rdgasbof",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-26T08:38:54.529Z"
+  },
+  {
+    "id": "000cc99b-e8a2-4cfa-983b-dfd2cf0042e9",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "Stage Production Support (Live) : 2 ตำแหน่ง\r\nคุณสมบัติ\r\n-มีความรู้ระบบเสียง–แสง–ภาพ และเข้าใจการทำงานของไมโครโฟน, มิกเซอร์, ลำโพง, ไฟเวที, กล้อง และระบบควบคุม\r\n-มีทักษะการติดตั้งและแก้ไขปัญหา สามารถติดตั้งอุปกรณ์และแก้ไขปัญหาเฉพาะหน้าได้รวดเร็ว\r\n-สามารถใช้เครื่องมือควบคุมต่างๆ ที่ใช้ในงาน Production เช่น DMX สำหรับไฟ, Digital Mixer สำหรับเสียง, Switcher สำหรับภาพ\r\n-มีการสื่อสารที่ดี และสามารถทำงานเป็นทีม เพื่อประสานงานกับช่างกล้อง, ช���างเสียง, ช่างแสง และทีมเวที\r\n-มีความรู้ด้านความปลอดภัย ตรวจสอบสายไฟ, อุปกรณ์ไฟฟ้า, และการติดตั้งให้ปลอดภัยอยู่เสมอ\r\n-มีความรู้ด้านระบบเครือข่ายและอินเตอร์เน็ต\r\n\r\nหน้าที่รับผิดชอบ\r\n-เตรียมอุปกรณ์ ติดตั้งและตรวจสอบกล้อง, ระบบเสียง, ระบบไฟ, และอุปกรณ์เวทีทั้งหมดก่อนการแสดง\r\n-ดูแลการทำงานของกล้อง, เสียง, และแสง ระหว่างการแสดง ให้เป็นปรกติ\r\n-ประสานงานกับ Stage Manager และ Director เพื่อแก้ไขปัญหาเฉพาะหน้ากรณีอุปกรณ์ขัดข้อง เช่น ไมค์ไม่ติด, ไฟไม่ขึ้น, ภาพไม่ออก ระหว่างการแสดง\r\n-การดูแลความปลอดภัย โดยตรวจสอบระบบไฟฟ้า, สายสัญญาณ, และการติดตั้งอุปกรณ์ให้ปลอดภัยต่อทีมงานและนักแสดง\r\n-ซ้อมเทคนิค ติดตั้งและทดสอบระบบทั้งหมดก่อนวันจริง เพื่อให้กล้อง–เสียง–แสงทำงานสอดคล้องกัน\r\n\nเงินเดือนตามประสบการณ์\r\n\r\n\r\n\r\n\r\n\r\n",
+    "title": "Stage Production Support (Live)",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T08:22:35.703993Z",
+    "updated_at": "2026-08-26T08:22:36.778740Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T08:22:35.637718Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+    "user_profile": {
+      "id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+      "username": "marisa23.",
+      "display_name": "hrLing Ling",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8413ffaf-07ce-48ee-912b-c3a9427b8d67/profile/f53c2306-b5eb-479e-8f0c-7cc4e5a11bb2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-26T08:38:53.098Z"
+  },
+  {
+    "id": "ba1503bc-1e96-408a-bd5e-005aa853a847",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "Voice/Audio Engineer : 1 ตำแหน่ง\r\nคุณสมบัติ\r\n-มีความรู้ด้าน Audio Engineering สามารถปรับแต่ง EQ, Compression, Reverb, Mixing\r\n-มีทักษะการใช้เครื่องมือ AI Voice เช่น ElevenLabs, Replica Studios, Microsoft Speech SDK\r\n-สามารถใช้ซอฟต์แวร์เสียงต่างๆ Audition, Pro Tools, Logic Pro, Reaper\r\n-มีความเข้าใจด้าน NLP และ Speech Synthesis เพื่อปรับโทนเสียงให้เป็นธรรมชาติ\r\n-มีความละเอียดรอบคอบ, การทำงานเป็นทีม, ความคิดสร้างสรรค์\r\n\r\n\r\nหน้าที่รับผิดชอบ\r\n-นำทีมพากย์เสียงจากบุคคลจริง เพื่อไปใช้\r\n-สร้างเสียงพากย์ตัวละคร (Voice Generation & Acting) ใช้ AI Speech Synthesis หรือ Voice Cloning เพื่อสร้างเสียงที่ตรงกับบุคลิกตัวละคร\r\n-ปรับแต่งคุณภาพเสียง (Audio Processing) ทำ EQ, Compression, Noise Reduction เพื่อให้เสียงชัดเจนและสมดุล\r\n-ออกแบบเอฟเฟกต์เสียง (Sound Effects Design) เพิ่มเสียงประกอบ เช่น เสียงฝนตก, เสียงฝีเท้า, เสียงประตู เพื่อสร้างบรรยากาศ\r\n-มิกซ์และมาสเตอร์เสียง (Mixing & Mastering) รวมเสียงพากย์, เพลงประกอบ, และเอฟเฟกต์เข้าด้วยกันให้สมดุลและฟังสบาย\r\n-ทำงานร่วมกับทีมเขียนบทและ Visual Designer ปรับโทนเสียงให้เข้ากับฉากและอารมณ์ที่บทละครกำหนด\r\n-รีวิวและแก้ไขผลลัพธ์จาก AI ตรวจสอบเสียงที่ AI สร้างขึ้น ปรับ Prompt หรือแก้ไขด้วย DAW (Digital Audio Workstation) เช่น Audition, Logic Pro, Reaper\nเงินเดือนตามประสบการณ์",
+    "title": "Voice/Audio Engineer",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T08:21:57.953294Z",
+    "updated_at": "2026-08-26T08:21:59.939250Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T08:21:57.901494Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+    "user_profile": {
+      "id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+      "username": "marisa23.",
+      "display_name": "hrLing Ling",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8413ffaf-07ce-48ee-912b-c3a9427b8d67/profile/f53c2306-b5eb-479e-8f0c-7cc4e5a11bb2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-26T08:38:51.902Z"
+  },
+  {
+    "id": "b41469a1-1f40-4813-ab13-b8788789ce37",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "AI Animation Creator : 2 ตำแหน่ง\r\nคุณสมบัติ\r\n-มีความรู้ด้านศิลปะและการออกแบบ\r\n-สามารถใช้เครื่องมือ AI เช่น Stable Diffusion, Runway\r\n-มีความเข้าเข้าใจการเรนเดอร์และ Texturing\r\n-มีความเข้าเข้าใจ Storyboard และการจัดองค์ประกอบภาพ\r\n-เข้าใจ Motion, Timing, และการสร้างภาพเคลื่อนไหว\r\n-มีความเข้าเข้าใจกลไก AI และข้อจำกัด\r\n-ความคิดสร้างสรรค์, การทำงานเป็นทีม, ความละเอียดรอบคอบ\r\n\r\n\r\nหน้าที่รับผิดชอบ\r\n-ร่วมออกแบบตัวละครและฉาก กำหนดรูปลักษณ์, บุคลิกภาพ, และบรรยากาศของฉากให้สอดคล้องกับบทละคร\r\n-สร้างภาพและแอนิเมชันด้วย AI โดยใช้เครื่องมือเช่น Stable Diffusion, Runway, MidJourney หรืออื่นๆ เพื่อสร้างภาพนิ่งหรือภาพเคลื่อนไหว\r\n-ร่วมทำ Storyboard และ Concept Art วางโครงร่างภาพแต่ละฉากเพื่อให้ทีมงานเข้าใจทิศทางการเล่าเรื่อง\r\n-ปรับแต่งองค์ประกอบภาพ (Visual Composition)จัดแสง, สี, มุมกล้อง, และองค์ประกอบศิลป์ให้ภาพมีคุณภาพและสื่ออารมณ์ได้ตรงตามที่ต้องการ\r\n-ทำงานร่วมกับทีมเขียนบทและเสียง ประสานงานกับ Scriptwriter และ Voice Engineer เพื่อให้ภาพ, บท, และเสียงสอดคล้องกัน\r\n-รีวิวและแก้ไขผลลัพธ์จาก AI (Iteration & Refinement) ตรวจสอบงานที่ AI สร้างขึ้น ปรับ Prompt หรือแก้ไขด้วยเครื่องมือกราฟิกเพิ่มเติม\r\n\r\n\r\n\rเงินเดือนตามประสบการณ์",
+    "title": "AI Animation Creator",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-26T08:21:07.518336Z",
+    "updated_at": "2026-08-26T08:21:08.545371Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-25T08:21:07.472386Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+    "user_profile": {
+      "id": "8413ffaf-07ce-48ee-912b-c3a9427b8d67",
+      "username": "marisa23.",
+      "display_name": "hrLing Ling",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8413ffaf-07ce-48ee-912b-c3a9427b8d67/profile/f53c2306-b5eb-479e-8f0c-7cc4e5a11bb2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-26T08:38:50.778Z"
+  },
+  {
     "id": "9d189ca5-b524-46c4-aac9-9263925c0b63",
     "status": "open",
     "tag": {
@@ -145,103 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-08-25T08:52:48.495Z"
-  },
-  {
-    "id": "62b4aeae-1b55-4194-b28c-a748420f6310",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "# รับสมัคร Digital Marketing\n\n**💰 เงินเดือน 30,000 บาท + Commission**\n**👥 รับ 3 ตำแหน่ง | งานประจำ**\n**📅 จันทร์–ศุกร์ | 09:00–18:00 น.**\n**📍 ลาดพร้าว – ถนนสตรีวิ���ยา 2 ซอย 21**\n\n### เรากำลังมองหาคนแบบไหน?\n\nเรากำลังมองหาคนที่สนใจงานด้าน **Digital Marketing** โดยเฉพาะ **Google Ads และ Bing Ads** มีความรับผิดชอบ และพร้อมเรียนรู้พัฒนาตัวเองไปกับงานจริง\n\n**ไม่จำกัดวุฒิการศึกษา** เราให้ความสำคัญกับ **ความรู้ ความสามารถ และความรับผิดชอบ** มากกว่าปริญญา\n\nหากมีประสบการณ์ด้าน Google Ads หรือ Bing Ads จะได้รับการพิจารณาเป็นพิเศษ และ **ยินดีรับผู้ไม่มีประสบการณ์** หากมีความสนใจในสายงาน Digital Marketing อย่างจริงจัง\n\n## 💻 หน้าที่และความรับผิดชอบ\n\n* ลงและดูแลโฆษณาผ่าน **Google Ads และ Bing Ads**\n* วิเคราะห์และวัดผล Campaign โดยใช้ **Google Analytics**\n* **Optimize Campaign** เพื่อให้ได้ผลกำไรสูงสุด\n* ใช้ **Google Ads Scripts** เพื่อช่วยในการ Bid และ Monitor Campaign\n\n## 👤 คุณสมบัติ\n\n* เพศชาย / หญิง / ไม่จำกัดเพศ\n* อายุ **21–35 ปี**\n* **ไม่จำกัดวุฒิการศึกษา**\n* มีประสบการณ์เกี่ยวกับ **Google Ads หรือ Bing Ads 1 ปี** จะได้รับการพิจารณาเป็นพิเศษ\n* **ยินดีรับผู้ไม่มีประสบการณ์** หากสนใจงาน Digital Marketing\n* มีความรู้และความรับผิดชอบ พร้อมเรียนรู้และพัฒนาตัวเอง\n\n> **เราไม่ได้เลือกคนจากปริญญาเป็นหลัก**\n> หากคุณมีความรู้ มีความรับผิดชอบ และตั้งใจทำงาน เรายินดีเปิดโอกาสให้คุณเข้ามาเป็นส่วนหนึ่งของทีม\n\n## 💰 เงินเดือนและสวัสด���การ\n\n**เงินเดือน 30,000 บาท/เดือน**\n\n* Commission **จ่ายทุกเดือน**\n* โบนัสตามผลงานตอนสิ้นปี\n* ประกันสังคม\n* ทำงานสัปดาห์ละ **5 วัน**\n* หยุด **เสาร์–อาทิตย์**\n* วันหยุดนักขัตฤกษ์ ปี 2569\n\n## 🕘 รูปแบบการทำงาน\n\n* **งานประจำ**\n* ทำงานวันจันทร์–ศุกร์\n* เวลา **09:00–18:00 น.**\n\n## 📍 สถานที่ทำงาน\n\n**27/1 ถนนสตรีวิทยา 2 ซอย 21\nแขวงลาดพร้าว เขตลาดพร้าว\nกรุงเทพมหานคร 10230**\n\nผู้สมัครที่พักอาศัยอยู่ใกล้สถานที่ทำงาน และสามารถเดินทางได้สะดวก **จะได้รับการพิจารณาเป็นพิเศษ**\n\n**หากคุณสนใจ Google Ads, Bing Ads และอยากเติบโตในสาย Digital Marketing เราอยากรู้จักคุณ**\n",
-    "title": "Digital Marketing",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "30000",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-25T07:53:17.647211Z",
-    "updated_at": "2026-08-25T07:53:18.669857Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-24T07:53:17.627115Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "e10271bd-ba7d-4693-af6e-ae040fda19a9",
-    "user_profile": {
-      "id": "e10271bd-ba7d-4693-af6e-ae040fda19a9",
-      "username": "1n3ep6cu",
-      "display_name": "1n3ep6cu",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-25T08:03:34.791Z"
-  },
-  {
-    "id": "68ffd8f8-8b03-49c7-8252-43e911789516",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พ���ฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "**💰 เงินเดือนเริ่มต้น 15,000 บาทขึ้นไป**\n**🏠 Hybrid Working | ทำงาน 5 วัน/สัปดาห์**\n**📍 ลาดพร้าว – ถนนสตรีวิทยา 2 ซอย 19**\n\n### เรากำลังมองหาคนแบบไหน?\n\nเราไม่ได้มองหาคนที่ต้อง **เก่งทุกอย่างตั้งแต่วันแรก**\n\nแต่กำลังมองหาคนที่ **ทำเว็บไซต์ได้ เรียนรู้เร็ว มีความรับผิดชอบ** และอยากเติบโตไปกับสายงาน **Web + AI + Digital Marketing**\n\nหากคุณมีพื้นฐานด้านเว็บไซต์ และสนใจพัฒนาตัวเองต่อด้าน **AI, Google Ads, SEO และ Digital Marketing** งานนี้เปิดโอกาสให้คุณได้เรียนรู้และทำงานจริงอย่างต่อเนื่อง\n\n## 💻 หน้าที่และความรับผิดชอบ\n\n* ออกแบบและพัฒนาเว็บไซต์ด้วย **HTML**\n* ดูแลและจัดการเว็บไซต์ด้วย **WordPress**\n* ใช้ **AI Tools เช่น ChatGPT, Claude** หรือเครื่องมือ AI อื่น ๆ ช่วยในการออกแบบและพัฒนาเว็บไซต์\n* เรียนรู้และพัฒนาทักษะด้าน **Digital Marketing โดยเฉพาะ Google Ads**\n* หากมีพื้นฐาน **SEO** จะได้รับการพิจารณาเป็นพิเศษ หากไม่มีก็สามารถเรียนรู้ระหว่างทำงานได้\n* ศึกษาเครื่องมือและเทคโนโลยีใหม่ ๆ เพื่อนำมาช่วยเพิ่มประสิทธิภาพในการทำงาน\n\n## 👤 คุณสมบัติ\n\n* **ไม่จำกัดวุฒิการศึกษา** เราให้ความสำคัญกับความสามารถและผลงาน\n* สนใจงานด้าน **Website, AI และ Digital Marketing** และต้องการเติบโตในสายงานนี้\n* พร้อมเรียนรู้สิ่งใหม่และพัฒนาตัวเองอย่างต่อเนื่อง\n* มีความรับผิดชอบ บริหารเวลาและส่งงานได้ตามกำหนด\n* มีทัศนคติเชิงบวก พร้อมเรียนรู้และแก้ไขปัญหา\n* สามารถทำงานภายใต้แรงกดดันและรับมือกับงานเร่งด่วนได้\n* สามารถ **อ่านและทำความเข้าใจภาษาอังกฤษ** ได้ เนื่องจากเครื่องมือและข้อมูลส่วนใหญ่เป็นภาษาอังกฤษ\n\n## 💰 เงินเดือน\n\n**เริ่มต้น 15,000 บาท/เดือนขึ้นไป**\nพิจารณาเงินเดือนตาม **ความสามารถและผลงานเป็นหลัก**\n\n## 🏠 รูปแบบการทำงาน\n\n* **Hybrid Working** — ไม่จำเป็นต้องเข้าออฟฟิศทุกวัน\n* ทำงาน **5 วัน/สัปดาห์**\n* วันและเวลาทำงาน **ยืดหยุ่น**\n* ออฟฟิศอยู่ **ลาดพร้าว ถนนสตรีวิทยา 2 ซอย 19**\n* ผู้สมัครที่อยู่ใกล้ออฟฟิศและเดินทางสะดวก **จะได้รับการพิจารณาเป็นพิเศษ**\n\n**ถ้าคุณทำเว็บไซต์ได้ ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และอยากเติบโตไปกับ Web + AI + Digital Marketing เราอยากรู้จักคุณ**",
-    "title": "เจ้าหน้าที่พัฒนาเว็บไซต์ (Website Developer)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-25T07:49:35.586671Z",
-    "updated_at": "2026-08-25T07:49:36.803011Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-24T07:49:35.566670Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "e10271bd-ba7d-4693-af6e-ae040fda19a9",
-    "user_profile": {
-      "id": "e10271bd-ba7d-4693-af6e-ae040fda19a9",
-      "username": "1n3ep6cu",
-      "display_name": "1n3ep6cu",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-25T08:03:33.298Z"
   }
 ]
