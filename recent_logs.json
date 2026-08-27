@@ -1,5 +1,13 @@
 [
-  "[2026-08-27T05:00:59.713Z] Checking Fastwork for new job posts...",
-  "[2026-08-27T05:00:59.713Z] Auto-cleanup: Removed 53 seen job tracking IDs older than 1 day(s).",
-  "[2026-08-27T05:00:59.709Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-08-27T16:18:17.039Z]     Notification sent successfully.",
+  "[2026-08-27T16:18:16.806Z]   FOUND NEW TARGET JOB: PHOTOGRAPHER + CREATIVE DIRECTOR (Cats: พัฒนาเว็บไซต์) (Budget: 5000 THB)",
+  "[2026-08-27T16:18:15.804Z]     Notification sent successfully.",
+  "[2026-08-27T16:18:15.607Z]   FOUND NEW TARGET JOB: โครงการ ThaiWay Smart City Solutions ต้องการ Developer ที่มีประสบการณ์ Supabase, PostgreSQL, RLS, Auth/JWT และระบบ Multi‑tenant เพื่อทำงาน M‑D1 เฉพาะใน Sandbox/Staging (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 0 THB)",
+  "[2026-08-27T16:18:14.605Z]     Notification sent successfully.",
+  "[2026-08-27T16:18:14.439Z]   FOUND NEW TARGET JOB: ปรึกษาการเขียนโค้ดสั่ง ปุ่มใน power app ให้รันตามคำสั่ง power automate ครับ แก้ไข run scripts (excel)  ใน power automate (Cats: ออกแบบ UX UI) (Budget: 500 THB)",
+  "[2026-08-27T16:18:13.436Z]     Notification sent successfully.",
+  "[2026-08-27T16:18:13.218Z]   FOUND NEW TARGET JOB: หาคนสอนโปรแกรม Figma for UX UI design  (Cats: ออกแบบ UX UI) (Budget: 700 THB)",
+  "[2026-08-27T16:18:12.385Z] Checking Fastwork for new job posts...",
+  "[2026-08-27T16:18:12.384Z] Auto-cleanup: Removed 140 seen job tracking IDs older than 1 day(s).",
+  "[2026-08-27T16:18:12.381Z] Auto-cleanup: Removed 9 matched jobs older than 1 day(s)."
 ]
