@@ -1,5 +1,103 @@
 [
   {
+    "id": "7e68e3dd-f534-4179-acfc-b700fbe118c8",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "📢 หาฟรีแลนซ์ / Agency สาย Performance Marketing & Meta Ads\n\n\n⚠️ รบกวนอ่านรายละเอียดให้ครบก่อนสมัครค่ะ\n\n\nกำลังมองหา Advertising & Marketing Specialist / Agency เพื่อดูแล Paid Advertising ให้บริษัท Web Design โดยกลุ่มเป้าหมายคือ เจ้าของธุรกิจชาวไทยในยุโรป และธุรกิจในประเทศไทย\n\n\nหน้าที่หลัก\n\n- วาง Strategy และดูแล Meta Ads ตั้งแต่ต้นจนจบ\n- Launch / Optimize / Analyze Campaign\nวาง Customer Acquisition ตั้งแต่ Ads → Lead → Paying Customer\n- คิดและทดสอบ Ads Angle / Offer / Creative\n- สามารถทำหรือประสานงานผลิต ภาพและวิดีโอจริงสำหรับโฆษณา\n- วิเคราะห์ผลและทำ Weekly Report พร้อมเสนอแนวทางปรับปรุง\n\nคุณสมบัติ\n\n- มีประสบการณ์ Meta Ads / Performance Marketing จริง\n\n- เคยบริหารงบโฆษณา\n\n- สามารถแชร์ Portfolio / Case Study / Results ได้\n\n- เข้าใจ Lead Generation, Customer Acquisition และ CAC\n\n- สื่อสารภาษาไทยได้ดี และใช้ภาษาอังกฤษในการทำงานได้\n\n- สามารถวางแผนและดูแลงานได้ด้วยตัวเอง\n\nGoogle Ads / TikTok Ads / Landing Page ถือเป็น Plus\n\n💻 Freelance / Agency | Remote\n\nกรุณาแนบ (ภาษาอังกฤษ):\n\n- Resume / Portfolio / Case Studies\n\n- Rate / Monthly Retainer + Scope ที่รวมในราคา (คร่าวๆ)\n\nขอบคุณค่ะ 🙏🏻",
+    "title": "ฟรีแลนซ์ / Agency สาย Performance Marketing & Meta Ads",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-28T12:43:26.410239Z",
+    "updated_at": "2026-08-28T12:43:27.576261Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "เทคโนโลยี ซอฟต์แวร์ แอปฯ เกม",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-27T12:43:26.365209Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS16.6.1;iPhone;6.5.0-6000261"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "8e014dbd-5792-4303-b8f9-6ae3fb64810b",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-28T22:32:02.202Z"
+  },
+  {
+    "id": "aa96af2f-5c1c-4010-943e-f2b8f8196038",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "จ้างทำเเบบสอบถามเพื่อใช้ในโปรเจคเกี่ยวกับการเงินค่ะ สนใจทักมานะคะรับอายุ20ปีขึ้น                       ",
+    "title": "หาคนทำเเบบสอบถามออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "150",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-28T12:35:53.860396Z",
+    "updated_at": "2026-08-28T12:35:54.760258Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-27T12:35:53.811014Z",
+    "freelance_offers_count": 17,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;RMX3834;11.8.0-6002827"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "deb94197-8bdd-4c9c-a44d-becbd1dbac84",
+    "user_profile": {
+      "id": "deb94197-8bdd-4c9c-a44d-becbd1dbac84",
+      "username": "3mmcn3q1",
+      "display_name": "ganjana",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/deb94197-8bdd-4c9c-a44d-becbd1dbac84/profile/0258f030-b184-4f97-b619-29c686dfbbd0.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "150",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-28T22:32:01.028Z"
+  },
+  {
     "id": "b483ea79-9f4e-4294-97c3-1b5d079a0b00",
     "status": "open",
     "tag": {
@@ -196,202 +294,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-08-28T00:58:31.515Z"
-  },
-  {
-    "id": "744879e3-4f11-49e3-b90d-dcc8f18a1742",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "LOOKING FOR — PHOTOGRAPHER + CREATIVE DIRECTOR *ส่งเรทของตัวเองได้เลยค่ะไม่ต้องสนใจงบประมาณที่ลงไว้\n\nกำลังมองหา ช่างภาพ / Creative Director มาร่วมสร้างภาพถ่ายสำหรับคอลเลกชั่นผ้ารองจาน รองแก้ว และผ้าเช็ดปาก\n\nสินค้าเป็นคอลเลกชัน embroidered table textiles ที่นำ texture, สี และมุมมองของโลกจากเบื้องบนมาตีความผ่านงานปัก ประกอบด้วย placemat, coaster และ napkin\n\nMood ที่เรามองหา:\ncinematic / intimate / contemporary / slightly surreal / art-driven\nเราอยากให้สินค้าดูเหมือนเป็นส่วนหนึ่งของ scene และเรื่องราว มากกว่าการวางสินค้าเพื่อถ่าย catalog ตรง ๆ\n\nเปิดกว้างมากสำหรับคนที่อยากเข้ามาช่วย ตีความ EARTH ในมุมของตัวเอง และสร้าง visual language ร่วมกัน\n\nรบกวนส่ง rate / quotation มาด้วย\n\nหากสนใจ รบกวนส่ง\n• Portfolio / Instagram / Website\n• ตัวอย่างงานที่คิดว่าใกล้เคียงกับ direction นี้ (ถ้ามี)\n• Rate หรือ package\n• Scope ที่รับทำ (Photography / Creative Direction / Styling / ทั้งหมด)",
-    "title": "PHOTOGRAPHER + CREATIVE DIRECTOR",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-27T15:59:07.389807Z",
-    "updated_at": "2026-08-27T15:59:09.012666Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-26T15:59:07.371760Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "3be2d7dc-0d2f-463d-9811-6c1b196cc0b1",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-08-27T16:18:16.805Z"
-  },
-  {
-    "id": "22245649-7bfd-42f2-9ba9-b9222809b471",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ขอบเขตงาน\n1. ตรวจโครงสร้าง Multi‑tenant ต่อจากงาน M‑D0\n2. สร้าง Tenant ทดสอบอย่างน้อย 2 แห่�� เช่น Tenant A บ้านกลาง (ข้อมูลจำลอง) และ Tenant B\n3. ผูก User/Role ให้ถูก Tenant\n4. ตรวจและทดสอบ RLS, FORCE RLS, Policy และ Function ที่เกี่ยวข้อง\n5. ทดสอบตาม MP‑06/Tenant Isolation\n6. พิสูจน์ว่าผู้ใช้ Tenant A ไม่เห็นหรือเข้าถึงข้อมูล Tenant B และกลับกัน\n7. ทดสอบ Auth/API/JWT และ Tenant Context\n8. ปิดกรณี DEFERRED ที่อยู่ในขอบเขต M‑D1\n9. แก้เฉพาะจุดที่จำเป็นต่อ Tenant Isolation โดยแจ้งรายการก่อนแก้\n10. สรุปว่า Gate G2 มีสถานะ PASS, PARTIAL, FAIL หรือยังไม่พร้อมปิด\nข้อจำกัด\n- ทำเฉพาะ Sandbox/Staging ห้ามแตะ Production\n- ห้ามใช้ Production Secret และข้อมูลประชาชนจริง\n- ห้ามเพิ่มฟีเจอร์ เปลี่ยน UI หรือแก้สถาปัตยกรรมนอกขอบเขต\n- หากพบปัญหานอกขอบเขต ให้รายงานและเสนอราคาแยก\n- ผู้ว่าจ้างเป็นผู้ตรวจและอนุมัติปิด Gate G2 ขั้นสุดท้าย\nสิ่งส่งมอบ\n- Source Code และ Git commit ที่แก้ไข\n- Database Migration และ Rollback\n- รายงานผล MP‑06 ทุกกรณี\n- หลักฐานทดสอบ เช่น SQL Result, API Response, Test Log หรือภาพหน้าจอ โดยปกปิด Secret\n- Change Log และรายการปัญหาที่ยังเหลือ\n- คู่มือ Run/Test เพื่อให้ Developer คนอื่นทดสอบซ้ำได้\n- ZIP พร้อม Manifest และ SHA‑256\n- ข้อเสนอแนะสถานะ Gate G2\nเกณฑ์รับงาน\nTenant Isolation ต้องทดสอบซ้ำได้ ไม่พบการเข้าถึงข้อมูลข้าม Tenant, Role ทำงานถูกต้อง, Migration/Rollback ใช้งานได้ และไม่มี Secret หรือข้อมูลจริงในไฟล์ส่งมอบ ต้องมีหลักฐานจริง ไม่รับเพียงคำยืนยันว่าทดสอบผ่าน งานทั้งหมดต้องส่งต่อให้ Developer อื่นทำต่อได้โดยไม่เกิด Vendor Lock‑in\nผู้สมัครโปรดแจ้ง\n1. ประสบการณ์ด้าน Multi‑tenant/RLS\n2. วิธีทดสอบข้อมูลรั่วข้าม Tenant\n3. แผนงานและเครื่องมือที่ใช้\n4. ระยะเวลาดำเนินงาน\n5. ราคาเหมารวมและจำนวนรอบแก้ไข\n6. วันที่พร้อมเริ่มงาน\n7. ยืนยันการทำงานเฉพาะ Sandbox/Staging และส่ง Source, Migration, Rollback, Test Evidence ได้ครบ\nเริ่มงานหลังตรวจคุณสมบัติและตกลงสัญญา/NDA การผ่าน M‑D1 ไม่ได้รับประกันการจ้าง Milestone ถัดไป",
-    "title": "โครงการ ThaiWay Smart City Solutions ต้องการ Developer ที่มีประสบการณ์ Supabase, PostgreSQL, RLS, Auth/JWT และระบบ Multi‑tenant เพื่อทำงาน M‑D1 เฉพาะใน Sandbox/Staging",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-08-27T13:32:29.991298Z",
-    "updated_at": "2026-08-27T13:32:30.928935Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-26T13:32:29.938249Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A346N;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
-    "user_profile": {
-      "id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
-      "username": "ii0z4bpe",
-      "display_name": "ZOON STUDIO",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/59f144a3-c79c-4cfc-8b65-735b49b98da0/profile/48f6fc13-d501-4eb9-a7d6-a65e03abb374.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-27T16:18:15.607Z"
-  },
-  {
-    "id": "31557bd9-0580-4164-bc33-a28e43007528",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "สร้าง flow ใน power automate เรียบร้อยแล้วแต่สงสัยว่าจะสร้างปุ่มให้ run flow ได้แบบถูกต้องยังไง power automare มีคำสั่งให้ run script ใน excel แต่หา script ไม่เจอแก้ยังไงครับ",
-    "title": "ปรึกษาการเขียนโค้ดสั่ง ปุ่มใน power app ให้รันตามคำสั่ง power automate ครับ แก้ไข run scripts (excel)  ใน power automate",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-27T13:15:03.647997Z",
-    "updated_at": "2026-08-27T13:15:04.925233Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-08-28",
-    "expired_at": "2026-09-26T13:15:03.625553Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "ff00e486-f07c-4daa-aca3-2f12ab4bc23e",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-27T16:18:14.439Z"
-  },
-  {
-    "id": "b13de468-4994-4ebe-b6af-c75de9e46b6d",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "part-time",
-    "description": "ต้องการจ้างคนสอน online สด figma สำหรับ งานออกแบบ UX UI wireframes auto layout  ต่อยอด AI เรี��น ตั้งแต่ 3-6 ชั่วโมง ",
-    "title": "หาคนสอนโปรแกรม Figma for UX UI design ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "700",
-    "is_anonymous": true,
-    "inserted_at": "2026-08-27T11:47:42.605571Z",
-    "updated_at": "2026-08-27T11:47:43.658480Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-09-26T11:47:42.588528Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "46482a08-c728-41a9-92c3-1a2786e0df16",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "700",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-08-27T16:18:13.218Z"
   }
 ]
