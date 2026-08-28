@@ -1,5 +1,153 @@
 [
   {
+    "id": "b483ea79-9f4e-4294-97c3-1b5d079a0b00",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "งานวิจัยต้องการสัมภาษณ์คนที่มีใช้ “ยิงแอดแบบส่งข้อความ” เป็นเจ้าของ/คนดูแลหลังบ้าน​เพจเฟสบุ๊คมีหน้าที่ยิงแอด, ตอบหรือคุมแชท เป็นคนยิงแอดเอง\n\n- มีค่าตอบแทน​ 1,500 บาทค่ะ (มีหักณที่จ่าย3%) \n\n- ในการสัมภาษณ์ต้องใช้คอม+เปิดกล้อง+แชร์หน้าจอตอนสัมภาษณ์​\n- หากผ่า��แล้วต้องสะดวกทำเทสว่ากล้อง+เสียง ของคอมที่จะใช้วันสัมภาษณ์ว่าใช้งานได้ดี (ใช้เวลา2นาทีสามารถทำเองได้เลย)\n- มีความรับผิดชอบ​สูง\n\n——————คัดลอกตรงนี้——————\n\nสนใจสมัครขอ\n-ชื่อ+นามสกุล\n=\n-ชื่อเล่น\n=\n-อายุ\n=\n-เบอร์โทร\n=\n-Line ID\n=\n-ดูแลช่องทางไหนบ้าง เช่น Facebook, Shopee, Lazada, Tiktok, Google Ads, Website > แนบลิงก์\n=\n-หน้าที่รับผิดชอบจากข้อก่อนหน้ามีอะไรบ้าง\n=\n-มีพนักงานกี่คน\n=",
+    "title": "งานวิจัยต้องการสัมภาษณ์คนที่มีใช้ “ยิงแอดแบบส่งข้อความ” เป็นเจ้าของ/คนดูแลหลังบ้าน​เพจเฟสบุ๊คมีหน้าที่ยิงแอด, ตอบหรือคุมแชท เป็นคนยิงแอดเอง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-28T11:21:47.576727Z",
+    "updated_at": "2026-08-28T11:21:48.760461Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-08-31",
+    "expired_at": "2026-09-27T11:21:47.523337Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;25078RA3EA;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "274cf2e3-19be-4c8a-af9f-03dcecf396c9",
+    "user_profile": {
+      "id": "274cf2e3-19be-4c8a-af9f-03dcecf396c9",
+      "username": "nichamol",
+      "display_name": "Nichamon",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/274cf2e3-19be-4c8a-af9f-03dcecf396c9/profile/02086e53-cd0d-43f6-9369-63be9027fc1b.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-28T12:29:57.133Z"
+  },
+  {
+    "id": "7586cf0c-5cc4-4b5e-96fe-b30e55946743",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการหา Graphic Designer สำหรับออกแบบ UI ภายในเกม Minecraft \nเน้นงานสไตล์ Modern Game UI / Fantasy / Pokémon-like / Clean UI ไม่ใช่งาน Pixel Art\n\nตัวงานจะเป็นการออกแบบกรอบและหน้าต่าง UI สำหรับระบบต่าง ๆ ภายในเซิร์ฟเวอร์ เช่น\n\nMail / Mailbox UI\nDaily Check-in / Daily Rewards\nBattle Pass\nReward / Claim Reward\n\nUI สำหรับระบบใหม่ ๆ ของเซิ��์ฟเวอร์ในอนาคต\n\nแนวทางงานที่ต้องการ\n\nต้องการ UI ที่ให้ความรู้สึกเหมือน Interface จากเกมทั่วไป มากกว่า GUI Minecraft แบบดั้งเดิม สามารถใช้กรอบโค้ง, Gradient, Glow, Icon, Illustration และองค์ประกอบ Graphic ต่าง ๆ ได้\nMood & Tone หลักของ Pixelclub จะเป็น สีม่วง / ขาว / น้ำเงิน ดูทันสมัย น่ารัก และเข้ากับธีม Pokémon แต่แต่ละระบบสามารถมีธีมและสีเฉพาะของตัวเองได้\nเน้นงาน Clean อ่านง่าย ไม่รก และมี Hierarchy ชัดเจน เช่น หัวข้อ, ปุ่ม, Reward, Progress, Highlight และสถานะต่าง ๆ\nงานนี้เป็นงาน Graphic Design เท่านั้น ไม่จำเป็นต้องเขียน Code หรือทำระบบ \n\nต้องการไฟล์:\n\nPNG พื้นหลังโปร่งใสสำหรับนำไปใช้ง��น\nSource File เช่น PSD / AI / Figma\nLayer แยกและจัดระเบียบเพื่อสามารถนำไปแก้ไขหรือเพิ่ม Content ภายหลังได้\nหากเป็นปุ่ม อาจมีหลายสถานะ เช่น Normal / Hover / Locked / Claimed ตามแต่ละงาน\n\nสิ่งที่อยากได้จากผู้รับงาน\n\nมีประสบการณ์ทำ Game UI / Mobile Game UI / RPG UI จะพิจารณาเป็นพิเศษ\nสามารถออกแบบจาก Reference และปรับให้เข้ากับ Branding ของ Pixelclub ได้\nไม่จำเป็นต้องทำงานสไตล์ Pixel Art\nสามารถรับงานต่อเนื่องได้ เพราะเซิร์ฟเวอร์มีระบบและ Content ใหม่เพิ่มเป็นระยะ\n\nสามารถส่ง Portfolio งาน UI / Game UI ที่เคยทำ พร้อมเรทราคา มาเพื่อพิจารณาได้ครับ",
+    "title": "ออกแบบ Game UI / Graphic UI สำหรับเกม — Non Pixel Art",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-28T11:12:48.610247Z",
+    "updated_at": "2026-08-28T11:12:50.191111Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-27T11:12:48.592854Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "3ffe0b41-3228-4891-ae03-82f94026df08",
+    "user_profile": {
+      "id": "3ffe0b41-3228-4891-ae03-82f94026df08",
+      "username": "dgb44w6v",
+      "display_name": "Olivier",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3ffe0b41-3228-4891-ae03-82f94026df08/profile/f18765b6-0aa3-439e-a6c8-fc442c34fae6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-28T12:29:55.959Z"
+  },
+  {
+    "id": "8da8e97f-2542-4391-bc74-9d40a8f8ff9d",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "Work Environment :\nOur company is developing an Internal Management Platform to support business operations. We are seeking motivated and technically skilled interns to join the project team and contribute to the design, development, and implementation of the platform. This internship provides hands-on experience in cloud technologies, web application development, and digital transformation projects within the engineering and energy industry.\n\nMissions :\n\n- Support the development and enhancement of the Internal Management Platform.\n- Assist in configuring and managing Microsoft Azure services.\n- Design and develop responsive web pages and user interfaces.\n- Collaborate with project and IT teams to gather requirements and implement solutions.\n- Participate in testing, troubleshooting, and system improvements.\n- Prepare technical documentation and user guides.\n- Support database integration, cloud deployment, and application maintenance.\n\nProfile :\nWe are looking for talented and motivated individuals who are eager to help shape the future of energy in an innovative and collaborative environment.\n\nRequirements :\n\n- Currently pursuing or recently completed a Bachelor's or Master's degree in Computer Science, Information Technology, Software Engineering, Computer Engineering, or a related field.\n- Knowledge of Microsoft Azure and cloud computing concepts.\n- Experience with HTML, CSS, JavaScript, or modern web frameworks.\n- Understanding of UI/UX principles and responsive web design.\n- Familiarity with Git version control.\n- Basic knowledge of databases and API integration.\n- Understanding of Agile development methodologies.\n- Strong analytical, problem-solving, communication, and teamwork skills.\n\nAdditional Information :\n\nOn-site internship only (Office located near BTS Nana). No remote work available.\nDaily allowance: THB 500 for transportation and meals.\n\nInternship Details :\n\nDuration: 2 months\nStart Date: September or October (ASAP)",
+    "title": "Full-Stack Developer/UXUI Design Intern (Onsite - 2 months)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-28T10:05:35.207555Z",
+    "updated_at": "2026-08-28T10:05:37.581224Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-09-27T10:05:35.127479Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "ca5de7fa-beaf-4958-adca-3ea8af47c071",
+    "user_profile": {
+      "id": "ca5de7fa-beaf-4958-adca-3ea8af47c071",
+      "username": "apa5urkh",
+      "display_name": "Prim",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/ca5de7fa-beaf-4958-adca-3ea8af47c071/profile/f2835354-d836-45ee-9992-d9996c5776e4.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-08-28T12:29:54.808Z"
+  },
+  {
     "id": "73b5b3d9-b827-4620-8c01-949d2ca1e86e",
     "status": "open",
     "tag": {
