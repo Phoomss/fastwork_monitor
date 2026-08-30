@@ -1,5 +1,152 @@
 [
   {
+    "id": "772e9693-8a2e-46f8-8e26-fafcdcacd57b",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "เอกสารบรีฟโครงการพัฒนาเว็บไซต์ (Website Project Brief)\n1. ภาพรวมโครงการ\nพัฒนาเว็บไซต์องค์กรเพื่อสร้างความน่าเชื่อถือ รองรับ SEO และมีระบบหลังบ้าน (CMS) ให้ผู้ดูแลอัปเดตข้อความ เปลี่ยนรูปภาพ และเขียนบล็อกได้เองอย่างอิสระ 100% โดยไม่ต้อ��พึ่งพาโปรแกรมเมอร์\n2. โครงสร้างเว็บไซต์ (รวม 10 หน้า)\nหน้าฝั่งลูกค้า (Frontend 7 หน้า):\nหน้าแรก (Home): ภาพรวมธุรกิจ, บริการเด่น, รีวิว, ปุ่มติดต่อ (CTA)\nเกี่ยวกับเรา (About Us): ประวัติ, วิสัยทัศน์, ทีมงาน, ใบรับรอง\nบริการ/สินค้า (Services/Products): รายละเอียดแยกหมวดหมู่ พร้อมปุ่มสอบถาม\nผลงาน/รีวิว (Portfolio/Reviews): แกลเลอรีภาพผลงาน และข้อความรีวิว\nบทความ/ข่าวสาร (Blogs/News): รวมบทความให้ความรู้ ดันอันดับ SEO\nคำถามที่พบบ่อย (FAQ): ข้อสงสัยพบบ่อย (รูปแบบ Accordion ยุบ-ขยาย)\nติดต่อเรา (Contact Us): แผนที่ Google Maps, ข้อมูลติดต่อ, ฟอร์มส่งข้อความ\nหน้าระบบจัดการหลังบ้าน (Backend 3 ��น้า):\n8. จัดการเนื้อหาและรูปภาพ (Content Manager): แก้ไขข้อความหลักและเปลี่ยนรูปภาพบนหน้าเว็บ\n9. จัดการบทความ (Blog Manager): เพิ่ม แก้ไข ลบ บทความ และแทรกรูปภาพ/วิดีโอ\n10. จัดการข้อความและตั้งค่า (Inquiries & Settings): กล่องข้อความจากลูกค้า แจ้งเตือนผ่าน Email/LINE และแก้ไขเบอร์ติดต่อ/โซเชียลมีเดีย\n3. ข้อกำหนดทางเทคนิค (ป้องกันผูกขาด / Non-Lock-in)\nแพลตฟอร์มมาตรฐาน: พัฒนาด้วย Open-Source CMS มาตรฐานสากล เช่น WordPress (Self-hosted) ห้ามใช้ Custom CMS ปิดของผู้รับเหมา เพื่อให้ส่งต่อผู้ดูแลอื่นได้\nระบบจัดการเนื้อหา: แก้ไขง่ายด้วย Page Builder หรือ Block Editor มาตรฐาน มีระบบตั้งค่า On-Page SEO (Title, Description, Alt Text) ทุกหน้า\nการส่งมอบและสิทธิ์ขาด:\nผู้ว่าจ้างเป็นเจ้าของบัญชี Hosting, Domain และ Email 100%\nส่งมอบสิทธิ์ Super Admin, Source Code, ฐานข้อมูล และ Graphic Assets ทั้งหมด\nส่งมอบคู่มือหรือวิดีโอสอนการใช้งานระบบหลังบ้าน 1–2 ชั่วโมง\n4. สิ่งที่ต้องระบุในใบเสนอราคา\nแจกแจงค่าพัฒนา, ค่า License ปลั๊กอิน (ถ้ามี) และค่าดูแลรักษารายปี (ถ้ามี)\nระบุโครงสร้างเทคโนโลยี (Tech Stack) และตัวอย่างผลงานที่ผ่านมา\nกำหนด Timeline การทำงานตั้งแต่เริ่มออกแบบจนถึงส่งมอบงาน\n",
+    "title": "จ้างทำเว็บไซต์สำนักงานบัญชี (Website Project Brief)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-08-30T11:34:42.752349Z",
+    "updated_at": "2026-08-30T11:34:44.268604Z",
+    "user_id": "f1ec891a-9026-4317-b1c3-70267063cd73",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-29T11:34:42.708668Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "f1ec891a-9026-4317-b1c3-70267063cd73",
+      "username": "pluswork",
+      "display_name": "Pluswork",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f1ec891a-9026-4317-b1c3-70267063cd73/profile/2704531d-e9f4-4b7e-9508-26df9cefcec2.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-08-30T12:11:54.020Z"
+  },
+  {
+    "id": "c9d74d37-3a5c-4131-bf0d-dd144ec9b700",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "- ขอเป็นคนที่ทำธุรกิจแอพมือถือ\n- ผมจะสัมภาษณ์เพื่ออัดคลิปไปส่งงานอาจารย์ เพราะฉันไม่มีคอนแทคใครเลย ฺฮือ\n- วันนี้ได้จะดีมากๆๆๆๆ\n- สัมภาษณ์ง่ายๆเกี่ยวกับธุรกิจ อธิบายเกี่ยวกับ BMC (Business Model Canvas) ของธุรกิจ\n- สัมภาษณ์ออนไลน์ใน google meet , zoom ตามสดวกกก\n- ขอด่วนๆไฟลุกเลยยย",
+    "title": "คนที่ทำแอพมือถือ แล้วฉันอยากสัมภาษณ์ แล้วอัดคลิป เอางานไปส่งอาจารย์ (ด่วนมากๆ)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "150",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-30T08:03:54.833288Z",
+    "updated_at": "2026-08-30T08:03:55.833134Z",
+    "user_id": "58553232-04a6-4629-a51c-93d9de98a68e",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-29T08:03:54.809600Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-08-31",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "150",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-30T12:11:52.911Z"
+  },
+  {
+    "id": "52ec1da5-ea7c-45de-8709-f89b97bc7a19",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "กรุณา อ่านรายละเอียด ให้ครบ\nต้องทำให้เสร็จภายใน 24 ชม.หลังได้รับรหัส\n(ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน (Job Description)\nรายละเอียดและลักษณะงาน:\nต้องการผู้ทดสอบอัดเสียงภาษาไทย (Native Speaker)\nจำนวนมาก สำหรับลงเสียงอ่านข้อความสั้นๆ 210 ประโยค\nใช้เวลาทำรายการประมาณ 15–20 นาที\nทำผ่านสมาร์ตโฟน (iOS / Android)\nอัดเสียงในห้องที่เงียบ สงบ ไม่มีเสียงรบกวน (เช่น เสียง\nพัดลม, เสียงทีวี, เสียงคนคุยกัน)\n\nคุณสมบัติผู้สมัคร:\n\n1. พูดภาษาไทยเป็นภาษาแม่ (สำเนียงไทยปกติ ฟังชัดเจน)\n2. อายุระหว่าง 18 – 60 ปี รับทั้งชาย\n\nข้อกำหนดเรื่องคุณภาพเสียง (QC Standard):\nอ่านออกเสียงเป็นธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เว่อร์ และไม่อ่านเว้นจังหวะแปลกๆ\nอ่านตรงตามข้อความในสคริปต์ 100% (ห้ามเติมคำ ห้ามตัดคำ ห้ามอ่านตก)\nเสียงชัดเจน ไม่มีเสียงซ่า/เสียงก้อง หรือเสียงรบกวนรอบข้าง\nหมายเหตุ: หากผ่าน QC เกณฑ์มาตรฐาน (95% ขึ้นไป) จะได้รับการอนุมัติงานทันที (หากมีจุดแก้ไข สามารถแก้ไขได้ 1ครั้ง)\n\n⌛ ระยะเวลาการตรวจงาน (QC):\n\n* แจ้งผลการตรวจเบื้องต้น: ภายใน 3–5 วัน นับจากวันที่ส่งไฟล์อัดเสียง\n    -ระยะเวลารออนุมัติเงิน: ระบบใหญ่ใช้เวลาตรวจอย่างเป็นทางการประมาณ 10–12 วันทำการ หรืออาจเร็วกว่านี้\n     (หากผลผ่าน QC เกณฑ์ 95% ขึ้นไป จะได้รับการอนุมัติเงินทันทีค่ะ)",
+    "title": "อัดเสียงประโยคสั้น(เพศชาย)ส่งภายในคืนนี้",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "140",
+    "is_anonymous": true,
+    "inserted_at": "2026-08-30T06:52:40.775736Z",
+    "updated_at": "2026-08-30T06:52:42.223260Z",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.12.0-6002917"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-09-29T06:52:40.756913Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-08-30",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "140",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-08-30T12:11:51.809Z"
+  },
+  {
     "id": "3e5c849f-c8f5-4b7b-8089-87697d582113",
     "status": "open",
     "tag": {
