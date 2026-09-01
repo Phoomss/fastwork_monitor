@@ -1,5 +1,54 @@
 [
   {
+    "id": "fe0b94cf-80ee-4806-9449-eecdcaef125a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": " ต้องการผู้สอน ai ในช่วงนี���ว่าควรรู้ในเรื่องอะไรบ้างสำหรับผู้ประกอบการสิ่งที่นำมาใช้ได้ในธุรกิจช่วยลดเวลาหรืออย่างอื่นสอนในหลายหลายเรื่องไม่จำเป็นจะต้องลงลึกมากก็ได้  สอนอย่างเข้าใจเพราะว่าไม่ค่อยความรู้เรื่อง ai เท่าไหร่นักจึงจำเป็นจะต้องสอนช้าหน่อยค่ะ ",
+    "title": "ต้องการเรียนรู้เรื่องAi ทันเรื่องใหม่ๆในช่วงนี้ ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-01T15:15:41.182229Z",
+    "updated_at": "2026-09-01T15:15:42.565065Z",
+    "user_id": "43d0a69c-8552-45fd-a99c-a8d320b53f9b",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.12.0-6002917"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-01T15:15:41.149027Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 5,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "43d0a69c-8552-45fd-a99c-a8d320b53f9b",
+      "username": "kneckgcf",
+      "display_name": "เนม",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-01T15:33:03.213Z"
+  },
+  {
     "id": "85ee99aa-aa4c-45b9-aac6-366e90c286e7",
     "status": "open",
     "tag": {
