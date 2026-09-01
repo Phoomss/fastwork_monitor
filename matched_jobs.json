@@ -1,5 +1,54 @@
 [
   {
+    "id": "97e0c091-0238-4087-a117-8a61a65ad561",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "ลักษณะงาน: Part-time / Freelance (ทำงานได้อิสระ ไม่จำกัดเวลา)\nค่าตอบแทน: ค่าคอมมิชชั่น 10-15% ตามยอดงานที่ปิดได้สำเร็จ (ขึ้นอยู่กับ scale งาน)\n\nเกี่ยวกับงาน\n\nเรารับทำเว็บไซต์และ Landing Page เหมาะกับลูกค้าหลากหลายกลุ่ม เช่น เจ้าของธุรกิจ ฟรีแลนซ์ คนทำคอนเทนต์ หรือใครก็ตามที่อยากมีเว็บไซต์เป็นของตัวเอง ตอนนี้กำลังมองหาคนที่ช่วย \"หาลูกค้า\" ที่สนใจใช้บริการ เพื่อนำมาปิดงานร่วมกัน\n\nหน้าที่ความรับผิดชอบ\n- มองหาและติดต่อกลุ่มเป้าหมายที่มีแน���โน้มต้องการทำเว็บไซต์ (เช่น ในกลุ่ม Facebook, LINE OpenChat, Instagram, ตลาดออนไลน์ หรือเครือข่ายส่วนตัว)\n- แนะนำบริการเบื้องต้นให้ลูกค้าที่สนใจ\n- ส่งต่อลูกค้าที่สนใจจริงให้ทีมงานเพื่อคุยรายละเอียดและปิดงาน\n\nคุณสมบัติ\n- มีทักษะการสื่อสาร พูดคุยเก่ง ปิดการขายหรือชักชวนคนได้ดี\n- มีคอนเนคชั่นหรือช่องทางเข้าถึงกลุ่มลูกค้าที่ต้องการทำเว็บไซต์ (เจ้าของธุรกิจ, ร้านค้าออนไลน์, ฟรีแลนซ์ ฯลฯ)\n- ขยัน ติดตามงานอย่างต่อเนื่อง ไม่ทิ้งลูกค้ากลางทาง\n\nค่าตอบแทน\n10-15% ของราคางานที่ปิดได้ (ขึ้นอยู่กับ scale งาน) จ่ายเป็นค่าคอ��มิชชั่นต่อ 1 งานที่ปิดสำเร็จ\nยิ่งหาลูกค้าได้มาก ยิ่งได้ค่าคอมมากตามจำนวนงานที่ปิดได้\nจ่ายให้หลังลูกค้าชำระเงินครบและงานจบแล้วเท่านั้น\n\nแนะนำตัวสั้นๆ พร้อมบอกว่ามีช่องทางหรือคอนเนคชั่นไหนที่จะช่วยหาลูกค้าได้มาไว้เลยค่ะ",
+    "title": "หาคนช่วยหาลูกค้า",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-01T06:02:30.829103Z",
+    "updated_at": "2026-09-01T06:02:31.831882Z",
+    "user_id": "af46753f-3799-4220-9cde-b7eca4a10cca",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.12.0-6002917"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-01T06:02:30.781867Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-01T06:18:00.344Z"
+  },
+  {
     "id": "44c3e6a2-1346-44c4-a9e9-16dc5f6e2667",
     "status": "open",
     "tag": {
