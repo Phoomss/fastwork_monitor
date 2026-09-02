@@ -1,5 +1,152 @@
 [
   {
+    "id": "f2401285-2ab1-4780-8198-8ae48767edb3",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการออกแบบตกแต่ง Kiosk ร้านชา (มีซุ้มเดิมและโลโก้แล้ว)\n\nมี Kiosk ร้านชาอยู่แล้วค่ะ ต้องการให้ออกแบบ “การตกแต่งและ Graphic บนซุ้ม” โดย ไม่ต้องออกแบบโครงสร้าง Kiosk ใหม่\n\nสิ่งที่ต้องการประมาณนี้ค่ะ\n\n* ออกแบบตำแหน่งและรูปแบบป้ายชื่อร้าน\n* ป้ายไฟ / ป้ายโลโก้\n* ป้ายเมนู\n* ป้ายตกแต่งต่าง ๆ\n* Sticker / Graphic สำหรับติดบนซุ้ม\n* ช่วยจัดวางองค์ประกอบทั้งหมดบนซุ้มให้ดูสวยและเป็นร้านเดียวกัน\n* ทำภาพ Mockup ให้เห็นภาพรวมเมื่อติดตั้งจริง\n\nมี Logo และ แนวทางแบรนด์แล้วค่ะ สามารถส่งไฟล์ให้ได้\n\nต้องการเน้นการ “ตกแต่งซุ้มที่มีอยู่แล้ว” ไม่ใช่ออกแบบโครงสร้างหรือ Interior ใหม่ค่ะ",
+    "title": "ออกแบบตกแต่งซุ้ม Kiosk ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-02T09:29:30.027611Z",
+    "updated_at": "2026-09-02T09:29:31.229451Z",
+    "user_id": "44472358-bb20-4998-b45d-b9f3b1601581",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.12.0-6002917"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-02T09:29:29.946516Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": "2026-09-15",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "44472358-bb20-4998-b45d-b9f3b1601581",
+      "username": "ormmieorm",
+      "display_name": "Orm",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/44472358-bb20-4998-b45d-b9f3b1601581/profile/61f2351f-b900-4fad-9de6-27da62711dcc.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-02T09:54:46.318Z"
+  },
+  {
+    "id": "3832a2a2-0345-46db-846e-24492fd89c26",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "แก้แอปพลิเคชั่น \n-ปิดการเข้าถึงฟังชั่น Player \n-เปลี่ยนผลลัพธิ์ใหม่ เปิดหน้า webview\n-เดิมเป็น Flutter \n-อัพขึ้น store ทั้ง Andoind / iOS",
+    "title": "แก้ไขแอปพลิเคชัน",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-02T09:13:13.861771Z",
+    "updated_at": "2026-09-02T09:13:15.618348Z",
+    "user_id": "fa627d51-0777-423c-9dcd-af345cc9950f",
+    "brief_url": "https://apps.apple.com/th/app/whiteflix-tv-movies-drama/id1491152346",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-02T09:13:13.809412Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": "2026-09-05",
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "fa627d51-0777-423c-9dcd-af345cc9950f",
+      "username": "uhlodsny",
+      "display_name": "Chawalit TND",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fa627d51-0777-423c-9dcd-af345cc9950f/profile/7952ab66-7015-4850-9738-9ff723669499.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-02T09:54:45.144Z"
+  },
+  {
+    "id": "54af3715-fe41-46ce-b62d-2891765bed95",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนปรับเว็ปใหม่ให้รองรับ Ai, โครงสร้าง SEO, ความเร็ว test ของ Speedtest web ขอคนที่มีความเข้าใจในการทำครับ เว้ปเดิมผมทำระบบโซล่าเซลล์ จะปรับให้ Ai เรียนรู้และเข้าใจมากขึ้น",
+    "title": "คนทำเว็ปใหม่ Wordpress เท่านั้น",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-02T06:50:46.154299Z",
+    "updated_at": "2026-09-02T06:50:47.689402Z",
+    "user_id": "2976b3c4-9d8f-48a2-8276-a09fc298ee88",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-02T06:50:46.036957Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-02T09:54:43.936Z"
+  },
+  {
     "id": "fe0b94cf-80ee-4806-9449-eecdcaef125a",
     "status": "open",
     "tag": {
@@ -194,54 +341,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-01T11:44:34.935Z"
-  },
-  {
-    "id": "97e0c091-0238-4087-a117-8a61a65ad561",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "ลักษณะงาน: Part-time / Freelance (ทำงานได้อิสระ ไม่จำกัดเวลา)\nค่าตอบแทน: ค่าคอมมิชชั่น 10-15% ตามยอดงานที่ปิดได้สำเร็จ (ขึ้นอยู่กับ scale งาน)\n\nเกี่ยวกับงาน\n\nเรารับทำเว็บไซต์และ Landing Page เหมาะกับลูกค้าหลากหลายกลุ่ม เช่น เจ้าของธุรกิจ ฟรีแลนซ์ คนทำคอนเทนต์ หรือใครก็ตามที่อยากมีเว็บไซต์เป็นของตัวเอง ตอนนี้กำลังมองหาคนที่ช่วย \"หาลูกค้า\" ที่สนใจใช้บริการ เพื่อนำมาปิดงานร่วมกัน\n\nหน้าที่ความรับผิดชอบ\n- มองหาและติดต่อกลุ่มเป้าหมายที่มีแน���โน้มต้องการทำเว็บไซต์ (เช่น ในกลุ่ม Facebook, LINE OpenChat, Instagram, ตลาดออนไลน์ หรือเครือข่ายส่วนตัว)\n- แนะนำบริการเบื้องต้นให้ลูกค้าที่สนใจ\n- ส่งต่อลูกค้าที่สนใจจริงให้ทีมงานเพื่อคุยรายละเอียดและปิดงาน\n\nคุณสมบัติ\n- มีทักษะการสื่อสาร พูดคุยเก่ง ปิดการขายหรือชักชวนคนได้ดี\n- มีคอนเนคชั่นหรือช่องทางเข้าถึงกลุ่มลูกค้าที่ต้องการทำเว็บไซต์ (เจ้าของธุรกิจ, ร้านค้าออนไลน์, ฟรีแลนซ์ ฯลฯ)\n- ขยัน ติดตามงานอย่างต่อเนื่อง ไม่ทิ้งลูกค้ากลางทาง\n\nค่าตอบแทน\n10-15% ของราคางานที่ปิดได้ (ขึ้นอยู่กับ scale งาน) จ่ายเป็นค่าคอ��มิชชั่นต่อ 1 งานที่ปิดสำเร็จ\nยิ่งหาลูกค้าได้มาก ยิ่งได้ค่าคอมมากตามจำนวนงานที่ปิดได้\nจ่ายให้หลังลูกค้าชำระเงินครบและงานจบแล้วเท่านั้น\n\nแนะนำตัวสั้นๆ พร้อมบอกว่ามีช่องทางหรือคอนเนคชั่นไหนที่จะช่วยหาลูกค้าได้มาไว้เลยค่ะ",
-    "title": "หาคนช่วยหาลูกค้า",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-01T06:02:30.829103Z",
-    "updated_at": "2026-09-01T06:02:31.831882Z",
-    "user_id": "af46753f-3799-4220-9cde-b7eca4a10cca",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.12.0-6002917"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-01T06:02:30.781867Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-01T06:18:00.344Z"
   }
 ]
