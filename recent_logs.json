@@ -1,11 +1,5 @@
 [
-  "[2026-09-02T09:54:46.534Z]     Notification sent successfully.",
-  "[2026-09-02T09:54:46.319Z]   FOUND NEW TARGET JOB: ออกแบบตกแต่งซุ้ม Kiosk  (Cats: ออกแบบ UX UI) (Budget: 0 THB)",
-  "[2026-09-02T09:54:45.317Z]     Notification sent successfully.",
-  "[2026-09-02T09:54:45.144Z]   FOUND NEW TARGET JOB: แก้ไขแอปพลิเคชัน (Cats: พัฒนาแอปพลิเคชัน) (Budget: 5000 THB)",
-  "[2026-09-02T09:54:44.142Z]     Notification sent successfully.",
-  "[2026-09-02T09:54:43.936Z]   FOUND NEW TARGET JOB: คนทำเว็ปใหม่ Wordpress เท่านั้น (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-09-02T09:54:43.010Z] Checking Fastwork for new job posts...",
-  "[2026-09-02T09:54:43.009Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-09-02T09:54:43.006Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-09-02T13:55:21.816Z] Checking Fastwork for new job posts...",
+  "[2026-09-02T13:55:21.815Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-09-02T13:55:21.813Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
