@@ -1,5 +1,103 @@
 [
   {
+    "id": "9de09cac-22cd-4590-a1e7-985f2d7b455f",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "หาผู้ช่วย Research ค้นหาทีม/บริษัทรับทำระบบโปรแกรมหลังบ้าน\n\nกำลังมองหา Freelance หรือผู้ช่วยสำหรับช่วยค้นหาและรวบรวมข้อมูลเกี่ยวกับบริษัท ทีมงาน หรือ Freelance ที่รับพัฒนาระบบโปรแกรมหลังบ้าน (Backend System / Web Application / ระบบจัดการธุรกิจ)ต้องการรายชื่อผู้ให้บริการที่ผ่านการค้นหาและคัดกรองเบื้องต้น พร้อมสรุปเปรียบเทียบข้อมูล\n\nหน้าที่หลัก\n\n* ค้นหาบริษัทรับทำ Software หรือรับพัฒนาระบบหลังบ้าน\n* ค้นหา Freelance หรือทีม Developer ที่มีประสบการณ์รับทำระบบ\n* ค้นหาจากหลายช่องทาง เช่น Google, Fastwork, Facebook, LinkedIn หรือเว็บไซต์ต่าง ๆ\n* รวบรวมรายชื่อและข้อมูลของแต่ละเจ้า\n* ตรวจสอบผลงาน ประสบการณ์ และความน่าเชื่อถือเบื้องต้น\n* เปรียบเทียบข้อมูลของแต่ละบริษัทหรือทีมงาน\n* รวบรวมช่องทางติดต่อ เว็บไซต์ และ Portfolio\n\nข้อมูลที่ต้องการให้รวบรวม\n\nตัวอย่างเช่น\n\n* ชื่อบริษัท / ชื่อทีม / ชื่อ Freelance\n* รูปแบบบริการ\n* ประสบการณ์และผลงานที่ผ่านมา\n* Portfolio\n* เว็บไซต์หรือช่องทางติดต่อ\n* รีวิวหรือความคิดเห็นจากลูกค้า\n* ขนาดทีมงาน (หากมีข้อมูล)\n* เทคโนโลยีที่ใช้\n* ราคาโดยประมาณ (หากสามารถสอบถามหรือค้นหาได้)\n* ระยะเวลาการพัฒนางาน\n* จุดเด่นและข้อควรพิจารณาของแต่ละเจ้า\n\nคุณสมบัติผู้รับงาน\n\n* มีทักษะในการ Research และค้นหาข้อมูลเชิงลึก\n* สามารถค้นหาข้อมูลจากหลายแหล่งและตรวจสอบความน่าเชื่อถือได้\n* มีความเข้าใจเกี่ยวกับธุรกิจ Software หรือ IT จะพิจารณาเป็นพิเศษ\n* สามารถสรุปและจัดระเบียบข้อมูลได้ดี\n* ใช้ Excel หรือ Google Sheets ได้\n\nผู้สนใจสามารถเสนอราคา ระยะเวลาในการทำงาน และแจ้งประสบการณ์ด้าน Research หรือการค้นหาผู้ให้บริการ/บริษัทที่เกี่ย���ข้องได้",
+    "title": "ผู้ช่วย Research ค้นหาทีม/บริษัทรับทำระบบโปรแกรมหลังบ้าน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-03T10:52:47.287660Z",
+    "updated_at": "2026-09-03T10:52:49.006109Z",
+    "user_id": "88b2c328-d93b-4ddf-bc2a-19af543fd036",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3;iPhone;11.13.0-6002925"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-03T10:52:47.266706Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "88b2c328-d93b-4ddf-bc2a-19af543fd036",
+      "username": "nmcftcdo",
+      "display_name": "Sudarat",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/88b2c328-d93b-4ddf-bc2a-19af543fd036/profile/aeb97909-ebfb-4ba4-a77d-1958b79ffc9b.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-03T13:35:03.592Z"
+  },
+  {
+    "id": "982b0012-b8c1-40f0-b73a-27e260657c18",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "Company: Surround Living — vintage & antique furniture, lighting, rugs and tableware \nLocation: Bangkok, Thailand (Bangna) — [on-site / hybrid — confirm] \nType: Full-time Reports to: [Managing Director / Marketing Lead]\nCompensation is negotiable based on experience and qualifications.\n\nAbout the role\nSurround Living currently runs its paid search and social advertising through an external growth agency. We are bringing this function fully in-house. You will own the transition, take over the existing Google Ads and Meta accounts, and then run and grow both paid and organic search as a single, accountable function.\nThis is a hands-on, single-owner role — you will build the campaigns, write the reports, and be measured on revenue, not activity.\n________________________________________\nRequirements\n•\t3–5+ years managing Google Ads and Meta Ads directly, with proven ecommerce results (agency or in-house)\n•\tDemonstrable SEO experience on an ecommerce platform — Shopify strongly preferred\n•\tStrong working knowledge of Google Merchant Center, GA4, GTM and Search Console\n•\tComfortable owning a P&L-relevant budget and reporting on it to management\n•\tFluent written English; Thai an advantage\n•\tAble to show real numbers from past accounts (spend managed, ROAS, growth delivered)\nAdvantageous\n•\tExperience with high-SKU or unique-inventory catalogues (antiques, art, second-hand, auction)\n•\tBasic Shopify Liquid / HTML for on-page fixes\n•\tKlaviyo or email/CRM experience\n•\tInterest in interiors, design or antiques\n•\tExperience with Looker Studio or similar reporting dashboards\n\nFurther details will be shared",
+    "title": "SEO & SEM Manager",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-03T09:57:06.012085Z",
+    "updated_at": "2026-09-03T09:57:08.268033Z",
+    "user_id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-03T09:57:05.959445Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+      "username": "thanwarat_",
+      "display_name": "Thanwarat Anuchatrakun",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/79879e90-2f5b-44a2-b7ea-73742e808851/profile/9990ab04-1a93-44a5-ab79-483fde836f0a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-03T13:35:02.206Z"
+  },
+  {
     "id": "6d2943fd-3214-4316-95d1-cd013675c31d",
     "status": "open",
     "tag": {
@@ -441,152 +539,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-09-02T17:30:03.764Z"
-  },
-  {
-    "id": "f2401285-2ab1-4780-8198-8ae48767edb3",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการออกแบบตกแต่ง Kiosk ร้านชา (มีซุ้มเดิมและโลโก้แล้ว)\n\nมี Kiosk ร้านชาอยู่แล้วค่ะ ต้องการให้ออกแบบ “การตกแต่งและ Graphic บนซุ้ม” โดย ไม่ต้องออกแบบโครงสร้าง Kiosk ใหม่\n\nสิ่งที่ต้องการประมาณนี้ค่ะ\n\n* ออกแบบตำแหน่งและรูปแบบป้ายชื่อร้าน\n* ป้ายไฟ / ป้ายโลโก้\n* ป้ายเมนู\n* ป้ายตกแต่งต่าง ๆ\n* Sticker / Graphic สำหรับติดบนซุ้ม\n* ช่วยจัดวางองค์ประกอบทั้งหมดบนซุ้มให้ดูสวยและเป็นร้านเดียวกัน\n* ทำภาพ Mockup ให้เห็นภาพรวมเมื่อติดตั้งจริง\n\nมี Logo และ แนวทางแบรนด์แล้วค่ะ สามารถส่งไฟล์ให้ได้\n\nต้องการเน้นการ “ตกแต่งซุ้มที่มีอยู่แล้ว” ไม่ใช่ออกแบบโครงสร้างหรือ Interior ใหม่ค่ะ",
-    "title": "ออกแบบตกแต่งซุ้ม Kiosk ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-02T09:29:30.027611Z",
-    "updated_at": "2026-09-02T09:29:31.229451Z",
-    "user_id": "44472358-bb20-4998-b45d-b9f3b1601581",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.12.0-6002917"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-02T09:29:29.946516Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": "2026-09-15",
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "44472358-bb20-4998-b45d-b9f3b1601581",
-      "username": "ormmieorm",
-      "display_name": "Orm",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/44472358-bb20-4998-b45d-b9f3b1601581/profile/61f2351f-b900-4fad-9de6-27da62711dcc.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-02T09:54:46.318Z"
-  },
-  {
-    "id": "3832a2a2-0345-46db-846e-24492fd89c26",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "แก้แอปพลิเคชั่น \n-ปิดการเข้าถึงฟังชั่น Player \n-เปลี่ยนผลลัพธิ์ใหม่ เปิดหน้า webview\n-เดิมเป็น Flutter \n-อัพขึ้น store ทั้ง Andoind / iOS",
-    "title": "แก้ไขแอปพลิเคชัน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-02T09:13:13.861771Z",
-    "updated_at": "2026-09-02T09:13:15.618348Z",
-    "user_id": "fa627d51-0777-423c-9dcd-af345cc9950f",
-    "brief_url": "https://apps.apple.com/th/app/whiteflix-tv-movies-drama/id1491152346",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-02T09:13:13.809412Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": "2026-09-05",
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "fa627d51-0777-423c-9dcd-af345cc9950f",
-      "username": "uhlodsny",
-      "display_name": "Chawalit TND",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fa627d51-0777-423c-9dcd-af345cc9950f/profile/7952ab66-7015-4850-9738-9ff723669499.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-02T09:54:45.144Z"
-  },
-  {
-    "id": "54af3715-fe41-46ce-b62d-2891765bed95",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนปรับเว็ปใหม่ให้รองรับ Ai, โครงสร้าง SEO, ความเร็ว test ของ Speedtest web ขอคนที่มีความเข้าใจในการทำครับ เว้ปเดิมผมทำระบบโซล่าเซลล์ จะปรับให้ Ai เรียนรู้และเข้าใจมากขึ้น",
-    "title": "คนทำเว็ปใหม่ Wordpress เท่านั้น",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-02T06:50:46.154299Z",
-    "updated_at": "2026-09-02T06:50:47.689402Z",
-    "user_id": "2976b3c4-9d8f-48a2-8276-a09fc298ee88",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-02T06:50:46.036957Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-02T09:54:43.936Z"
   }
 ]
