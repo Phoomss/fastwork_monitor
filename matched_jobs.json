@@ -1,5 +1,152 @@
 [
   {
+    "id": "6d2943fd-3214-4316-95d1-cd013675c31d",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "กรุณา อ่านรายละเอียด ให้ครบ\nต้อ��ทำให้เสร็จภายใน 24 ชม.หลังได้รับรหัส\n(ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nรายละเอียดและลักษณะงาน:\nตองการผู้ทดสอบอัดเสียงภาษาไทย (Native Speaker) จำนวนมาก สำหรับลงเสียงอ่านข้อความสั้นๆ 210 ประโยค\nใช้เวลาทำรายการประมาณ 15-20 นาที\nทำผ่านสมาร์ตโฟน (iOS / Android)\nอัดเสียงในห้องที่เงียบ สงบ ไม่มีเสียงรบกวน (เช่น เสียงพัดลม, เสียงทีวี, เสียงคนคุยกัน)\n\nคุณสมบัติผู้สมัคร:\n\t1.\tพูดภาษาไทยเป็นภาษาแม่ (สำเนียงไทยปกติ ฟังชัดเจน)\n\t2.\tอายุระหว่าง 18 – 60 ปี (ชาย)\n\nข้อกำหนดเรื่องคุณภาพเสียง (QC Standard):\nอ่านออกเสียงเป็นธรรมชาติ ไม่เกร็ง ไ���่ใส่อารมณ์เว่อร์ และไม่อ่านเว้นจังหวะแปลกๆ\nอ่านตรงตามข้อความในสคริปต์ 100%\n(ห้ามเติมคำ ห้ามตัดคำ ห้ามอ่านตก)\nเสียงชัดเจน ไม่มีเสียงซา/เสียงก้อง หรือเสียงรบกวนรอบข้าง\nหมายเหตุ: หากผ่าน QC เกณฑ์มาตรฐาน (95% ขึ้นไป) จะได้รบการอนุมัติงานทันที (หากมีจุดแก้ไข สามารถแก้ไขได้ 1ครั้ง)\n⏳ ระยะเวลาการตรวจงาน (QC):\n\n\t•\tแจ้งผลการตรวจเบื้องต้น: ภายใน 3-5 วัน นับจากวันที่ส่งไฟล์อัดเสียง\n\n\t•\tระยะเวลารออนมัติเงิน: ระบบใหญ่ใช้เวลาตรวจอย่างเป็นทางการประมาณ 10-12 วันทำการ หรืออาจเร็วกว่านี้ (หากผลผ่าน QC เกณฑ์ 95% ขึ้นไป ��ะได้รับการอนุมัติเงินทันทีค่ะ)",
+    "title": "อัดเสียงประโยคสั้น ผู้ชาย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "140",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-03T08:42:46.162701Z",
+    "updated_at": "2026-09-03T08:42:47.179705Z",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.13.0-6002925"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-03T08:42:46.143874Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-09-04",
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "140",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-03T09:14:20.187Z"
+  },
+  {
+    "id": "2b8e1d07-c836-4f5b-86f7-e32d0d98103a",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "Company: Surround Living — vintage & antique furniture, lighting, rugs and tableware \nLocation: Bangkok, Thailand (Bangna) — [on-site / hybrid — confirm] \nType: Full-time Reports to: [Managing Director / Marketing Lead]\n\nAbout the role\nSurround Living currently runs its paid search and social advertising through an external growth agency. We are bringing this function fully in-house. You will own the transition, take over the existing Google Ads and Meta accounts, and then run and grow both paid and organic search as a single, accountable function.\nThis is a hands-on, single-owner role — you will build the campaigns, write the reports, and be measured on revenue, not activity.\n________________________________________\nRequirements\n•\t3–5+ years managing Google Ads and Meta Ads directly, with proven ecommerce results (agency or in-house)\n•\tDemonstrable SEO experience on an ecommerce platform — Shopify strongly preferred\n•\tStrong working knowledge of Google Merchant Center, GA4, GTM and Search Console\n•\tComfortable owning a P&L-relevant budget and reporting on it to management\n•\tFluent written English; Thai an advantage\n•\tAble to show real numbers from past accounts (spend managed, ROAS, growth delivered)\nAdvantageous\n•\tExperience with high-SKU or unique-inventory catalogues (antiques, art, second-hand, auction)\n•\tBasic Shopify Liquid / HTML for on-page fixes\n•\tKlaviyo or email/CRM experience\n•\tInterest in interiors, design or antiques\n•\tExperience with Looker Studio or similar reporting dashboards\n________________________________________\nSuccess in the first 12 months\n•\tMonth 1–2: Full handover complete, accounts audited, tracking verified, baseline report produced\n•\tMonth 3–6: Restructured campaigns live, first in-house monthly reporting cycle running, technical SEO issues cleared\n•\tMonth 6–12: Agreed growth in organic sessions and revenue; paid channel hitting or beating previous agency ROAS at equal or lower cost\n\nFurther details will be shared",
+    "title": "SEO & SEM Manager",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-03T08:36:21.780104Z",
+    "updated_at": "2026-09-03T08:36:22.864128Z",
+    "user_id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-03T08:36:21.721525Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": "2026-09-15",
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+      "username": "thanwarat_",
+      "display_name": "Thanwarat Anuchatrakun",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/79879e90-2f5b-44a2-b7ea-73742e808851/profile/9990ab04-1a93-44a5-ab79-483fde836f0a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-03T09:14:18.987Z"
+  },
+  {
+    "id": "87b955af-3a8c-4ba4-875d-8f3746aff8f0",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กลุ่มลูกค้าเป็นรีสอร์ท โรงแรม มี lead ให้คนละ 50 เพื่อทดลองงาน ถ้าผ่านจะได้ lead 1000 รายชื่อต่อเดือน ได้เป็นค่า commission 20 เปอร์เซ็นต์",
+    "title": "หาพนังงานขาย sales ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "25000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-03T07:21:23.604370Z",
+    "updated_at": "2026-09-03T07:21:25.886092Z",
+    "user_id": "fd6fd237-f198-4f2a-8b97-a2c2a90d3e9b",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;2406APNFAG;11.12.0-6002917"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-03T07:21:23.552987Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-03T09:14:17.644Z"
+  },
+  {
     "id": "eca65182-900d-48fb-884d-fa592ed8a6f2",
     "status": "open",
     "tag": {
