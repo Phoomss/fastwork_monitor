@@ -1,5 +1,54 @@
 [
   {
+    "id": "b9cc711e-a461-4ffd-857d-0f066f9d0135",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "กรุณา อ่านรายละเอียด ให้ครบ\nต้องทำให้เสร็จภายใน 24 ชม.หลังได้รับรหัส\n(ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nรายละเอียดและลักษณะงาน:\nต้องการผู้ทดสอบอัดเสียงภาษาไทย (Native Speaker) จ��นวนมาก สำหรับลงเสียงอ่านข้อความสั้นๆ 210 ประโยค\nใช้เวลาทำรายการประมาณ 15-20 นาที\nทำผ่านสมาร์ตโฟน (iOS / Android)\nอัดเสียงในห้องที่เงียบ สงบ ไม่มีเสียงรบกวน (เช่น เสียงพัดลม, เสียงทีวี, เสียงคนคุยกัน)\n\nคุณสมบัติผู้สมัคร:\n\n\t1.\tพูดภาษาไทยเป็นภาษาแม่ (สำเนียงไทยปกติ ฟังชัดเจน)\n\t2.\tอายุระหว่าง 18 – 60 ปี (ชาย)\n\nข้อกำหนดเรื่องคุณภาพเสียง (QC Standard):\nอ่านออกเสียงเป็นธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เว่อร์ และไม่อ่านเว้นจังหวะแปลกๆ\nอ่านตรงตามข้อความในสคริปต์ 100%\n(ห้ามเติมคำ ห้ามตัดคำ ห้ามอ่านตก)\nเสียงชัดเจน ไม่มีเสียงซ่า/เสียงก้อง หรือเสียงรบกวนรอบข้าง\nหมายเหตุ: หากผ่าน QC เกณฑ์มาตรฐาน (95% ขึ้นไป) จะได้รับการอนุมัติงานทันที (หากมีจุดแก้ไข สามารถแก้ไขได้ 1ครั้ง)\n\n⏳ ระยะเวลาการตรวจงาน (QC):\n\n\t•\tแจ้งผลการตรวจเบื้องต้น: ภายใน 3-5 วัน นับจากวันที่ส่งไฟล์อัดเสียง\n\t•\tระยะเวลารออนุมัติเงิน: ระบบใหญ่ใช้เวลาตรวจอย่างเป็นทางการประมาณ 10-12 วันทำการ หรืออาจเร็วกว่านี้ (หากผลผ่าน QC เกณฑ์ 95% ขึ้นไป จะได้รับการอนุมัติเงินทันทีค่ะ)",
+    "title": "อัดเสียงประโยคสั้น ชาย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "140",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-04T11:54:27.593118Z",
+    "updated_at": "2026-09-04T11:54:29.278373Z",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.13.0-6002925"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-04T11:54:27.569732Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-09-05",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "140",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-04T14:30:58.824Z"
+  },
+  {
     "id": "558015a4-501c-4861-997f-d74437dc791f",
     "status": "open",
     "tag": {
@@ -244,103 +293,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-03T17:08:45.577Z"
-  },
-  {
-    "id": "9de09cac-22cd-4590-a1e7-985f2d7b455f",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "หาผู้ช่วย Research ค้นหาทีม/บริษัทรับทำระบบโปรแกรมหลังบ้าน\n\nกำลังมองหา Freelance หรือผู้ช่วยสำหรับช่วยค้นหาและรวบรวมข้อมูลเกี่ยวกับบริษัท ทีมงาน หรือ Freelance ที่รับพัฒนาระบบโปรแกรมหลังบ้าน (Backend System / Web Application / ระบบจัดการธุรกิจ)ต้องการรายชื่อผู้ให้บริการที่ผ่านการค้นหาและคัดกรองเบื้องต้น พร้อมสรุปเปรียบเทียบข้อมูล\n\nหน้าที่หลัก\n\n* ค้นหาบริษัทรับทำ Software หรือรับพัฒนาระบบหลังบ้าน\n* ค้นหา Freelance หรือทีม Developer ที่มีประสบการณ์รับทำระบบ\n* ค้นหาจากหลายช่องทาง เช่น Google, Fastwork, Facebook, LinkedIn หรือเว็บไซต์ต่าง ๆ\n* รวบรวมรายชื่อและข้อมูลของแต่ละเจ้า\n* ตรวจสอบผลงาน ประสบการณ์ และความน่าเชื่อถือเบื้องต้น\n* เปรียบเทียบข้อมูลของแต่ละบริษัทหรือทีมงาน\n* รวบรวมช่องทางติดต่อ เว็บไซต์ และ Portfolio\n\nข้อมูลที่ต้องการให้รวบรวม\n\nตัวอย่างเช่น\n\n* ชื่อบริษัท / ชื่อทีม / ชื่อ Freelance\n* รูปแบบบริการ\n* ประสบการณ์และผลงานที่ผ่านมา\n* Portfolio\n* เว็บไซต์หรือช่องทางติดต่อ\n* รีวิวหรือความคิดเห็นจากลูกค้า\n* ขนาดทีมงาน (หากมีข้อมูล)\n* เทคโนโลยีที่ใช้\n* ราคาโดยประมาณ (หากสามารถสอบถามหรือค้นหาได้)\n* ระยะเวลาการพัฒนางาน\n* จุดเด่นและข้อควรพิจารณาของแต่ละเจ้า\n\nคุณสมบัติผู้รับงาน\n\n* มีทักษะในการ Research และค้นหาข้อมูลเชิงลึก\n* สามารถค้นหาข้อมูลจากหลายแหล่งและตรวจสอบความน่าเชื่อถือได้\n* มีความเข้าใจเกี่ยวกับธุรกิจ Software หรือ IT จะพิจารณาเป็นพิเศษ\n* สามารถสรุปและจัดระเบียบข้อมูลได้ดี\n* ใช้ Excel หรือ Google Sheets ได้\n\nผู้สนใจสามารถเสนอราคา ระยะเวลาในการทำงาน และแจ้งประสบการณ์ด้าน Research หรือการค้นหาผู้ให้บริการ/บริษัทที่เกี่ย���ข้องได้",
-    "title": "ผู้ช่วย Research ค้นหาทีม/บริษัทรับทำระบบโปรแกรมหลังบ้าน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-03T10:52:47.287660Z",
-    "updated_at": "2026-09-03T10:52:49.006109Z",
-    "user_id": "88b2c328-d93b-4ddf-bc2a-19af543fd036",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.13.0-6002925"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-03T10:52:47.266706Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 1,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "88b2c328-d93b-4ddf-bc2a-19af543fd036",
-      "username": "nmcftcdo",
-      "display_name": "Sudarat",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/88b2c328-d93b-4ddf-bc2a-19af543fd036/profile/aeb97909-ebfb-4ba4-a77d-1958b79ffc9b.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-03T13:35:03.592Z"
-  },
-  {
-    "id": "982b0012-b8c1-40f0-b73a-27e260657c18",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "full-time",
-    "description": "Company: Surround Living — vintage & antique furniture, lighting, rugs and tableware \nLocation: Bangkok, Thailand (Bangna) — [on-site / hybrid — confirm] \nType: Full-time Reports to: [Managing Director / Marketing Lead]\nCompensation is negotiable based on experience and qualifications.\n\nAbout the role\nSurround Living currently runs its paid search and social advertising through an external growth agency. We are bringing this function fully in-house. You will own the transition, take over the existing Google Ads and Meta accounts, and then run and grow both paid and organic search as a single, accountable function.\nThis is a hands-on, single-owner role — you will build the campaigns, write the reports, and be measured on revenue, not activity.\n________________________________________\nRequirements\n•\t3–5+ years managing Google Ads and Meta Ads directly, with proven ecommerce results (agency or in-house)\n•\tDemonstrable SEO experience on an ecommerce platform — Shopify strongly preferred\n•\tStrong working knowledge of Google Merchant Center, GA4, GTM and Search Console\n•\tComfortable owning a P&L-relevant budget and reporting on it to management\n•\tFluent written English; Thai an advantage\n•\tAble to show real numbers from past accounts (spend managed, ROAS, growth delivered)\nAdvantageous\n•\tExperience with high-SKU or unique-inventory catalogues (antiques, art, second-hand, auction)\n•\tBasic Shopify Liquid / HTML for on-page fixes\n•\tKlaviyo or email/CRM experience\n•\tInterest in interiors, design or antiques\n•\tExperience with Looker Studio or similar reporting dashboards\n\nFurther details will be shared",
-    "title": "SEO & SEM Manager",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-03T09:57:06.012085Z",
-    "updated_at": "2026-09-03T09:57:08.268033Z",
-    "user_id": "79879e90-2f5b-44a2-b7ea-73742e808851",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-03T09:57:05.959445Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "79879e90-2f5b-44a2-b7ea-73742e808851",
-      "username": "thanwarat_",
-      "display_name": "Thanwarat Anuchatrakun",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/79879e90-2f5b-44a2-b7ea-73742e808851/profile/9990ab04-1a93-44a5-ab79-483fde836f0a.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-03T13:35:02.206Z"
   }
 ]
