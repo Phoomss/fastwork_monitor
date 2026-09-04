@@ -1,5 +1,54 @@
 [
   {
+    "id": "b576c62f-6440-4a40-8ac9-f872ec3014d7",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "🏡 **รับสมัครผู้ช่วยลงประกาศอสังหาริมทรัพย์ | Property Listing Assistant**\n\nรับคนช่วยค้นหาและลงประกาศอสังหาริมทรัพย์เข้าระบบบริษัท\n\n💻 Work from Home | Flexible / Part-time\n⏱️ **ประมาณ 5–10 นาที / Listing**\n\n💰 **ค่าตอบแทน**\nทรัพย์จาก : \n* 🌐 **เว็บไซต์/แพลตฟอร์มที่บริษัท��ำหนด:** 10 บาท / Listing\n* 📱 **แหล่งอื่นๆ เช่น Facebook:** 15 บาท / Listing\n\n🔎 หน้าที่\n\n• ค้นหาทรัพย์จากเว็บไซต์/แพลตฟอร์มที่บริษัทกำหนด หรือ Facebook\n• Copy Caption / ข้อมูล / รูปภาพ\n• ใช้ **ChatGPT หรือ Gemini** ช่วยแปลงข้อมูลตาม Template ของบริษัท\n• ลงข้อมูลเข้าระบบเว็บบริษัท\n• **มีระบบให้เช็กก่อนลงว่าทรัพย์ซ้ำหรือไม่**\n• ตรวจสอบข้อมูลและส่งงาน\n\n### 🏠 ไม่ต้องเป็น Agent\n\nไม่ต้องมีใบอนุญาตนายหน้า ไม่ต้องหาลูกค้า ไม่ต้องติดต่อ Owner และไม่ต้องปิดการขาย\n\nเมื่อมีลูกค้าสนใจ **Agent ของบริษัทจะเป็นผู้ดูแลต่อเอง**\n\nผู้ลง Listing **ไม่มีสิทธิใน Commission จากการขาย/เช่า**\n\n### ✅ เงื่อนไขการจ่าย\n\nListing จะได้รับค่าตอบแทนเมื่อ **ข้อมูลครบ ถูกต้อง ไม่ซ้ำ และผ่าน QC ของบริษัท**\n\n**1 ทรัพย์ = 1 ค่าตอบแทน** ไม่สามารถลงทรัพย์เดียวกันซ้ำเพื่อรับค่าตอบแทนหลายครั้ง\n\n📩 **สนใจสมัคร:**\nส่งชื่อ / อายุ / จังหวัด / ช่องทางติดต่อ / จำนวน Listing ที่ทำได้ต่อวัน\n\n**Citériche Estate**\n*Luxury Property • Trusted Advisory • Professional Service*\n",
+    "title": "รับคนลงประกาศอสังหา รายได้ไม่มีเพดาน",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-04T18:23:43.417392Z",
+    "updated_at": "2026-09-04T18:23:46.065323Z",
+    "user_id": "2ae42c46-0900-42de-afe3-1d327fbc5aab",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+    },
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-10-04T18:23:43.073593Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "2ae42c46-0900-42de-afe3-1d327fbc5aab",
+      "username": "citeriche",
+      "display_name": "Citeriche",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/2ae42c46-0900-42de-afe3-1d327fbc5aab/profile/0e920cd1-4216-46f2-baf8-6f4edd6730c8.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-04T19:52:01.869Z"
+  },
+  {
     "id": "b9cc711e-a461-4ffd-857d-0f066f9d0135",
     "status": "open",
     "tag": {
