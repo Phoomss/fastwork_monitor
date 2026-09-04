@@ -391,54 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-03T04:52:59.489Z"
-  },
-  {
-    "id": "c82fa817-ff78-4a0e-8bc3-a21ff977896f",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ตามหัวข้อเลยครับ หาคนออกแบบและทำเว็บ carrd.com ให้ จะทำให้เป็นแนว port ตัดต่อคลิปครับ รายละเอียดไม่เยอะ ออกแบบให้สวย น่าสนใจก็พอครับ อารมแบบ Template ส่วนตัวแก้ไขเองได้นิดหน่อยอยู่คับ ถ้าเคยทำมาก่อนแล้วมีแบบให้ดูจะดีมากครับ ถ้าสนใจจะทักไปสอบถามและให้รายละเอียดครับ",
-    "title": "คนออกแบบและทำ Carrd ให้",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "150",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-03T00:26:22.302439Z",
-    "updated_at": "2026-09-03T00:26:23.590547Z",
-    "user_id": "8ee0e759-fd24-482f-bbaa-48f6e7015cb2",
-    "brief_url": "https://carrd.com/",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-10-03T00:26:22.263455Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": "2026-09-05",
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "150",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-03T00:29:59.993Z"
   }
 ]
