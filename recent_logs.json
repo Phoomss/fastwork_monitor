@@ -1,8 +1,6 @@
 [
-  "[2026-09-07T16:01:35.977Z]     Notification sent successfully.",
-  "[2026-09-07T16:01:34.810Z]   FOUND NEW TARGET JOB: dev ที่ติดตั้ง payment gateway ที่รองรับระบบ escrow (Cats: พัฒนาเว็บไซต์) (Budget: 10000 THB)",
-  "[2026-09-07T16:01:33.808Z]     Notification sent successfully.",
-  "[2026-09-07T16:01:33.235Z]   FOUND NEW TARGET JOB: Interactive HTML Gmail developer (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-09-07T16:01:32.190Z] Checking Fastwork for new job posts...",
-  "[2026-09-07T16:01:32.188Z] Auto-cleanup: Removed 57 seen job tracking IDs older than 1 day(s)."
+  "[2026-09-07T19:47:52.536Z]     Notification sent successfully.",
+  "[2026-09-07T19:47:52.138Z]   FOUND NEW TARGET JOB: dev ที่เ���ยใช้ระบบ xenplatform ของ Xendit (Cats: พัฒนาเว็บไซต์) (Budget: 600 THB)",
+  "[2026-09-07T19:47:51.017Z] Checking Fastwork for new job posts...",
+  "[2026-09-07T19:47:51.015Z] Auto-cleanup: Removed 19 seen job tracking IDs older than 1 day(s)."
 ]
