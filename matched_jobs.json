@@ -1,6 +1,55 @@
 [
   {
-    "id": "ad360054-92e6-496b-b616-d29b4fbefd2b",
+    "id": "9f313aad-30f0-48f8-b426-2a0cc0a572d6",
+    "status": "open",
+    "tag": {
+      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
+      "name": "ธุรกิจและการเงิน",
+      "sort": 5
+    },
+    "type": "freelance",
+    "description": "สวัสดีค่ะ กำลังมองหา บริษัททัวร์ / Travel Agency ในเวียดนาม เพื่อร่วมเป็นพันธมิตรในการจัดทริปสำหรับลูกค้าชาวไทย\n\nรูปแบบความร่วมมือ\n\n1.ช่วยประสานงาน Local Service \n2.รถรับส่ง / โรงแรม / ร้านอาหาร / กิจกรรม / Local Guide\n3.ดูแลลูกค้าตลอดทริปในส่วนของบริการที่เวียดนาม\n4.สามารถร่วมออกแบบ Package และเสนอราคาสำหรับตลาดไทย\n\nคุณสมบัติที่ต้องการ\n\n- เป็นบริษัททัวร์หรือ Travel Agency ที่จดทะเบียนถูกต้องในเวียดนาม\n- มีประสบการณ์รับลูกค้าต่างชาติ โดยเฉพาะลูกค้าจากไทยจะพิจารณาเป็นพิเศษ\n- มีทีมงานที่สามารถสื่อสารภาษาอังกฤษได้\n- มีเครือข่ายรถ โรงแรม และ Local Guide\n- มีความรับผิดชอบและสามารถประสานงานหน้างานได้ดี\n\n📩 ผู้สนใจรบกวนส่งข้อมูลเบื้องต้น เช่น\n\n- ชื่อบริษัท + Website / Facebook\n- พื้นที่ที่ให้บริการ\n- ประสบการณ์รับลูกค้าต่างชาติ\n- Services ที่สามารถดูแลได้\n- รูปแบบการทำงาน / Commission หรือ Net Rate\n- Contact person\n\n* รูปแบบการทำงาน / Net Rate / Commission สามารถเสนอมาได้\n\nหมายเหตุ: ต้องการสร้างความร่วมมือแบบ B2B / Co-Agent ไม่ใช่การจ้างงาน Freelance รายครั้ง",
+    "title": "หาบริษัทท่องเที่ยวในเวียดนามร่วมเป็นที่ปรึกษา Co-Agent / Local Partner",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-07T08:54:17.993667Z",
+    "updated_at": "2026-09-07T08:54:18.989802Z",
+    "user_id": "b56a4cc0-5e57-4339-bcb3-50aa88fc5e08",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-07",
+    "expired_at": "2026-10-07T08:54:17.973132Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "b56a4cc0-5e57-4339-bcb3-50aa88fc5e08",
+      "username": "chaysuriya.b",
+      "display_name": "Chaysuriya.B",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b56a4cc0-5e57-4339-bcb3-50aa88fc5e08/profile/40bcb819-8c46-422e-b39b-c5973349bbc4.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-07T10:35:03.299Z"
+  },
+  {
+    "id": "b883669a-64fe-49ef-8ef5-0fa5906038dc",
     "status": "open",
     "tag": {
       "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
@@ -8,45 +57,44 @@
       "sort": 20
     },
     "type": "freelance",
-    "description": "🚀 หาคนเทสแอปพลิเคชั่น จำนวน 10 คน\n\nเคยไหม? อยากเปิดร้านออนไลน์ แต่พอคิดถึงคำว่า \"ทำเว็บ\" ก็ถอดใจ... จ้างคนทำก็แพง ทำเองก็ไม่เป็น แถมลูกค้าก็ขี้เกียจโหลดแอปร้านเรากันอีก 😮‍💨\nผมเลยทำแอปนี้ขึ้นมา — KhmerFreelance\n\n\n✨ ทำอะไรได้บ้าง\n•\tตามหาฟรีแลนซ์ในประเทศเพื่อนบ้าน\n•\tสามารถจ่ายเงินและจ้าง",
-    "title": "ฉันหาหาคนทดสอบแอปพลิเคชั่น",
+    "description": "Hi,\n\nI hope you’re doing well.\n\nOrigin Protocol is assessing external technical support to build an automated video-editing workflow. Please review the attached 14-page specification and confirm whether you or your team can build the complete system.\n\nThe main workflow should:\n\n1. Receive complete episode videos\n2. Identify meaningful Part boundaries\n3. Automatically cut and export the actual video Parts\n4. Process multiple episodes unattended\n5. Apply reusable editing rules\n6. Track completed, failed and flagged outputs\n7. Resume unfinished work after interruption\n8. Produce output files and processing reports\n\nIf your team can build this, please submit:\n\n1. Quotation, including assumptions and exclusions\n2. Estimated development timeline and milestones\n3. Proposed technical approach and tools\n4. Relevant experience or similar previous work\n5. Earliest available start date\n6. Required resources, access or information from us\n7. Any technical concerns or limitations\n\nAt this stage, we are requesting an assessment and proposal only. Please do not begin development or incur any costs until the company has reviewed and formally approved the proposal and budget.\n\nPlease also confirm when we can expect your proposal.\n\nThank you.\n\nBest regards,\nBonz\nExecutive Project Manager\nOrigin Protocol",
+    "title": "Technical Assessment and Proposal – Automated Video Editing System",
     "is_owner": false,
-    "source": "jobboard_web",
+    "source": "jobboard_web_web_marketplace_profile-menu",
     "files": [],
     "kind": "standard",
-    "budget": "100",
+    "budget": "0",
     "is_anonymous": false,
-    "inserted_at": "2026-09-06T05:30:12.232503Z",
-    "updated_at": "2026-09-06T05:30:13.062932Z",
-    "user_id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-    "brief_url": null,
+    "inserted_at": "2026-09-07T05:56:18.877469Z",
+    "updated_at": "2026-09-07T05:56:19.802722Z",
+    "user_id": "d0f69414-2948-485c-a6cd-d27dcb400aa2",
+    "brief_url": "https://drive.google.com/drive/folders/1xrgbDrmUERzQnGGYLa6MQK3GHOe6k9MJ?usp=sharing",
     "processed_user_agent": {
       "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     },
     "already_offered": false,
-    "business_type": null,
+    "business_type": "notspecified",
     "company_display_name": null,
     "company_image_url": null,
-    "deadline_at": "2026-09-11",
-    "expired_at": "2026-10-06T05:30:12.210830Z",
-    "freelance_offers_count": 15,
+    "deadline_at": null,
+    "expired_at": "2026-10-07T05:56:18.824599Z",
+    "freelance_offers_count": 0,
     "is_fastwork_pick": false,
     "is_official": false,
     "require_english_speaker": false,
-    "usage_type": "personal",
+    "usage_type": "business",
     "user_profile": {
-      "id": "a70aec62-e2d4-47d5-a280-fdad3e1ceb99",
-      "username": "artmanomai",
-      "display_name": "Aphilak Manomai",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a70aec62-e2d4-47d5-a280-fdad3e1ceb99/profile/fb5c3403-8594-4557-9443-ca5c6453759d.jpg"
+      "id": "d0f69414-2948-485c-a6cd-d27dcb400aa2",
+      "username": "nkq55uqc",
+      "display_name": "Origin Protocol",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
-    "budget_2": "100",
+    "budget_2": null,
     "matchedCategories": [
-      "พัฒนาเว็บไซต์",
       "พัฒนาแอปพลิเคชัน"
     ],
-    "matchedAt": "2026-09-06T09:19:25.901Z"
+    "matchedAt": "2026-09-07T10:35:02.159Z"
   }
 ]
