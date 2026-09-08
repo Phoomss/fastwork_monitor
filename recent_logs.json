@@ -1,5 +1,7 @@
 [
-  "[2026-09-08T13:41:11.069Z] Checking Fastwork for new job posts...",
-  "[2026-09-08T13:41:11.068Z] Auto-cleanup: Removed 48 seen job tracking IDs older than 1 day(s).",
-  "[2026-09-08T13:41:11.065Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-09-08T17:29:42.618Z]     Notification sent successfully.",
+  "[2026-09-08T17:29:42.416Z]   FOUND NEW TARGET JOB: dev พัฒนาระบบส่งข้อความในเว็บไซต์ (Cats: พัฒนาเว็บไซต์) (Budget: 10000 THB)",
+  "[2026-09-08T17:29:41.314Z] Checking Fastwork for new job posts...",
+  "[2026-09-08T17:29:41.313Z] Auto-cleanup: Removed 47 seen job tracking IDs older than 1 day(s).",
+  "[2026-09-08T17:29:41.310Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
