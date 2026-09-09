@@ -393,54 +393,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-09T09:29:54.150Z"
-  },
-  {
-    "id": "220287a8-63fe-43f6-8319-d40ee25449b6",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ทางเรามีเว็บไซต์อยู่แล้ว (เป็น next.js) แต่ต้องการพัฒนาระบบส่งข้อความระหว่าง user ในเว็บไซต์ ดังนี้\n\n- ระบบส่งข้อความในเว็บไซต์ระหว่าง user (เช่น ระบบแชทของ fastwork /shopee)\n\n- ตั้ง condition ว่าจะส่งข้อความได้ user ต้องยืนยันตัวตนก่อน (เว็บปัจจุบันมีระบบยืนยันตัวตนอยู่แล้ว แค่ต้องตั้งเป็น condition เพิ่ม) \n\n- รองรับการส่งไฟล์/รูประหว่างกันได้\n\n- ไม่จำเป็นต้องโทรผ่านแชทได้\n\n-  แอดมิน (เฉพาะเลเวลที่ได้รับอนุญาต) ยังสามารถตรวจสอบข้อความได้ (หากมีความจำเป็น)\n\n- รองรับมาตรฐานความปลอดภัย/privacy อื่นๆ ที่ควรมี\n\n\nต้องการหา dev ที่มีคุณสมบัติดังนี้\n1. สามารถพัฒนาระบบแ��ทข้างต้นได้\n2. เคยทำหรือพัฒนาระบบแชทดังกล่าวมาก่อนอยู่แล้ว \n3. ช่วยดีไซน์ logic หรือแนะนำ structure ให้เข้ากับธุรกิจของบริษัทได้ (มี design logic คำนึงถึง operation จริงของบริษัท) \n\nสามารถเสนอราคามาได้",
-    "title": "dev พัฒนาระบบส่งข้อความในเว็บไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-08T15:02:38.383658Z",
-    "updated_at": "2026-09-08T15:02:39.899699Z",
-    "user_id": "f8e641a1-b992-4386-b1eb-c9d797b82e41",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-08T15:02:38.328453Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุช��่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-08T17:29:42.415Z"
   }
 ]
