@@ -1,5 +1,103 @@
 [
   {
+    "id": "f09b14ae-447d-4d4a-8038-394b63308f15",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "full-time",
+    "description": "ระบบชนยอดตีกลับระบบ และที่ได้รับจริง\n\nเมื่อกล่องพัสดุตีกลับมาถึงคลังสินค้า พนักงาน \nสามารถสแกนบาร์โค้ด เพื่อบันทึกเข้าสู่ระบบว่า \n**ได้รับของกล่องนั้นแล้วจริง ๆ** กระทบยอดในระบบได้รับแล้ว",
+    "title": "คนช่วยหาระบบจัดการระบบชนยอดตีกลับ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-10T08:32:26.078567Z",
+    "updated_at": "2026-09-10T08:32:27.707367Z",
+    "user_id": "e23d7dc9-3820-4f98-b36a-d9e462eeb2e0",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-12",
+    "expired_at": "2026-10-10T08:32:26.058710Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "e23d7dc9-3820-4f98-b36a-d9e462eeb2e0",
+      "username": "nara_napat",
+      "display_name": "nnewwww",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e23d7dc9-3820-4f98-b36a-d9e462eeb2e0/profile/2aaa5bda-2151-4f60-aff9-ce2f34568a51.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-10T11:43:27.748Z"
+  },
+  {
+    "id": "23995f0b-2cbc-4f1d-8e12-b41243f549ca",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการสร้าง Website ใหม่ 2 website\n1.www.ttytech.com\n2.www.tty-intertrade.com\n\nโดยจุดประสงค์เพื่อปรับปรุงและทำให้สามารถติดในการค้นหา ทั้งจาก Google Search และ การค้นหาจาก AI \n\nโดย Website สร้างมาจาก Wix และ Ready Planet",
+    "title": "หาคนทำ Website ใหม่ 2 Website",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "50000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-10T07:58:59.672360Z",
+    "updated_at": "2026-09-10T07:59:00.771204Z",
+    "user_id": "132ba2dd-e8a6-4389-803c-3893e0028c57",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2651;11.12.0-6002917"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-10T07:58:59.585513Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "132ba2dd-e8a6-4389-803c-3893e0028c57",
+      "username": "vinnie_532",
+      "display_name": "Navin Wongraksa",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/132ba2dd-e8a6-4389-803c-3893e0028c57/profile/f154758c-8a7b-47bc-92ac-ab960e94771d.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "50000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-10T11:43:26.561Z"
+  },
+  {
     "id": "2d03bbcc-dd6f-46ee-b4ce-c08e31536f5c",
     "status": "open",
     "tag": {
@@ -194,302 +292,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-09T13:49:38.609Z"
-  },
-  {
-    "id": "148f5c62-15b3-47a1-81b8-21ece6258b77",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "contract",
-    "description": "หน้าที่ความรับผิดชอบ\n•\tออกแบบและพัฒนาโปรแกรมร่วมกับทีม\n•\tทดสอบโปรแกรมก่อนนำไปใช้จริง เพื่อให้มั่นใจว่าสามารถทำงานได้ตรงวัตถุประสงค์\n•\tวิเคราะห์ปัญหา และนำเสนอแนวทางแก้ไข\n•\tติดตามดูแลระบบงาน จัดทำรายงาน และเอกสารประกอบต่าง \n\nคุณสมบัติด้านความรู้และความสามารถ\n•\tจบการศึกษาระดับปริญญาตรีขึ้นไป สาขาที่เกี่ยวข้อง\n•\tมีประสบการณ์ด้านการพัฒนา Web Application และ Window Application\n•\tมีประสบการณ์ C# .NET, VB.NET, ASP .NET 1-2 ปีขึ้นไป\n•\tมีประสบการณ์ด้าน API development \n•\tมีความสามารถในการทำงานร่วมกับทีม\n•\tมีความคิดสร้างสรรค์และกระตือร้อร้นในการเรียนรู้\n•\tมีความรู้และ/หรือ ประสบการณ์ในการใช้ Claude AI ผ่าน visual studio\n\n** On-Site 100% ที่ BTS ช่องนนทรี **",
-    "title": "Programmer ส��ญญาจ้าง 1 ปี",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "25000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T09:13:33.785918Z",
-    "updated_at": "2026-09-09T09:13:35.568440Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-09T09:13:33.723442Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "25000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-09T09:30:00.042Z"
-  },
-  {
-    "id": "bfe78d13-1211-42c4-8381-35b84b90f18d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "หน้าที่ความรับผิดชอบ\n•\tทดสอบตัวระบบที่เกี่ยวข้อง เพื่อตรวจสอบข้อผิดพลาด บั๊ก และปัญหาต่าง ๆ ภายในระบบ\n•\tจัดทำและดูแล Test Case และ Test Plan เพื่อใช้ในการทดสอบเกมอย่างเป็นระบบ\n•\tประสานงานและทำงานร่วมกับทีมที่เกี่ยวข้อง เพื่อให้การทำงานเป็นไปอย่างราบรื่นและมีประสิทธิภาพ\n•\tวิเคราะห์ข้อมูลเพื่อระบุแนวโน้ม ปัญหาที่เกิดขึ้นซ้ำ ๆ และประเด็นที่ควรได้รับการปรับปรุง\n•\tดำเนินการวิเคราะห์หาสาเหตุที่แท้จริงของปัญหา (Root Cause Analysis) เพื่อค้นหาปัญหาที่อยู่เบื้องหลัง พร้อมเสนอแนวทางปรับปรุง\n\nคุณสมบัติด้านความรู้และความสาม��รถ\n•\tจบการศึกษาระดับปริญญาตรีขึ้นไป สาขาที่เกี่ยวข้อง\n•\tมีประสบการณ์ด้าน Frontend เป็นหลัก\n•\tมีพื้นฐานด้าน Backend\n•\tเข้าใจ Process การทดสอบระบบ\n•\tมีประสบการณ์หรือความเข้าใจในการทดสอบ UI Style / Widget Book\n\n** On-Site MRT สถานีศูนย์การประชุมแห่งชาติสิริกิติ์ **",
-    "title": "Quality Assurance (UI Style) สัญญาจ้าง 6 เดือน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "18000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T09:11:46.780606Z",
-    "updated_at": "2026-09-09T09:11:47.869239Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-09T09:11:46.725746Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-    "user_profile": {
-      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
-      "username": "psp2005",
-      "display_name": "Professional Service Provider",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "18000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-09T09:29:58.865Z"
-  },
-  {
-    "id": "b6454e3d-ac6f-475a-863d-0a63718d6cdb",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "Phase 1 — ขายจริงได้ตั้งแต่วันแรก\nเอกสารว่าจ้างพัฒนา สำหรับส่งมอบให้ผู้พัฒนา (freelance)\nเวอร์ชัน 1.0 · 27 สิงหาคม 2026\n\n1. เป้าหมาย & ขอบเขต\n1.1 เป้าหมาย Phase 1 — ร้านน้ำชง 1 สาขา 1-2 จุดขาย\n•\tรับออเดอร์เร็ว: เมนู + ตัวเลือกแก้วครบใน ไม่เกิน 5 จังหวะกด ต่อแก้วมาตรฐาน\n•\tคิดเงินเร็ว: SLA บิล 1 แก้ว ไม่เกิน 10 วินาที จากกดเมนูถึงสติกเกอร์ออก\n•\tรับเงินหลายแบ���: เงินสด, PromptPay QR (ฝังยอด), โอน, บันทึกยอดเดลิเวอรี่\n•\tพิมพ์สติกเกอร์แก้วให้คนชง + ใบเสร็จให้ลูกค้า\n•\tเจ้าของเห็นยอดรายวันชัด + เงินลิ้นชักตรง + แจ้งเตือนเหตุการณ์เสี่ยงเข้า LINE\n1.2 อยู่ในขอบเขต (Phase 1)\nกลุ่ม\tความสามารถ\nขายหน้าร้าน\t\nชำระเงิน\t\nพิมพ์\tสติกเกอร์แก้ว (1 ดวง/แก้ว), ใบเสร็จย่อ 80mm, สลิปบิลพัก, สรุปกะ, สรุปวัน, เปิดลิ้นชัก\nกะ/ลิ้นชัก\tเปิดกะ+เงินตั้งต้น, เงินเข้า-ออกระหว่างกะ (หมวด+PIN+log), ปิดกะ+นับเงิน+ส่วนต่าง\nยกเลิกบิล\tบังคับสาเหตุ + ช่องทางคืนเงิน + เก็บสถานะไม่ลบ + แจ้ง LINE เจ้าของ\nหลังร้าน\tจัดการหมวด/เมนู/กลุ่มตัวเลือก/ท็อปปิ้ง, ทำซ้ำเมนู, ของหมด, จัดลำดับ, โน้ตใช้บ่อย, ส่วนลดสำเร็จรูป\nรายงาน\tแดชบอร์ดวันนี้ (KPI+รายชั่วโมง+Top 5+ตามช่องทาง), ประวัติบิล, ประวัติกะ, log ลิ้นชัก, CSV\nผู้ใช้\tเจ้าของ / พนักงานขาย + PIN + คุมสิทธิ์ 6 จุด + PIN override\nแจ้งเตือน\tLINE ถึงเจ้าของ: ยกเลิกบิล, เปิดลิ้นชักนอกการขาย, เปิดกะ, ปิดกะ+ส่วนต่าง\n1.3 นอกขอบเขต (Phase 2 — ห้ามทำในงวดนี้)\nสมาชิก/แต้มสะสม · โปรโมชั่นอัตโนมัติ/happy hour/คูปอง · สต็อกวัตถุดิบตามสูตร (BOM) · ใบกำกับภาษี/VAT/e-Tax · หลายสาขา · จ่ายผสมหลายช่องทางในบิลเดียว · ขายเชื่อ · เชื่อม API เดลิเวอรี่ · เคร���่อง EDC/บัตร · จอลูกค้า · จอครัว (KDS) · จอเรียกคิว · เว็บสั่งล่วงหน้า · วันหมดอายุแบบ lot\nหมายเหตุ: โครงข้อมูล (ข้อ 7) เผื่อทุกตัวไว้แล้ว — เพิ่ม Phase 2 ได้โดยไม่รื้อระบบ\n2. ผู้ใช้ & สถานการณ์จริง\n•\tคนขาย — แท็บเล็ต/จอสัมผัส ช่วงเร่งด่วน (7:00-9:00, 11:30-13:00) ลูกค้าต่อแถว 5-10 คิว ทุกวินาทีมีค่า\n•\tคนชง — ไม่แตะระบบ อ่านจากสติกเกอร์แก้วเท่านั้น\n•\tเจ้าของ — ดูยอดจากมือถือ + รับแจ้งเตือน LINE (ส่วนใหญ่ไม่ได้เฝ้าร้านเอง — กลไกกันรั่วไหลหลัก)\nHappy Path — เส้นทางหลักที่ต้องลื่นที่สุด (~8 จังหวะกด)",
-    "title": "ระบบ POS ร้านน้ำชง Phase 1 — ขายจริงได้ตั้งแต่��ันแรก",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "12000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T09:08:23.715589Z",
-    "updated_at": "2026-09-09T09:08:25.354548Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-09T09:08:23.660303Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "8e1f5f66-c853-44a1-a497-1ef88ef9e597",
-    "user_profile": {
-      "id": "8e1f5f66-c853-44a1-a497-1ef88ef9e597",
-      "username": "banksan999",
-      "display_name": "Bank Niravich",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8e1f5f66-c853-44a1-a497-1ef88ef9e597/profile/b47e3f75-fa62-4b88-b21c-5ea5fbe57afc.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "12000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-09T09:29:57.730Z"
-  },
-  {
-    "id": "9ceb1924-ae07-464f-bdfe-d2b3a6b4c811",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ตามหานักพัฒนาเกมที่สามารถ\n-รับตั้งแต่ 0 เก็บ Requirement จนส่งมอบงานได้ 100%\n-เข้าใจหรือเชี่ยวชาญ Generative AI/AI Agent/Workflow \n-พัฒนาทั้ง UXUI/Front/Back/Infra\n\nถ้าสนใจโปรไฟล์เดี๋ยวผมทักไปหาเพื่อประเมินราคาอีกที",
-    "title": "Game Developer เพื่อสร้าง Webapp game",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "50000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T09:08:19.950649Z",
-    "updated_at": "2026-09-09T09:08:21.371517Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-09T09:08:19.926733Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "5cc82b3f-428d-4d7f-9836-802a91a1b10a",
-    "user_profile": {
-      "id": "5cc82b3f-428d-4d7f-9836-802a91a1b10a",
-      "username": "oatkongno",
-      "display_name": "oatkongno",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5cc82b3f-428d-4d7f-9836-802a91a1b10a/profile/21f9e70b-532c-41b0-b1cf-356804eaf652.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "50000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-09T09:29:56.617Z"
-  },
-  {
-    "id": "860a3a85-664d-4c0e-8d48-f8b052044d77",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "หาคนลง mockup ปกหนังสือ เป็นหนังสือปกแข็งค่ะ งานด่วนขอไฟล์ภายในวันนี้ค่ะ มีไฟล์ปกหนังสือให้แล้ว ไม่ต้องออกแบบเพิ่มค่ะ",
-    "title": "ลง mockup หนังสือปกแข็ง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-09T08:35:50.612437Z",
-    "updated_at": "2026-09-09T08:35:52.094045Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-09",
-    "expired_at": "2026-10-09T08:35:50.593697Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.6.1;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "78969ab2-7be0-44e0-947d-0378ba879222",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-09T09:29:55.259Z"
-  },
-  {
-    "id": "3e3d8735-3ea6-4c0f-9d78-92c798602915",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "📢 ตามหาฟรีแลนซ์ผู้เชี่ยวชาญระบบ Oracle OPERA\n\nกำลังมองหา **Freelance ที่มีประสบการณ์และเชี่ยวชาญด้านระบบ Oracle OPERA** เพื่อเข้ามาช่วยดูแลและตรวจสอบงานระบบค่ะ\n\nScope งานเบื้องต้น\n- ตรวจสอบงานและระบบที่ทาง Oracle ได้ดำเนินการไว้\n- ตรวจสอบความถูกต้องและความพร้อมในการใช้งานของระบบ\n- สรุปผลการตรวจสอบ พร้อมจัดทำ **Report** เพื่อส่งให้ทางผู้ว่าจ้าง\n- ตรวจสอบและติดตามการแก้ไขงานของทาง Oracle\n- ทำการ Review / Verify หลังการแก้ไข และติดตามจนกว่าระบบจะสามารถใช้งานได้อย่างสมบูรณ์ 100%\n\nคุณสมบัติที่มองหา\n- มีประสบการณ์ทำงานกับ **Oracle OPERA** โดยตรง\n- มีความเข้าใจระบบในเชิง Technical / Functional และสามารถตรวจสอบงานของ Vendor ได้\n- สามารถวิเคราะห์ปัญหา สรุปประเด็น และจัดทำ Report ได้อย่างเป็นระบบ\n- สามารถประสานงานและ Follow-up งานกับทาง Oracle ได้\n\nหากสนใจ หรือมีคนรู้จักที่มี Expertise ด้านนี้ แนบ Profile / ประสบการณ์ที่เกี่ยวข้อง และ Rate มาได้เลยค่ะ\n\nขอบคุณค่ะ 🙏",
-    "title": "ฟรีแลนซ์ผู้เชี่ยวชาญระบบ Oracle OPERA",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T06:22:12.508326Z",
-    "updated_at": "2026-09-09T06:22:14.093596Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-09T06:22:12.445767Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "e55170c3-2f76-4601-a85b-a33f057b8ee6",
-    "user_profile": {
-      "id": "e55170c3-2f76-4601-a85b-a33f057b8ee6",
-      "username": "endlessming",
-      "display_name": "endlessming",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e55170c3-2f76-4601-a85b-a33f057b8ee6/profile/95c7ecb2-4a72-4e54-968e-a6ab41e738b5.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-09T09:29:54.150Z"
   }
 ]
