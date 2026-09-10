@@ -1,5 +1,54 @@
 [
   {
+    "id": "559cccde-1933-49c6-bccf-0557127f27ff",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "I'm rebuilding my personal brand around sharing lessons from business and OSUKA. I'm hiring a full-time Thai Business Manager to manage content and two digital product businesses: ViralHooks and Pitch Liew, my AI Skool community.\n\nHOW WE WORK: SYSTEMS + HUMAN REVIEW\nUse AI and automation with clear human approval checkpoints for ideas, accuracy, quality, and publishing.\n\nRESPONSIBILITIES\n- Capture my notes, conversations, and lessons in an organized content bank.\n- Plan content themes, calendars, brand voice, and content guidelines.\n- Turn approved ideas into single-image posts, carousels, website articles, newsletters, podcast outlines, and long-form video scripts.\n- Edit short-form and long-form videos.\n- Plan courses: audience needs, learning outcomes, curriculum, lesson outlines, and production schedules.\n- Coordinate digital product and community operations, launches, publishing, and freelancers.\n- Build workflows, checklists, and review processes; track performance and improve execution.\n\nREQUIREMENTS\n- Thai candidate with strong Thai writing and communication skills; available full-time.\n- Can edit videos independently and show previous work.\n- Can plan courses and create content guidelines.\n- Organized, reliable, proactive, and able to turn rough ideas into finished work.\n- Comfortable using AI tools and carefully reviewing their output.\n- Good judgment about confidential business information.\nExperience with personal brands, courses, communities, email marketing, or digital product launches is a plus.\n\nAPPLY THROUGH FASTWORK WITH\n1. Introduction and relevant experience.\n2. Videos you have edited.\n3. A content plan, course outline, or workflow you created.\n4. Expected monthly compensation and earliest start date.\n5. How you would turn a founder's weekly lessons into content and product opportunities.\n\nCompensation and working arrangements to be discussed based on experience and fit.",
+    "title": "Full-Time Business Manager — Personal Brand, Content & Digital Products",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-10T13:31:23.014282Z",
+    "updated_at": "2026-09-10T13:31:24.969822Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-10T13:31:22.958933Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "fa35692b-bca7-40b8-bd96-299d24760f3f",
+    "user_profile": {
+      "id": "fa35692b-bca7-40b8-bd96-299d24760f3f",
+      "username": "zdunxagb",
+      "display_name": "zdunxagb",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-10T15:09:53.032Z"
+  },
+  {
     "id": "f09b14ae-447d-4d4a-8038-394b63308f15",
     "status": "open",
     "tag": {
@@ -194,103 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-09T21:59:35.861Z"
-  },
-  {
-    "id": "04b021b1-12e2-47cf-948e-049fb812804d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคน ตั้งค่าระบบบันทึกเวลา ของเครื่องZKTeco รุ่น Sense FP M1\n\n(เครื่องสแกนนิ้ว) \nติดตั้งเครื่องอยู่แล้ว ทั้งหมด 7สาขา \nพนักงาน ประมาณ 16 คน \nบางคนทำงานหลายสาขา หลายกะ \nต้องการตั้งค่าจากตารางงาน\nเพื่อ\nสิ้นเดือนสามารถดึงข้อมูล มาสาย และการมาทำงานได้ เพื่อคำนวณ ค่าล่วงเวลาด้วย",
-    "title": "หาคน ตั้งค่าระบบบันทึกเวลา ของเครื่องZKTeco",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-09T13:30:33.203261Z",
-    "updated_at": "2026-09-09T13:30:34.756817Z",
-    "user_id": "bd00bf51-c226-45a2-9b7e-a79b9752e599",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-09T13:30:33.138915Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-09T13:49:39.701Z"
-  },
-  {
-    "id": "84a5c00a-740d-4ab3-92b7-aedb95e44b23",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "contract",
-    "description": "เปิดรับ พนักงานประจำ / สัญญาจ้างรายเดือนหรือรายปี\nตำแหน่งนี้ไม่ใช่ Engineer ที่รอรับ Requirement แล้วเขียนตาม Ticket แต่จะดูแล Technical Delivery แบบ End-to-End ร่วมกับทีม PM ตั้งแต่เข้าใจธุรกิจ ออกแบบ Solution, Build, Test, Deploy จนถึง Production Support\n\n💼 ข้อมูลตำแหน่ง\n• Full-time / Contract\n• Hybrid เข้าออฟฟิศอย่างน้อย 3 วัน/สัปดาห์\n• Sathorn Nakorn Tower / BTS ช่องนนทรี ทางออก 2\n• 35,000-60,000 บาท/เดือน ตามประสบการณ์\n• On-call Bonus + Potential Equity\n\n🔧 งานที่รับผิดชอบ\n• คุยกับลูกค้าร่วมกับ PM เข้าใจ Workflow และเปลี่ยน Business Requirement เป็นระบบที่ใช้งานจริง\n• ออกแบบและพัฒนา Architecture, Database, API, Authentication, RBAC/Permission, Integration และ Deployment\n• Tech Stack: TypeScript / Node.js / React / Next.js\n• Project: ERP / CRM / Inventory / Accounting / Internal Operations / Logistics / Warehouse / Approval Workflow\n\n🤖 AI native Development\nใช้ Claude Code / Codex / Cursor หรือเครื่องมือใกล้เคียงได้ และสามารถตรวจสอบ/Verify Output จาก AI\n\n🚢 Delivery & Production\nDiscovery → Design → Development → UAT → Deployment → Production Support\nมี On-call Rotation พร้อม On-call Bonus\n\n👩‍💻 เรามองหาคนที่\n• Software Engineering Fundamentals แข็งแรง\n• คิดและออกแบบระบบเป็น มี Ownership แบบ End-to-End\n• เข้าใจ Business Problem และสื่อสารกับลูกค้าได้\n• ประเมิน Scope / Deadline / Technical Risk ได้\n• แก้โจทย์จาก Requirement ที่ยังไม่ชัดเจนได้\n\n🎓 เด็กจบใหม่สมัครได้\nใช้ Personal Project / Internship / Freelance / Side Project เป็นผลงานได้ ขอให้มีสิ่งที่แสดงว่าคุณสร้างของจริงและเข้าใจสิ่งที่สร้าง\n\n🌎 ภาษาไทย + อังกฤษ\nสามารถคุยกับลูกค้า, Demo, Discuss Technical Decision และเขียน Project Update ได้ มี English Interview Round\n\n📩 สมัครงาน\nส่ง Resume + Project ที่ภูมิใจ พร้อมเล่าว่าแก้ปัญหาอะไร, รับผิดชอบส่วนไหน, Architecture และ Technical Challenge ที่เจอ\n\n👉 รายละเอียดและสมัคร click link",
-    "title": "🚀 Founding Engineer  Customer Delivery & Business Systems",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "60000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T11:58:34.034320Z",
-    "updated_at": "2026-09-09T11:58:35.215666Z",
-    "user_id": "857e6b47-dd98-4be6-bc7a-a41f8ebdca45",
-    "brief_url": "https://www.stardeck.ai/builders/founding-engineer-customer-delivery-business-syste",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-09",
-    "expired_at": "2026-10-09T11:58:33.978976Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "857e6b47-dd98-4be6-bc7a-a41f8ebdca45",
-      "username": "greenfieldlabs",
-      "display_name": "Greenfield Labs",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/857e6b47-dd98-4be6-bc7a-a41f8ebdca45/profile/c740c453-dae0-40fa-8af5-13b7bb8d4bf8.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "60000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-09T13:49:38.609Z"
   }
 ]
