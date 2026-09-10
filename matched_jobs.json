@@ -194,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-10T06:32:35.044Z"
-  },
-  {
-    "id": "9b4a0838-4eb8-440b-82b8-bc4557fc9e1a",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "1. ให้คำปรึกษา SEO และดูแล SEO เว็บบริษัท\n• วางแผนและลงมือทำให้ติดอันดับคำที่พาลูกค้าเข้ามาจริง\n• วางแผนเนื้อหา บอกได้ว่าควรเขียนหน้าอะไรเพิ่ม เจาะคำไหน\n• หา backlink ที่มีคุณภาพ ไม่ใช่ซื้อลิงก์\n• ติดตามผลรายเดือน ว่าอันดับและ lead ขยับจริง\n• อื่นๆที่สนับสนุน SEO\n\n2. ให้คำปรึกษา SEO เว็บลูกค้าของเรา (WordPress)\n• ตรวจเว็บลูกค้าและบอกสิ่งที่ต้องแก้ ทั้งด้านเทคนิคและเนื้อหา\n• คุยกับทีม dev ของเราให้เข้าใจตรงกันว่าต้องแก้อะไรตรงไหน\n• ทำงานผ่านเราเป็นช่องทางเดียว ไม่ต้องติดต่อลูกค้าปลายทางเอง\n• ติดตามผลรายเดือน ว่าอันดับและ lead ขยับจริง",
-    "title": "SEO Specialist ให้คำปรึกษาเว็บบริษัท + ให้คำปรึกษาเว็บลูกค้า (WordPress)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-09T20:41:30.972137Z",
-    "updated_at": "2026-09-09T20:41:32.376484Z",
-    "user_id": "011df4dc-09fc-4812-bc13-50529611691f",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-09T20:41:30.896206Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "011df4dc-09fc-4812-bc13-50529611691f",
-      "username": "cheeroborm",
-      "display_name": "cheer",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/011df4dc-09fc-4812-bc13-50529611691f/profile/0200cbff-85a7-4c6a-8640-d8fc55a36655.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-09T21:59:35.861Z"
   }
 ]
