@@ -1,6 +1,5 @@
 [
-  "[2026-09-11T05:17:39.178Z]     Notification sent successfully.",
-  "[2026-09-11T05:17:38.492Z]   FOUND NEW TARGET JOB: ต้องการคนเขียน API Endpoint โดยใช้ Robinhood Alchemy  (Cats: พัฒนาแอปพลิเคชัน) (Budget: 100000 THB)",
-  "[2026-09-11T05:17:37.305Z] Checking Fastwork for new job posts...",
-  "[2026-09-11T05:17:37.302Z] Auto-cleanup: Removed 5 seen job tracking IDs older than 1 day(s)."
+  "[2026-09-11T09:47:13.716Z] Checking Fastwork for new job posts...",
+  "[2026-09-11T09:47:13.715Z] Auto-cleanup: Removed 47 seen job tracking IDs older than 1 day(s).",
+  "[2026-09-11T09:47:13.713Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]

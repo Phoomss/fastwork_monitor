@@ -243,54 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-10T11:43:26.561Z"
-  },
-  {
-    "id": "2d03bbcc-dd6f-46ee-b4ce-c08e31536f5c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนช่วยแก้ไข Web Site Wordpress \n1. เพิ่ม 1 linkเพื่อกดเข้าหน้าใหม่\n2. เพิ่มหน้าใหม่ 1 page (รูป4-5รูป และ 1 ข้อความ)\n\n",
-    "title": "หาคนช่วยแก้ไข Web Site Wordpress ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-10T02:14:08.101171Z",
-    "updated_at": "2026-09-10T02:14:09.843924Z",
-    "user_id": "bede6d4a-0b19-4aed-9a8c-2078086e4212",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-14",
-    "expired_at": "2026-10-10T02:14:08.045871Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "bede6d4a-0b19-4aed-9a8c-2078086e4212",
-      "username": "lyfvqxfb",
-      "display_name": "lyfvqxfb",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/bede6d4a-0b19-4aed-9a8c-2078086e4212/profile/ee7ad902-c08a-4e50-9782-30a52b144d62.JPEG"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-10T06:32:35.044Z"
   }
 ]
