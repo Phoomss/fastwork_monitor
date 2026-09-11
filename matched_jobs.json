@@ -1,5 +1,55 @@
 [
   {
+    "id": "418a4f41-1933-44b3-a2b5-b6ed92b90515",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "งูงูปลาปลา มา 6เดือน แล้ว\n\nหาคนให้คำปรึกษาเรื่อง Agent AI + Vibe Coding ครับ 🙏\n\nผมเป็นเจ้าของธุรกิจ ไม่ได้มีพื้นฐานเขียนโค้ด แต่ช่วงที่ผ่านมา Vibe Code ทำเว็บและระบบใช้ในธุรกิจเอง เช่น ระบบจองคิว / Web App / Automation และลองใช้หลายตัวมาก ทั้ง Codex, Antigravity, Hermes จนรู้สึกว่าเสียเวลากับการลองผิดลองถูกค่อนข้างเยอะ 😅\n\nตอนนี้อยากหาคนที่ มีประสบการณ์ใช้งานจริง ช่วยแนะนำผมว่า\n\n• Codex / Antigravity / Hermes ควรแบ่งหน้าที่และใช้ร่วมกันยังไงให้คุ้มที่สุด\n• Workflow สำหรับคนไม่เขียนโค้ด แต่ต้องการ Vibe Code ให้ได้งานที่ใช้งานจริง\n• การทำระบบจอง / Web App ให้ไม่พังหรือซับซ้อนเกินจำเป็น\n• Higfield AI โดยเฉพาะการใช้งานร่วมกับ Agent / Plugin / AI ตัวอื่น เพื่อทำวิดีโอและ Content Workflow\n\nไม่ได้ต้องการให้มารับทำระบบให้ครับ แต่อยากได้คนที่ รู้จริงแล้วช่วยจัดทางให้ผม ว่าอะไรควรใช้ อะไรไม่ควรใช้ และควรต่อยอดยังไง จะได้ไม่ต้องลองทุกอย่างเอง\n\n💰 งบปรึกษาเบื้องต้น 500 บาท\nคุยออนไลน์ได้ครับ\n\nใครถนัดสายนี้ หรือมีคนแนะนำ รบกวนคอมเมนต์/ทักมาได้เลยครับ 🙏",
+    "title": "หาที่ปรึกษาการใช้ Agent Ai",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-11T18:03:39.451211Z",
+    "updated_at": "2026-09-11T18:03:40.869532Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-11T18:03:39.364467Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "3e8ceb54-1a57-4b11-a420-6923d4c34f90",
+    "user_profile": {
+      "id": "3e8ceb54-1a57-4b11-a420-6923d4c34f90",
+      "username": "rictor",
+      "display_name": "rictor",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3e8ceb54-1a57-4b11-a420-6923d4c34f90/profile/02a3b268-1698-44db-a51f-d9a1f3583348.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-11T19:49:00.185Z"
+  },
+  {
     "id": "49f5f637-9168-4537-b8f9-651adb24e29c",
     "status": "open",
     "tag": {
