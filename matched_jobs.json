@@ -1,5 +1,54 @@
 [
   {
+    "id": "81a172a0-c6e6-4d44-b60a-e8119d5450a7",
+    "status": "open",
+    "tag": {
+      "id": "9f240bc1-fde2-4217-a5f5-f6fc02ba3f54",
+      "name": "งาน IoT",
+      "sort": 22
+    },
+    "type": "freelance",
+    "description": "ต้องการดึงข้อมูลและอ่านค่า OPC DA ครับ ประมาณ 30 ค่า\nโดยลักษณะจะเป็นประมาณนี้ครับ อุปกรณ์ > เซิร์ฟเวอร์ (SLS600) > OPC DA > Microscada\nซึ่งทางผมจะมี PLC และ คอม PC ที่อยู่ในวง lan เดียวกันกับด้านบนครับ\n\nสิ่งที่ต้องการคือ ต้องการดึงข้อมูล OPC DA และส่งข้อมูลไปให้ PLC ครับ\nมีข้อกำหนดคือไม่ใช้ Node-Red\n\nหากท่���นใดสนใจ แจ้งข้อมูลมาให้ผมตามนี้ได้เลยครับ\n1. ราคา\n2. ระยะเวลา\n3. วิธีการดึงข้อมูลครับ ไม่ต้องเขียนอธิบายละเอียด แค่ concept ครับว่าดึงด้วยวิธีไหน",
+    "title": "ต้องการหา Programmer/Engineer เขียนโปรแกรมหรือสคริปต์อ่านค่า OPC DA / OPC",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-12T15:33:37.334996Z",
+    "updated_at": "2026-09-12T15:33:38.130359Z",
+    "user_id": "57cf2adb-6c34-4512-a540-c8904f1f87ef",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-13",
+    "expired_at": "2026-10-12T15:33:37.315377Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "57cf2adb-6c34-4512-a540-c8904f1f87ef",
+      "username": "xyeaonhe",
+      "display_name": "Gun",
+      "image_url": "https://storage.googleapis.com/fastwork-static/22de2756-b655-4478-ad94-4d21c00f9a05.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-12T17:15:55.983Z"
+  },
+  {
     "id": "418a4f41-1933-44b3-a2b5-b6ed92b90515",
     "status": "open",
     "tag": {
