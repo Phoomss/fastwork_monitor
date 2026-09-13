@@ -1,5 +1,54 @@
 [
   {
+    "id": "99a02400-68fa-4245-abe9-af960268cc37",
+    "status": "open",
+    "tag": {
+      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
+      "name": "งานสอน",
+      "sort": 12
+    },
+    "type": "freelance",
+    "description": "ต้องการหาผู้สอน TradingView และ MT5 บนคอม แบบตัวต่อตัว สำหรับผู้เริ่มต้นมาก ๆ\n\nปัจจุบันผู้ว่าจ้างใช้ MT5 ผ่านมือถือเป็นหลัก และใช้ TradingView เป็นหลักในการดูกราฟ/Backtest แต่ยังไม่คล่องการใช้งานบนคอม โดยเฉพาะ MT5\n\nต้องการผู้สอนที่สามารถ สอนแบบจับมือทำผ่าน Screen Share (Zoom/Google Meet) ไม่ใช่เพียงส่งคลิปหรือเอกสารมาให้ศึกษาเอง\n\nสิ่งที่ต้องการเรียน:\n\n* การใช้งาน TradingView บนคอม\n* การใช้งาน MT5 บนคอม\n* การเปิด/ตั้งค่ากราฟและ Timeframe\n* การใช้ Indicator เบื้องต้น\n* การดูกราฟย้อนหลังและ Backtest\n* การใช้งาน MT5 Strategy Tester\n* การทำ Backtest เบื้องต้น\n* การอ่านผล Backtest เบื้องต้น\n* พื้นฐานการทำ Optimization ใน MT5\n\nผู้ว่าจ้างไม่มีพื้นฐาน IT / Programming จึงต้องการคนที่ใจเย็น อธิบายภาษาคน และสอนทีละขั้นตั้งแต่เริ่มต้น\n\nไม่ต้องสอนเขียนโปรแกรม และไม่ต้องสร้าง EA ในงานนี้\n\nหากสามารถสอนแบบตัวต่อตัวและให้ผู้ว่าจ้างลองทำตามไปพร้อมกันได้ จะพิจารณาเป็นพิเศษ\n\nกรุณาแจ้งประสบการณ์ ราคา และระยะเวลาที่ใช้สอนโดยประมาณ",
+    "title": "หาคนสอน TradingView + MT5 บนคอม แบบ���ับมือทำสำหรับมือใหม่",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-13T01:35:48.522524Z",
+    "updated_at": "2026-09-13T01:35:49.696069Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-13T01:35:48.501523Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "446dd166-144f-4526-8c5e-ef387cec187d",
+    "user_profile": {
+      "id": "446dd166-144f-4526-8c5e-ef387cec187d",
+      "username": "minnichapat",
+      "display_name": "Nichapat Tathong",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/446dd166-144f-4526-8c5e-ef387cec187d/profile/7d922f18-03ef-46bd-88dd-96d6c22d8d3c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-13T05:36:27.698Z"
+  },
+  {
     "id": "81a172a0-c6e6-4d44-b60a-e8119d5450a7",
     "status": "open",
     "tag": {
