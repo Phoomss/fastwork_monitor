@@ -1,5 +1,54 @@
 [
   {
+    "id": "3ce88e3f-04dd-41b2-aafe-5af0d4cd707e",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "full-time",
+    "description": "CYBERMANG® เปิดรับสมัคร\nDATA & GROWTH ANALYST\n\nเรากำลังมองหาคนที่เปลี่ยน Data → Insight → Action ได้ และช่วยตอบคำถามว่า อะไรทำให้เราโต ลูกค้ามาจา���ไหน Content แบบไหนสร้าง Revenue และควรลงทุนกับ Marketing/Ads อย่างไร\n\nRESPONSIBILITIES\n\n• วิเคราะห์ User, Revenue, Customer Behavior, Funnel, Conversion และ Retention\n• วิเคราะห์ Content, Marketing, Campaign และ Ads\n• หา Insight ว่าอะไรสร้าง Traffic, User, Conversion และ Revenue\n• ทำงานกับ Content Creator เพื่อวาง Direction และ Experiment\n• Audit Data และทำงานกับ Dev เพื่อกำหนด Data / Event / Tracking ที่ต้องเก็บ\n• สร้าง Report / Dashboard เพื่อใช้ตัดสินใจ\n• วิเคราะห์ ROI, CAC, Conversion และเสนอ Keep / Stop / Test / Scale\n• ใช้ AI / GPT ช่วย Research และ Analysis\n\nQUALIFICATIONS\n\n• มีประสบการณ์หรือ Portfolio ด้าน Data, Growth, Marketing หรือ Business Analytics\n• เชื่อม Data เข้ากับ Business และ Marketing Decision ได้\n• วิเคราะห์ Funnel, Customer Behavior, Content, Revenue หรือ Ads ได้\n• สื่อสารกับ Dev เรื่อง Data / Tracking ได้\n• ใช้ GA4, Excel/Sheets, SQL, BI Tools หรือเครื่องมือที่เกี่ยวข้อง\n• คิดและแก้โจทย์ปลายเปิดได้ด้วยตัวเอง\n\nไม่จำกัดวุฒิหรือสาขา เราดู Portfolio วิธีคิด และผลงานจริง\n\nPAID TRIAL PROJECT\n\nระยะเวลา 3–4 สัปดาห์\nProject Fee: 20,000–25,000 บาท\n\nทำงานกับ Data และโจทย์จริงของ CYBERMANG เพื่อดูวิธีคิด คุณภาพงาน ความรับผิดชอบ การสื่อสาร และการทำงานร่วมกับทีม\n\nAFTER THE PROJECT\n\nหากทำงานเข้ากันได้ มีโอกาสร่วมงานระยะยาว\n\nFull-time: 20,000–30,000 บาท/เดือน + KPI Bonus\nครบ 3 เดือนมี Performance & Salary Review\n\nWORKING STYLE\n\n• WFH ประมาณ 90%\n• ทำงาน 8 ชั่วโมง/วัน เลือกเวลาเริ่มงานได้\n• เน้น Result และ Roadmap\n• ทำงานร่วมกับ Founder, Content Creator และ Dev\n• มีนัดทีมเป็นบางครั้ง โดยค่าใช้จ่ายที่เกี่ยวข้องกับงานเบิกบริษัทได้\n\nHOW TO APPLY\n\nส่ง Resume/CV + Portfolio/Case Study + แนะนำตัวสั้น ๆ + เงินเดือนที่คาดหวัง\n\nCYBERMANG®\nMore than tarot, a space to understand yourself.\n",
+    "title": "Data & Growth Analyst",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "25000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-13T22:55:58.207804Z",
+    "updated_at": "2026-09-13T22:55:59.776732Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-13T22:55:58.151840Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/437.4.973319807 Mobile/15E148 Safari/604.1"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f578527a-a6ef-4c19-9640-da358f7354b4",
+    "user_profile": {
+      "id": "f578527a-a6ef-4c19-9640-da358f7354b4",
+      "username": "cherrmang",
+      "display_name": "chermang",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f578527a-a6ef-4c19-9640-da358f7354b4/profile/2b8ff0e5-fbee-4fc6-a91f-8267827032e3.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "25000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-13T23:31:37.098Z"
+  },
+  {
     "id": "06c00174-6149-4441-ac10-a3d45ce7a3f7",
     "status": "open",
     "tag": {
