@@ -1,5 +1,54 @@
 [
   {
+    "id": "0ff95e5f-dcd3-44e7-a112-b2abd4e38474",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "หัวข้องาน: ออกแบบลายสกรีนหลอดครีม ลงดายคัทสำหรับส่งโรงงานผลิต \n\nรายละเอียดและขอบเขตงาน:\nต้องการจ้างกราฟิกดีไซเนอร์ออกแบบลายบรรจุภัณฑ์หลอดครีม พร้อมวางอาร์ตเวิร์กลงแบบพิมพ์จริง เพื่อส่งโรงงานผลิต\n\n1. สิ่งที่เตรียมให้:\n ไฟล์บลูปริ้นท์ดายคัทของโรงงาน (สเปกหลอด D45mm x 100g x 128mm) มีระยะหน้า-หลัง และระยะขอบเซฟตี้ชัดเจน\n บรีฟคอนเซปต์ โทนสี โลโก้ และข้อความรายละเอียดส่วนผสม/วิธีใช้ ทั้งด้านหน้าและด้านหลัง\n\n1. ขอบเขตงานที่ต้องการ:\n ออกแบบกราฟิกหลอดตามบรีฟ (มีภาพตัวอย่าง 3D Mockup หลอดครีมให้เห็นรอบด้าน)\n จัดวางไฟล์งานจริงลงบน Blueprint / Die-cut template ของโรงงาน โดยวางตัวอักษรและกราฟิกให้อยู่ในPrinting Area ถูกต้องตามระยะมิลลิเมตรที่กำหนด\n\n สามารถปรับแก้แบบได้ตามสมควร (ประมาณ 2-3 ครั้ง)\n\n\n1. ไฟล์ส่งมอบที่ต้องการ:\n ไฟล์ต้นฉบับสำหรับส่งโรงงานผลิต: AI หรือ PDF (ความละเอียดสูง ครีเอทเอาต์ไลน์ฟอนต์ ระบุโค้ดสี/Pantone ให้เรียบร้อย)\n ภาพ 3D Mockup (PNG/JPG) สำหรับดูภาพรวมสินค้าจริง\n\n\n",
+    "title": "ออกแบบบรรจุภัณฑ์หลอดครีม ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-13T06:50:42.047239Z",
+    "updated_at": "2026-09-13T06:50:43.755355Z",
+    "user_id": "a5ba8136-3720-46ec-91eb-60228e238027",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-20",
+    "expired_at": "2026-10-13T06:50:41.963529Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.6.2;iPad;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a5ba8136-3720-46ec-91eb-60228e238027",
+      "username": "punweirb",
+      "display_name": "pun",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a5ba8136-3720-46ec-91eb-60228e238027/profile/af77bfba-2b2f-4156-a8ff-78334da23f70.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-13T10:34:34.368Z"
+  },
+  {
     "id": "99a02400-68fa-4245-abe9-af960268cc37",
     "status": "open",
     "tag": {
