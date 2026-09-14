@@ -1,5 +1,54 @@
 [
   {
+    "id": "9362c742-ade5-4b0d-93f0-2d19a3b24072",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "เรากับเพื่อนอยากทำเกม indie มีกัน2คน \nidea project เป็นแนวเกมจีบสาว visual novel ที่ใส่ระบบคิดค่าความสัมพันธ์แบบมีเลเยอร์นิดนึง\n\nหาคนมีประสบการณ์ทำเกมแนวที่เกี่ยวข้อ��� ให้คำแนะนำในการทำ ทั้งทั่วไปเกี่ยวกับลำดับการคิดและทำ และ commentตัว idea และgame design\n",
+    "title": "ที่ปรึกษาทำเกม indie",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-14T16:03:48.025837Z",
+    "updated_at": "2026-09-14T16:03:49.211201Z",
+    "user_id": "b10be3ea-f6a5-427e-95a3-a4a0c32269de",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-14T16:03:47.998857Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.4.2;iPhone;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-14T18:42:59.329Z"
+  },
+  {
     "id": "14331ffa-528d-4f55-a9a9-299c5a3c794b",
     "status": "open",
     "tag": {
@@ -292,103 +341,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-13T23:31:37.098Z"
-  },
-  {
-    "id": "06c00174-6149-4441-ac10-a3d45ce7a3f7",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "แบรนด์อาหารเสริม กำลังมองหาแอดมินมาช่วยดูแล\nช่องทางที่ต้องดูแล Facebook Messenger, LINE@, TikTok, Shopee \nรวมทุกแพลตฟอร์มวันละประมาณ 20 - 30 แชท \nและ มี ระบบคีย์ออเดอร์ , ต้องใช้ Google Sheet เป็น \nต้องใช้ laptop ในการทำงาน\n\nรายละเอียดงาน:\n\nการตอบแชท ใน Facebook Messenger, LINE@, TikTok, Shopee \n1.ส่งสคริปแนะนำสินค้าให้ลูกค้าที่สนใจ และ ถามราคา\n2. ตอบคำถามลูกค้า (มีชีทที่รวมคำถามที่พบบ่อยพร้อมคำตอบลูกค้า 60 กว่าคำถาม แต่มันก็จะมีอะไรที่นอกเหนือจากสคริป ควรตอบได้เองอย่างมืออาชีพ แต่ถ้าตอบไม่ได้จริงๆสามารถทักมาถามได้ค่ะ)\n3. ประสานงาน แก้ปัญหา ในแชท เช่น ถ้าลูกค้าขอเลคแทรคกิ้งต้องไปหาในระบบคีย์ออเดอร์ให้ได้ , ลูกค้าถามว่าของถึงไหนแล้ว ลูกค้ามีปัญหาอะไรก็ตามเกี่ยวกับการจัดส่ง ต้องประสานงานกับทีมที่แพคส่งของได้เอง\n4. สำหรับลูกค้าที่สั่งซื้อ ดูว่าลูกค้าขอเป็นแบบเเก็บปลายทาง หรือ โอนเงิน  ถ้าโอนเงินต้องให้บัญชีบริษัทเท่านั้นและเช็คสลิปการโอนเงินทุกครั้ง\n\nการทำชีท\n5.ช่วง 11.50 - 14.30 ทุกวัน จะต้องดูแลทำชีทรายชื่อให้แอดมินอีกคนในบริษัทโทรหาลูกค้า และ คีย์ออเดอร์เพิ่มเติมจาก telesales ที่โทรหาลูกค้าเพื่อยืนยันแล้ว \nต้องคีย์เสร็จภายใน 14.30 เนื่องจากคลังแพคของจะตัดรอบส่งของ\nการคีย์ออเดอร์ ในระบบ website มีลอคอินเข้าไป และ จะมีการสอนการใช้งาน\n6.คีย์ออเดอร์ที่สั่งเข้าระบบ เก็บปลายทาง หรือ โอนเงิน ต้องคีย์ให้ถูกต้อง ใส่ชื่อ ที่อยู่ เบอร์ และ จำนวนสินค้��� ราคา\n\nเพิ่มเติม\n7.โทรหาลูกค้าที่ไม่รับสายของแอดมินที่ทำหน้าที่โทรอีกคน ของวันก่อนหน้านี้เพื่อยืนยันออเดอร์\n8.ประสานงานอื่นๆ กับ แอดมินที่โทรหาลูกค้า , คลังแพคส่งของ , ขนส่ง flash express เพื่อติดตามสินค้า/แก้ปัญหาการจัดส่ง\n\nต้องการคนที่มาดูแลได้ จันทร์ - อาทิตย์ โดยไม่มีวันหยุด \nเวลา 10.00 - 21.00 แต่สามารถปรับเวลาได้ค่ะ \nต้องการคนที่มีประสบการณ์แก้ปัญหาจริง รู้ว่าควรตอบยังไง\nต้องการคนที่ทำงานละเอียด ไม่ทำงานตกหล่น ตั้งใจทำจริง และ ไว้ใจได้\nต้องการคนที่ใช้ภาษาไทย ค่ะ คะ ถูกต้อง \nต้องการคนที่เข้าใจ Customer Service รู้ว่าตอบยังไงลูกค้าจะพอใจ ไม่ตอบแบบห้วนๆ\nต้องการคนที่เคยมีประสบการณ์เป็นแอดมินมาก่อนเท่านั้นนะคะ \n\nขอบคุณมากๆค่ะ",
-    "title": "แอดมิน ตอบแชท,คีย์ออเดอร์,ทำชีท แบรนด์อาหารเสริม",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-13T16:21:04.134991Z",
-    "updated_at": "2026-09-13T16:21:05.814670Z",
-    "user_id": "c91f2af6-d994-460f-8ad2-c234fb0f8c51",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-13T16:21:04.040403Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-13T17:37:15.979Z"
-  },
-  {
-    "id": "b90bb504-d990-4acd-99c8-1360b4f0a600",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ระบบหลักๆที่ต้องการ\n-ระบบเติมเกมแบบไม่ต้องล็อคอิน\n-จ่ายเงินผ่านqr แบบไม่ต้องแนบสลีป\n-เชื่อมต่อ api\n-ชวนเพื่อนได้ค่าคอม\nอื่นๆ",
-    "title": "หาคนทำเว็บเติมเกมอัตโนมัติ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-13T12:20:59.421591Z",
-    "updated_at": "2026-09-13T12:21:00.329956Z",
-    "user_id": "028cc450-6626-403e-a80e-3c796b0aff07",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-13T12:20:59.367024Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-13T14:37:45.928Z"
   }
 ]
