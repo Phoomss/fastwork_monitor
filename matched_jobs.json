@@ -1,5 +1,201 @@
 [
   {
+    "id": "14331ffa-528d-4f55-a9a9-299c5a3c794b",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "มี Website ที่จ้างมาจาก Freelance เจ้าอื่น ต้องการปรับแก้ ด่วน\n\nขอคนที่สะดวกให้แชร์จอ \nสอนจิ้มแก้ไปทีละจุด",
+    "title": "สอนใช้ Wordpress ด่วน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-14T11:55:27.823742Z",
+    "updated_at": "2026-09-14T11:55:29.021853Z",
+    "user_id": "d766b049-6d72-4f2d-9e73-515f78411b54",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-14",
+    "expired_at": "2026-10-14T11:55:27.744821Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2.1;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-14T13:22:37.770Z"
+  },
+  {
+    "id": "4b50d39c-2c58-4270-b16a-f0cdf3f258b7",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ขอบเขตงาน (Scope of Work)\nออกแบบโครงสร้างฐานข้อมูล 3 ส่วนหลัก: Candidates (ผู้สมัคร), Jobs (ตำแหน่งงาน), Clients (ลูกค้า) โดยรองรับการแยกข้อมูลผู้สมัครตามลูกค้าแต่ละราย (client data segregation)\nสร้างฟอร์มกรอกข้อมูลผู้สมัคร สำหรับพนักงาน AREE เป็นผู้กรอกเองหลังสัมภาษณ์เบื้องต้นผ่าน (ไม่ใช่ผู้สมัครกรอกเองหรือดึงข้อมูลอัตโนมัติจากเรซูเม่เดิม)\nระบบสร้างเอกสาร CV รูปแบบแบรนด์ AREE โดยอัตโนมัติ (PDF) จากข้อมูลที่พนักงานกรอก — ไม่มีร่องรอยของแพลตฟอร์มสมัครงานต้นทาง\nระบบสถานะผู้���มัคร (pipeline) ครอบคลุม: สัมภาษณ์เบื้องต้น → ผ่าน/ไม่ผ่าน → ส่งลูกค้าแล้ว → ลูกค้าเลือก/ไม่เลือก → จ้างงานแล้ว/กลับเข้า Pool\nผู้สมัครทุกคนที่พนักงาน AREE กรอกเข้าระบบ (ไม่ว่าผลลัพธ์จะเป็นอย่างไร) ต้องถูกเก็บไว้ถาวรในสถานะ Pool เพื่อดึงกลับมาใช้กับตำแหน่ง/โปรเจกต์อื่นในอนาคตได้\nมี field บันทึกเหตุผลที่ไม่ผ่าน/ไม่ถูกเลือก เพื่อใช้อ้างอิงเมื่อดึงจาก Pool มาใช้ใหม่\nอบรมการใช้งานระบบให้ทีมงาน AREE (3 คน) ใช้งานเองได้ต่อเนื่องหลังส่งมอบ\nระบบ AI คัดกรอง/ให้คะแนนผู้สมัครเทียบกับ JD",
+    "title": "พัฒนาระบบฐานข้อมูลผู้สมัครงา��� (ATS)",
+    "is_owner": false,
+    "source": "jobboard_web_web_team_grand-company",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-14T11:01:48.256779Z",
+    "updated_at": "2026-09-14T11:01:49.247015Z",
+    "user_id": "d8f662a4-b4d8-42dd-b130-ae3c009c4780",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-10-14T11:01:48.186931Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d8f662a4-b4d8-42dd-b130-ae3c009c4780",
+      "username": "areeworkforcetech",
+      "display_name": "A.R.E.E. Workforce Tech",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d8f662a4-b4d8-42dd-b130-ae3c009c4780/profile/526bfa2e-38f8-4c00-ba95-9574d2dfa50b.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-14T13:22:36.689Z"
+  },
+  {
+    "id": "c6f07f3a-cc09-456a-9c0d-4ba5e829d2ee",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": " ฉันอยากปรึกษาเรื่องระบบ  drm วิธีการใช้ป้องกันกันเลี่ยงระบบการเลี่ยงระบบอยากปรึกษาหากได้ผลมีค่าตอบแทน",
+    "title": "ฉันหาผู้เชี่ยวชาญและมีความรู้ด้านระบบ DRM (Digital Rights Management)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-14T09:36:20.455839Z",
+    "updated_at": "2026-09-14T09:36:21.443592Z",
+    "user_id": "70fbe4e5-7a56-4842-9a89-0feb47c55b15",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-14T09:36:20.437856Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-14T13:22:34.501Z"
+  },
+  {
+    "id": "f9426e8d-cbe2-42bf-a723-198a21bc24eb",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หัวข้อ: การ Build & Deploy แอปพลิเคชัน Unity ลง Meta Quest 3S\n\nสิ่งที่ต้องเตรียมก่อนเริ่มปฏิบัติการ\n- บัญชี Meta Developer Account (Verify ผ่านเบอร์โทรหรืออีเมล์แล้ว)\n- สมาร์ตโฟนที่ติดตั้งแอป Meta Horizon\n- เครื่องคอมพิวเตอร์พร้อมสาย USB-C (รองรับ Data Transfer)\n- โปรแกรม Unity Hub + Unity Editor (แนะนำเวอร์ชัน LTS เช่น 2022.3 LTS หรือ Unity 6) พร้อมติดตั้งโมดูล Android Build \nSupport (Android SDK & NDK Tools, OpenJDK)\n- โปรแกรมเสริมสำหรับ Sideload: SideQuest หรือ Meta Quest Developer Hub (MQDH)\n",
+    "title": "จ้างทำเกม/เเอป VR ด้วย unity สำหรับ meta quest 3s",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-14T09:34:44.904737Z",
+    "updated_at": "2026-09-14T09:34:45.704977Z",
+    "user_id": "b6da0a0d-37e4-4597-b1cf-0743229f02cf",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-15",
+    "expired_at": "2026-10-14T09:34:44.883223Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "b6da0a0d-37e4-4597-b1cf-0743229f02cf",
+      "username": "ningcheek",
+      "display_name": "Araya Khaithong",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b6da0a0d-37e4-4597-b1cf-0743229f02cf/profile/3f704fb7-2ab1-4e12-8fc7-936d9e09fa3c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-14T13:22:33.397Z"
+  },
+  {
     "id": "d346f29e-1479-4dc2-8fbd-1353be50eb5e",
     "status": "open",
     "tag": {
@@ -194,54 +390,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-13T14:37:45.928Z"
-  },
-  {
-    "id": "0ff95e5f-dcd3-44e7-a112-b2abd4e38474",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "หัวข้องาน: ออกแบบลายสกรีนหลอดครีม ลงดายคัทสำหรับส่งโรงงานผลิต \n\nรายละเอียดและขอบเขตงาน:\nต้องการจ้างกราฟิกดีไซเนอร์ออกแบบลายบรรจุภัณฑ์หลอดครีม พร้อมวางอาร์ตเวิร์กลงแบบพิมพ์จริง เพื่อส่งโรงงานผลิต\n\n1. สิ่งที่เตรียมให้:\n ไฟล์บลูปริ้นท์ดายคัทของโรงงาน (สเปกหลอด D45mm x 100g x 128mm) มีระยะหน้า-หลัง และระยะขอบเซฟตี้ชัดเจน\n บรีฟคอนเซปต์ โทนสี โลโก้ และข้อความรายละเอียดส่วนผสม/วิธีใช้ ทั้งด้านหน้าและด้านหลัง\n\n1. ขอบเขตงานที่ต้องการ:\n ออกแบบกราฟิกหลอดตามบรีฟ (มีภาพตัวอย่าง 3D Mockup หลอดครีมให้เห็นรอบด้าน)\n จัดวางไฟล์งานจริงลงบน Blueprint / Die-cut template ของโรงงาน โดยวางตัวอักษรและกราฟิกให้อยู่ในPrinting Area ถูกต้องตามระยะมิลลิเมตรที่กำหนด\n\n สามารถปรับแก้แบบได้ตามสมควร (ประมาณ 2-3 ครั้ง)\n\n\n1. ไฟล์ส่งมอบที่ต้องการ:\n ไฟล์ต้นฉบับสำหรับส่งโรงงานผลิต: AI หรือ PDF (ความละเอียดสูง ครีเอทเอาต์ไลน์ฟอนต์ ระบุโค้ดสี/Pantone ให้เรียบร้อย)\n ภาพ 3D Mockup (PNG/JPG) สำหรับดูภาพรวมสินค้าจริง\n\n\n",
-    "title": "ออกแบบบรรจุภัณฑ์หลอดครีม ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-13T06:50:42.047239Z",
-    "updated_at": "2026-09-13T06:50:43.755355Z",
-    "user_id": "a5ba8136-3720-46ec-91eb-60228e238027",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-20",
-    "expired_at": "2026-10-13T06:50:41.963529Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPad;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a5ba8136-3720-46ec-91eb-60228e238027",
-      "username": "punweirb",
-      "display_name": "pun",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a5ba8136-3720-46ec-91eb-60228e238027/profile/af77bfba-2b2f-4156-a8ff-78334da23f70.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-13T10:34:34.368Z"
   }
 ]
