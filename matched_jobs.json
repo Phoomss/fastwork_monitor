@@ -1,5 +1,54 @@
 [
   {
+    "id": "d346f29e-1479-4dc2-8fbd-1353be50eb5e",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "full-time",
+    "description": "หน้าที่และความรับผิดชอบ\n1. ศึกษา วิเคราะห์ และวินิจฉัยปัญหาที่เกิดขึ้นในระบบเทคโนโลยีการเรียนการสอนออนไลน์ เพื่อหาแนวทางแก้ไข และปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น\n2. ศึกษาและติดตามเทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาระบบบริหารจัดการเรียนการสอนออนไลน์ ให้ทันสมัย และสอดคล้องกับการเรียนการสอนในปัจจุบัน\n3. พัฒนาและปรับปรุงระบบการเรียนการสอนออนไลน์อย่างต่อเนื่อง เพื่อรองรับการใช้งานของผู้สอนและผู้เรียนให้ใช้งานได้ง่าย รองรับการใช้งานทุกอุปกรณ์\n4. ตรวจสอบ แก้ไข และบำรุงรักษาระบบเมื่อเกิดข้อผิดพลาด เพื่อป้องกันปัญหาที่อาจเกิดซ้ำ ลดผลกระทบต่อการใช้งานจริงของผู้สอนและผู้เรียน\n5. ประสานงานและสื่อสารกับทีมงานหรือหน่วยงานที่เกี่ยวข้อง เพื่อให้ระบบสามารถดำเนินงานได้อย่างมีประสิทธิภาพ\n6. ปฏิบัติงานอื่น ๆ ตามที่ได้รับมอบหมาย\n\nคุณสมบัติ\n1. เพศชาย/หญิง อายุไม่เกิน 40 ปี\n2. สำเร็จการศึกษาระดับปริญญาตรี หรือปริญญาโท สาขาที่เกี่ยวข้อง\n3. สามารถเขียนและแก้ไขโค้ดอย่างน้อยหนึ่งภาษา เช่น C++, PHP, Java, HTML, CSS, Python หรือภาษาอื่นที่เกี่ยวข้อง\n4. มีภาวะความเป็นผู้นำ สามารถบริหารจัดการงาน และประสานงานกับทีมได้อย่างมีประสิทธิภาพ\n5. มีทักษะการสื่อสารที่ดี สามารถทำงานร่วมกับบุคลากรหลายฝ่ายได้\n6. มีประสบการณ์ใช้งานระบบ e-Learning หรือระบบบริหารจัดการองค์กร (Organization Management System)\n7. ใช้งานโปรแกรมด้านออกแบบสื่อได้ เช่น Illustrator (ระดับ Good หรือ Advanced) Photoshop (ระดับ Good หรือ Advanced)\n8. มีความกระตือรือร้น รับผิดชอบสูง ทำงานภายใต้แรงกดดันได้ดี และมีมนุษยสัมพันธ์ที่ดี\n9. สามารถเดินทางปฏิบัติงานต่างจังหวัดได้",
+    "title": "หัวหน้างานระบบเทคโนโลยีการเรียนการสอนออนไลน์ มหาวิทยาลัยหอการค้าไทย",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "40000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-14T06:29:28.273538Z",
+    "updated_at": "2026-09-14T06:29:29.267833Z",
+    "already_offered": false,
+    "brief_url": "https://extension.utcc.ac.th/programs/bachelor-degree/bba-online/",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-14T06:29:28.199034Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7f26fab1-4f13-4a0e-912a-e8e45ce84cd0",
+    "user_profile": {
+      "id": "7f26fab1-4f13-4a0e-912a-e8e45ce84cd0",
+      "username": "sy1lyuj5",
+      "display_name": "sy1lyuj5",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "40000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-14T06:46:17.491Z"
+  },
+  {
     "id": "3ce88e3f-04dd-41b2-aafe-5af0d4cd707e",
     "status": "open",
     "tag": {
@@ -194,54 +243,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-09-13T10:34:34.368Z"
-  },
-  {
-    "id": "99a02400-68fa-4245-abe9-af960268cc37",
-    "status": "open",
-    "tag": {
-      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
-      "name": "งานสอน",
-      "sort": 12
-    },
-    "type": "freelance",
-    "description": "ต้องการหาผู้สอน TradingView และ MT5 บนคอม แบบตัวต่อตัว สำหรับผู้เริ่มต้นมาก ๆ\n\nปัจจุบันผู้ว่าจ้างใช้ MT5 ผ่านมือถือเป็นหลัก และใช้ TradingView เป็นหลักในการดูกราฟ/Backtest แต่ยังไม่คล่องการใช้งานบนคอม โดยเฉพาะ MT5\n\nต้องการผู้สอนที่สามารถ สอนแบบจับมือทำผ่าน Screen Share (Zoom/Google Meet) ไม่ใช่เพียงส่งคลิปหรือเอกสารมาให้ศึกษาเอง\n\nสิ่งที่ต้องการเรียน:\n\n* การใช้งาน TradingView บนคอม\n* การใช้งาน MT5 บนคอม\n* การเปิด/ตั้งค่ากราฟและ Timeframe\n* การใช้ Indicator เบื้องต้น\n* การดูกราฟย้อนหลังและ Backtest\n* การใช้งาน MT5 Strategy Tester\n* การทำ Backtest เบื้องต้น\n* การอ่านผล Backtest เบื้องต้น\n* พื้นฐานการทำ Optimization ใน MT5\n\nผู้ว่าจ้างไม่มีพื้นฐาน IT / Programming จึงต้องการคนที่ใจเย็น อธิบายภาษาคน และสอนทีละขั้นตั้งแต่เริ่มต้น\n\nไม่ต้องสอนเขียนโปรแกรม และไม่ต้องสร้าง EA ในงานนี้\n\nหากสามารถสอนแบบตัวต่อตัวและให้ผู้ว่าจ้างลองทำตามไปพร้อมกันได้ จะพิจารณาเป็นพิเศษ\n\nกรุณาแจ้งประสบการณ์ ราคา และระยะเวลาที่ใช้สอนโดยประมาณ",
-    "title": "หาคนสอน TradingView + MT5 บนคอม แบบ���ับมือทำสำหรับมือใหม่",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-13T01:35:48.522524Z",
-    "updated_at": "2026-09-13T01:35:49.696069Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-13T01:35:48.501523Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "446dd166-144f-4526-8c5e-ef387cec187d",
-    "user_profile": {
-      "id": "446dd166-144f-4526-8c5e-ef387cec187d",
-      "username": "minnichapat",
-      "display_name": "Nichapat Tathong",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/446dd166-144f-4526-8c5e-ef387cec187d/profile/7d922f18-03ef-46bd-88dd-96d6c22d8d3c.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-13T05:36:27.698Z"
   }
 ]
