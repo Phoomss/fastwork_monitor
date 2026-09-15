@@ -1,5 +1,104 @@
 [
   {
+    "id": "9c9501d3-2434-4d53-af9d-a4ba49052d5f",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตามหา Freelance WordPress Developer สำหรับเว็บไซต์สำนักงานบัญชี\n\nScope งาน\n- พัฒนาเว็บไซต์ด้วย WordPress\n- เว็บไซต์แบบ One-page Website\n- เนื้อหาหลักประกอบด้วย ข้อมูลบริษัท / บริการ / เกี่ยวกับเรา / ช่องทางการติดต่อ\n- ออกแบบเว็บไซต์ให้มีความ Professional, Clean และน่าเชื่อถือ เหมาะกับธุรกิจสำนักงานบัญชี\n- รองรับการใช้งานทั้ง Desktop และ Mobile\n\nคุณสมบัติที่ต้องการ\n- ต้องมีประสบการณ์ทำเว็บไซต์ให้สำนักงานบัญชี / บริษัทด้านบัญชีโดยตรง\n- สามารถดูแลตั้งแต่ Setup, Design จนถึง Development และส่งมอบเว็บไซต์พร้อมใช้งาน\n\nสำหรับผู้ที่สนใจ รบกวนส่ง\n- ราคาประเมินสำหรับโปรเจกต์\n- ระยะเวลาที่ใช้ในการทำงาน\n- Link เว็บไซต์สำนักงานบัญชีที่เคยทำ เพื่อประกอบการพิจารณา",
+    "title": "Freelance WordPress Developer",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-15T08:09:55.575251Z",
+    "updated_at": "2026-09-15T08:09:57.398151Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-30",
+    "expired_at": "2026-10-15T08:09:55.372540Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "e55170c3-2f76-4601-a85b-a33f057b8ee6",
+    "user_profile": {
+      "id": "e55170c3-2f76-4601-a85b-a33f057b8ee6",
+      "username": "endlessming",
+      "display_name": "endlessming",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e55170c3-2f76-4601-a85b-a33f057b8ee6/profile/95c7ecb2-4a72-4e54-968e-a6ab41e738b5.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-15T10:00:50.085Z"
+  },
+  {
+    "id": "a1442cee-11c9-4cf3-9d89-5ea48fdf8b93",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ต้องการให้ทำpower point เผื่อนำเสนอลูกค้า มีข้อมูลให้  ส่งคืนนี้ค่ะ รายละเอียดเป็นทำผัง chart ผังจำนวนคน",
+    "title": "หาคนทำPower point สำหรับเสนอลูกค้า",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-15T07:33:01.707658Z",
+    "updated_at": "2026-09-15T07:33:02.891152Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-15",
+    "expired_at": "2026-10-15T07:33:01.677427Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "628a5572-680e-4742-9a0d-6d8ecd2130ef",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-15T10:00:47.083Z"
+  },
+  {
     "id": "9362c742-ade5-4b0d-93f0-2d19a3b24072",
     "status": "open",
     "tag": {
@@ -243,54 +342,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-14T13:22:33.397Z"
-  },
-  {
-    "id": "d346f29e-1479-4dc2-8fbd-1353be50eb5e",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "full-time",
-    "description": "หน้าที่และความรับผิดชอบ\n1. ศึกษา วิเคราะห์ และวินิจฉัยปัญหาที่เกิดขึ้นในระบบเทคโนโลยีการเรียนการสอนออนไลน์ เพื่อหาแนวทางแก้ไข และปรับปรุงระบบให้มีประสิทธิภาพมากขึ้น\n2. ศึกษาและติดตามเทคโนโลยีใหม่ ๆ เพื่อนำมาพัฒนาระบบบริหารจัดการเรียนการสอนออนไลน์ ให้ทันสมัย และสอดคล้องกับการเรียนการสอนในปัจจุบัน\n3. พัฒนาและปรับปรุงระบบการเรียนการสอนออนไลน์อย่างต่อเนื่อง เพื่อรองรับการใช้งานของผู้สอนและผู้เรียนให้ใช้งานได้ง่าย รองรับการใช้งานทุกอุปกรณ์\n4. ตรวจสอบ แก้ไข และบำรุงรักษาระบบเมื่อเกิดข้อผิดพลาด เพื่อป้องกันปัญหาที่อาจเกิดซ้ำ ลดผลกระทบต่อการใช้งานจริงของผู้สอนและผู้เรียน\n5. ประสานงานและสื่อสารกับทีมงานหรือหน่วยงานที่เกี่ยวข้อง เพื่อให้ระบบสามารถดำเนินงานได้อย่างมีประสิทธิภาพ\n6. ปฏิบัติงานอื่น ๆ ตามที่ได้รับมอบหมาย\n\nคุณสมบัติ\n1. เพศชาย/หญิง อายุไม่เกิน 40 ปี\n2. สำเร็จการศึกษาระดับปริญญาตรี หรือปริญญาโท สาขาที่เกี่ยวข้อง\n3. สามารถเขียนและแก้ไขโค้ดอย่างน้อยหนึ่งภาษา เช่น C++, PHP, Java, HTML, CSS, Python หรือภาษาอื่นที่เกี่ยวข้อง\n4. มีภาวะความเป็นผู้นำ สามารถบริหารจัดการงาน และประสานงานกับทีมได้อย่างมีประสิทธิภาพ\n5. มีทักษะการสื่อสารที่ดี สามารถทำงานร่วมกับบุคลากรหลายฝ่ายได้\n6. มีประสบการณ์ใช้งานระบบ e-Learning หรือระบบบริหารจัดการองค์กร (Organization Management System)\n7. ใช้งานโปรแกรมด้านออกแบบสื่อได้ เช่น Illustrator (ระดับ Good หรือ Advanced) Photoshop (ระดับ Good หรือ Advanced)\n8. มีความกระตือรือร้น รับผิดชอบสูง ทำงานภายใต้แรงกดดันได้ดี และมีมนุษยสัมพันธ์ที่ดี\n9. สามารถเดินทางปฏิบัติงานต่างจังหวัดได้",
-    "title": "หัวหน้างานระบบเทคโนโลยีการเรียนการสอนออนไลน์ มหาวิทยาลัยหอการค้าไทย",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "40000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-14T06:29:28.273538Z",
-    "updated_at": "2026-09-14T06:29:29.267833Z",
-    "already_offered": false,
-    "brief_url": "https://extension.utcc.ac.th/programs/bachelor-degree/bba-online/",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-14T06:29:28.199034Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7f26fab1-4f13-4a0e-912a-e8e45ce84cd0",
-    "user_profile": {
-      "id": "7f26fab1-4f13-4a0e-912a-e8e45ce84cd0",
-      "username": "sy1lyuj5",
-      "display_name": "sy1lyuj5",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "40000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-14T06:46:17.491Z"
   }
 ]
