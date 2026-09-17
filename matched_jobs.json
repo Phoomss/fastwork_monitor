@@ -1,5 +1,152 @@
 [
   {
+    "id": "8444ff5f-51aa-42f0-a254-a38ef93f0fa0",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ปรแกรม ReFox XII ต้องการ แปลงไฟล์ .exe เป็นโปรเจคลองเปิดด้วย refox แล้วเห็นโครงสร้างครบแต่ติดที่โปรแกรมเป็น demo ไม่ยอมให้ทำ",
+    "title": "หาคนมีโปรแกรม ReFox XII ต้องการ re .exe",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-17T12:37:23.165446Z",
+    "updated_at": "2026-09-17T12:37:24.369219Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-10-17T12:37:23.144111Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7be214e0-ca3e-4693-842c-ec3057eb59d4",
+    "user_profile": {
+      "id": "7be214e0-ca3e-4693-842c-ec3057eb59d4",
+      "username": "berdsoda",
+      "display_name": "berdsoda",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7be214e0-ca3e-4693-842c-ec3057eb59d4/profile/a0470591-18f4-424e-a5c1-0cc022552ea8.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-17T14:51:00.973Z"
+  },
+  {
+    "id": "e7b58483-cad1-436c-bfbb-0323eb13d653",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "กรุณาอ่านรายละเอียดให้ครบ\nต้องทำให้เสร็จภายใน 24 ชม.หลังได้รับรหัส\n(ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน (Job Description)\nรายละเอียดและลักษณะงาน:\nต้องการผู้ทดสอบอัดเสียงภาษาไทย (Native Speaker)\nจำนวนมาก สำหรับลงเสียงอ่านข้อความสั้นๆ 210 ประโยค\nใช้เวลาทำรายการประมาณ 15–20 นาที\nทำผ่านสมาร์ตโฟน (iOS / Android)\nอัดเสียงในห้องที่เงียบ สงบ ไม่มีเสียงรบกวน (เช่น เสียงพัดลม, เสียงทีวี, เสียงคนคุยกัน)\n\nคุณสมบัติผู้สม���คร:\n1. พูดภาษาไทยเป็นภาษาแม่ (สำเนียงไทยปกติ ฟังชัดเจน)\n2. อายุระหว่าง 18 – 60 ปี (รับทั้งชายและหญิง)\n\nข้อกำหนดเรื่องคุณภาพเสียง (QC Standard):\nอ่านออกเสียงเป็นธรรมชาติ ไม่เกร็ง\nไม่ใส่อารมณ์เวอร์ และไม่อ่านเว้นจังหวะแปลกๆ\nอ่านตรงตามข้อความในสคริปต์ 100% \n(ห้ามเติมคำ ห้ามตัดคำ ห้ามอ่านตก)\nเสียงชัดเจน ไม่มีเสียงซ่า/เสียงก้อง หรือเสียงรบกวนรอบข้าง\n\nหมายเหตุ: หากผ่าน QC เกณฑ์มาตรฐาน (95% ขึ้นไป) จะได้รับการอนุมัติงานทันที (หากมีจุดแก้ไข สามารถแก้ไขได้ 1 ครั้ง)\n\n⌛ ระยะเวลาการตรวจงาน (QC):\n-แจ้งผลการตรวจเบื้องต้น: ภ��ยใน 3–5 วัน \nนับจากวันที่ส่งไฟล์อัดเสียง\n-ระยะเวลารออนุมัติเงิน: ระบบ ใหญ่ ใช้เวลาตรวจอย่างเป็นทางการประมาณ 10–12 วันทำการ หรืออาจเร็วกว่านี้ (หากผลผ่าน QC เกณฑ์ 95% ขึ้นไป จะได้รับการอนุมัติเงินทันที\nค่ะ)",
+    "title": "อัดเสียงภาษาไทยสั้น ทำภายใน24ชม.",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "140",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-17T12:33:18.476782Z",
+    "updated_at": "2026-09-17T12:33:19.402522Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-18",
+    "expired_at": "2026-10-17T12:33:18.453845Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "140",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-17T14:50:59.664Z"
+  },
+  {
+    "id": "b78886bc-65e6-48d5-8d3c-a8561204700a",
+    "status": "open",
+    "tag": {
+      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
+      "name": "งานเขียน / บทความ",
+      "sort": 8
+    },
+    "type": "freelance",
+    "description": "ตอนนี้สนใจทำหัวข้อวิจัยตีพิมพ์เกี่ยวกับ stateful detector ครับ แต่ยังไม่เข้าใจวิธีหา gap ของ paper เพื่อเอามาต่อยอดเป็นงานวิจัยครับ\n",
+    "title": "หาคนช่วยหาgap paper ทำงานวิจัยเกี่ยวกับ web app detector",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-17T12:08:15.414844Z",
+    "updated_at": "2026-09-17T12:08:16.505862Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-17T12:08:15.385480Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a4bc6936-1aca-4a1e-afed-eb56587268dd",
+    "user_profile": {
+      "id": "a4bc6936-1aca-4a1e-afed-eb56587268dd",
+      "username": "isenalwin",
+      "display_name": "iwannabebetter",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-17T14:50:58.268Z"
+  },
+  {
     "id": "ee024857-c629-4ae5-873a-e25078bb05bd",
     "status": "open",
     "tag": {
