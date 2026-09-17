@@ -1,5 +1,103 @@
 [
   {
+    "id": "234c3828-2563-4748-9694-93302e478f5d",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหานักออกแบบผลิตภัณฑ์หรือสิ่งทอที่มีประสบการณ์ด้านถุงเท้า เพื่อร่วมพัฒนาสิน��้าหลายรุ่นให้กับแบรนด์ในระยะยาว\n\nต้องการผู้ที่สามารถออกแบบถุงเท้าได้หลากหลายประเภท ทั้งแบบมีและไม่มีปุ่มกันลื่น โดยคำนึงถึงความสมดุลระหว่าง Performance, Comfort และ Premium Sport Fashion สำหรับนักกีฬา ผู้ที่ออกกำลังกาย และกลุ่ม Active Lifestyle\n\nขอบเขตงานต่อหนึ่งรุ่น\n\nออกแบบรูปทรง สี ลวดลาย และภาพรวมของสินค้า\nกำหนดตำแหน่งโลโก้และข้อความ\nออกแบบลายปุ่มกันลื่น หากเป็นรุ่น Grip\nพัฒนาโครงสร้างและฟังก์ชันแต่ละโซน เช่น การกระชับ การรองรับแรงกระแทก การระบายอากาศ และความสบาย\nแนะนำวัสดุหรือส่วนผสมที่เหมาะสม\nจัดทำ Technical Drawing และรายละเอียดสำหรับส่งโรงงาน\nทำ��าพ Mockup สำหรับนำเสนอ\nตรวจตัวอย่างจากโรงงานและแนะนำการปรับแก้ก่อนผลิตจริง\n\nทิศทางการออกแบบ\n\nPremium Sport Fashion\nModern, Minimal และมีเอกลักษณ์\nดูเป็นสินค้ากีฬา แต่ไม่เหมือนถุงเท้าฟุตบอลทั่วไป\nใช้งานได้กับกีฬา การออกกำลังกาย และชีวิตประจำวัน\nสามารถพัฒนาเป็น Signature Design ของแบรนด์ได้\n\nปัจจุบันมีโรงงานผลิตแล้ว แต่ต้องการพัฒนาสเปกและดีไซน์ใหม่ในแต่ละรุ่น ผู้ว่าจ้างจะเป็นผู้ประสานงานหลักกับโรงงาน และส่งข้อมูลข้อจำกัดการผลิตให้ผู้ออกแบบ\n\nไฟล์ที่ต้องส่งมอบ\n\nTechnical Drawing รอบด้านและใต้ฝ่าเท้า\nรายละเอียดสี วัสดุ โครงสร้างการถัก และตำแหน่งต่าง ๆ\nไฟล์ AI หรือเวกเตอร์ที่แก้ไขได้\nPDF สำหรับส่งโรงงาน\nภาพ Mockup\nสิทธิ์ใช้งานเชิงพาณิชย์ของผลงานที่ได้รับเลือก\n\nกรุณาส่ง Portfolio งานถุงเท้า เสื้อผ้ากีฬา หรือผลิตภัณฑ์สิ่งทอ พร้อมแจ้งประสบการณ์ทำงานกับโรงงาน ขั้นตอนการทำงาน จำนวนรอบแก้ไข และระยะเวลาโดยประมาณ\n\nโปรดเสนอราคาแยกเป็น:\n\nค่าออกแบบต่อ 1 รุ่น พร้อม Technical Drawing\nค่าตรวจและแนะนำการแก้ Sample ต่อรอบ\nราคาแพ็กเกจสำหรับการออกแบบหลายรุ่น",
+    "title": "มองหานักออกแบบผลิตภัณฑ์ถุงเท้า Performance & Sport Fashion",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-17T04:13:17.787242Z",
+    "updated_at": "2026-09-17T04:13:19.187007Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-17T04:13:17.728580Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5654439c-638a-4acb-b5b7-348d8606f8f0",
+    "user_profile": {
+      "id": "5654439c-638a-4acb-b5b7-348d8606f8f0",
+      "username": "pulsegear.th",
+      "display_name": "Pulsegear",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5654439c-638a-4acb-b5b7-348d8606f8f0/profile/224376d0-455e-447f-9781-b1c9118cfe85.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-17T05:17:35.163Z"
+  },
+  {
+    "id": "5f39676b-fd65-4095-9974-cdfafc1d831c",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการนักออกแบบ Wordmark / Logotype / Custom Lettering เพื่อออกแบบชื่อแบรนด์ภาษาอังกฤษ 3 ตัวอักษร สำหรับแบรนด์ Performance & Sport Fashion\n\nแบรนด์มีโลโก้สัญลักษณ์จากอักษรตัวแรกอยู่แล้ว ต้องการพัฒนา Wordmark แบบเต็มโดยต่อยอดเอกลักษณ์จากโลโก้เดิม ให้ทั้งสองแบบดูเป็นแบรนด์เดียวกัน ชื่อแบรนด์และไฟล์โลโก้จะเปิดเผยกับผู้ที่ได้รับการคัดเล��อก\n\nทิศทางงาน\n\nบุคลิกหลัก Sporty + Performance\nModern, Minimal, แข็งแรง และดู Premium\nอ่านตัวอักษรทุกตัวได้ชัดเจน\nใช้งานได้กับทั้งสินค้ากีฬาและ Sport Fashion\nไม่ดูคล้ายโลโก้ทีมฟุตบอลหรือดุดันเกินไป\nต้องเป็นตัวอักษรที่ออกแบบหรือปรับแต่งเฉพาะ ไม่ใช่เพียงพิมพ์ด้วยฟอนต์สำเร็จรูป\n\nขอบเขตงาน\n\nออกแบบ Custom Wordmark\nเหมาะสำหรับการปักและทอบนถุงเท้าในขนาดเล็ก\nใช้ได้ทั้งสีเดียว ขาวบนดำ และดำบนขาว\nมี Mockup บนถุงเท้า เสื้อผ้า และบรรจุภัณฑ์\nออกแบบตำแหน่ง Wordmark และลวดลายบนถุงเท้า\nต้องดูทันสมัยและสามารถผลิตจริงได้\nจำนวนแบบยังไม่กำหนด ��อให้เสนอแนวทางและราคา\nจัดวาง Wordmark และข้อความบนบรรจุภัณฑ์เดิม\nไม่รวมการออกแบบโครงสร้างแพ็กเกจใหม่\n\nไฟล์ที่ต้องการ\n\nAI หรือ SVG, PDF และ PNG พื้นโปร่งใส\nเวอร์ชันสีดำ สีขาว และกลับสี\nไฟล์ต้นฉบับที่แก้ไขและนำไปผลิตต่อได้\nรหัสสีและแนวทางใช้งานเบื้องต้น\n\nเงื่อนไข\n\nผลงานต้องไม่คัดลอกหรือละเมิดเครื่องหมายการค้าอื่น\nหากใช้ฟอนต์เป็นฐาน ต้องแจ้งชื่อและสิทธิ์การใช้งาน\nต้องโอนสิทธิ์ใช้งานเชิงพาณิชย์ของผลงานที่ได้รับเลือกให้ผู้ว่าจ้าง\n\nกรุณาส่ง Portfolio งาน Wordmark/Custom Lettering พร้อมแจ้งจำนวนแนวคิด จำนวนรอบ���ก้ไข ระยะเวลาทำงาน และแยกราคาสำหรับ Wordmark, ลายถุงเท้า, แพ็กเกจ และราคาเหมารวม\n\nงบประมาณเบื้องต้นไม่เกิน 5,000 บาท ระยะเวลายืดหยุ่น เน้นคุณภาพและการนำไปผลิตจริง",
+    "title": "ออกแบบ Custom Wordmark สำหรับแบรนด์ Performance & Sport Fashion",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-17T03:17:55.524395Z",
+    "updated_at": "2026-09-17T03:17:57.006195Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-17T03:17:55.464936Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5654439c-638a-4acb-b5b7-348d8606f8f0",
+    "user_profile": {
+      "id": "5654439c-638a-4acb-b5b7-348d8606f8f0",
+      "username": "pulsegear.th",
+      "display_name": "Pulsegear",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5654439c-638a-4acb-b5b7-348d8606f8f0/profile/224376d0-455e-447f-9781-b1c9118cfe85.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-17T05:17:33.952Z"
+  },
+  {
     "id": "4ce8299a-045e-4c12-81f8-e138568c2d91",
     "status": "open",
     "tag": {
