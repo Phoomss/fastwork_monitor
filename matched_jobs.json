@@ -342,54 +342,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-09-17T05:17:33.952Z"
-  },
-  {
-    "id": "4ce8299a-045e-4c12-81f8-e138568c2d91",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "รับสมัครฟรีแลนซ์ด้าน Security (งานทดลองแบบมีค่าตอบแทน)\n\nบริษัท สร้างเอไอ จำกัด พัฒนา AI สำหรับบริษัทไทย ระบบของเราทำงานบน��ซิร์ฟเวอร์ Linux และคลาวด์ในประเทศ\n\nขอบเขตงานทดลอง (ราคาเหมา):\n1. Threat model ของระบบ: VPS Linux 1 เครื่อง + เว็บแอป 1 ตัว\n2. ข้อเสนอ hardening ที่สำคัญที่สุด 10 ข้อ พร้อมวิธีแก้\n3. รายงานสรุปเป็นภาษาอังกฤษ\nเริ่มงานหลังเซ็นหนังสืออนุญาตและขอบเขตงานเป็นลายลักษณ์อักษรเท่านั้น\n\nถ้างานทดลองดี จะจ้างต่อเป็นรายโปรเจกต์: hardening เซิร์ฟเวอร์ / GPU server, network segmentation, RBAC และ audit log, ทดสอบเว็บแอป (OWASP Top 10), เอกสาร PDPA / ISO 27001\n\nคุณสมบัติ: ประสบการณ์ security / sysadmin / DevSecOps / pentest 1–3 ปี ไม่บังคับ cert ผลงาน CTF, HackTheBox / TryHackMe, bug bounty หรือ homelab มีน้ำหนักเท่ากัน เขียนรายงานภาษาอังกฤษได้\n\nตอนเสนองาน กรุณาตอบเป็นภาษาอังกฤษไม่เกิน 5 ข้อ: คุณจะรักษาความปลอดภัยของ GPU server หนึ่งเครื่องที่เก็บเอกสารลับของบริษัทอย่างไร\n\n---\nPaid trial for a security freelancer. Saang AI builds AI for Thai companies.\nTrial scope (fixed fee): threat model + top-10 hardening findings for one Linux VPS and one web app, written report in English. Work starts only under a signed written authorisation and scope.\nGood trial = ongoing project work (server/GPU hardening, network segmentation, RBAC/audit logs, web AppSec, PDPA/ISO 27001 docs).\n1–3 yrs hands-on; no certs required, CTF/HTB/bug bounty/homelab count.\nIn your proposal, answer in 5 bullets or fewer: how would you secure a single GPU server that holds a company's confidential documents?\n",
-    "title": "Security review + hardening เซิร์ฟเวอร์และเว็บแอป (งานทดลอง มีค่าตอบแทน)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "8000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-16T21:56:37.059965Z",
-    "updated_at": "2026-09-16T21:56:39.065110Z",
-    "user_id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-16T21:56:37.000681Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
-      "username": "saangai",
-      "display_name": "Saang AI",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "8000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-16T22:18:43.538Z"
   }
 ]
