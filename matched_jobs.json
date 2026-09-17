@@ -1,5 +1,104 @@
 [
   {
+    "id": "ee024857-c629-4ae5-873a-e25078bb05bd",
+    "status": "open",
+    "tag": {
+      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
+      "name": "งานสอน",
+      "sort": 12
+    },
+    "type": "part-time",
+    "description": "ต้องการครูสอนเขียนโปรแกรมให้เด็กอายุ 17 ค่ะ\nน้องจะเรียนเพื่อเอาความรู้ไปเรียนต่อที่ประเทศจีน\nอยากได้ครูสอนวันเสาร์หรือวัน���าทิตย์ ช่วงเช้าถึงเย็น\nราคาเป็นครอสเรียน เช่น 30ชม. 10,000 ประมาณนี้\nแล้วเรียนอาทิตย์ล่ะ 1 วัน วันล่ะ 2-3ชม. จนครบค่ะ\nใครเก่งหรือสอนอยู่แล้ว รบกวนติดต่อมานะคะ",
+    "title": "ครูสอนเขียนโปรแกรม",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-17T09:14:13.336111Z",
+    "updated_at": "2026-09-17T09:14:14.941520Z",
+    "user_id": "b012cd3c-f6e9-44dd-a565-0a01fa7b8641",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-17T09:14:13.310244Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "b012cd3c-f6e9-44dd-a565-0a01fa7b8641",
+      "username": "x9aatbxn",
+      "display_name": "x9aatbxn",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-17T10:02:51.912Z"
+  },
+  {
+    "id": "df037496-77ee-4bf3-8d03-c197a1622804",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "คนเขียนโปรแกรมตอบเมนท์ใต้โพสต์ในโซเชียล เฟสบุ๊คติกตอกไอจีเอ็กซ์\n\nคุยรายละเอียดงานรับ requirement\nจัดทำและทดลองใช้จนไฟนอลชิ้นงาน\n\nทำงานดี จ้างดูแลต่อรายเดือน",
+    "title": "คนเขียนโปรแกรมตอบเมนท์ใต้โพสต์ในโซเชียล",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-17T08:19:18.400615Z",
+    "updated_at": "2026-09-17T08:19:19.468510Z",
+    "user_id": "0dca2785-fac9-4b9d-804b-831cd24645bf",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-17T08:19:18.378466Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-17T10:02:50.751Z"
+  },
+  {
     "id": "234c3828-2563-4748-9694-93302e478f5d",
     "status": "open",
     "tag": {
@@ -194,105 +293,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-16T16:42:22.021Z"
-  },
-  {
-    "id": "9223141a-41fc-4aba-981c-c455f7b4ba03",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "part-time",
-    "description": "📢 **รับสมัคร Programmer (Part-Time)**\n📍 ออฟฟิศโคราช\n\nเปิดโอกาสสำหรับ **นักศึกษา หรือผู้ที่ต้องการทำงานเสริมนอกเวลา** และอยากเก็บประสบการณ์ทำงานจริงร่วมกับ Programmer ของบริษัท\n\n⏰ **เวลาทำงาน**\nจันทร์–ศุกร์ เวลา 19.00–22.00 น.\nเสาร์–อาทิตย์ เวลา 09.00–16.00 น. (ไม่บังคับ)\n\n💻 **ลักษณะงาน**\n• เป็นผู้ช่วย Programmer ประจำบริษัท แบ่งรับผิดชอบงานเขียนโค้ดตามที่ได้รับมอบหมาย\n• พัฒนาและช่วยเขียนระบบต่าง ๆ เช่น Bot, Website, POS, Warehouse และระบบอื่น ๆ ของบริษัท\n\n✅ **คุณสมบัติ**\n• อายุ 18 ปีขึ้นไป\n• สามารถเขียน Code และมีพื้นฐานด้านการพัฒนาโปรแกรม\n• สามารถทำงานร่วมกับ Programmer ประจำบริษัทได้\n• พร้อมเรียนรู้และรับผิดชอบงานที่ได้รับมอบหมาย\n• นักศึกษาสามารถสมัครได้\n\n💰 **ค่าตอบแทน**\n• ช่วงทดลองงาน 3 เดือน เริ่มต้น 300 บาท/วัน\n• หากมีประสบการณ์ เริ่มต้น 350 บาท/วัน\n• ผ่านทดลองงาน 350–400 บาท/วัน\n• เสาร์–อ��ทิตย์ 400–500 บาท/วัน\n• ฟรีอาหาร 1 มื้อ\n\n⭐ **โอกาสในระยะยาว**\nหากผลงานเป็นที่น่าพอใจ มีโอกาสพิจารณาจ้างงานระยะยาวแบบ **WFH พร้อมเงินเดือนประจำ**\n\n📍 สถานที่ทำงาน: ออฟฟิศโคราช\n\nสนใจสมัคร ส่งประวัติ + ทักษะ/ภาษาที่เขียนได้ + ผลงาน (ถ้ามี) เพื่อพิจารณา",
-    "title": "Programmer (Par-time)-โคราช",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-16T06:10:43.711132Z",
-    "updated_at": "2026-09-16T06:10:45.336667Z",
-    "user_id": "de76790f-da51-4a1c-8189-9497e4998638",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-16T06:10:43.660754Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "de76790f-da51-4a1c-8189-9497e4998638",
-      "username": "mghtnnvg",
-      "display_name": "HRKCFoods",
-      "image_url": "https://storage.googleapis.com/fastwork-static/acb6bcac-eb26-4b1f-bbf7-6498d82589fa.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-16T06:41:37.058Z"
-  },
-  {
-    "id": "de3d1479-d89a-47db-932d-7adaa75c6a4e",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "1. ข้อมูลงาน\n- เว็บปัจจุบัน: https://misscallshop.com/ เป็นเว็บ WordPress\n- จุดประสงค์: ออกแบบหน้าเว็บใหม่ทั้งหมด ให้ดูทันสมัย น่าเชื่อถือ โหลดเร็ว และแปลงเป็นลูกค้า (lead/ยอดขาย) ได้ดีขึ้นกว่าดีไซน์เดิม\n- กลุ่มลูกค้า: ลูกค้าคนไทย ใช้งานผ่านมือถือเป็นหลัก (มือถือ 70%+) ดังนั้นต้องออกแบบแบบ Mobile-first\n- แผนการดำเนินงาน: 1) เสนอ Mockup/ดีไซน์ก่อน → 2) อนุมัติดีไซน์ → 3) ลงมือทำบนเว็บจริง (ทำบน staging ก่อน) → 4) ตรวจงาน แก้ไข → 5) ขึ้นเว็บจริง\n\n2. ขอบเขตงาน\n- ออกแบบ UI/UX ใหม่ทั้งเว็บ (หน้าแรก, หน้าบริการ/สินค้า, หน้ารายละเอียด, เกี่ยวกับเรา, ติดต่อเรา, บทความ/บล็อก) รวมประมาณ 8-12 หน้าแบบ (template)\n- ส่ง Mockup ให้ดูก่อนลงมือทำ อย่างน้อย 2 แนวทางสำหรับหน้าแรก และแก้ไขดีไซน์ได้ 2-3 รอบ\n- ทำจริงบน WordPress (ปัจจุบันใช้ Elementor) จะใช้ธีมใหม่หรือปรับธีมเดิมก็ได้ แต่ต้องคุยและตกลงกันก่อน\n- Responsive ครบ ทั้งมือถือ / แท็บเล็ต / เดสก์ท็อป\n- ต้องไม่ทำให้ SEO เดิมพัง: URL เดิมต้องคงไว้ (ถ้าเปลี่ยนต้องทำ 301 redirect), title/meta/H1 ต้องยังอยู่ครบ, schema เดิมไม่หาย\n- ความเร็วเว็บ: หลังทำเสร็จ PageSpeed Insights บนมือถือต้องได้ไม่ต่ำกว่าของเดิม และตั้งเป้า Core Web Vitals ผ่านเกณฑ์ (LCP, CLS, INP)\n- ต้องทำบน staging / ไซต์ทดสอบก��อน ห้ามแก้บนเว็บจริงโดยไม่แจ้ง\n- ส่งมอบไฟล์ดีไซน์ (Figma หรือเทียบเท่า) + คู่มือสั้น ๆ ว่าทีมงานจะแก้เนื้อหาเองยังไง\n\n3. เงื่อนไข\n- ขอดูพอร์ตงาน WordPress + Elementor ที่เคยทำจริง พร้อมลิงก์เว็บที่ยังเปิดอยู่\n- แจ้งระยะเวลาทำงานและจำนวนรอบแก้ไขที่รวมในราคามาให้ชัดเจน\n- มีการรับประกันแก้บั๊ก/แก้หน้าเพี้ยนหลังส่งมอบอย่างน้อย 30 วัน\n- สื่อสารภาษาไทยได้ อัปเดตความคืบหน้าเป็นระยะ\n- สนใจกรุณาเสนอราคาและระยะเวลามาพร้อมพอร์ต จะติดต่อกลับผ่านระบบแชทของ Fastwork",
-    "title": "ฉันหาต้องการนักออกแบบ + ทำเว็บ WordPress ใหม่ทั้งเว็บ (Redesign ยกชุด พร้อมขึ้นระบบจริง)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "10000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-16T01:54:17.559632Z",
-    "updated_at": "2026-09-16T01:54:19.196150Z",
-    "user_id": "d5eac1b2-f844-4c16-bc8e-34804a1bc4a3",
-    "already_offered": false,
-    "brief_url": "https://misscallshop.com/",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-16T01:54:17.501834Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "d5eac1b2-f844-4c16-bc8e-34804a1bc4a3",
-      "username": "zqw4do47",
-      "display_name": "Land For Loan",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-16T06:41:35.939Z"
   }
 ]
