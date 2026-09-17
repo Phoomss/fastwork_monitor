@@ -391,54 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-16T22:18:43.538Z"
-  },
-  {
-    "id": "9ae4f57c-d5f0-474b-8d9d-7f663a95ea0f",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ฟังก์ชั่นง่ายๆครับ\n1.ขอแค่สามารถลงไฟล์pdf ไฟล์หนังสือให้คนดาวน์โหลดได้\n2.มีหน้าแรกไว้ลงโพสต์ต่างๆ\nขอแค่2ฟังก์ชั่นง่ายๆครับคิดว่าไม่ยาก\nขอคนออกแบบเว็ปที่สวยงาม",
-    "title": "หาคนทำเว็ปไซต์ดาวน์โหลดหนังสือ (เป็นpdf(",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-16T12:46:27.137363Z",
-    "updated_at": "2026-09-16T12:46:28.157105Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-16T12:46:27.013839Z",
-    "freelance_offers_count": 10,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "cf6543c6-ccf9-413f-9e48-5f5d19f430c7",
-    "user_profile": {
-      "id": "cf6543c6-ccf9-413f-9e48-5f5d19f430c7",
-      "username": "uqiokvbs",
-      "display_name": "uqiokvbs",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-16T16:42:22.021Z"
   }
 ]
