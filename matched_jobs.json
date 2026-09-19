@@ -194,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-19T05:22:17.470Z"
-  },
-  {
-    "id": "39fd0939-6a80-43b4-8be4-7058b9d6dca8",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "🎙️ รับสมัครคนอัดเสียง (งานง่าย ทำที่บ้านได้)\n เนื้องาน: อ่านและอัดเสียงประโยคสั้นๆ รวมประมาณ 450 ประโยค\n\n ⏰ระยะเวลา: มีเวลาทำงาน 3 วัน (นับจากวันที่ได้รับสคริปต์)\n\n คุณสมบัติ & เงื่อนไขสำคัญ:\n มีพื้นที่บันทึกเสียงที่ เงียบมากเป็นพิเศษ (ไม่มีเสียงดัง รบกวน หรือเสียงก้อง)\n\n📱 ใช้โทรศัพท์มือถือ\n ส่งงานตรงเวลาและมีความรับผิดชอบ",
-    "title": "หาคนอัดเสียง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-18T13:57:12.173847Z",
-    "updated_at": "2026-09-18T13:57:13.122508Z",
-    "user_id": "f39d12c8-14a4-4209-8b02-65196f209288",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-18T13:57:12.153512Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "f39d12c8-14a4-4209-8b02-65196f209288",
-      "username": "pgmmnjm",
-      "display_name": "pang",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f39d12c8-14a4-4209-8b02-65196f209288/profile/43412ea7-7d9f-49f8-b294-3cd94f6c673b.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-18T15:02:26.858Z"
   }
 ]
