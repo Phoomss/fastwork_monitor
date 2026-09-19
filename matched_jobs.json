@@ -1,5 +1,54 @@
 [
   {
+    "id": "d73f3472-df82-4737-b197-de97a51c5df8",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "เรามี Google site หลักสูตรป.ตรี \nอยากให้เขียนโปรแกรมใน Claude หรืออื่นๆ ที่สามารถ ดูข้อมูลในมือถือได้ง่าย\nสามารถเพิ่มเติมแก้ไข เนื้อหาได้ \nเพราะว่า ต้องอัพเดตกิจกรรม อัพเดตตารางสอน ประเมินอาจารย์ ตลอด",
+    "title": "คนทำโปรแกรมจาก Claude โดยเอาเนื้อหาจาก Google site",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "800",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-19T05:04:08.946017Z",
+    "updated_at": "2026-09-19T05:04:12.024245Z",
+    "user_id": "c6278d3c-0af2-4878-8f3d-2ff29418c881",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-22",
+    "expired_at": "2026-10-19T05:04:08.873074Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-F766B;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "c6278d3c-0af2-4878-8f3d-2ff29418c881",
+      "username": "tssyzqye",
+      "display_name": "ffoonn",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "800",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-19T05:22:17.470Z"
+  },
+  {
     "id": "39fd0939-6a80-43b4-8be4-7058b9d6dca8",
     "status": "open",
     "tag": {
