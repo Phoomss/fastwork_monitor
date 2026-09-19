@@ -1,5 +1,103 @@
 [
   {
+    "id": "382784fa-d3fd-468a-a8a7-ae891e97b887",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "คนทำโปรแกรม สต็อกหลังบ้าน โปรแกรมทำคาเฟ่ มี ฟอร์ม ในการทำอยู่แล้ว เข้าใจง่าย อธิบายแป๊บเดียวก็เกท แต่ ขอให้ทำ IT เป็น แล้วก็ ใช้ ai claude ช่วย ราคาตกลงกันได้",
+    "title": "คนทำโปรแกรม สต็อกหลังบ้าน โปรแกรมทำคาเฟ่ IT ai claude saas",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_profile-menu",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-19T11:12:53.673244Z",
+    "updated_at": "2026-09-19T11:12:54.900634Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-19T11:12:53.649772Z",
+    "freelance_offers_count": 15,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "45635aaf-a491-4969-a8b4-2b2f674b84a1",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-19T13:21:59.887Z"
+  },
+  {
+    "id": "c282baef-4904-43da-b788-9e9a467d15a1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": " กำลังจะไปสอบสัมภาษณ์ครับ ติวออนไลน์ พวกคำศัพท์อะไรพวกนี้ มีประสบการณ์ทำงานอยู่แล้วครับ \nแต่เป็นการย้ายสายงานมาทำให้บางคำศัพท์ ที่ผู้สัมภาษณ์ถามไม่รู้จัก แต่เคยใช้ในการทำครับ ถ้ามีชีทมี ให้อ่านด้วยก็ดีครับ ",
+    "title": "คนติวพื้นฐาน เขียนโค้ด ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-19T10:28:30.851901Z",
+    "updated_at": "2026-09-19T10:28:32.066331Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-19T10:28:30.823183Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "5d9688d9-895a-47d4-b5b5-2377c154a3f8",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-19T13:21:58.312Z"
+  },
+  {
     "id": "7ef305ec-e5a9-4ac8-8fad-25911d4c5df8",
     "status": "open",
     "tag": {
@@ -145,250 +243,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-18T15:02:26.858Z"
-  },
-  {
-    "id": "5a810076-049a-4c0f-9ab9-e3efb797b1e1",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนสอนเขียนโปรแกรม C++ และ OOP สำหรับผู้เริ่มต้น เน้นสอนให้เข้าใจหลักการ ทำโจทย์ให้พอเห็นภาพ นำไปประยุกต์��ช้กับ Unity ",
-    "title": "คนสอนเขียนโค้ด visual & unity",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-18T11:16:49.619384Z",
-    "updated_at": "2026-09-18T11:16:50.929299Z",
-    "user_id": "798f8ec5-9b01-40b5-b9bd-b642e039b73a",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-22",
-    "expired_at": "2026-10-18T11:16:49.598696Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-18T11:23:28.635Z"
-  },
-  {
-    "id": "e51f3560-3b5c-4a8e-893b-a7de91a53402",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "รายละเอีย���การเข้าร่วม\nตอบแบบสอบถามผ่านแอปพลิเคชัน\nใช้เวลาประมาณ 20 นาที\nไม่มีค่าใช้จ่ายในการเข้าร่วม\nข้อมูลและความคิดเห็นที่ได้รับจะนำไปใช้เพื่อการศึกษาและพัฒนาแอปพลิเคชัน\nคุณสมบัติผู้เข้าร่วม\nอายุ ไม่จำกัด\nมีสมาร์ตโฟนและสามารถใช้งานแอปพลิเคชันได้\nสามารถให้ความคิดเห็นและตอบแบบสอบถามตามประสบการณ์การใช้งานจริง",
-    "title": "ประกาศรับผู้เข้าร่วมตอบแบบสอบถามเพื่อประกอบการพัฒนาแอป",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "250",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-18T11:10:26.065459Z",
-    "updated_at": "2026-09-18T11:10:27.191093Z",
-    "user_id": "f74f037f-581a-4c61-93b9-236fcbb7d676",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-18T11:10:26.033093Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;Infinix X6873;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "f74f037f-581a-4c61-93b9-236fcbb7d676",
-      "username": "gb7zn1hz",
-      "display_name": "fah warisara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f74f037f-581a-4c61-93b9-236fcbb7d676/profile/f29ff5c9-ec2d-4b6e-8a95-771846c50bd5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "250",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-18T11:23:27.513Z"
-  },
-  {
-    "id": "438ae0a4-16bc-4815-99c4-5382adb24db7",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "รายละเอียดการเข้าร่วม\nตอบแบบสอบถามผ่านแอปพลิเคชัน\nใช้เวลาประมาณ 20 นาที\nไม่มีค่าใช้จ่ายในการเข้าร่วม\nข้อมูลและความคิดเห็นที่ได้รับจะนำไปใช้เพื่อการศึกษาและพัฒนาแอปพลิเคชัน\nคุณ���มบัติผู้เข้าร่วม\nอายุ ไม่จำกัด\nมีสมาร์ตโฟนและสามารถใช้งานแอปพลิเคชันได้\nสามารถให้ความคิดเห็นและตอบแบบสอบถามตามประสบการณ์การใช้งานจริง",
-    "title": "ประกาศรับผู้เข้าร่วมตอบแบบสอบถามเพื่อประกอบการพัฒนาแอป",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "250",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-18T11:10:25.911226Z",
-    "updated_at": "2026-09-18T11:10:27.151795Z",
-    "user_id": "f74f037f-581a-4c61-93b9-236fcbb7d676",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-18T11:10:25.885030Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;Infinix X6873;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "f74f037f-581a-4c61-93b9-236fcbb7d676",
-      "username": "gb7zn1hz",
-      "display_name": "fah warisara",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f74f037f-581a-4c61-93b9-236fcbb7d676/profile/f29ff5c9-ec2d-4b6e-8a95-771846c50bd5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "250",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-18T11:23:26.300Z"
-  },
-  {
-    "id": "f5a85af7-d04d-41c4-aea0-f25c74f64a54",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "คนทำโปรแกรม หรือแอปหรือเว็บ ที่สามารถส่งไอจี ข้อความหรือช่องทางการติดต่ออื่นๆหรือแค่รูปภาพ ขึ้นหน้าจอโปรเจคตอร์แล้วก็สามารถชำระเงินผ่านโปรแกรมได้เลย ที่เค้าชอบทำกันในผับ\n",
-    "title": "คนทำโปรแกรม หรือแอปหรือเว็บ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-18T09:06:25.518339Z",
-    "updated_at": "2026-09-18T09:06:27.087461Z",
-    "user_id": "2268dddb-b0b8-4b46-b601-c24fda5dd46b",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-01",
-    "expired_at": "2026-10-18T09:06:25.494719Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-18T11:23:25.111Z"
-  },
-  {
-    "id": "c5ba9358-b7b1-4def-bf8e-d6c319cadce1",
-    "status": "open",
-    "tag": {
-      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
-      "name": "จัดการร้านค้าออนไลน์",
-      "sort": 15
-    },
-    "type": "freelance",
-    "description": "อยากได้เว็บพร้อมเชื่อมระบบเติมเกม\nมีหลังบ้านให้แอดมิน: ระบบตรวจสอบยอดขาย รายรับ-รายจ่าย และประวัติการทำรายการแบบเรียลไทม์\nระบบจัดการสมาชิก: สามารถเพิ่ม-ลดเครดิต, แบนผู้ใช้, หรือปรับระดับสมาชิกระดับ VIP ได้",
-    "title": "คนรับทำเว็บเติมเกม",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-18T08:36:46.675363Z",
-    "updated_at": "2026-09-18T08:36:47.651750Z",
-    "user_id": "07c68c1a-c1f6-4c1f-ac9e-f882f034a440",
-    "already_offered": false,
-    "brief_url": "https://p2wtopup.com/",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-18T08:36:46.611340Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "07c68c1a-c1f6-4c1f-ac9e-f882f034a440",
-      "username": "4tg7div9",
-      "display_name": "เบส",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-18T11:23:23.841Z"
   }
 ]
