@@ -1,5 +1,104 @@
 [
   {
+    "id": "1f1f93af-9651-4c2b-971a-4f302ea8d94a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "```\nรับ Freelance ปรับเว็บไซต์ + SEO + Marketing – Premium PMU Bangkok\n\nHiBrow Studio มีเว็บไซต์ Lovable พร้อม Brand และ Content แล้ว: https://brow-perfect-platform.lovable.app\nไม่ต้องการ Redesign ต้องการคนช่วยให้เว็บ \"สร้าง Booking จริง\" แบบ ROI สูง ต้นทุนต่ำ เหมาะกับ Startup\n\nกลุ่มเป้าหมาย: ลูกค้า Premium ที่ต้องการ Natural Hairstroke Brows (เสริม: Lip Blush, Lash)\n\nPhase 1 – Fixed price\n• Audit + ปรับ Mobile UX, Hero, CTA, Healed Results, Reviews, FAQ\n• SEO: Keyword TH+EN, On-page, Technical, Local SEO\n• Google Business Profile + Maps\n• เชื่อม LINE, WhatsApp, IG (@mcsx24) และระบบจอง\n• ติดตั้ง GA4, Search Console, GTM, Meta Pixel + Conversion tracking\n\nPhase 2 – Monthly (ถ้าผลดี)\n• SEO/Content: Natural Brows Bangkok, Hairstroke Brows Bangkok, สักคิ้วธรรมชาติ\n• Google Ads งบเล็ก เฉพาะ Keyword ที่ intent สูง\n• รายงาน: Leads, Bookings, Cost per Booking\n\nแนวทาง\n• เริ่มจากช่องทางฟรีก่อน (GBP, SEO, Reviews, IG) แล้วค่อยใช้ Ads\n• ไม่เพิ่มค่า Software รายเดือนโดยไม่จำเป็น\n• วัดผลจาก Booking ไม่ใช่ Traffic/Followers\n\nกรุณาส่ง\n1. Portfolio งาน Beauty/Local Business\n2. Case study ที่เพิ่ม Bookings ได้จริง\n3. 3 Quick wins ที่ควรแก้ในเว็บปัจจุบัน\n4. ประสบการณ์ Lovable + Booking integration\n5. ราคา Phase 1 + ระยะเวลา\n6. ค่า Monthly Phase 2\n`\n",
+    "title": "website seo search marketing social marketing site design for eyebrow lip lash tattoo studio Bangkok",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-20T04:22:46.856011Z",
+    "updated_at": "2026-09-20T04:22:47.707727Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-20",
+    "expired_at": "2026-10-20T04:22:46.781720Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "91112754-a8fe-436e-9f54-69c29f2172ba",
+    "user_profile": {
+      "id": "91112754-a8fe-436e-9f54-69c29f2172ba",
+      "username": "rzjnduc9",
+      "display_name": "rzjnduc9",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-20T05:09:47.032Z"
+  },
+  {
+    "id": "4c165401-0b6f-4236-b9a7-a7e42c6a9c8c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "\nThailand Part-Time TikTok Regional Uploader\n\n\nJob Description:\nWe are looking for a reliable, independent operator based in Thailand to manage simple daily content distribution for a TikTok creator account.\n\n​This is an ultra-light, part-time micro-task that takes less than 3 minutes per day.\n\n\n​Your Responsibilities:\n​Receive a pre-edited, ready-to-post video file.\nTag the main account using @buff.rob.\n​Upload the video.\n\n​Post once a day at an allocated time between 17:30 - 18:00 (UTC+7)\n\n​Requirements:\n​Must be physically located in Thailand with a local device and network connection.\n\n\n​No video editing required:\nAll files will be fully pre-cropped and ready to go. You only need to handle the direct upload.\n​Reliable internet connection and consistent daily check-in.\n\n\nCompensation:\n692 thb per month\n173 thb per week \n\n\n​How to Apply:\nIf you are interested, please send a brief message confirming your location in Thailand and your availability to start.\n\n",
+    "title": " Thailand Part-Time TikTok Regional Uploader",
+    "is_owner": false,
+    "source": "jobboard_web_home_nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "692",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-20T00:53:45.907236Z",
+    "updated_at": "2026-09-20T00:53:47.207091Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-20T00:53:45.889214Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "71091f23-81b9-4acf-bc0d-e482e5afb46b",
+    "user_profile": {
+      "id": "71091f23-81b9-4acf-bc0d-e482e5afb46b",
+      "username": "buffrob",
+      "display_name": "BuffRob",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/71091f23-81b9-4acf-bc0d-e482e5afb46b/profile/08db6336-f923-4843-a114-ffc1cdab3604.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "692",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-20T05:09:45.906Z"
+  },
+  {
     "id": "382784fa-d3fd-468a-a8a7-ae891e97b887",
     "status": "open",
     "tag": {
