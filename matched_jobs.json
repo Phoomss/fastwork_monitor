@@ -1,5 +1,153 @@
 [
   {
+    "id": "36c7eb2c-7fc9-4925-a789-5affb6dbe52b",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ต้องการหาคนทำงาน สามารถใช้โปรแกรม wix และ figma ถนัด เป็นงานด่วน ขอคนที่เข้าใจงานง่ายและถนัดโปรแกรมนี้จริงๆ มีแบบให้ว่าต้องการแบบไหน แค่ทำตามแบบ ออกแบบเว็บในwix ไม่เกินห้าหน้า มีข้อมูลให้ทั้งหมด ขอคนที่ทำงานไวนะคะ",
+    "title": " คนถนัดใช้งาน wix , figma",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-21T09:26:04.982196Z",
+    "updated_at": "2026-09-21T09:26:06.053052Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-23",
+    "expired_at": "2026-10-21T09:26:04.954289Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7a500789-3c99-4be7-9823-4bef08b112b8",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-21T13:11:52.523Z"
+  },
+  {
+    "id": "83bd032b-5102-4d77-85ca-4d935b31635b",
+    "status": "open",
+    "tag": {
+      "id": "883a6909-c772-48fa-91e9-b8162e599aba",
+      "name": "ช่าง",
+      "sort": 13
+    },
+    "type": "freelance",
+    "description": "\nบริษัท ต้องการปรับปรุงเว็บไซต์ใหม่ทั้งระบบ สำหรับธุรกิจด้าน Water Infrastructure, Dredging, Sludge Management และ Environmental Engineering\n\nเว็บไซต์ใหม่ต้องการภาพลักษณ์แนว **Industrial Technology + Environmental Engineering** เน้นความเป็นบริษัทวิศวกรรมและเทคโนโลยี ไม่ใช่เว็บสำเร็จรูปหรือเว็บ Catalog ทั่วไป\n\n**ขอบเขตงานหลัก**\n• ออกแบบ Sitemap / UX / Wireframe / UI\n• พัฒนาเว็บไซต์ด้วย WordPress\n• รองรับภาษาไทยและอังกฤษ\n• Responsive สำหรับ Desktop / Tablet / Mobile\n• จัดระบบ Solutions / Technologies / Projects / Industries / Articles\n• Projects ต้องเป็นระบบ Case Study ที่เพิ่มข้อมูลจากหลังบ้านได้\n• เชื่อมโยง Project → Solution → Technology → Industry\n• มี Project Assessment Form พร้อม Upload รูปและ PDF/Drawing\n• รองรับ SEO, GA4, Search Console และ GTM\n• Migration ข้อมูลที่จำเป็นจากเว็บไซต์เดิม\n• Optimize Speed / Core Web Vitals / Security / Backup\n• เตรียมโครงสร้างสำหรับเชื่อม Odoo CRM / API / Webhook ในอนาคต\n\n**Technology ที่ต้องการเบื้องต้น**\n\nWordPress + Bricks Builder + ACF Pro\n\nสามารถเสนอ Technology/Architecture อื่นได้ แต่ขอให้อธิบายเหตุผลและข้อดีข้อเสีย\n\nเราให้ความสำคัญกับการออกแบบ CMS ให้เป็นระบบ ไม่ต้องการสร้างทุก Project หรือ Technology เป็น Static Page ด้วย Page Builder ทีละหน้า\n\n**ผู้ที่สนใจ กรุณาส่งข้อมูลดังนี้**\n\n1. Portfolio เว็บไซต์ Corporate / Engineering / Industrial / Technology ที่ใกล้เคียงที่สุด 3 เว็บไซต์\n2. Technology Stack ที่เสนอ\n3. แนวทางการทำ CMS / Custom Post Type / ACF\n4. ขั้นตอนการทำงานตั้งแต่ Wireframe → UI → Development → UAT → Launch\n5. ระยะเวลาดำเนินการ\n6. ราคาประเมินและสิ่งที่รวมในราคา\n7. ระยะเวลารับประกันหลังส่งมอบ\n8. ค่า Maintenance หลังหมดประกัน (ถ้ามี)\n\n**หมายเหตุ:** มี TOR และแนวทาง Homepage/Wireframe เบื้องต้นให้หลังจากพูดคุย\n\nเว็บไซต์เดิม: hydrocat.co.th\n\nต้องการผู้รับงานที่สามารถช่วยคิดด้าน **UX, Website Architecture และการนำเสนอธุรกิจวิศวกรรม** ได้ ไม่ได้มองหาเพียงผู้ติดตั้ง Theme และใส่ Content ตามแบบ\n\nหากมีประสบการณ์ทำเว็บไซต์บริษัทวิศวกรรม โรงงาน เครื่องจักร สิ่งแวดล้อม หรือ B2B Industrial จะพิจารณาเป็นพิเศษ\n",
+    "title": "**หาผู้รับออกแบบและพัฒนาเว็บไซต์บริษัท ใหม่ (WordPress)**",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-21T08:53:50.936271Z",
+    "updated_at": "2026-09-21T08:53:51.892673Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-21T08:53:50.884702Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a8bd7639-4d5d-49c1-89f4-d70a48d76c93",
+    "user_profile": {
+      "id": "a8bd7639-4d5d-49c1-89f4-d70a48d76c93",
+      "username": "pramewit",
+      "display_name": "เปรมวิศน์",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-21T13:11:51.282Z"
+  },
+  {
+    "id": "dfff7168-9928-4647-a384-5429dbb51132",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนรับกู้คืนบัญชี gmail ที่ถูกแฮกให้กลับมาใช้งานได้ปกติ สามารถเสนอราคาและระยะเวลาที่ใช้ในการทำงานมาได้เลยครับ",
+    "title": "หาคนรับกู้คืนบัญชี Gmail ถูกแฮกครับ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-21T08:13:01.976640Z",
+    "updated_at": "2026-09-21T08:13:03.568032Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-21T08:13:01.922333Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;V2231;11.12.0-6002917"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "8ddcbc96-de9e-4f22-9be7-d3a7aae10abf",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-21T13:11:49.895Z"
+  },
+  {
     "id": "542b9faf-8f23-4413-a6d8-6fac7894dfcc",
     "status": "open",
     "tag": {
@@ -341,54 +489,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-20T13:42:31.882Z"
-  },
-  {
-    "id": "4e037cbf-d456-417b-b726-443453d3d198",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "Bag Designer / Leather Goods Designer\n\nกำลังมองหา Bag Designer / Leather Goods Designer มาร่วมออกแบบและพัฒนากระเป๋าหนังสำหรับแบรนด์ Fashion Accessories\n\nเราต้องการ Designer ที่มี strong design sense และเข้าใจ Fashion / Contemporary Design โดยเฉพาะ aesthetic ของคนรุ่นใหม่\n\nDesign Direction\n\nMinimal / Modern / Gen Z / Fun\n\nต้องการดีไซน์ที่:\n\n* Minimal แต่ไม่ boring\n* Modern และ contemporary\n* มีความเป็น Gen Z\n* Fun / Playful แต่ยังดูดีและมีความ premium\n* มี character และ recognizable detail\n* Clean silhouette แต่มี interesting shape หรือ proportion\n* สามารถเล่นกับสี วัสดุ texture และ hardware ได้\n* Fashion-forward แต่ยังสามารถใช้งานได้จริง\n* เน้น ดีไซน์และรายละเอียด มากกว่าการตกแต่งหรือโลโก้ที่เยอะ\n\nภาพรวมคือ Simple, but with personality.\n\nScope of Work\n\n* ออกแบบกระเป๋าหนังตาม Brand Direction\n* Develop design concept และ design direction\n* ทำ Sketch / Design Concept\n* พัฒนารูปทรงและสัดส่วนของกระเป๋า\n* ออกแบบสายกระเป๋า Hardware และรายละเอียดต่าง ๆ\n* แนะนำวัสดุ สี และ finishing ที่เหมาะสม\n* จัดทำ Technical Drawing / Specification สำหรับส่งโรงงาน\n* ปรับแก้แบบตาม Feedback\n* พัฒนาแบบให้สามารถทำ Prototype และผลิตจริงได้\n\nคุณสมบัติที่ต้องการ\n\n* มี Portfolio ด้าน Bag Design / Leather Goods / Fashion Accessories\n* มี strong sense ด้าน Fashion และ Contemporary Design\n* เข้าใจ Gen Z aesthetic และ current fashion direction\n* มีความคิดสร้างสรรค์และกล้าทดลองกับ Shape / Detail / Material\n* เข้าใจเรื่อง proportion, construction และ functionality ของกระเป๋า\n* สามารถพัฒนางานจาก Concept → Design → Prototype ได้\n* เข้าใจ balance ระหว่าง Creative Design + Commercial Product\n* หากมีประสบการณ์ทำงานกับโรงงานหรือช่างผลิตกระเป๋าโดยตรง จะพิจารณาเป็นพิเศษ\n\nกรุณาส่ง Portfolio พร้อมข้อมูล\n\n1. ผลงานออกแบบกระเป๋า / Accessories ที่เคยทำ\n2. ประสบการณ์ในการออกแบบกระเป๋า\n3. โปรแกรมที่ใช้ในการทำงาน\n4. Scope งานที่สามารถรับได้ เช่น Concept, Sketch, Technical Drawing, Tech Pack\n5. ราคาออกแบบต่อ 1 รุ่น\n6. ระยะเวลาในการทำงาน",
-    "title": "Bag designer/ Leather good designer",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-20T08:39:10.491975Z",
-    "updated_at": "2026-09-20T08:39:11.544106Z",
-    "user_id": "6033cb80-2e92-4c22-8c87-560f6f246baa",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-20T08:39:10.465031Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-20T09:45:28.621Z"
   }
 ]
