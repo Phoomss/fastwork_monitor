@@ -442,54 +442,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-22T05:27:34.007Z"
-  },
-  {
-    "id": "7d03a159-ffa6-4de7-852b-34c3a778d0a1",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "full-time",
-    "description": "รายละเอียดรับสมัครงาน\nตำแหน่ง: นักบินโดรนและผู้เชี่ยวชาญด้านระบบสำรวจ (Drone Specialist & IT Logistics Coordinator)\nรูปแบบงาน: งานประจำ (Full-time) ยินดีต้อนรับนักศึกษาจบใหม่\nสถานที่ปฏิบัติงาน: กรุงเทพฯ – ชลบุรี (คลังสินค้า, ศูนย์กระจายส���นค้า, ท่าเรือ และหน้างาน)\nหน้าที่ความรับผิดชอบหลัก\n * วางแผนและบินโดรนสนับสนุนโลจิสติกส์ เช่น นับสต็อกสินค้ามุมสูง สำรวจลานตู้คอนเทนเนอร์ และเส้นทางขนส่ง\n * บินอัตโนมัติด้วยซอฟต์แวร์ DJI (DJI Pilot 2, DJI FlightHub 2, DJI Terra, DJI GS Pro) หรือ DroneDeploy, Pix4D\n * ตรวจสอบคุณภาพภาพถ่าย/วิดีโอ ประมวลผลด้วย Computer Vision เชื่อมโยงระบบ WMS/TMS ของบริษัท\n * พัฒนา/ทดสอบระบบร่วมกับ ROS และเขียนโปรแกรมภาษา Python เพื่อควบคุมโดรนและเชื่อมต่อ IoT\n * จัดการ สำรองข้อมูลภาพและแผนที่ขึ้นระบบ Cloud หรือเครือข่ายตามมาตรฐานความปลอดภัย IT\n * ดูแล ซ่อมบำรุง ตรวจเช็ก และอัปเด���ซอฟต์แวร์/เฟิร์มแวร์โดรน\n * ประสานงานทีมโลจิสติกส์และลูกค้า รายงานผลสำรวจและซัพพอร์ตข้อมูลเชิงเทคนิค\nคุณสมบัติผู้สมัคร\n * วุฒิ ปวส. หรือ ป.ตรี สาขา IT, วิทยาการคอมพิวเตอร์, คอมพิวเตอร์ธุรกิจ, วิศวกรรมคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง\n * อายุ 20 ปีขึ้นไป มีประสบการณ์ 0–3 ปี\n * ยืดหยุ่นในการเดินทางและทำงานระหว่าง กทม. – ชลบุรี ได้\n * พิเศษ: พิจารณาเป็นพิเศษหากมีใบอนุญาตนักบินโดรน (กพท./CAAT) หรือใบอนุญาตใช้อุปกรณ์คลื่นความถี่ (กสทช.)\nทักษะที่จำเป็นและเครื่องมือที่ใช้\n * โดรนและซอฟต์แวร์: DJI Ecosystem, Pix4D, DroneDeploy, QGIS (พิจารณาพิเศษหากมีทักษะ GIS/Photogrammetry)\n * เทคนิคและโปรแกรมมิ่ง: Python (API/Automation), ROS/ROS2, OpenCV, Computer Vision (Object Detection), Linux, ระบบ Network/Cloud/IoT\n * การบินและความปลอดภัย: ประเมินความเสี่ยง ทิศทางลม และสภาพอากาศได้ดี มีทักษะแก้ปัญหาเฉพาะหน้า\nการสมัครงาน\n * ส่ง Resume / Portfolio ไปที่อีเมล: **********\n * ตั้งชื่อหัวข้ออีเมล: สมัครงานตำแหน่ง Drone Specialist - [ชื่อ-นามสกุล]\n * หรือสแกน QR Code จากประกาศเพื่อสมัคร\n",
-    "title": "DRONE SPECIALIST & IT LOGISTICS COORDINATOR",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-21T17:50:05.025581Z",
-    "updated_at": "2026-09-21T17:50:05.897688Z",
-    "user_id": "2d866a1d-7c78-4c34-9112-c446627992e2",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-21T17:50:04.972402Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S928B;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-21T18:40:04.118Z"
   }
 ]
