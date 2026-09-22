@@ -1,5 +1,54 @@
 [
   {
+    "id": "3f05d25c-8d2d-4246-833e-5ee2ff8271fe",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตามหาโค้ชสอน หรือคอร์สเรีย���ค่ะ ต้องการหาคอร์สที่เหมาะสำหรับคนพื้นฐานยังไม่ลึก แต่เคยใช้ Codex ช่วยสร้างระบบและมี Dashboard หลังบ้านที่ขึ้น Server ใช้งานแล้ว โดยคอร์สควรครอบคลุมหัวข้อดังนี้:\n\n1. สร้าง **AI Chatbot / AI Agent** สำหรับตอบลูกค้า\n2. เชื่อมกับ **LINE Official Account**\n3. ใช้ **n8n หรือ Make.com**\n4. สอน **Webhook / API / HTTP Request**\n5. สามารถส่งข้อมูลจาก Chatbot เข้า **Dashboard / Web Application เดิมของบริษัท**\n6. สามารถดึงข้อมูลจากระบบเดิม เช่น สถานะ Order กลับมาตอบลูกค้า\n7. มีเรื่อง **Database / Google Sheets / Data Integration**\n8. ถ้ามี **RAG / Knowledge Base** สำหรับให้ AI ตอบจากข้อมูลบริษัท จะดีมาก\n9. เหมาะกับ **Beginner** หรือไม่จำเป็นต้องเขียน Coding เก่ง\n10. เน้น **Hands-on / Workshop ทำจริง**\n\n**เงื่อนไขเพิ่มเติม**\n\n- ขอแบบ **Onsite /** in house ผู้เรียน 2 คน\n- กรุงเทพฯ / ปริมณฑล / จังหวัดใกล้ลพบุรี\n- งบประมาณเสนอมาได้เลยค่ะ\n- อยากได้รอบเรียน **เร็วที่สุด ภายใน 15 ตุลาคม**\n- ถ้าเป็น Public Class / เรียนรวม จะพิจารณาก่อน Private\n- ระยะเวลา 1–2 วันได้จะดี\n- ขอรายละเอียด **วันเรียน / ราคา / สถานที่ / Course Outline**\n\n**Use Case ที่ต้องการทำหลังเรียน**\n\n>\n\nลูกค้าทัก LINE OA → AI Chatbot ตอบลูกค้า → รับข้อมูลการสั่งซื้อ → ส่งข้อมูลผ่าน API/Webhook เข้า Dashboard หลังบ้าน → แจ้ง Admin ตาม Workflow → ดึงสถานะ Order จาก Dashboard กลับมาตอบลูกค้า",
+    "title": "คอร์สเรียนหรือโค้ชสอน Ai chat bot & n8n",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T03:57:16.484556Z",
+    "updated_at": "2026-09-22T03:57:18.151722Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-15",
+    "expired_at": "2026-10-22T03:57:16.422145Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "24f47678-12e1-4c37-9f37-41c64ace480e",
+    "user_profile": {
+      "id": "24f47678-12e1-4c37-9f37-41c64ace480e",
+      "username": "jerseyexpress",
+      "display_name": "jerseyexpress",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/24f47678-12e1-4c37-9f37-41c64ace480e/profile/35254f46-c0ae-415e-90a5-bcb8fd83e9f2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-22T05:27:34.007Z"
+  },
+  {
     "id": "7d03a159-ffa6-4de7-852b-34c3a778d0a1",
     "status": "open",
     "tag": {
@@ -342,54 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-21T06:30:29.136Z"
-  },
-  {
-    "id": "64535eab-5d9a-43ee-a1dc-33b14a74b1ca",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "โลโก้สไตล์มินิมอลสำหรับร้านเติมเกม\nแนวน่ารัก จำง่าย เห็นแล้วรู้ว่าเกี่ยวกับอะไร\nใช้สำหรับwebsite facebook line Discord \nส่วนโทนสีอยากให้ช่วยแนะนำหน่อยครับ",
-    "title": "หาคนออกแบบโลโก้ร้านเติมเกมสไตล์มินิมอล",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-21T01:09:59.946626Z",
-    "updated_at": "2026-09-21T01:10:01.483367Z",
-    "user_id": "028cc450-6626-403e-a80e-3c796b0aff07",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-21T01:09:59.859786Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.3;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-21T01:20:29.139Z"
   }
 ]
