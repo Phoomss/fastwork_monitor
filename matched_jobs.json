@@ -1,5 +1,201 @@
 [
   {
+    "id": "7da033f7-57a7-40c1-8f9f-5fbd1d80d782",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "นำข้อความนี้ไปโพสต์ใน Fastwork, Facebook Group (เช่น กลุ่มสมาคมผู้ใช้งาน Chatbot ไทย, No-Code Thailand) หรือส่งให้ฟรีแลนซ์พิจารณาเสนอราคาได้ทันทีครับ\n[ประกาศหาคนทำงาน] รับสมัครฟรีแลนซ์เซ็ตระบบ Chatbot + AI แยกสาขา สำหรับร้านเค้ก (Facebook Page)\nรายละเอียดงาน:\nต้องการผู้เชี่ยวชาญ/ฟรีแลนซ์มาช่วยวางโครงสร้างและตั้งค่าระบบ Chatbot / AI รับออเดอร์ สำหรับร้านเค้กเนยนุ่ม โดยมีโจทย์หลักคือ \"ร้านมี Facebook Page เดียว แต่มีหน้าร้านหลายสาขา\" ต้องการให้ระบบช่วยคัดกรองและส่งต่อออเดอร์ไปให้พนักงานแต่ละสาขาทำงานต่อได้อย่างถูกต้องแบบอัตโนมัติ\nขอบเขตงาน (Scope of Work):\n * วาง Chat Flow & Auto Message:\n   * เซ็ตข้อความต้อนรับและเมนูอัตโนมัติ\n   * สร้างระบบให้ลูกค้ากดเลือกสาขาที่สะดวก (หรือกรอกที่อยู่เพื่อให้ระบบ/AI แยกสาขาที่ใกล้ที่สุด)\n * ระบบรั��ออเดอร์ & คำนวณยอด:\n   * ใส่ข้อมูลรายการสินค้า/เมนูเค้ก และสรุปยอดชำระเงิน\n   * เชื่อมต่อระบบตรวจเช็คสลิปโอนเงินอัตโนมัติ (Slip Verification)\n * ระบบ Order Routing (สำคัญ):\n   * เมื่อลูกค้ายืนยันออเดอร์และชำระเงินแล้ว ให้ระบบส่ง Notification แจ้งเตือนรายการสั่งซื้อตรงไปยัง LINE Group ของสาขานั้นๆ ทันที\n * ทดสอบระบบ & สอนการใช้งาน:\n   * ทดสอบ Flow งานจนใช้งานได้จริงแบบไม่มีสะดุด\n   * สอนวิธีใช้งานเบื้องหลังและการแก้ไขข้อมูลเมนู/ราคาให้ทีมงาน\nสิ่งที่ทางร้านเตรียมไว้ให้:\n * ข้อมูลเมนู รูปภาพ และราคา\n * รายชื่อสาขา เงื่อนไขการจัดส่ง และช่อง��างการชำระเงิน\n * บัญชี Facebook Page และแพลตฟอร์ม Chatbot ที่เลือกใช้ (พร้อมให้ผู้เชี่ยวชาญแนะนำแพลตฟอร์มที่เหมาะสมได้ เช่น Zwiz, Kaojao, ManyChat ฯลฯ)\nคุณสมบัติ:\n * มีประสบการณ์การทำ Chatbot สำหรับร้านค้า / ร้านอาหาร / ร้านที่มีหลายสาขา\n * มีผลงาน (Portfolio) งานที่เคยทำมาให้ดูประกอบการตัดสินใจ\n📩 สนใจรับงาน:\nกรุณาส่ง ผลงานที่เคยทำ (Portfolio) + แพลตฟอร์มที่แนะนำ + เสนอราคาและระยะเวลาทำงาน มาทาง Inbox ไว้ได้เลยค่ะ\n\n",
+    "title": "ทำระบบ ตอบรับอัตโนมัติเพื่อปิดการขายและจัดแยกสาขาได้ใน Facebook เพจ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T13:50:44.478411Z",
+    "updated_at": "2026-09-22T13:50:46.523279Z",
+    "user_id": "d6b6f672-6fbc-42f5-adf5-87e36df11660",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T13:50:44.416124Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPad;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d6b6f672-6fbc-42f5-adf5-87e36df11660",
+      "username": "manwika9925",
+      "display_name": "Manwika Jenpromrach",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d6b6f672-6fbc-42f5-adf5-87e36df11660/profile/13468031-2bee-4cff-a6aa-f214c14f6d6a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-22T14:48:58.989Z"
+  },
+  {
+    "id": "a837add7-90a3-40a1-bae1-c5209fae80e1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนที่สร้างระบบคอร์สเรียนให้ไม่แน่ใจว่ามันเรียกว่าอะไร ผมมีไอเดียทุกอย่างแล้วแต่ไม่รู้ว่าจะสร้างที่คลิกแล้วรวมผลงานรวมของยังไง ฟีลแบบเว็บไซส์ที่กดนู้นนี้ได้\nขอคนที่มีผลงานมาให้ดู \nประมาณแบบตัวอย่าง แต่เยอะกว่านี้",
+    "title": "คนสร้างระบบคอร์สเรียน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-22T13:39:19.769058Z",
+    "updated_at": "2026-09-22T13:39:21.773291Z",
+    "user_id": "ee461348-899b-48a8-bf85-7d43b273d150",
+    "already_offered": false,
+    "brief_url": "https://www.openlink.co/ronaeng",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T13:39:19.746958Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;VKJ-NX9;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-22T14:48:57.785Z"
+  },
+  {
+    "id": "34b15707-28c9-4eb7-8567-74028933ef51",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "contract",
+    "description": "  ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า\nสินค้าเกี่ยวกับการสอนสร้างรายได้หลายทาง การทำคอนเทนต์ ปักตะกร้า ทำครีเอเตอร์\n(มีหลายเล่มครับ) เรียนผ่าน Website \n\nน้องออกแบบ สร้าง Content Video วันละ 1 ตอน ความยาว 1 นาที\nโดยใช้หลัก น้องใช้อะไร? ผลลัพธ์ได้อะไร? ต้องทำยังไงต่อ?\nไม่ขายของ เน้น Branding ครับ\n\nนำไปตั้งเวลาลง FB TK YT TK SHOPEE Treads แล้วแนบลิงก์สินค้า\n\nรายได้โตขึ้นเรื่อยๆ ตามช่องที่โตขึ้นจ้า \nและคุณภาพของงานที่ดีขึ้น เป็นธรรมชาติขึ้น\nเช่น เดือนที่ 7 อาจอยู่ที่ 10,000\nหรือเดือนที่ 17 อาจจะอยู่ที่ 40,000 บาทก็ได้\n ขึ้นอยู่กับกระแสของช่องจ้า\n  \nเริ่มต้นที่ 3,000/เดือน\n+ Affiliate ให้น้องอีกด้วยจ้า\n\nการร่วมงานบอกหน่อยว่า \n1. น้องเข้าใจงานนี้อย่างไร? ต้องทำอะไร?\n2. ด้านรายได้ และอื่นๆ เข้าใจอย่างไร(อธิบายแบบละเอียด)\n3. และถ้าพูดถึงคำว่า คอนเทนต์แนวใช้งานจริง (Style ตัวอย่างแนบ)\nน้องจะทำออกมาอย่างไร? (ในแบบ Lifestyle ตอบโจทย์คนดู ที่ไม่ใช่เราชอบ)\n4. จะทักหาเฉพาะท่านที่ตอบครบนะครับ",
+    "title": "  ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T10:23:46.023305Z",
+    "updated_at": "2026-09-22T10:23:46.934907Z",
+    "user_id": "82496286-93c2-461e-a2fd-ce8db9589be3",
+    "already_offered": false,
+    "brief_url": "https://www.facebook.com/share/r/19NVMKtuoY/",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T10:23:46.005156Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "82496286-93c2-461e-a2fd-ce8db9589be3",
+      "username": "lvvilnclub",
+      "display_name": "Ronnakrit Kiratiarporn",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/82496286-93c2-461e-a2fd-ce8db9589be3/profile/b8d382e9-efa7-4574-9368-f3cbbd2cce9a.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-22T14:48:56.133Z"
+  },
+  {
+    "id": "3befb644-fd0b-43e4-b8c3-72bbed4adeed",
+    "status": "open",
+    "tag": {
+      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
+      "name": "งานสอน",
+      "sort": 12
+    },
+    "type": "freelance",
+    "description": "ต้องการหาผู้เชี่ยวชาญที่มีความรู้ด้าน Operations Research หรือวิศวกรรมอุตสาหการ (IE) มาช่วย สอนและให้คำปรึกษา (Tutor/Consultant) ในหัวข้อ:\n\nการประยุกต์ใช้ Genetic Algorithms (GA) สำหรับ Vehicle Routing Problem (VRP)\n\nเทคนิคการทำ Column Generation เพื่อ Optimization\n\nแนะนำ Logic และแนวทางการพัฒนาโปรแกรม/แบบจำลอง\n\nรูปแบบ: สอน/ให้คำปรึกษาผ่านช่องทางออนไลน์ (ตกลงเวลาเรียนร่วมกันได้)",
+    "title": "หาผู้เชี่ยวชาญ/ติวเตอร์ สอนการแก้ปัญหา VRP ด้วย Genetic Algorithms และ Column Generation",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T10:13:38.872960Z",
+    "updated_at": "2026-09-22T10:13:39.766631Z",
+    "user_id": "4ec2fb0f-fa2a-4a69-b8f2-470099a10491",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-02",
+    "expired_at": "2026-10-22T10:13:38.853604Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3.1;iPhone;11.13.0-6002925"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "4ec2fb0f-fa2a-4a69-b8f2-470099a10491",
+      "username": "jsy4m5kg",
+      "display_name": "jutarat",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-22T14:48:54.543Z"
+  },
+  {
     "id": "56937371-0a62-4d70-8cc5-2234c33e78a1",
     "status": "open",
     "tag": {
@@ -295,153 +491,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-21T18:40:04.118Z"
-  },
-  {
-    "id": "36c7eb2c-7fc9-4925-a789-5affb6dbe52b",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนทำงาน สามารถใช้โปรแกรม wix และ figma ถนัด เป็นงานด่วน ขอคนที่เข้าใจงานง่ายและถนัดโปรแกรมนี้จริงๆ มีแบบให้ว่าต้องการแบบไหน แค่ทำตามแบบ ออกแบบเว็บในwix ไม่เกินห้าหน้า มีข้อมูลให้ทั้งหมด ขอคนที่ทำงานไวนะคะ",
-    "title": " คนถนัดใช้งาน wix , figma",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-21T09:26:04.982196Z",
-    "updated_at": "2026-09-21T09:26:06.053052Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-23",
-    "expired_at": "2026-10-21T09:26:04.954289Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "7a500789-3c99-4be7-9823-4bef08b112b8",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-21T13:11:52.523Z"
-  },
-  {
-    "id": "83bd032b-5102-4d77-85ca-4d935b31635b",
-    "status": "open",
-    "tag": {
-      "id": "883a6909-c772-48fa-91e9-b8162e599aba",
-      "name": "ช่าง",
-      "sort": 13
-    },
-    "type": "freelance",
-    "description": "\nบริษัท ต้องการปรับปรุงเว็บไซต์ใหม่ทั้งระบบ สำหรับธุรกิจด้าน Water Infrastructure, Dredging, Sludge Management และ Environmental Engineering\n\nเว็บไซต์ใหม่ต้องการภาพลักษณ์แนว **Industrial Technology + Environmental Engineering** เน้นความเป็นบริษัทวิศวกรรมและเทคโนโลยี ไม่ใช่เว็บสำเร็จรูปหรือเว็บ Catalog ทั่วไป\n\n**ขอบเขตงานหลัก**\n• ออกแบบ Sitemap / UX / Wireframe / UI\n• พัฒนาเว็บไซต์ด้วย WordPress\n• รองรับภาษาไทยและอังกฤษ\n• Responsive สำหรับ Desktop / Tablet / Mobile\n• จัดระบบ Solutions / Technologies / Projects / Industries / Articles\n• Projects ต้องเป็นระบบ Case Study ที่เพิ่มข้อมูลจากหลังบ้านได้\n• เชื่อมโยง Project → Solution → Technology → Industry\n• มี Project Assessment Form พร้อม Upload รูปและ PDF/Drawing\n• รองรับ SEO, GA4, Search Console และ GTM\n• Migration ข้อมูลที่จำเป็นจากเว็บไซต์เดิม\n• Optimize Speed / Core Web Vitals / Security / Backup\n• เตรียมโครงสร้างสำหรับเชื่อม Odoo CRM / API / Webhook ในอนาคต\n\n**Technology ที่ต้องการเบื้องต้น**\n\nWordPress + Bricks Builder + ACF Pro\n\nสามารถเสนอ Technology/Architecture อื่นได้ แต่ขอให้อธิบายเหตุผลและข้อดีข้อเสีย\n\nเราให้ความสำคัญกับการออกแบบ CMS ให้เป็นระบบ ไม่ต้องการสร้างทุก Project หรือ Technology เป็น Static Page ด้วย Page Builder ทีละหน้า\n\n**ผู้ที่สนใจ กรุณาส่งข้อมูลดังนี้**\n\n1. Portfolio เว็บไซต์ Corporate / Engineering / Industrial / Technology ที่ใกล้เคียงที่สุด 3 เว็บไซต์\n2. Technology Stack ที่เสนอ\n3. แนวทางการทำ CMS / Custom Post Type / ACF\n4. ขั้นตอนการทำงานตั้งแต่ Wireframe → UI → Development → UAT → Launch\n5. ระยะเวลาดำเนินการ\n6. ราคาประเมินและสิ่งที่รวมในราคา\n7. ระยะเวลารับประกันหลังส่งมอบ\n8. ค่า Maintenance หลังหมดประกัน (ถ้ามี)\n\n**หมายเหตุ:** มี TOR และแนวทาง Homepage/Wireframe เบื้องต้นให้หลังจากพูดคุย\n\nเว็บไซต์เดิม: hydrocat.co.th\n\nต้องการผู้รับงานที่สามารถช่วยคิดด้าน **UX, Website Architecture และการนำเสนอธุรกิจวิศวกรรม** ได้ ไม่ได้มองหาเพียงผู้ติดตั้ง Theme และใส่ Content ตามแบบ\n\nหากมีประสบการณ์ทำเว็บไซต์บริษัทวิศวกรรม โรงงาน เครื่องจักร สิ่งแวดล้อม หรือ B2B Industrial จะพิจารณาเป็นพิเศษ\n",
-    "title": "**หาผู้รับออกแบบและพัฒนาเว็บไซต์บริษัท ใหม่ (WordPress)**",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-21T08:53:50.936271Z",
-    "updated_at": "2026-09-21T08:53:51.892673Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-21T08:53:50.884702Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a8bd7639-4d5d-49c1-89f4-d70a48d76c93",
-    "user_profile": {
-      "id": "a8bd7639-4d5d-49c1-89f4-d70a48d76c93",
-      "username": "pramewit",
-      "display_name": "เปรมวิศน์",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-21T13:11:51.282Z"
-  },
-  {
-    "id": "dfff7168-9928-4647-a384-5429dbb51132",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนรับกู้คืนบัญชี gmail ที่ถูกแฮกให้กลับมาใช้งานได้ปกติ สามารถเสนอราคาและระยะเวลาที่ใช้ในการทำงานมาได้เลยครับ",
-    "title": "หาคนรับกู้คืนบัญชี Gmail ถูกแฮกครับ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-21T08:13:01.976640Z",
-    "updated_at": "2026-09-21T08:13:03.568032Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-21T08:13:01.922333Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;V2231;11.12.0-6002917"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "8ddcbc96-de9e-4f22-9be7-d3a7aae10abf",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-21T13:11:49.895Z"
   }
 ]
