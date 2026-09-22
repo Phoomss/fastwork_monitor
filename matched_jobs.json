@@ -1,5 +1,204 @@
 [
   {
+    "id": "56937371-0a62-4d70-8cc5-2234c33e78a1",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ออกแบบ UX/UI แอปพลิเคชั่นความงามให้ดูเหมือนโรงเรียนเจ้าหญิงบาร์บี้ที่ทันสมัย ใช้ได้ทุกเพศ ถ้าทุกวัยได้ยิ่งดี อยากให้ดูไม่ทื่อๆแบบ ai ดูมีชีวิตชีวา \nต่อรองราคาได้ตามความเหมาะสม",
+    "title": "ออกแบบ UX/UI แอปพลิเคชั่นแค่หน้า home หรือหน้าเบื้องต้น",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-22T09:37:21.652331Z",
+    "updated_at": "2026-09-22T09:37:23.016161Z",
+    "user_id": "9b8103cb-2d75-4f07-98e8-c1948a27ab5d",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T09:37:21.631342Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S721B;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-22T10:10:20.604Z"
+  },
+  {
+    "id": "f6dc8b32-9f8a-4553-bc70-3aeccafb7112",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "full-time",
+    "description": "งานประจำ | เงินเดือน 35,000–55,000 บาท/เดือน (พิจารณาตามประสบการณ์และความสามารถ)\n\nรับผิดชอบการประกันคุณภาพซอฟต์แวร์เชิงลึก ออกแบบและวางกลยุทธ์การทดสอบ พัฒนา Framework สำหรับ Automation Test และประสานงานข้ามสายงานกับทีม Product และ Development เพื่อยกระดับคุณภาพของผลิตภัณฑ์และปรับปรุงกระบวนการ QA\n\nหน้าที่\n1. กลยุทธ์และการออกแบบการทดสอบ — วิเคราะห์ Requirements และประเมินความเสี่ยง จัดทำ Test Strategy และ Test Plan ครอบคลุมทั้ง Functional และ Non-functional, ออกแบบ Automation Test Framework สำหรับ Web, Mobile (iOS/Android) และ API, กำหนดมาตรฐาน QA และบูรณาการเข้ากับ CI/CD Pipeline (Jenkins, GitLab CI, GitHub Actions)\n2. ดำเนินการทดสอบระดับสูง — Integration, End-to-End, Regression และ API Testing, วางแผน Performance/Load Testing (JMeter, k6) และ Security Testing พื้นฐาน, เตรียม UAT ร่วมกับ Product Owner และสนับสนุน Business User\n3. บริหารจัดการและปรับปรุงกระบวนการ — ดูแล Bug Lifecycle, ทำ Root Cause Analysis ร่วมกับทีม Dev เมื่อเกิดปัญหาบน Production, วิเคราะห์ Quality Metrics (Defect Density, Test Coverage) เพื่อเสนอแนวทางปรับปรุง\n\nคุณสมบัติ\n- ปริญญาตรีขึ้นไป สาขาวิทยาการคอมพิวเตอร์, IT, วิศวกรรมคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง\n- ประสบการณ์ 3–5 ปี ด้าน Software Testing / QA Automation\n- เขียนโปรแกรมได้อย่างน้อย 1–2 ภาษา เช่น Python, Java, JavaScript, TypeScript หรือ Go\n- ใช้ Automation Framework ได้ เช่น Robot Framework, Cypress, Playwright, Selenium หรือ Appium\n- ทดสอบ API (REST/GraphQL) ด้วย Postman, Bruno หรือเขียน Automated API Script ได้\n- ใช้ SQL/NoSQL และ Linux Command Line ได้\n- มีประสบการณ์กับ Docker, Kubernetes และ CI/CD Pipeline\n\nSoft Skills: ค���ดเชิงวิเคราะห์และแก้ปัญหาซับซ้อนได้, สื่อสารและเจรจาต่อรองได้ดี, มีความเป็นผู้นำ โค้ชและถ่ายทอดความรู้ให้ทีมได้, มี mindset แบบ proactive กล้าตั้งคำถามเพื่อปรับปรุงคุณภาพผลิตภัณฑ์และกระบวนการทำงาน",
+    "title": "QA Engineer (Software Tester) — Automation Framework, CI/CD, Performance Testing",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "55000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T09:31:09.035408Z",
+    "updated_at": "2026-09-22T09:31:09.967655Z",
+    "user_id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T09:31:08.971700Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+      "username": "joethongchai",
+      "display_name": "Joe Thongchai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/486a4610-f6dc-49d2-8df6-69b7854adec2/profile/7baf2a1d-b2f8-41e4-9036-78cbbb42ca9a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "55000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-22T10:10:19.427Z"
+  },
+  {
+    "id": "29daccfd-01a0-4b05-9888-027424b36b9f",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "full-time",
+    "description": "งานประจำ | เงินเดือน 65,000–90,000 บาท/เดือน (พิจารณาจาก Portfolio) | Design 70% / Frontend 30%\n\nสตาร์ทอัพที่ดูแลหลาย product พร้อมกัน (B2B commerce, community platform, AI assistant) มองหา Product Designer ที่ออกแบบได้ลึกและขึ้น frontend เป็น production ได้เอง — designer ที่ code ได้ ไม่ใช่ developer ที่พอจัดหน้าเป็น ต���แหน่งนี้ไม่จบที่ไฟล์ Figma\n\nหน้าที่\n1. ตีโจทย์ร่วมกับ Product และ Founders ออกแบบ User Flow, IA, Wireframe, Prototype และ UI ทั้ง Web/Mobile\n2. ขึ้นงานที่ออกแบบเองเป็นโค้ดจริงด้วย React/Next.js + Tailwind จน deploy production ต่อ API และทำงานบน Git workflow\n3. สร้างและดูแล Design System ให้ component ใน Figma แมปกับ component ใน codebase\n4. ปล่อยงานเร็ว เก็บ feedback/analytics มาปรับ ทำ usability test แบบ lightweight เมื่อจำเป็น\n5. ทำงานใกล้ชิดกับ Founders, Product และ Engineering\n\nคุณสมบัติ\n- มีประสบการณ์ UX/UI สำหรับ Web/Mobile (ดูคุณภาพงานเป็นหลัก ไม่ยึดจำนวนปี) และมี Portfolio ที่เล่ากระบวนการคิดได้\n- เชี่ยวชาญ Figma (Auto Layout, Components, Variants, Prototyping) เข้าใจ Usability และ Accessibility\n- เขียน HTML/CSS/JavaScript หรือ TypeScript ได้จริง ขึ้น UI ด้วย React หรือ Next.js + Tailwind ได้เอง\n- เคยส่งงานขึ้น production จริงและมีลิงก์ให้ดูได้ ใช้ Git/GitHub เป็นปกติ\n- มี Business & Product Sense, Ownership และทำงานได้ในสภาพแวดล้อมที่เปลี่ยนเร็ว\n\nพิจารณาพิเศษ: ใช้ AI ทำงานจริง (Claude Code, Cursor, v0), เคยทำ Design System ข้าม product, มีทักษะ Illustration/Motion, เข้าใจ Framer Motion\n\nอาจไม่ใช่สำหรับคุณ ถ้าอยากให้งานจบที่ไฟล์ Figma หรือถนัดเฉพาะงานที่ requirement ครบก่อนเริ่ม\n\nสิ่งที่คุณจะได้: ประกันสังคมและสวัสดิการตามกฎหมาย, Remote/Hybrid, บัญชี AI tools ที่ใช้ทำงานจริง (Claude, Figma), ได้วาง Design System ตั้งแต่ศูนย์, ทำงานตรงกับ Founders\n\nสิ่งที่อยากให้ส่งมา: Portfolio หรือ Case study อย่างน้อย 1 ชิ้นที่เล่ากระบวนการคิดได้, ลิงก์งานที่คุณขึ้นเอง, และเล่าสั้น ๆ ว่างานชิ้นไหนที่ภูมิใจที่สุด\n\nคัดเลือก: คุยแนะนำตัว → นำเสนอ Portfolio → โจทย์สั้น ๆ ภายในเวลาจำกัด (ออกแบบ + ขึ้นจริง)",
+    "title": "Product Designer (Design Engineer) / UX-UI Developer — ออกแบบเอง ขึ้น Frontend เอง",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "90000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T09:28:35.161542Z",
+    "updated_at": "2026-09-22T09:28:36.836969Z",
+    "user_id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-22T09:28:35.090835Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+      "username": "joethongchai",
+      "display_name": "Joe Thongchai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/486a4610-f6dc-49d2-8df6-69b7854adec2/profile/7baf2a1d-b2f8-41e4-9036-78cbbb42ca9a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "90000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-22T10:10:18.291Z"
+  },
+  {
+    "id": "d259d88a-753c-40fa-8e03-0c592d4a22cc",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงานที่ RHL Tour and Travel ต้องการ\n\n- วางโครงสร้างเว็บไซต์ + UX/UI\n- ออกแบบเว็บไซต์\n- พัฒนาเว็บไซต์ Frontend + Backend\n- รองรับมือถือ\n- ทำระบบจัดการข้อมูลหลังบ้าน\n- รองรับ 3 ภาษา ภาษาไทย / จีนตัวเต็ม / อังกฤษ\n- เชื่อม Google Form / LINE OA / Social Media / E-mail\n- หา Domain + Hosting + SSL\n- Analytics\n- ทดสอบก่อนเปิดใช้งาน\n- สอนทีม RHL ใช้งานหลังบ้าน\n- รับประกัน/แก้ Bug หลังส่งมอบ\n- ส่งมอบสิทธิ์และข้อมูลทั้งหมดให้ RHL เป็นเจ้าของ\n\n***เมื่อผู้รับง���นตกลงรับงานกับบริษัทแล้ว จะมีการจัดทำและลงนามในสัญญาว่าจ้าง เพื่อกำหนดขอบเขตงาน \nระยะเวลาการทำงาน ค่าจ้าง การส่งมอบงาน และข้อตกลงร่วมกันระหว่างบริษัทกับผู้รับงานอย่างชัดเจน***",
+    "title": "หาคนรับทำเว็บไซต์ให้ RHL Tour and Travel แบบครบวงจร",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "35000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-22T09:03:49.576728Z",
+    "updated_at": "2026-09-22T09:03:50.722651Z",
+    "user_id": "d428baaf-c5b2-4f79-bbb2-b9d487f24091",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-30",
+    "expired_at": "2026-10-22T09:03:49.528412Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d428baaf-c5b2-4f79-bbb2-b9d487f24091",
+      "username": "rhltour",
+      "display_name": "RHL Tour",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "35000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-22T10:10:16.954Z"
+  },
+  {
     "id": "3f05d25c-8d2d-4246-833e-5ee2ff8271fe",
     "status": "open",
     "tag": {
@@ -244,152 +443,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-21T13:11:49.895Z"
-  },
-  {
-    "id": "542b9faf-8f23-4413-a6d8-6fac7894dfcc",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "พอดี��ีโปรเจ็คในการใช้ yolo ในการทำ game detection  แต่ตอนนี้ยังขาด dataset ตอนนี้มีภาพ screen shot ของเกม จาก มุมต่างๆประมาณ 200รูป โดยอยากให้ช่วย label ให้หน่อยครับ ",
-    "title": "หาคน label ใน Roboflow",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-21T06:11:29.622292Z",
-    "updated_at": "2026-09-21T06:11:31.128700Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-10",
-    "expired_at": "2026-10-21T06:11:29.600424Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "225df474-9981-47b2-8f91-6abfe3a2d1b8",
-    "user_profile": {
-      "id": "225df474-9981-47b2-8f91-6abfe3a2d1b8",
-      "username": "rawi1005",
-      "display_name": "Rawi N",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/225df474-9981-47b2-8f91-6abfe3a2d1b8/profile/8ee5bd2e-892f-4523-8e29-20bece3891a1.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-21T06:30:32.611Z"
-  },
-  {
-    "id": "cf76f2e8-a8dc-49fa-bb59-234226536e73",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "[วัตถุประสงค์โครงการ]\nต้อง��ารพัฒนาเว็บไซต์ศูนย์กลางจัดอันดับ ค้นหา และจับคู่ร้านตัดสูทในประเทศไทย (Thailand Tailor Ranking & Marketplace) รองรับการใช้งานผ่านมือถือเป็นหลัก (Mobile-First) และเน้นประสิทธิภาพด้าน SEO\n\n[ขอบเขตงานและฟีเจอร์หลัก (Scope of Work)]\n1. ฝั่งผู้ใช้งานทั่วไป (Customer Side)\n   - หน้า Directory & Search Filter (ค้นหาตามจังหวัด, งบประมาณ, สไตล์, ชนิดผ้า)\n   - หน้า Ranking (Top 5 / Top 10 Thailand และระดับจังหวัด) พร้อมโซน Sponsored/Featured\n   - ระบบ Suit Quiz Engine (แบบทดสอบ 4-5 ขั้นตอน คำนวณ Match Score %)\n   - ระบบ Job Board (ประกาศหาร้านสูท)\n   - ระบบ Verified Review (บังคับ Login ก่อนรีวิวผ่าน LINE/Google OAuth + ตรา Verified Customer เมื่อแนบใบเสร็จ)\n   - ระบบ Compare Tailors (เปรียบเทียบสเปกสูงสุด 3 ร้าน)\n   - Widget แสดงกิจกรรมสด (Live Viewer Count - Time-based logic)\n\n2. ฝั่งร้านค้า (Merchant Dashboard)\n   - ระบบสมัครสมาชิก & ยืนยันตัวตน (อัปโหลดบัตรประชาชน/ภ.พ.20 และพิกัดร้านค้า)\n   - หน้าจัดการโปรไฟล์และรูปผลงาน (Portfolio)\n   - ระบบ Job Board Dashboard & Quick Quote (ส่งข้อเสนอราคาหาลูกค้า)\n   - ปุ่มเชื่อมต่อแชทตรงไปยัง Line OA / WhatsApp\n\n3. ฝั่งผู้ดูแลระบบ (Admin Panel)\n   - ระบบอนุมัติเอกสารยืนยันตัวตน (Verification Approval Workflow)\n   - ระบบจัดการอันดับ (Ranking), ร้าน Featured และคัดกรองรีวิว\n   - ระบบจัดการแพ็กเกจสมาชิก (Subscription & Billing)\n\n[Tech Stack ที่คาดหวัง]\n- Frontend: Next.js / React (SSR/SSG เพื่อผลลัพธ์ SEO)\n- Backend & DB: Node.js / Go / Python + PostgreSQL (Relational DB)\n- Auth: LINE Login / Google OAuth\n- API Integration: LINE Messaging API, Payment Gateway (Omise / Stripe / 2C2P)\n- Security: Data Encryption สำหรับเก็บไฟล์บัตรประชาชน (PDPA Compliance)\n\n[ผลงานที่ต้องส่งมอบ (Deliverables)]\n- Source Code ทั้งหมดผ่าน GitHub/GitLab\n- เอกสาร Database Schema & API Documentation\n- การติดตั้งและจัดเตรียม Server (AWS / Vercel / DigitalOcean)\n- ระยะเวลารับประกันและแก้ไข Bug หลังปล่อยระบบ 3 เดือน\n",
-    "title": "รับพัฒนาเว็บไซต์ แพลตฟอร์มจัดอันดับและมาร์เก็ตเพลสร้านตัดสูท (Next.js / Node.js) Full-stack",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-21T05:23:53.983142Z",
-    "updated_at": "2026-09-21T05:23:55.042786Z",
-    "already_offered": false,
-    "brief_url": "[https://www.wongnai.com]",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-12-31",
-    "expired_at": "2026-10-21T05:23:53.909487Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "c0658f1d-f085-4abe-aae1-3536182c56d5",
-    "user_profile": {
-      "id": "c0658f1d-f085-4abe-aae1-3536182c56d5",
-      "username": "hokdgzdn",
-      "display_name": "sony",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-21T06:30:31.402Z"
-  },
-  {
-    "id": "609b2b6a-5a7e-43f0-ba1e-1358958bc8d9",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "ต้องการมืออาชีพในการทำ ให้มีความสวยงามและตรงตามโจทย์ ขอมีบริการแก้ไขหลังอนุมัติให้ด้วยจะดีมาก         ",
-    "title": "คนทำเว็บไซต์ใน Google site",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-21T04:27:12.536268Z",
-    "updated_at": "2026-09-21T04:27:13.301376Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-21T04:27:12.516484Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.10;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "c95778db-c364-4d2f-8762-a258ac235c4b",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-21T06:30:29.136Z"
   }
 ]
