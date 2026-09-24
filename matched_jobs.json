@@ -1,5 +1,103 @@
 [
   {
+    "id": "0476767d-1809-4576-823b-f7151ec8550a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนช่วยทำเว็บ Location Book สถานที่ถ่ายทำภาพยนตร์ แบบ e-book ออนไลน์ (ดึงข้อมูลจาก Google Sheet)\nต้องการงานที่ไม่ซับซ้อน ข้อมูลสถานที่เก็บผ่าน Google Form และอยู่ใน Sheet แล้ว ต้องการนำมาแสดงเป็นหนังสือออนไลน์ที่เปิดอ่านได้คล้าย e-book ใช้ library พลิกหน้าสำเร็จรูปได้\n\nสิ่งที่ต้องการ\n* หน้าปก สารบัญ และหน้าปิดท้ายพร้อมข้อมูลติดต่อ\n* สถานที่ละ 1–2 หน้า: รูป 3–6 รูป คำอธิบาย สิ่งอำนวยความสะดวก ข้อจำกัดการถ่ายทำ และช่องทางติดต่อ\n* บนมือถือเปลี่ยนเป็นเลื่อนอ่านแทนการพลิกหน้าได้\n* (ถ้าทำได้) ปุ่มดาวน์โหลดเป็น PDF\n\nข้อกำหนด\n* แสดงเฉพาะสถานที่ที่กำหนด (มีคอลัมน์กำกับให้แล้ว) และไม่เปิดไฟล์ Sheet ต้นฉบับสู่สาธารณะ\n* เพิ่มหรือแก้สถานที่ใน Sheet แล้วหนังสือต้องปรับตามโดยไม่ต้องแก้โค้ด\n* รูปภาพมาจาก Google Form (เก็บใน Google Drive) ต้องแสดงบนเว็บได้\n\nตัวอย่างอ้างอิง (ขอแบบเรียบง่ายกว่านี้)\n* https://www.okfilmmusic.org/oklahomalookbook (แนวคิดหนังสือแนะนำสถานที่ถ่ายทำ)\n* https://www.flipsnack.com/templates/film-lookbook-template (รูปแบบการพลิกหน้า)\n\nระยะเวลา: ขอดู Demo ภายใน 2 วัน (ใช้ข้อมูลตัวอย่างที่เตรียมให้) และส่งงานจริงภายใน 5–7 วัน\n\nเทคนิค: ใช้ AI หรือ Vibe Coding ได้ ใช้ hosting ฟรีได้ ขอแค่โค้ดอ่านและแก้ไขต่อได้\n\nสิ่งที่ส่งมอบ: source code ในบัญชีของผู้ว่าจ้าง, คู่มือสั้นๆ วิธีแก้ข้อมูล และแก้ไขงานได้ 2 รอบ\n\nข้อมูลผู้ประกอบการ: ใช้เฉพาะในงานนี้ ห้ามนำไปใช้หรือเผยแพร่ต่อ\n\nงบประมาณ: กรุณาเสนอราคาและระยะเวลามา \n",
+    "title": "หาคนช่วยทำเว็บ Location Book สถานที่ถ่ายทำภาพยนตร์ แบบ e-book ออนไลน์ (ดึงข้อมูลจาก Google Sheet)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-24T01:47:00.855479Z",
+    "updated_at": "2026-09-24T01:47:01.730919Z",
+    "user_id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-24T01:47:00.809647Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
+      "username": "pmb.bkk",
+      "display_name": "PMB",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a0698fba-ff99-473c-9350-e6114b7bf07e/profile/5ada314e-fea5-4c93-8e42-7c13b4ba8640.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-24T05:30:31.038Z"
+  },
+  {
+    "id": "a1e01531-6a3b-4c2d-8081-96c9e8d4a58c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการงานไม่ซับซ้อน ทำเว็บดึงข้อมูลจาก Google Sheet ข้อมูลเก็บผ่าน Google Form และอยู่ใน Sheet เรียบร้อยแล้ว ต้องการนำมาแสดงเป็นเว็บรายชื่อธุรกิจที่ค้นหาได้\n\nสิ่งที่ต้องการ (3 ส่วนหลัก)\n* หน้าแรก: การ์ดหมวดธุรกิจประมาณ 8 หมวด พร้อมช่องค้นหา\n* หน้ารายการ: การ์ดผู้ให้บริการ (รูป ชื่อ หมวด พื้นที่) กรองตามหมวดและจังหวัดได้\n* หน้ารายละเอียด: ข้อมูลของแต่ละราย พร้อมปุ่มติดต่อ (โทร, LINE, Facebook, เว็บไซต์)\n* ใช้งานบนมือถือได้\n\nข้อกำหนด\n* แสดงเฉพาะคอลัมน์และรายการที่กำหนด (มีคอลัมน์กำกับให้แล้ว) และไม่เปิดไฟล์ Sheet ต้นฉบับสู่สาธารณะ\n* เมื่อแก้ข้อมูลใน Sheet เว็บต้องอัปเดตตามโดยไม่ต้องแก้โค้ด\n* รูปภาพมาจาก Google Form (เก็บใน Google Drive) ต้องแสดงบนเว็บได้\n\nตัวอย่างอ้างอิง (ขอแบบเรียบง่ายกว่านี้)\n* https://film.utah.gov/crew-support-services (หน้าแรกแบบการ์ดหมวด)\n* https://www.filmsanantonio.com/Production-Directory (ระบบค้นหาตามหมวดและพื้นที่)\n\nระยะเวลา: ขอดู Demo ภายใน 2 วัน (ใช้ข้อมูลตัวอย่างที่เตรียมให้) และส่งงานจริงภายใน 5–7 วัน\n\nเทคนิค: ใช้ AI หรือ Vibe Coding ได้ ใช้ hosting ฟรีได้ (Apps Script, GitHub Pages, Netlify ฯลฯ) ขอแค่โค้ดอ่านและแก้ไขต่อได้\n\nสิ่งที่ส่งมอบ: source code ในบัญชีของผู้ว่าจ้าง, คู่มือสั้นๆ วิธีแก้ข้อมูล และแก้ไขงานได้ 2 รอบ\n\nงบประมาณ: กรุณาเสนอราคาและระยะเวลามา พร้อมแนบผลงาน\n",
+    "title": "หาคนช่วยทำเว็บ Directory รายชื่อผู้ให้บริการกองถ่ายภาพยนตร์ (ดึงข้อมูลจาก Google Sheet)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-24T01:46:07.988771Z",
+    "updated_at": "2026-09-24T01:46:09.219780Z",
+    "user_id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-24T01:46:07.929872Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
+      "username": "pmb.bkk",
+      "display_name": "PMB",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a0698fba-ff99-473c-9350-e6114b7bf07e/profile/5ada314e-fea5-4c93-8e42-7c13b4ba8640.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-24T05:30:29.848Z"
+  },
+  {
     "id": "b6f98e4f-8f85-4337-bf80-0b0d7ab38916",
     "status": "open",
     "tag": {
@@ -341,54 +439,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-23T06:43:46.033Z"
-  },
-  {
-    "id": "d26a2c32-169c-46e1-a413-b66829cd5481",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "กำลังมองหา Developer เพื่อร่วมพัฒนาและดูแล RAN Online Server ��ะยะยาว\n\nงานหลัก\n• Setup และพัฒนา Game Server / Database\n• แก้ไขและพัฒนาระบบภายในเกม\n• ดูแล Server-side / Backend\n• ช่วยวางระบบ Security, Anti-Cheat และป้องกันการโจมตี Server\n• วิเคราะห์และแก้ไขปัญหาที่เกิดขึ้นระหว่างการให้บริการ\n\nSkill ที่มองหา\nC/C++ • MSSQL • Windows Server • Networking\n*หากเคยพัฒนา RAN Online หรือ Private Game Server จะพิจารณาเป็นพิเศษ\n\n💼 มีค่าจ้าง สามารถคุยรูปแบบงานและรายละเอียดเพิ่มเติมได้",
-    "title": "📢 ประกาศหา Game Developer",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-23T00:51:46.297051Z",
-    "updated_at": "2026-09-23T00:51:47.992500Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.8;iPhone;11.13.0-6002925"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-23T00:51:46.278338Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "d3b661de-7d78-4d85-81db-fb2a01a9ef29",
-    "user_profile": {
-      "id": "d3b661de-7d78-4d85-81db-fb2a01a9ef29",
-      "username": "chsrsmt",
-      "display_name": "S.SURA",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d3b661de-7d78-4d85-81db-fb2a01a9ef29/profile/07029928-ae37-465b-bd26-676acd5633e1.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-23T01:46:33.659Z"
   }
 ]
