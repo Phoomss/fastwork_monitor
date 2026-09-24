@@ -145,54 +145,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-24T05:30:29.848Z"
-  },
-  {
-    "id": "b6f98e4f-8f85-4337-bf80-0b0d7ab38916",
-    "status": "open",
-    "tag": {
-      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
-      "name": "ธุรกิจและการเงิน",
-      "sort": 5
-    },
-    "type": "freelance",
-    "description": "หาคนทำ web app , google sheet , ระบบหลังร้าน , ต้นทุน , กำไร , สต๊อคสินค้า \nให้ใช้งานง่าย เหมือน POS",
-    "title": "หาคนทำ web app , google sheet , ระบบหลังร้าน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-23T14:19:58.403436Z",
-    "updated_at": "2026-09-23T14:19:59.741577Z",
-    "user_id": "15eb9a59-61e5-43ed-97dd-938dde6afa11",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-23T14:19:58.342187Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S936B;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "15eb9a59-61e5-43ed-97dd-938dde6afa11",
-      "username": "h5nbf0gw",
-      "display_name": "cht.",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-23T16:56:01.585Z"
   }
 ]
