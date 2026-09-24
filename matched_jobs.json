@@ -1,5 +1,54 @@
 [
   {
+    "id": "bb9cc067-a3d5-4dc5-a205-cd5973a537ca",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการฟรีแลนซ์ ผู้ที่สามารถตรวจสอบและแก้ไข website css, layout เพี้ยน โดยไม่ทราบสาเหตุ \n\nwww.klinikvs.com",
+    "title": "หาคนแก้ไข้ css, layout ของเว็บไซต์เพี้ยน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-24T07:01:46.443966Z",
+    "updated_at": "2026-09-24T07:01:47.812113Z",
+    "user_id": "a7ec0b1c-b908-455c-9503-99c5d3acdb3b",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-24T07:01:46.426877Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;22101316UG;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-24T10:23:08.594Z"
+  },
+  {
     "id": "0476767d-1809-4576-823b-f7151ec8550a",
     "status": "open",
     "tag": {
@@ -292,152 +341,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-23T12:12:39.751Z"
-  },
-  {
-    "id": "a9c3d323-5f3e-4777-a33f-e37c46e741cb",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "หาคนทำ webapp \"AE Workspace\" ซึ่งเป็นแอพภายในสำหรับทีม Account Executive (AE) ใช้บริหารงาน��้านโรงแรม ประกอบด้วย 5 แท็บหลัก:\n1.\tอัพเดทงานรายวัน (my tasks, renewals, onboarding, coaching, surveys)\n2.\tOnboarding pipeline โรงแรมใหม่พร้อม SLA tracking (Kanban board)\n3.\tนัดหมายประชุม ORM/Marcom บนปฏิทินเดียว\n4.\tดึงปฏิทิน google meeting มาแสดงผลบนหน้าเว็บ\n5. เก็บคะแนน survey หลังการประชุม พร้อม escalation อัตโนมัติเมื่อคะแนนต่ำ",
-    "title": "คนทำ webapp workspace สำหรับทีมงานบริษัท",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-23T06:29:09.573075Z",
-    "updated_at": "2026-09-23T06:29:11.220854Z",
-    "user_id": "ee3a7f9c-b748-41b8-8b1f-60171981ac6b",
-    "already_offered": false,
-    "brief_url": "https://drive.google.com/drive/u/1/folders/1Nt-xln8wsZP5MxkIr6DdXXGHHLtos2Me",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-09",
-    "expired_at": "2026-10-23T06:29:09.522442Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "ee3a7f9c-b748-41b8-8b1f-60171981ac6b",
-      "username": "memiintt",
-      "display_name": "nichapat_np",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/ee3a7f9c-b748-41b8-8b1f-60171981ac6b/profile/445f04dd-0189-4cbe-98e4-6b0064ecdc00.PNG"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-23T06:43:48.500Z"
-  },
-  {
-    "id": "4b357bc2-b5c0-494b-b079-36c7282b9bb6",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "หัวข้อประกาศ: ตามหาฟรีแลนซ์ออกแบบฉ���ากผลิตภัณฑ์สกินแคร์ (Body Toner)\n\nรายละเอียดงาน:\nออกแบบฉลากสำหรับผลิตภัณฑ์ทำความสะอาดและบำรุงผิวกาย (Body Toner)\n\nสไตล์ที่ต้องการ: โครงสร้างหลักเน้นการจัดวางเลย์เอาต์ข้อความกึ่งกลาง (Center-aligned) ดูคลีนและเป็นมืออาชีพ ทั้งนี้ เปิดกว้างและยินดีให้นักออกแบบนำเสนอไอเดียหรือลูกเล่นของตัวเองได้อย่างเต็มที่ เพื่อให้สินค้าดูโดดเด่นที่สุด\n\nองค์ประกอบบนฉลาก: ไฮไลต์ส่วนผสมหลัก ได้แก่ AHA, PHA, Niacinamide และ Allantoin ให้เด่นชัด\nข้อกำหนดเพิ่มเติม: ดีไซน์ต้องรองรับการพิมพ์บนวัสดุเนื้อแมตต์ (Matte)\nงานจำลองภาพ (Optional): หากสามารถทำภาพ 3D Mockup ขวดผลิตภัณฑ์ 1-2 มุม เพื่อให้เห็นภาพรวมก่อนพิมพ์ได้ จะได้รับการพิจารณาเป็นพิเศษ (มีหรือไม่มีก็ได้)\n\nขอบเขตและสิ่งที่ส่งมอบ:\nไฟล์ต้นฉบับ (AI / PSD) และไฟล์ PDF สำหรับส่งโรงพิมพ์ (พร้อมระบุระยะไดคัท)\nต้องระบุรหัสสีที่ใช้ในงานออกแบบ (เช่น ค่าสี CMYK หรือ Pantone) อย่างชัดเจน เพื่อความแม่นยำในการผลิตจริง\nไฟล์ภาพ 3D Mockup ขวด (ถ้ามี)\nสามารถแก้ไขงานได้ 3 ครั้ง\n\nงบประมาณและระยะเวลา:\nงบประมาณ: 1,800 - 2,500 บาท (สามารถเสนอราคาตามขอบเขตงานที่ทำได้ เช่น เสนอราคาเฉพาะงาน 2D)\n\nระยะเวลาทำงาน: ส่งดราฟต์แรก (ดราฟต์ไอเดีย) ภายใน 3-4 วัน และส่งมอบไฟล์สมบูรณ์ภายใน 7 วัน\n\nวิธีการเสนอรับงาน:\nผู้ที่สนใจรบกวนแนบ Portfolio ผลงานออกแบบฉลากสกินแคร์ พร้อมเสนอราคาและระยะเวลามาเพื่อพิจารณาครับ",
-    "title": "ฉันหาคนออกแบบ ฉลากสินค้าสกินแคร์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2500",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-23T03:41:43.315734Z",
-    "updated_at": "2026-09-23T03:41:44.950145Z",
-    "user_id": "cab467c2-92b2-4d30-bc7e-21a8c33b4056",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-23T03:41:43.258824Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.7;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "cab467c2-92b2-4d30-bc7e-21a8c33b4056",
-      "username": "b8d8w9yz",
-      "display_name": "b8d8w9yz",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-09-23T06:43:47.286Z"
-  },
-  {
-    "id": "1b3d2270-1db5-49b1-bfc0-994108cc3b9e",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "จัดหาผู้ทดสอบแอปการศึกษาบน iPhone 500 คน พร้อมเก็บแบบสอบถาม\n\nเป็นแอปเรียนรู้ภูมิปัญญาไทย มีบทเรียน มินิเกม ระบบหมู่บ้าน และบทความ ดาวน์โหลดฟรีบน App Store ต้องการผู้ทดสอบใช้งานจริงเพื่อเก็บความคิดเห็นไปปรับปรุงแอป\n\nขอบเขตงาน\n- จัดหาผู้ทดสอบ 500 คน แบ่ง 3 รอบ: 20 / 100 / 380 คน เริ่มรอบถัดไปเมื่อผู้ว่าจ้างยืนยัน\n- ชี้แจงโจทย์ ติดตามงาน และตรวจแบบสอบถามก่อนส่งมอบ\n- ส่งรายชื่อผู้ทดสอบ (ชื่อเล่น ช่วงอายุ รุ่น iPhone) เป็น Excel หรือ Google Sheets\n\nคุณสมบัติผู้ทดสอบ\n- บุคคลจริง ใช้ iPhone และ Apple ID ของตัวเอง 1 คนต่อ 1 เครื่อง\n- iOS 15 ขึ้นไป มีพื้นที่ว่าง 4 GB ขึ้นไป (แอปขนาด 3.2 GB)\n\nโจทย์ทดสอบ (30–40 นาที)\nติดตั้งแอป > สมัครสมาชิก > เปิดบทเรียนจากแผนที่ 1 บท > เล่นมินิเกม 2 เรื่อง > ลองระบบหมู่บ้าน > อ่านบทความ 1 เรื่อง > เปลี่ยนภาษา > ตอบแบบสอบถาม\n\nเงื่อนไขสำคัญ\n- ไม่มีการขอหรือบังคับให้รีวิวหรือให้ดาวบน App Store และผู้รับจ้างต้องไม่ชักชวนให้ทำ\n- ห้ามใช้บัญชีปลอม เครื่องจำลอง หรือให้คนเดียวทำหลายชุด\n- ไม่รับแบบสอบถามที่ตอบไม่ครบ ตอบซ้ำ หรือไม่ได้ใช้งานจริง\n- ห้ามเผยแพร่ภาพหรือข้อมูลจากแอปโดยไม่ได้รับอนุญาต\n\nการส่งมอบและชำระเงิน\n- รอบ 1 ภายใน 5 วัน / รอบ 2 ภายใน 7 วัน / รอบ 3 ภายใน 14 วัน\n- ชำระเงินเป็นรอบ หลังผู้ว่าจ้างตรวจงานรอบนั้นแล้ว\n- กรุณาเสนอราคาต่อคน ค่าบริหารจัดการ และตัวอย่างงานที่เคยทำ",
-    "title": "หาผู้ทดสอบใช้งานแอปการศึกษาบน iPhone จำนวน 500 คน พร้อมเก็บแบบสอบถามความคิดเห็น",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "10000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-23T03:28:33.738977Z",
-    "updated_at": "2026-09-23T03:28:34.744208Z",
-    "user_id": "1a367485-509c-4fff-9bd1-c27c6dc39a4f",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-23T03:28:33.678763Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S928B;11.12.0-6002917"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "10000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-23T06:43:46.033Z"
   }
 ]
