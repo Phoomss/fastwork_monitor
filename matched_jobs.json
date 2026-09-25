@@ -1,5 +1,152 @@
 [
   {
+    "id": "5c54cc49-3819-45f0-bf90-7de24e10d1db",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nกรุณาอ่านให้ครบก่อนรับงาน ทำเสร็จภายใน 24 ชม. หลังได้รับรหัส (ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nอัดเสียงอ่านข้อความสั้นๆ 210 ประโยค (15-20 นาที) ผ่านสมาร์ตโฟน (iOS/Android) ในห้องเงียบ ไม่มีเสียงรบกวน (พัดลม ทีวี คนคุยกัน)\n\n⚠️ ข้อกำหนดอุปกรณ์ (สำคัญมาก):\nใช้ไมค์ในตัวเครื่องเท่านั้น ห้ามใช้ไมค์นอก/สายแปลงใดๆ เพราะเสี่ยงมีเสียงไฟรั่ว/เสียงจี่แทรก (สาเหตุอันดับ 1 ที่ไม่ผ่าน QC) ให้ถอดปลั๊ก/ปิดเครื่องใช้ไฟฟ้าใกล้ตัวขณะอัดเสมอ (ตู้เย็น พัดลม แอร์)\n\nคุณสมบัติ:\n1. พูดไทยเป็นภาษาแม่ สำเนียงปกติ ฟังชัด\n2. อายุ 18-60 ปี รับทั้งชายหญิง\n\nQC Standard:\n- อ่านธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เวอร์ ไม่เว้นจังหวะแปลก\n- อ่านตรงสคริปต์ 100% ห้ามเติม/ตัด/อ่านตก\n- เสียงชัด ไม่มีเสียงซ่า/ก้อง/รบกวน รวมถึงเสียงไฟฟ้า\n\n📋 เงื่อนไขแก้ไข:\nผ่าน QC 95% ขึ้นไป = อนุมัติทันที มีจุดแก้ไขได้ 1 ครั้งเท่านั้น แก้ครั้งที่ 1 แล้วยังไม่ผ่าน = ถือว่างานใช้ไม่ได้ ไม่เปิดแก้เพิ่ม หากพบว่าปัญหามาจากอุปกรณ์ ต้องเปลี่ยนมาใช้ไมค์ในตัวเครื่องก่อนแก้ไข\n\n⏳ เงื่อนไขปลดล็อกไอดี:\nติดต่อไม่ได้เกิน 24 ชม. หลังแจ้งผล QC/คำขอแก้ไข ขอปลดล็อก (Unbind) ทันทีเพื่อคืนโควตา ถือเป็นการยุติงานโดยไม่มีค่าตอบแทน\n\n⏳ ระยะเวลาตรวจ: แจ้งผลเบื้องต้น 3-5 วัน อนุมัติเงินประมาณ 10-12 วันทำการ (ผ่าน QC 95%+ อนุมัติทันที)\n\n💰 ค่าตอบแทน: [140บาท]\nจ่ายเมื่อผลงานผ่าน QC ตามเกณฑ์เท่านั้น\n\nการกดรับงานถือว่ายอมรับเงื่อนไขทุกข้อแล้ว\n\n",
+    "title": "อัดเสียงภาษาไทยสั้น 210ประโยค",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "140",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-25T10:04:45.552078Z",
+    "updated_at": "2026-09-25T10:04:46.981213Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-26",
+    "expired_at": "2026-10-25T10:04:45.533490Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "140",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-25T10:16:10.696Z"
+  },
+  {
+    "id": "84ef18e3-d8f2-40d3-bd39-ed92356b406d",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "contract",
+    "description": "  ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า\nสินค้าเกี่ยวกับการสอนสร้างรายได้หลายทาง การทำคอนเทนต์ ปักตะกร้า ทำครีเอเตอร์\n(มีหลายเล่มครับ) เรียนผ่าน Website \n\nน้องออกแบบ สร้าง Content Video วันละ 1 ตอน ความยาว 1 นาที\nโดยใช้หลัก น้องใช้อะไร? ผลลัพธ์ได้อะไร? ต้องทำยังไงต่อ?\nไม่ขายของ เน้น Branding ครับ\n\nนำไปตั้งเวลาลง FB TK YT TK SHOPEE Treads แล้วแนบลิงก์สินค้า มีช่องให้\n\nรายได้โตขึ้นเรื่อยๆ ตามช่องที่โตขึ้นจ้า \nและคุณภาพของงานที่ดีขึ้น เป็นธรรมชาติขึ้น\nเช่น เดือนที่ 7 อาจอยู่ที่ 10,000\nหรือเดือนที่ 17 อาจจะอยู่ที่ 40,000 บาทก็ได้\n ขึ้นอยู่กับกระแสของช่องจ้า\n  \nเริ่มต้นที่ 3,000/เดือน\n+ Affiliate ให้น้องอีกด้วยจ้า\n\nการร่วมงานบอกหน่อยว่า \n1. น้องเข้าใจงานนี้อย่างไร? ต้องทำอะไร?\n2. ด้านราย��ด้ และอื่นๆ เข้าใจอย่างไร(อธิบายแบบละเอียด)\n3. และถ้าพูดถึงคำว่า คอนเทนต์แนวใช้งานจริง (Style ตัวอย่างแนบ)\nน้องจะทำออกมาอย่างไร? (ในแบบ Lifestyle ตอบโจทย์คนดู ที่ไม่ใช่เราชอบ)\n4. จะทักหาเฉพาะท่านที่ตอบครบนะครับ",
+    "title": "  ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-25T07:06:19.027138Z",
+    "updated_at": "2026-09-25T07:06:20.480153Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-25T07:06:19.009731Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "82496286-93c2-461e-a2fd-ce8db9589be3",
+    "user_profile": {
+      "id": "82496286-93c2-461e-a2fd-ce8db9589be3",
+      "username": "lvvilnclub",
+      "display_name": "Ronnakrit Kiratiarporn",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/82496286-93c2-461e-a2fd-ce8db9589be3/profile/b8d382e9-efa7-4574-9368-f3cbbd2cce9a.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-25T10:16:09.370Z"
+  },
+  {
+    "id": "dfca4019-2525-467b-9dba-3bc9edd4771c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ตอนนี้กำลังหาคนสร้างเว็บไซต์ที่สามารถออกแบบรูป หน้าเว็บไซต์ให้ดูสวยงาม ทันสมัย (หากสามารถใส่ฟ้อนต์ที่เราต้องการได้จะดีมากค่ะ)\nขอเน้นคนที่สามารถทำโทนน่ารัก ไม่ทางการนะคะ อยากให้ดีไซน์ออกมาดูสวย แต่ระบบสามารถใช้งานได้จริง\nเว็บไซต์สำหรับระบบหลังบ้านของร้านขายแอพพรีเมียม ไม่ใช่แบบเต็มระบบนะคะ\n- ระบบสมาชิก\nมีหน้าระบบสมาชิกของลูกค้า สามารถเช็ควันหมดอายุได้จากค้นหารหัสลูกค้า\n- สร้างข้อมูลลูกค้าใหม่/เก่า ได้ เพิ่มข้อมูลลูกค้าระบบรันรหัสลูกค้าอัตโนมัติให้ได้\n- หน้าเช็คสถานะการชำระเงินของลูกค้า ชำระเงินแล้ว/ยังไม่ชำระ/จ่ายเลท (จำกัดสิทธิเห็นเฉพาะ owner ได้)\n- เข้าเว็บหลังบ้าน มีหน้า login admin/owner \n\nเว็บไซต์สามารถเปิดใช้งานได้ทุกอุปกรณ์\nเว็บไซต์สามารถพัฒนาปรับเพิ่มในอนาคตได้ (เผื่ออนาคต��ยากเพิ่มฟังก์ชั่นอื่นเข้ามา)",
+    "title": "คนสร้างเว็บไซต์ ดีไซน์เว็บสำหรับร้านขายแอพพรีเมียม",
+    "is_owner": false,
+    "source": "jobboard_web_seller-center_top-nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-25T06:21:51.796613Z",
+    "updated_at": "2026-09-25T06:21:52.790214Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-25T06:21:51.737180Z",
+    "freelance_offers_count": 14,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "322b299a-c5a1-40dc-8aab-d8e103bc1cd2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-25T10:16:07.933Z"
+  },
+  {
     "id": "bb9cc067-a3d5-4dc5-a205-cd5973a537ca",
     "status": "open",
     "tag": {
@@ -47,103 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-24T10:23:08.594Z"
-  },
-  {
-    "id": "0476767d-1809-4576-823b-f7151ec8550a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนช่วยทำเว็บ Location Book สถานที่ถ่ายทำภาพยนตร์ แบบ e-book ออนไลน์ (ดึงข้อมูลจาก Google Sheet)\nต้องการงานที่ไม่ซับซ้อน ข้อมูลสถานที่เก็บผ่าน Google Form และอยู่ใน Sheet แล้ว ต้องการนำมาแสดงเป็นหนังสือออนไลน์ที่เปิดอ่านได้คล้าย e-book ใช้ library พลิกหน้าสำเร็จรูปได้\n\nสิ่งที่ต้องการ\n* หน้าปก สารบัญ และหน้าปิดท้ายพร้อมข้อมูลติดต่อ\n* สถานที่ละ 1–2 หน้า: รูป 3–6 รูป คำอธิบาย สิ่งอำนวยความสะดวก ข้อจำกัดการถ่ายทำ และช่องทางติดต่อ\n* บนมือถือเปลี่ยนเป็นเลื่อนอ่านแทนการพลิกหน้าได้\n* (ถ้าทำได้) ปุ่มดาวน์โหลดเป็น PDF\n\nข้อกำหนด\n* แสดงเฉพาะสถานที่ที่กำหนด (มีคอลัมน์กำกับให้แล้ว) และไม่เปิดไฟล์ Sheet ต้นฉบับสู่สาธารณะ\n* เพิ่มหรือแก้สถานที่ใน Sheet แล้วหนังสือต้องปรับตามโดยไม่ต้องแก้โค้ด\n* รูปภาพมาจาก Google Form (เก็บใน Google Drive) ต้องแสดงบนเว็บได้\n\nตัวอย่างอ้างอิง (ขอแบบเรียบง่ายกว่านี้)\n* https://www.okfilmmusic.org/oklahomalookbook (แนวคิดหนังสือแนะนำสถานที่ถ่ายทำ)\n* https://www.flipsnack.com/templates/film-lookbook-template (รูปแบบการพลิกหน้า)\n\nระยะเวลา: ขอดู Demo ภายใน 2 วัน (ใช้ข้อมูลตัวอย่างที่เตรียมให้) และส่งงานจริงภายใน 5–7 วัน\n\nเทคนิค: ใช้ AI หรือ Vibe Coding ได้ ใช้ hosting ฟรีได้ ขอแค่โค้ดอ่านและแก้ไขต่อได้\n\nสิ่งที่ส่งมอบ: source code ในบัญชีของผู้ว่าจ้าง, คู่มือสั้นๆ วิธีแก้ข้อมูล และแก้ไขงานได้ 2 รอบ\n\nข้อมูลผู้ประกอบการ: ใช้เฉพาะในงานนี้ ห้ามนำไปใช้หรือเผยแพร่ต่อ\n\nงบประมาณ: กรุณาเสนอราคาและระยะเวลามา \n",
-    "title": "หาคนช่วยทำเว็บ Location Book สถานที่ถ่ายทำภาพยนตร์ แบบ e-book ออนไลน์ (ดึงข้อมูลจาก Google Sheet)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-24T01:47:00.855479Z",
-    "updated_at": "2026-09-24T01:47:01.730919Z",
-    "user_id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-24T01:47:00.809647Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
-      "username": "pmb.bkk",
-      "display_name": "PMB",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a0698fba-ff99-473c-9350-e6114b7bf07e/profile/5ada314e-fea5-4c93-8e42-7c13b4ba8640.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-24T05:30:31.038Z"
-  },
-  {
-    "id": "a1e01531-6a3b-4c2d-8081-96c9e8d4a58c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการงานไม่ซับซ้อน ทำเว็บดึงข้อมูลจาก Google Sheet ข้อมูลเก็บผ่าน Google Form และอยู่ใน Sheet เรียบร้อยแล้ว ต้องการนำมาแสดงเป็นเว็บรายชื่อธุรกิจที่ค้นหาได้\n\nสิ่งที่ต้องการ (3 ส่วนหลัก)\n* หน้าแรก: การ์ดหมวดธุรกิจประมาณ 8 หมวด พร้อมช่องค้นหา\n* หน้ารายการ: การ์ดผู้ให้บริการ (รูป ชื่อ หมวด พื้นที่) กรองตามหมวดและจังหวัดได้\n* หน้ารายละเอียด: ข้อมูลของแต่ละราย พร้อมปุ่มติดต่อ (โทร, LINE, Facebook, เว็บไซต์)\n* ใช้งานบนมือถือได้\n\nข้อกำหนด\n* แสดงเฉพาะคอลัมน์และรายการที่กำหนด (มีคอลัมน์กำกับให้แล้ว) และไม่เปิดไฟล์ Sheet ต้นฉบับสู่สาธารณะ\n* เมื่อแก้ข้อมูลใน Sheet เว็บต้องอัปเดตตามโดยไม่ต้องแก้โค้ด\n* รูปภาพมาจาก Google Form (เก็บใน Google Drive) ต้องแสดงบนเว็บได้\n\nตัวอย่างอ้างอิง (ขอแบบเรียบง่ายกว่านี้)\n* https://film.utah.gov/crew-support-services (หน้าแรกแบบการ์ดหมวด)\n* https://www.filmsanantonio.com/Production-Directory (ระบบค้นหาตามหมวดและพื้นที่)\n\nระยะเวลา: ขอดู Demo ภายใน 2 วัน (ใช้ข้อมูลตัวอย่างที่เตรียมให้) และส่งงานจริงภายใน 5–7 วัน\n\nเทคนิค: ใช้ AI หรือ Vibe Coding ได้ ใช้ hosting ฟรีได้ (Apps Script, GitHub Pages, Netlify ฯลฯ) ขอแค่โค้ดอ่านและแก้ไขต่อได้\n\nสิ่งที่ส่งมอบ: source code ในบัญชีของผู้ว่าจ้าง, คู่มือสั้นๆ วิธีแก้ข้อมูล และแก้ไขงานได้ 2 รอบ\n\nงบประมาณ: กรุณาเสนอราคาและระยะเวลามา พร้อมแนบผลงาน\n",
-    "title": "หาคนช่วยทำเว็บ Directory รายชื่อผู้ให้บริการกองถ่ายภาพยนตร์ (ดึงข้อมูลจาก Google Sheet)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-24T01:46:07.988771Z",
-    "updated_at": "2026-09-24T01:46:09.219780Z",
-    "user_id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-24T01:46:07.929872Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a0698fba-ff99-473c-9350-e6114b7bf07e",
-      "username": "pmb.bkk",
-      "display_name": "PMB",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a0698fba-ff99-473c-9350-e6114b7bf07e/profile/5ada314e-fea5-4c93-8e42-7c13b4ba8640.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-24T05:30:29.848Z"
   }
 ]
