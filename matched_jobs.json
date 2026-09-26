@@ -1,5 +1,103 @@
 [
   {
+    "id": "29c71ecd-0b9b-4df8-a5d2-c83482905f7e",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ตามหาคน / Freelance / Branding Studio รับทำ Brand Book + Visual Identity  ค่ะ\n\nกำลังทำแบรนด์ใหม่เกี่ยวกับ Business Education / Learning สำหรับเจ้าของธุรกิจและ SME\nสิ่งที่อยากให้ช่วยออกแบบ มีประมาณนี้ค่ะ\n\n1. Logo System\n• Primary Logo  \n• Secondary Logo  \n• Horizontal / Vertical Version  \n• Guideline เรื่องการวางโลโก้ / Clear Space / Minimum Size  \n\n2. Brand Color System\n\n• Primary Color  \n• Secondary Color  \n• Color Combination  \n• Guideline \n\nอยากให้สีสามารถนำไปใช้กับทั้ง Social Media, Presentation, Workbook และงาน Event ได้\n\n3. Typography\n• Headline Font  \n• Subheadline Font  \n• Body Font  \n• Font ภาษาไทย  \n• Font ภาษาอังกฤษ  \n• Typography Hierarchy  \n• ตัวอย่างการจัดวาง Headline / Body / Caption  \n• Guideline การใช้งาน\n\n4. Graphic Identity / Visual System\nอันนี้เป็นส่วนที่ให้ความสำคัญมาก เพราะอยากให้แบรนด์มี Visual Language ของตัวเอง\n\nอยากให้ช่วยออกแบบ เช่น\n• Graphic Elements  \n• Shapes  \n• Lines / Frames  \n• Pattern  \n• Texture ถ้ามี  \n• Icon Direction  \n• Illustration Direction ถ้ามี  \n• Image Treatment  \n• Photography Direction  \n• Layout System  \n• Grid System  \n\nเป้าหมายคือ  ต่อให้บางชิ้นไม่มีโลโก้ คนก็ควรดูออกว่าเป็นแบรนด์เดียวกัน\n\n5. Certificate\n Certificate of Completion\nอยากให้ดู Premium และผู้เรียนรู้สึกอยากถ่ายรูปหรือแชร์ลง Social Media\n\n6. Basic Brand Application\n\nอยากเห็นตัวอย่างการนำ Branding ไปใช้จริง เช่น\n\n• Business Card\n• Notebook\n• Pen\n• Tote Bag\n• T-shirt / Polo\n• Mug / Tumbler\n• Folder\n\n7. Brand Book / Guideline\nสุดท้ายอยากให้รวบรวมทุกอย่างเป็น Brand Book ที่ทีมสามารถเปิดดูและใช้ต่อได้\nและต้องการ Original / Editable Files สำหรับงานที่ทีมต้องนำไปใช้งานต่อ เช่น Figma / Canva / Adobe / PowerPoint ตามความเหมาะสม\n\n\n\n",
+    "title": "คนรับทำ Brand Book + Visual Identity",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-26T09:39:02.507834Z",
+    "updated_at": "2026-09-26T09:39:04.630835Z",
+    "user_id": "fe1ba17c-0cb1-458c-95c3-d8c7a3d3ed02",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T09:39:02.490356Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-26T10:04:33.141Z"
+  },
+  {
+    "id": "5cb46edb-a1eb-45fa-aaeb-962a8dcce2c3",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาคน design LOGO ให้บริษัท\n\nขอคนที่เข้าใจจิตวิทยาของภาพและสีสัน\n\nสามารถเอาเป้าหมายและตัวตนของบริษัทสื่อ ออกมาใน Logo ของบริษัทได้\n\n** เงื่อนไขสำคัญมาก ห้ามใช้ AI และ AI Tools ในการ design LOGO ชิ้นนี้ **\n\nชนิดของไฟล์ที่ต้องการจะเอาไปทำ Website, ปริ้นบนเสื้อและอุปกรณ์\n\nเสนอราคาได้เลย",
+    "title": "หาคน design LOGO โดยไม่ใช้ AI ทุกอย่างต้องมาจากไอเดียตัวเอง",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "4444",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-26T08:32:46.726572Z",
+    "updated_at": "2026-09-26T08:32:48.254071Z",
+    "user_id": "fae5708f-83e4-4578-bfdb-4007cd3accf2",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T08:32:46.679694Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "fae5708f-83e4-4578-bfdb-4007cd3accf2",
+      "username": "pwvveu43",
+      "display_name": "ST",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "4444",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-26T10:04:31.765Z"
+  },
+  {
     "id": "7d0a3273-fa05-4d76-846e-7fd71b85b1b3",
     "status": "open",
     "tag": {
