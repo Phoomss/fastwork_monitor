@@ -1,5 +1,251 @@
 [
   {
+    "id": "f8c09229-9238-4a2a-8f58-72e68501ac28",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "LOONG DOO\n\nต้องการพัฒนาเว็บไซต์ Fashion Marketplace + AI Virtual Try-On + POD\n\n1. Marketplace\n\n- ลูกค้าสมัคร/เข้าสู่ระบบ\n- ดู ค้นหา และซื้อเสื้อผ้า\n- ตะกร้า / Checkout / ชำระเงิน / ติดตาม Order\n- ผู้ขายสมัครร้านและลงขายเสื้อผ้าของตัวเองได้\n\n2. AI Virtual Try-On\n\n- ในหน้าสินค้ามีปุ่ม “ลองใส่ด้วย AI”\n- เปิดกล้องผ่านเว็บไซต์\n- AI นำเสื้อผ้าของสินค้านั้นมาแสดงบนตัวผู้ใช้\n- ต้องรองรับมือถือและสามารถต่อยอดสินค้า/ชุดประเภทอื่นได้\n\n3. POD\n\n- ผู้ใช้สามารถออกแบบเสื้อบนเว็บไซต์\n- อัปโหลด Artwork\n- วาง/ปรับขนาด/ตำแหน่ง Artwork\n- Preview สินค้า\n- นำ Design ไปลงขาย\n- เมื่อมี Order ให้ส่งข้อมูลไปยังโรงงานผลิต\n\n4. Factory Marketplace\n\nเปิดให้โรงงานสมัครเข้ามาเป็นผู้ผลิตในระบบ\n\nโรงงาน\n\n- สมัครและส่งข้อมูลให้ Admin อนุมัติ\n- มี Dashboard ของตัวเอง\n- เพิ่มสินค้าที่รับผลิต\n- กำหนดต้นทุน / MOQ / ระยะเวลาผลิต\n- รับ Production Order\n- ดู Artwork และรายละเอียดการผลิต\n- อัปเดตสถานะการผลิต\n- ใส่เลข Tracking\n\nระบบ\n\n- ผู้ขายสามารถเลือกโรงงานสำหรับผลิต POD\n- ส่ง Order ไปยังโรงงานที่เลือก\n- รองรับโรงงานหลายแห่ง\n\n5. Admin\n\n- จัดการลูกค้า\n- จัดการผู้ขาย\n- จัดการโรงงาน\n- อนุมัติ/ระงับร้านและโรงงาน\n- จัดการสินค้า\n- จัดการ Order\n- จัดการ POD\n- ดูยอดขายและข้อมูลระบบ\n\nทั้งหมดเป็นแค่ การสอบถามราคา ผมมีงบไม่มากและรู้มันไม่พอในงานระดับนี้ แต่ผมอยากรู้ต้องมีเท่าไหร่ถึงทำได้ ผมจะเก็บจนสามารถมาใช้บริการได้คับ  ถ้าใครสนใจมาร่วมทางกันได้นะคับ ขอบคุณคับ",
+    "title": "อยากทรายราคาทำเว็บ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-26T17:16:34.003985Z",
+    "updated_at": "2026-09-26T17:16:36.033953Z",
+    "brief_url": "https://www.printful.com/print-on-demand.  https://anywear.decart.ai /business",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A546E;11.12.0-6002917"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T17:16:33.963000Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "e2e2d0e5-350c-453e-95ba-900391ef68fd",
+    "user_profile": {
+      "id": "e2e2d0e5-350c-453e-95ba-900391ef68fd",
+      "username": "chacooll01",
+      "display_name": "สิทธิโชค จันทร์สมบูรณ์",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e2e2d0e5-350c-453e-95ba-900391ef68fd/profile/68f87ec4-9098-4c98-b36d-94746e244939.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-26T17:48:22.374Z"
+  },
+  {
+    "id": "1c47a072-8aba-416b-a2a3-9e9a75097ba6",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "หาคนช่วยพัฒนาต้นแบบอุปกรณ์สำหรับใช้เป็นหัวข้องานวิจัยครับ ป.โท\n\nเน้นใช้อุปกรณ์ที่มีอยู่แล้ว มัดรวมใน กล่องคอนโทรลครับอยากให้ใช้ได้หลา��ฟังชั้นคับ\n\nต้องการคนมีความรู้ด้าน IoT/Sensor, Arduino/ESP32 และการประกอบอุปกรณ์ สามารถช่วยออกแบบและรวม Sensor หลายชนิด เช่น ระดับน้ำ, Flow, คุณภาพน้ำ และกล้อง ให้อยู่ในอุปกรณ์ 1 ชุด และส่งข้อมูลขึ้นมือถือ/Web Dashboard ได้\n\nเน้นทำ Prototype เพื่อทดลองและเก็บข้อมูลสำหรับงานวิจัย ขอคนที่ช่วยคิด เลือกอุปกรณ์ ต่อวงจร เขียนโปรแกรม และประกอบเครื่องจริงได้ หากทำระบบแผนที่/แจ้งเตือน/วิเคราะห์ข้อมูลได้จะดีมากครับ\n\nขอส่งมอบ Source Code, แบบการต่อ, รายการอุปกรณ์ และสิทธิในผลงานที่พัฒนาขึ้นสำหรับงานนี้ เพื่อสามารถนำไปศึกษาวิจัยและพั���นาต่อได้ครับ\n\nงบประมาณพูดคุยกันได้ รบกวนส่งผลงานที่เคยทำมาให้ดูก่อนได้ครับ",
+    "title": "คนเก่งประดิษฐ์ รวม iot/sensor จะทำหัวข้อวิจัย เซนเซอร์วัดน้ำครับ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-26T15:22:08.921924Z",
+    "updated_at": "2026-09-26T15:22:09.863787Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS18.7.8;iPhone;11.13.0-6002925"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-26",
+    "expired_at": "2026-10-26T15:22:08.881558Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7d462c72-79ca-448f-af46-a8abf4edcb2f",
+    "user_profile": {
+      "id": "7d462c72-79ca-448f-af46-a8abf4edcb2f",
+      "username": "prawittompudfg1rpw9s",
+      "display_name": "Prawit",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7d462c72-79ca-448f-af46-a8abf4edcb2f/profile/535f53ff-1f77-4ef9-82a1-e4a7c8be481c.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-26T17:48:20.859Z"
+  },
+  {
+    "id": "8c373166-d0dd-486c-ac55-afa6f6d1678a",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "full-time",
+    "description": "รายละเอียดรับสมัครงาน\nตำแหน่ง: นักบินโดรนและผู้เชี่ยวชาญด้านระบบสำรวจ (Drone Specialist & IT Logistics Coordinator)\nรูปแบบงาน: งานประจำ (Full-time) ยินดีต้อนรับนักศ��กษาจบใหม่\nสถานที่ปฏิบัติงาน: กรุงเทพฯ – ชลบุรี (คลังสินค้า, ศูนย์กระจายสินค้า, ท่าเรือ และหน้างาน)\nหน้าที่ความรับผิดชอบหลัก\n * วางแผนและบินโดรนสนับสนุนโลจิสติกส์ เช่น นับสต็อกสินค้ามุมสูง สำรวจลานตู้คอนเทนเนอร์ และเส้นทางขนส่ง\n * บินอัตโนมัติด้วยซอฟต์แวร์ DJI (DJI Pilot 2, DJI FlightHub 2, DJI Terra, DJI GS Pro) หรือ DroneDeploy, Pix4D\n * ตรวจสอบคุณภาพภาพถ่าย/วิดีโอ ประมวลผลด้วย Computer Vision เชื่อมโยงระบบ WMS/TMS ของบริษัท\n * พัฒนา/ทดสอบระบบร่วมกับ ROS และเขียนโปรแกรมภาษา Python เพื่อควบคุมโดรนและเชื่อมต่อ IoT\n * จัดการ สำรองข้อมูลภาพและแผนที่ขึ้นระบบ Cloud หรือเครือข่ายตามมาตรฐานความปลอดภัย IT\n * ดูแล ซ่อมบำรุง ตรวจเช็ก และอัปเดตซอฟต์แวร์/เฟิร์มแวร์โดรน\n * ประสานงานทีมโลจิสติกส์และลูกค้า รายงานผลสำรวจและซัพพอร์ตข้อมูลเชิงเทคนิค\nคุณสมบัติผู้สมัคร\n * วุฒิ ปวส. หรือ ป.ตรี สาขา IT, วิทยาการคอมพิวเตอร์, คอมพิวเตอร์ธุรกิจ, วิศวกรรมคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง\n * อายุ 20 ปีขึ้นไป มีประสบการณ์ 0–3 ปี\n * ยืดหยุ่นในการเดินทางและทำงานระหว่าง กทม. – ชลบุรี ได้\n * พิเศษ: พิจารณาเป็นพิเศษหากมีใบอนุญาตนักบินโดรน (กพท./CAAT) หรือใบอนุญาตใช้อุปกรณ์คลื่นความถี่ (กส���ช.)\nทักษะที่จำเป็นและเครื่องมือที่ใช้\n * โดรนและซอฟต์แวร์: DJI Ecosystem, Pix4D, DroneDeploy, QGIS (พิจารณาพิเศษหากมีทักษะ GIS/Photogrammetry)\n * เทคนิคและโปรแกรมมิ่ง: Python (API/Automation), ROS/ROS2, OpenCV, Computer Vision (Object Detection), Linux, ระบบ Network/Cloud/IoT\n * การบินและความปลอดภัย: ประเมินความเสี่ยง ทิศทางลม และสภาพอากาศได้ดี มีทักษะแก้ปัญหาเฉพาะหน้า\nการสมัครงาน\n * ส่ง Resume / Portfolio ไปที่อีเมล: **********\n * ตั้งชื่อหัวข้ออีเมล: สมัครงานตำแหน่ง Drone Specialist - [ชื่อ-นามสกุล]\n * หรือสแกน QR Code จากประกาศเพื่อสมัคร",
+    "title": "IT & Drone pilot",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-26T14:46:21.066596Z",
+    "updated_at": "2026-09-26T14:46:22.062040Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S928B;11.12.0-6002917"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T14:46:21.015116Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "2d866a1d-7c78-4c34-9112-c446627992e2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-26T17:48:19.706Z"
+  },
+  {
+    "id": "1c938312-db43-4991-bb74-d446dabd4075",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "full-time",
+    "description": "รายละเอียดรับสมัครงาน\nตำแหน่ง: นักบินโดรนและผู้เชี่ยวชาญด้านระบบสำรวจ (Drone Specialist & IT Logistics Coordinator)\nรูปแบบงาน: งานประจำ (Full-time) ยินดีต้อนรับนักศึกษาจบใหม่\nสถานที่ปฏิบัติงาน: กรุงเทพฯ – ชลบุรี (คลังสินค้า, ศูนย์กระจายสินค้า, ท่าเรือ และหน้างาน)\nหน้าที่ความรับผิดชอบหลัก\n * วางแผนและบินโดรนสนับสนุนโลจิสติกส์ เช่น นับสต็อกสินค้ามุมสูง สำรวจลานตู้คอนเทนเนอร์ และเส้นทางขนส่ง\n * บินอัตโนมัติด้วยซอฟต์แวร์ DJI (DJI Pilot 2, DJI FlightHub 2, DJI Terra, DJI GS Pro) หรือ DroneDeploy, Pix4D\n * ตรวจสอบคุณภาพภาพถ่าย/วิดีโอ ประมวลผลด้วย Computer Vision เชื่อมโยงระบบ WMS/TMS ของบริษัท\n * พัฒนา/ทดสอบระบบร่วมกับ ROS และเขียนโปรแกรมภาษา Python เพื่อควบคุมโดรนและเชื่อมต่อ IoT\n * จัดการ สำรองข้อมูลภาพและแผนที่ขึ้นระบบ Cloud หรือเครือข่ายตามมาตรฐานความปลอดภัย IT\n * ดูแล ซ่อมบำรุง ตรวจเช็ก และอัปเดตซอฟต์แวร์/เฟิร์มแวร์โดรน\n * ประสานงานทีมโลจิสติกส์และลูกค้า รายงานผลสำรวจและซัพพอร์ตข้อมูลเชิงเทคนิค\nคุณสมบัติผู้สมัคร\n * วุฒิ ปวส. หรือ ป.ตรี สาขา IT, วิทยาการคอมพิวเตอร์, คอมพิวเตอร์ธุรกิจ, วิศวกรรมคอมพิวเตอร์ หรือสาขาที่เกี่ยวข้อง\n * อายุ 20 ปีขึ้นไป มีประสบการณ์ 0–3 ปี\n * ยืดหยุ่นในการเดินทางและทำงานระหว่าง กทม. – ชลบุรี ได้\n * พิเศษ: พิจารณาเป็นพิเศษหากมีใบอนุญาตนักบินโดรน (กพท./CAAT) หรือใบอนุญาตใช้อุปกรณ์คลื่นความถี่ (กสทช.)\nทักษะที่จำเป็นและเครื่องมือที่ใ��้\n * โดรนและซอฟต์แวร์: DJI Ecosystem, Pix4D, DroneDeploy, QGIS (พิจารณาพิเศษหากมีทักษะ GIS/Photogrammetry)\n * เทคนิคและโปรแกรมมิ่ง: Python (API/Automation), ROS/ROS2, OpenCV, Computer Vision (Object Detection), Linux, ระบบ Network/Cloud/IoT\n * การบินและความปลอดภัย: ประเมินความเสี่ยง ทิศทางลม และสภาพอากาศได้ดี มีทักษะแก้ปัญหาเฉพาะหน้า\nการสมัครงาน\n * ส่ง Resume / Portfolio ไปที่อีเมล: **********\n * ตั้งชื่อหัวข้ออีเมล: สมัครงานตำแหน่ง Drone Specialist - [ชื่อ-นามสกุล]\n * หรือสแกน QR Code จากประกาศเพื่อสมัคร",
+    "title": "IT for drone project",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-26T14:45:17.037376Z",
+    "updated_at": "2026-09-26T14:45:18.756556Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S928B;11.12.0-6002917"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T14:45:16.993903Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "2d866a1d-7c78-4c34-9112-c446627992e2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-26T17:48:18.603Z"
+  },
+  {
+    "id": "e8ffa127-5878-4880-89fd-67d8debde108",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "contract",
+    "description": "[รับสมัคร] ตำแหน่ง Graphic Designer (ทำงาน Remote 100%)\nบริษัท Early-Stages Startup จากสหรัฐอเมริกา กำลังเปิดรับสมัครทีมงาน Graphic Designer ที่พร้อมเติบโตและลุยโปรเจกต์จริงไปกับเรา\n\n📌 ตำแหน่งที่เปิดรับสมัคร:\n\nGraphic Designer (AI, Web, Video & Packaging) - 1 อัตรา\n(หากสามารถขึ���นรูป 3D สร้างไฟล์ CAD (.STL) และมีไอเดียในการสร้างสรรค์โปรดักต์ใหม่ๆ จะได้รับการพิจารณาเป็นพิเศษ)\n\n💰 ผลตอบแทนและสวัสดิการ:\n\nรูปแบบการทำงาน: ทำงานทางไกล (Remote Work / WFH 100%)\n\nฐานเงินเดือน: $500 ต่อเดือน (ประมาณ 17,000 บาท)\n\n📝 ลักษณะงาน:\n\nการสื่อสาร: สามารถพูดและสื่อสารภาษาอังกฤษในการทำงานได้\n\nการออกแบบและผลิตสื่อ: สร้างสรรค์ภาพกราฟิกสำหรับโฆษณาออนไลน์ (Ads), คอนเทนต์โซเชียลมีเดีย และออกแบบบรรจุภัณฑ์ (Packaging) สำหรับสินค้า\n\nAI & Video: ใช้งานเครื่องมือ AI (AI Imaging) ควบคู่กับความรู้ด้านองค์ประกอบภาพและทฤษฎีสีได้อย่างมีประสิทธิภาพ และสามารถตัดต่อวิดีโอสำหรับโปรโมตสินค้าได้\n\nWeb Development เบื้องต้น: ดูแลการจัดหน้าเว็บไซต์ของโปรเจกต์ (สามารถใช้แพลตฟอร์มสำเร็จรูป เช่น Wix, Shopify หรือ WordPress ได้ ไม่จำเป็นต้องเขียนโค้ดใหม่ทั้งหมด)\n\nการประสานงาน (สำคัญมาก): ทำงานแบบคู่ขนานและใกล้ชิดกับ Social Media Manager (SMM) ของทีมไทย โดยรับบรีฟงานและส่งมอบชิ้นงานให้ทันตามกำหนดเวลาเป๊ะๆ (Strict Deadlines) ตามแผนการโพสต์ (Posting SOP)\n\nการพัฒนาผลิตภัณฑ์: หากสามารถขึ้นรูป 3D, สร้างไฟล์ CAD (.STL) สำหรับการผลิต และมีไอเดียในการสร้างสรรค์โปรดักต์ใหม่ๆ จะพิจารณาเป็นพิเศษ\n\n📩 สนใจร่วมงาน:\nส���งเรซูเม่และ Portfolio ผลงาน (ภาษาอังกฤษ) มาทาง E-mail: **********\nและรบกวน CC: ********** ได้เลยครับ\n",
+    "title": "กราฟิก ดีไซเนอร์ ทำคอนเท้นต์เกี่ยวกับสินค้า สามารถใช้งาน Canva, Illustrator, Photoshop และ AI ได้",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "17000",
+    "is_anonymous": true,
+    "inserted_at": "2026-09-26T14:33:22.703647Z",
+    "updated_at": "2026-09-26T14:33:23.718667Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-26T14:33:22.660615Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "78d5fa6c-10a8-4c41-ab05-58bd2127de23",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "17000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-26T17:48:17.451Z"
+  },
+  {
     "id": "29c71ecd-0b9b-4df8-a5d2-c83482905f7e",
     "status": "open",
     "tag": {
@@ -146,103 +392,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-09-26T05:29:14.313Z"
-  },
-  {
-    "id": "465bba12-d9d4-45dc-8520-9e600a987e46",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "มองหาฟรีแล็นท์ทำ VFX ใน unity เป็นเกมส์ 2D สไลด์สกอล  ขอคนที่เคยมีผลงานมานะครับ\nเอฟเฟคแสงไฟ   ต้นไม้ที่นิ่งๆมาให้โยกได้  ผ้าพริ้วได้    และอื่นๆ\nขอคนพร้อมลุยงานไม่ชนกับงานอื่นอยู่ครับ    ",
-    "title": " มองหาฟรีแล็นท์ทำ  VFX ใน unity เป็นเกมส์ 2D สไลด์สกอล",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "standard",
-    "budget": "4000",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-25T14:10:25.846528Z",
-    "updated_at": "2026-09-25T14:10:26.860078Z",
-    "user_id": "dcf98d45-5ede-40a6-ae0c-7ed92242bd39",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-25T14:10:25.829084Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "4000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-25T15:17:36.996Z"
-  },
-  {
-    "id": "60f2874d-4a00-4fac-966c-b36387673758",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "คลินิกเด็ก เชื่อมกับระบบไลน์ OA มีแจ้งเตือนนัดหมายอัตโนมัติ + มีแจ้งคิวตารางของคนไข้แต่ละคนแต่ละวันในรายวันอัตโนมัติในไลนฺกลุ่ทอีกที จริงๆพอมีทำระบบไว้แล้วคร่าวๆ ใน google app script แต่อยากย้ายระบบงานมาที่ GitHub",
-    "title": "หาคนทำระบบ web app ไว้ใช้ในคลินิก",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-25T13:12:19.326765Z",
-    "updated_at": "2026-09-25T13:12:20.450899Z",
-    "user_id": "535d6815-4c95-4de1-a240-4d0f78aa9529",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-25T13:12:19.278391Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "535d6815-4c95-4de1-a240-4d0f78aa9529",
-      "username": "founqq",
-      "display_name": "founqq",
-      "image_url": "https://storage.googleapis.com/fastwork-static/b7ee117a-c3ee-48e4-a8ee-e381944f6794.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-25T15:17:35.882Z"
   }
 ]
