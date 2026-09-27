@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "10675f8d-afe1-4c12-9c1e-596b3f72ec69",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ทำเว็บไซต์แบบทดลองที่เปิดดูได้ค่ะ เป็นเว็บไซต์นำเสนอวิทยาศาสตร์เล็กๆ มีรายละเอียดให้ครบ ตกแต่วสวยงามและกด interact ปุ่มต่างๆได้ ข้อมูลครบ มีข้อมูลให้ค่ะ",
+    "title": "ทำ Figma เว็บไซต์จำลองงานมหาลัย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-27T21:03:18.561366Z",
+    "updated_at": "2026-09-27T21:03:19.377064Z",
+    "user_id": "2f45d006-604f-4de6-a08c-00cb0e81a331",
+    "already_offered": false,
+    "brief_url": "https://sites.google.com/kmitl.ac.th/biobank316/%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B8%9E%E0%B8%8A?authuser=0",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-09-30",
+    "expired_at": "2026-10-27T21:03:18.544695Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;V2347;11.12.0-6002917"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "2f45d006-604f-4de6-a08c-00cb0e81a331",
+      "username": "jidapa.wongnoi",
+      "display_name": "Jidapa.wongnoi",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/2f45d006-604f-4de6-a08c-00cb0e81a331/profile/e5f7bd33-c204-4e93-9058-928d222e16cd.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-09-27T22:12:11.915Z"
+  }
+]
