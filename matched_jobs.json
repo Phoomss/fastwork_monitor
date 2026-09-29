@@ -1,5 +1,152 @@
 [
   {
+    "id": "d7e633d0-1471-4bdc-8ec3-ad72622d347a",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟ��กดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "หาคนออกแบบ สำหรับ Brand สำหรับผลิตภัณอาหารเสริมเพื่อสุขภาพ\n(1) Brand concept \n\n(2) Brand system\n-Branding Logo (mainlogo / logo icon)\n-Color palettำ\n-Typography (eng/thai)\n-Poster/graphic example\n\n(3) Communication\n-Website Design 3 หน้า (main + product + about us)\n-Line Rich Menu\n-E-Com (Shopee) Shop Decoration\n-IG logo and highlight icons\n\n(4) Packaging design  ทั้งหมด 4  หมวดผลิตภัณฑ์\n-โปรตีนผงใส่ถุง (800-900grams) 3 รสชาติ\n-โปรตีนซองถุง 35 gram แบบพร้อมดื่ม +กล่อง 3 รสชาติ\n-Granola ถุง (250-500 grams) 3 รสชาติ\n-แป้งแพนเค้กผสม 2 รสชาติ\n+ตัวอย่างโพส social media ของแต่ละ product ทั้งภาพและวิดิโอของแต่ละโปรดัก\n\n\nสามารถปรับ budget ขึ้นได้ Freelance มีประสพการณ์ที่เข้าตา สนใจรบกวนขอส่งผลงานมาให้ดูก่อนนะคะ",
+    "title": "ออกแบบ Branding system / guideline / Packaging",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "50000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-29T06:56:29.328862Z",
+    "updated_at": "2026-09-29T06:56:30.398711Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-10-29T06:56:29.284503Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a92b66b6-83d3-465a-8cb0-d485bb12f6f2",
+    "user_profile": {
+      "id": "a92b66b6-83d3-465a-8cb0-d485bb12f6f2",
+      "username": "aomyfruit",
+      "display_name": "Aom",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "50000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-09-29T09:05:28.967Z"
+  },
+  {
+    "id": "27dca85a-3e4d-4d95-a0af-bba117697a83",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": " ai sip socket เพื่อเชื่อมต่อกับ IP PBX สามารถนำไปทำ Ai Agent ได้\nหรือ ทำ MCP Client เชื่อมต่อกับ IP PBX",
+    "title": "คนรับทำ ai sip socket เพื่อเชื่อมต่อกับ IP PBX สามารถนำไปทำ Ai Agent ได้",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-29T05:33:14.087512Z",
+    "updated_at": "2026-09-29T05:33:15.818056Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-29T05:33:14.035967Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "34664a8d-06e4-4c82-aa2c-b3a52b8347e2",
+    "user_profile": {
+      "id": "34664a8d-06e4-4c82-aa2c-b3a52b8347e2",
+      "username": "suriyasak",
+      "display_name": "suriyasak",
+      "image_url": "https://storage.googleapis.com/fastwork-static/2321664d-e50b-480f-84c0-6dd31361e617.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-29T09:05:27.511Z"
+  },
+  {
+    "id": "6fdc3f54-c7aa-48f0-addc-3daaa8d84893",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "🥇 Copilot Studio + Teams + SharePoint/Dataverse + Power Automate\nแต่ อย่าเริ่มทำ Bot ใหญ่เลย ผมแนะนำให้เริ่ม Version 1 จาก Packaging Price & Supplier Recommendation Bot ที่เราคุยกันก่อนหน้านี้ก่อน เพราะมี Database และ Business Logic ชัดเจนอยู่แล้ว จากนั้นค่อยขยายไป Spec, quotation, supplier performance และ cost study. เป็นแชทบอทขนาดย่อม face to face พื้นที่ชลบุรี\nอยากได้ราคาตามงบเดินทางไปหาตามสถานที่นัดได้ ",
+    "title": "Copilot studio หาคนสอนพร้อมทำไปด้วยกัน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-09-29T04:26:10.173856Z",
+    "updated_at": "2026-09-29T04:26:11.766794Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android12;LMR-LX9;11.12.0-6002917"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-03",
+    "expired_at": "2026-10-29T04:26:10.124737Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "9d1ad443-8a6d-4554-a898-0802d166648e",
+    "user_profile": {
+      "id": "9d1ad443-8a6d-4554-a898-0802d166648e",
+      "username": "l2ud6j1t",
+      "display_name": "Suchote",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9d1ad443-8a6d-4554-a898-0802d166648e/profile/48725b08-ec26-4756-8802-75a5b398fa64.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-09-29T09:05:26.321Z"
+  },
+  {
     "id": "7f96967c-0e34-44f7-9bb1-8cb7f4408163",
     "status": "open",
     "tag": {
@@ -47,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-09-28T12:02:37.635Z"
-  },
-  {
-    "id": "e19e694e-418b-4583-9a86-5224b7621105",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "โปรแกรมล๊อคแผ่น dvd ป้องกันการก๊อปปี้ ป้องกันดึงไฟล์ ก๊อปโคลฺน   ใช้งานผ่านเครื่องเล่นดีวีดี ทำไว้ใช้เอง เสนองบได้ค่ะ",
-    "title": "หาโปรแกรมเมอร์ เขียนโปรแกรมล๊อค dvd",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-28T03:09:25.780370Z",
-    "updated_at": "2026-09-28T03:09:27.718141Z",
-    "user_id": "90422192-de2e-431b-b8d1-907bb43a7309",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-10-28T03:09:25.762582Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.10;iPhone;11.13.0-6002925"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-28T05:53:00.239Z"
   }
 ]
