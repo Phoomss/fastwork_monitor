@@ -1,4 +1,6 @@
 [
-  "[2026-09-30T02:23:37.369Z] Checking Fastwork for new job posts...",
-  "[2026-09-30T02:23:37.368Z] Auto-cleanup: Removed 9 seen job tracking IDs older than 1 day(s)."
+  "[2026-09-30T08:44:50.290Z]     Notification sent successfully.",
+  "[2026-09-30T08:44:49.834Z]   FOUND NEW TARGET JOB: IT ที่สามารถ Sync ข้อมูล Product ของ โปรแกรม Business Plus พวก ราคา ที่มี หลาย UOM และ 3 กลุ่มราคา เข้ากับ PostgreSQL ของ Odoo version 15 (Cats: พัฒนาแอปพลิเคชัน) (Budget: 0 THB)",
+  "[2026-09-30T08:44:48.215Z] Checking Fastwork for new job posts...",
+  "[2026-09-30T08:44:48.213Z] Auto-cleanup: Removed 9 seen job tracking IDs older than 1 day(s)."
 ]
