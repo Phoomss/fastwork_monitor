@@ -1,6 +1,7 @@
 [
-  "[2026-09-30T08:44:50.290Z]     Notification sent successfully.",
-  "[2026-09-30T08:44:49.834Z]   FOUND NEW TARGET JOB: IT ที่สามารถ Sync ข้อมูล Product ของ โปรแกรม Business Plus พวก ราคา ที่มี หลาย UOM และ 3 กลุ่มราคา เข้ากับ PostgreSQL ของ Odoo version 15 (Cats: พัฒนาแอปพลิเคชัน) (Budget: 0 THB)",
-  "[2026-09-30T08:44:48.215Z] Checking Fastwork for new job posts...",
-  "[2026-09-30T08:44:48.213Z] Auto-cleanup: Removed 9 seen job tracking IDs older than 1 day(s)."
+  "[2026-09-30T15:20:49.266Z]     Notification sent successfully.",
+  "[2026-09-30T15:20:49.105Z]   FOUND NEW TARGET JOB: หาคนช่วยแก้งาน เกี่ยวกับการทำเว็บ ดูเกรด ด้วย กูเกิ้ลชีตอบ (Cats: พัฒนาเว็บไซต์) (Budget: 200 THB)",
+  "[2026-09-30T15:20:47.989Z] Checking Fastwork for new job posts...",
+  "[2026-09-30T15:20:47.988Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-09-30T15:20:47.985Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
