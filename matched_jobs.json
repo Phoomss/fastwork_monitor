@@ -342,54 +342,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-01T09:10:53.886Z"
-  },
-  {
-    "id": "82a09ccc-49de-4071-9661-a18dce5c8411",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "part-time",
-    "description": "ช่วยทำแบบสอบถามออนไลน์เพื่อเก็บรวบรวมข้อมูลไปพัฒนาโปรเจคให้สมบูรณ์เป็นแบบสอบถามไม่ยากเกินไปค่ะถามไม่เยอะมากค่ะ",
-    "title": "คนตอบแบบสอบถามโปรเจค",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-09-30T18:20:00.429474Z",
-    "updated_at": "2026-09-30T18:20:02.189631Z",
-    "user_id": "cb849c93-57de-4d40-bb24-30881ef51e11",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-01",
-    "expired_at": "2026-10-30T18:20:00.388920Z",
-    "freelance_offers_count": 16,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS17.6.1;iPad;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "cb849c93-57de-4d40-bb24-30881ef51e11",
-      "username": "4wrtjv5r",
-      "display_name": "4wrtjv5r",
-      "image_url": "https://storage.googleapis.com/fastwork-asset/profile-seller-default.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-09-30T20:07:26.873Z"
   }
 ]
