@@ -1,5 +1,202 @@
 [
   {
+    "id": "f524cbc9-77e6-407a-be5a-d17296759b82",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nกรุณาอ่านให้ครบก่อนรับงาน ทำเสร็จภายใน 24 ชม. หลังได้รับรหัส (ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nอัดเสียงอ่านข้อความสั้นๆ 210 ประโยค (15-20 นาที) ผ่านสมาร์ตโฟน (iOS/Android) ในห้องเงียบ ไม่มีเสียงรบกวน (พัดลม ทีวี คนคุยกัน)\n\n⚠️ ข้อกำหนดอุปกรณ์ (สำคัญมาก):\nใช้ไมค์ในตัวเครื่องเท่านั้น ห้ามใช้ไมค์นอก/สายแปลงใดๆ เพราะเสี่ยงมีเสียงไฟรั่ว/เสียงจี่แทรก (สาเหตุอันดับ 1 ที่ไม่ผ่าน QC) ให้ถอดปลั๊ก/ปิดเครื่องใช้ไฟฟ้าใกล้ตัวขณะอัดเสมอ (ตู้เย็น พัดลม แอร์)\n\nคุณสมบัติ:\n1. พูดไทยเป็นภาษาแม่ สำเนียงปกติ ฟังชัด\n2. อายุ 18-60 ปี รับทั้งชายหญิง\n\nQC Standard:\n- อ่านธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เวอร์ ไม่เว้นจังหวะแปลก\n- อ่านตรงสคริปต์ 100% ห้ามเติม/ตัด/อ่านตก\n- เส���ยงชัด ไม่มีเสียงซ่า/ก้อง/รบกวน รวมถึงเสียงไฟฟ้า\n\n📋 เงื่อนไขแก้ไข:\nผ่าน QC 95% ขึ้นไป = อนุมัติทันที มีจุดแก้ไขได้ 1 ครั้งเท่านั้น แก้ครั้งที่ 1 แล้วยังไม่ผ่าน = ถือว่างานใช้ไม่ได้ ไม่เปิดแก้เพิ่ม หากพบว่าปัญหามาจากอุปกรณ์ ต้องเปลี่ยนมาใช้ไมค์ในตัวเครื่องก่อนแก้ไข\n\n⏳ เงื่อนไขปลดล็อกไอดี:\nติดต่อไม่ได้เกิน 24 ชม. หลังแจ้งผล QC/คำขอแก้ไข ขอปลดล็อก (Unbind) ทันทีเพื่อคืนโควต��� ถือเป็นการยุติงานโดยไม่มีค่าตอบแทน\n\n⏳ ระยะเวลาตรวจ: แจ้งผลเบื้องต้น 3-5 วัน อนุมัติเงินประมาณ 10-12 วันทำการ (ผ่าน QC 95%+ อนุมัติทันที)\n\n💰 ค่าตอบแทน: [130บาท]\nจ่ายเมื่อผลงานผ่าน QC ตามเกณฑ์เท่านั้น\n\nการกดรับงานถือว่ายอมรับเงื่อนไขทุกข้อแล้ว\n",
+    "title": "อัดเสียงประโยคสั้น (ผู้ชาย)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "130",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-01T11:26:50.486957Z",
+    "updated_at": "2026-10-01T11:26:52.150693Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-02",
+    "expired_at": "2026-10-31T11:26:50.462862Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "130",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-01T16:23:35.714Z"
+  },
+  {
+    "id": "b93a6055-480a-4a5f-b5ba-39b9c4c1a0c7",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "contract",
+    "description": "ผู้พัฒนาเว็บไซต์ในการหาวิธีใส่ Product เวอร์ชัน 360 หมุนดูได้ ประมาณ 400 products ในเว็บสำเร็จรูป ช่วยคิดหน่อยเหนื่อยละ",
+    "title": "ผู้พัฒนาเว็บไซต์ในการหาวิธีใส่ Product เวอร์ชัน 360 ในเว็บสำเร็จรูป ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-01T09:47:50.248119Z",
+    "updated_at": "2026-10-01T09:47:51.252568Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-31T09:47:50.179141Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "cba7f215-2511-49f1-972e-0bcc6c3b33cb",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-01T16:23:34.509Z"
+  },
+  {
+    "id": "c37cfef7-3f3f-4ecf-9e60-417d2ed75ace",
+    "status": "open",
+    "tag": {
+      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
+      "name": "จัดการร้านค้าออนไลน์",
+      "sort": 15
+    },
+    "type": "contract",
+    "description": "Company: Surround Living — vintage & antique furniture, lighting, rugs and tableware \nLocation: Bangkok, Thailand (Bangna) — [on-site / hybrid — confirm] \nType: Full-time Reports to: [Managing Director / Marketing Lead]\nCompensation is negotiable based on experience and qualifications.\n\nAbout the role\nSurround Living currently runs its paid search and social advertising through an external growth agency. We are bringing this function fully in-house. You will own the transition, take over the existing Google Ads and Meta accounts, and then run and grow both paid and organic search as a single, accountable function.\nThis is a hands-on, single-owner role — you will build the campaigns, write the reports, and be measured on revenue, not activity.\n________________________________________\nRequirements\n•\t3–5+ years managing Google Ads and Meta Ads directly, with proven ecommerce results (agency or in-house)\n•\tDemonstrable SEO experience on an ecommerce platform — Shopify strongly preferred\n•\tStrong working knowledge of Google Merchant Center, GA4, GTM and Search Console\n•\tComfortable owning a P&L-relevant budget and reporting on it to management\n•\tFluent written English; Thai an advantage\n•\tAble to show real numbers from past accounts (spend managed, ROAS, growth delivered)\nAdvantageous\n•\tExperience with high-SKU or unique-inventory catalogues (antiques, art, second-hand, auction)\n•\tBasic Shopify Liquid / HTML for on-page fixes\n•\tKlaviyo or email/CRM experience\n•\tInterest in interiors, design or antiques\n•\tExperience with Looker Studio or similar reporting dashboards\n\nFurther details will be shared",
+    "title": "ฉันหาSEO & SEM Manager",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "18000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-01T09:31:01.001804Z",
+    "updated_at": "2026-10-01T09:31:01.992126Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-31T09:31:00.950167Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+    "user_profile": {
+      "id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+      "username": "thanwarat_",
+      "display_name": "Thanwarat Anuchatrakun",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/79879e90-2f5b-44a2-b7ea-73742e808851/profile/9990ab04-1a93-44a5-ab79-483fde836f0a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "18000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-01T16:23:32.939Z"
+  },
+  {
+    "id": "0265f574-4103-4b45-9635-e57393db9d2c",
+    "status": "open",
+    "tag": {
+      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
+      "name": "จัดการร้านค้าออนไลน์",
+      "sort": 15
+    },
+    "type": "contract",
+    "description": "ตำแหน่ง : Shopify Manager (Backend)  \nสถานที่ทำงาน : Remote กรุงเทพมหานคร, ประเทศไทย\nวันที่เริ่มงาน: เริ่มงานได้ทันที \nค่าตอบแทน: ตามตกลง (สามารถเจรจาได้)\nลักษณะงาน\nผู้จัดการ Shopify (Backend) มีบทบาทสำคัญในการรับผิดชอบดูแลและบริหารจัดการด้านเทคนิคของแพลตฟอร์ม Shopify เพื่อสนับสนุนการดำเนินงานของร้านค้าออนไลน์ให้มีประสิทธิภาพ โดยจะทำงานร่วมกับทีมงานหลายฝ่าย เพื่อพัฒนาปรับปรุงกระบวนการทำงานด้านหลังบ้านและยกระดับการใช้งานของลูกค้าทั้งหมด\nหน้าที่ความรับผิดชอบหลัก\n•\tการจัดการร้าน Shopify\no\tบริหารจัดการการดำเนินงานประจำวันของร้าน Shopify เช่น การอัปโหลดสินค้า การจัดการสินค้าคงคลัง และการประมวลผลคำสั่งซื้อ\n•\tการปรับปรุงระบบ Backend\no\tพัฒนากระบวนการ Backend เพื่อเพิ่มประสิทธิภาพในการจัดส่งคำสั่งซื้อ \n•\tประสานงานการใช้งานแอปพลิเคชัน\no\tติดตั้งและจัดการแอปพลิเคชันจาก 3rd party application เพื่อสร้างเสริมประสิทธิภาพการทำงาน เช่น ระบบจัดการสินค้าคงคลังหรือวิธีการจัดการแนวทางการขนส่ง\n•\tการจัดการข้อมูล\no\tดูแลความถูกต้องและความสอดคล้องของข้อมูลผลิตภัณฑ์ ราคา และตรวจสอบจำนวนส��นค้าคงคลัง เพื่อให้การทำงานของเว็บไซต์มีความน่าเชื่อถือ\n•\tการสนับสนุนด้านเทคนิค\no\tแก้ไขปัญหาทางเทคนิคที่เกี่ยวข้องกับแพลตฟอร์ม Shopify เช่น ปัญหาเกี่ยวกับระบบการชำระเงินหรือการเช็คเอาต์\n•\t การวิเคราะห์และรายงาน\no\tติดตามประสิทธิภาพของเว็บไซต์และให้ข้อมูลเชิงลึกผ่านเครื่องมือวิเคราะห์เพื่อช่วยในการตัดสินใจและเพิ่มยอดขาย\nคุณสมบัติ:\n•\tมีประสบการณ์ในการจัดการร้านค้า Shopify หรือแพลตฟอร์ม E-Commerce \n•\tมีความเข้าใจและเชี่ยวชาญเกี่ยวกับการดำเนินงานด้านอีคอมเมิร์ซและกระบวนการหลังบ้าน\n•\tมีทักษะการสื่อสารที่ดีและสามารถทำงานร่วมกันในทีมได้อย่างมีประสิทธิภาพ",
+    "title": "ฉันหาShopify Manager (Backend)  ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-01T09:30:01.209268Z",
+    "updated_at": "2026-10-01T09:30:02.850898Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-10-31T09:30:01.156243Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+    "user_profile": {
+      "id": "79879e90-2f5b-44a2-b7ea-73742e808851",
+      "username": "thanwarat_",
+      "display_name": "Thanwarat Anuchatrakun",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/79879e90-2f5b-44a2-b7ea-73742e808851/profile/9990ab04-1a93-44a5-ab79-483fde836f0a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-01T16:23:31.702Z"
+  },
+  {
     "id": "c2d86298-442c-45b8-95a3-33a47662c9a6",
     "status": "open",
     "tag": {
@@ -194,54 +391,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-09-30T20:07:26.873Z"
-  },
-  {
-    "id": "d58158be-4824-4e6d-a9ea-fdff5fc232bb",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "แก้ไขให้ระบบแจ้งเตือนไลน์ ตอบกลับข้อความอัตโนมัติ ตอบกลับตรงคำถาม \nปัญหาคือ อ่านแล้วแต่ไม่ตอบ หรือตอบไม่ตรงคำถาม ",
-    "title": "หาคนช่วยแก้งาน เกี่ยวกับการทำเว็บ ดูเกรด ด้วย กูเกิ้ลชีตอบ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-09-30T11:20:51.160622Z",
-    "updated_at": "2026-09-30T11:20:52.607763Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.7;iPhone;11.12.0-6002917"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-09-30",
-    "expired_at": "2026-10-30T11:20:51.141288Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "5dd0863e-0122-4eec-88d4-ee68b01cc2bb",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-09-30T15:20:49.104Z"
   }
 ]
