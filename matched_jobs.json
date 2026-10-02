@@ -1,5 +1,152 @@
 [
   {
+    "id": "b4d832a5-3e0c-4da9-a5ef-41b81f1c1d74",
+    "status": "open",
+    "tag": {
+      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
+      "name": "รูปภาพและวิดีโอ",
+      "sort": 6
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน\nต้องการหาคนที่มีประสบการณ์ทำ TikTok LIVE / OBS / TikFinity มาช่วยทำระบบ LIVE แบบ Interactive คล้ายตัวอย่างในรูปที่แนบให้\nต้องการระบบประมาณนี้:\nทำ LIVE แนวตั้งสำหรับ TikTok (9:16)\nใช้ OBS หรือ TikTok LIVE Studio\nเชื่อมต่อ TikFinity หรือระบบอื่นที่เหมาะสม\nเมื่อมีคนส่ง Gift ให้เกิด Effect / Animation / Sound บนหน้าจอ\nสามารถกำหนด Gift แต่ละชนิดให้แสดง Effect แตกต่างกันได้ประมาณ 20–25 แบบ\nมีระบบแจ้งเตือน Follow / Like / Share / Gift\nมี Overlay และ Animation พร้อมใช้งาน\nออกแบบหน้าจอให้ใกล้เคียงกับตัวอย่างที่แนบ\nต้องการให้ระบบใช้งานง่าย หลั��จากส่งมอบงานแล้ว สามารถเปิดและ LIVE เองได้ โดยไม่ต้องจ้างคนทำทุกครั้ง\n📦 สิ่งที่ต้องการได้รับหลังจบงาน\nขอรับ ไฟล์ต้นฉบับทั้งหมด ที่จำเป็นต่อการใช้งาน เช่น\nOBS Profile\nOBS Scene Collection\nOverlay\nAnimation / GIF\nSound Effect\nSource File ต่าง ๆ\nการตั้งค่า TikFinity\nGift → Effect Mapping\nไฟล์/โปรเจกต์ที่เกี่ยวข้องทั้งหมด\nคู่มือวิธีติดตั้งและเปิดใช้งาน\nวิธีเพิ่ม Gift / Effect ใหม่ในอนาคต\nระบบและบัญชีที่ใช้ควรเป็นของผู้ว่าจ้างเอง เพื่อให้สามารถแก้ไขและดูแลระบบต่อได้ใน\n\n🧪 ก่อนส่งมอบงาน\nต้องการทดสอบจริง เช่น\nส่ง Gift → ระบบตรวจจับ Gift → Effect/Animation/เสียงทำงานใน LIVE\nและต้อ���การให้ผู้รับงานสอนวิธีใช้งานเบื้องต้นก่อนส่งมอบงาน\n💰 งบประมาณ\nเสนอราคาได้เลย พร้อมแจ้งว่าใช้โปรแกรม/ระบบอะไร และรวมอะไรในราคาบ้าง\nรบกวนส่ง Portfolio หรือตัวอย่างงาน TikTok LIVE Interactive / OBS / Gift Effect ที่เคยทำมาด้วยค่ะ\n\n**หากมีวิธีทำที่ง่ายกว่า OBS + TikFinity แต่ได้ผลลัพธ์ตามตัวอย่าง สามารถเสนอระบบอื่นได้ค่ะ ขอเน้นว่าใช้งานจริงได้และผู้ว่าจ้างสามารถดูแลต่อเองได้",
+    "title": "ตามหาคนทำระบบ TikTok LIVE Interactive Gift → Effect แบบสำเร็จรูป",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-02T18:44:20.746694Z",
+    "updated_at": "2026-10-02T18:44:21.645898Z",
+    "user_id": "bb9d80bd-43af-431f-a347-25f3b5082f16",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-01T18:44:20.708396Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "bb9d80bd-43af-431f-a347-25f3b5082f16",
+      "username": "ktzploy",
+      "display_name": "ktzploy",
+      "image_url": "https://storage.googleapis.com/fastwork-static/f3fd5fa3-8fa7-4ccc-8b00-ae521cf72872.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-02T21:53:40.535Z"
+  },
+  {
+    "id": "f19b06e2-3c8d-46ec-93a8-3e9b4bb26373",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "รายละเอียดโปรเจกต์:\nพัฒนาระบบ Web Application (Responsive) สำหรับจัดการการจองคิวและระบบชำระเงินหน้าเคาน์เตอร์ของธุรกิจ พารามอเตอร์, บอลลูน, และ ATV / Buggy\nขอบเขตการทำงาน (Scope of Work):\n1. Front-end (ลูกค้า): จองคิว เลือกเวลา รับทราบ��งื่อนไข ชำระเงินผ่าน Payment Gateway (Omise) และรับ E-Ticket (QR Code) ทาง Email อัตโนมัติ (Login ผ่าน Google/Email)\n2. Back-office (Admin/Cashier):\n ระบบตารางงาน (Calendar View): ดูตารางงานรวมรายวัน จัดการคิวแบบ Drag & Drop จัดสรรนักบิน และแทรกคิว Walk-in ได้\n ระบบ POS: แคชเชียร์สแกน QR Code จากตั๋วลูกค้า เพื่อเรียกเก็บเงินส่วนต่างหน้างาน รองรับเงินสด/โอนเงิน พร้อมระบบคำนวณเงินทอนและสรุปปิดยอดกะ\n การจัดการกิจกรรม: ตั้งค่า Logic การจองเฉพาะตัว เช่น พารามอเตอร์ (แบ่ง Slot เวลาจำกัดโควตา), บอลลูน (แบ่งกะเช้า-เย็น), ATV (จำกัดโควตาตามจำนวนรถ)\n ระบบจัดการสิทธิ์ (Roles): แบ่ง Admin, Cashier, Accountant พร้อมระบบ Audit Log ติดตามการทำรายการ\n ระบบรายงาน (Reports): Export Excel/CSV สรุปรายได้, สถานะเงินมัดจำ (รับ/ยึด/คืน), และค่าคอมมิชชันนักบิน (เตรียมโครงสร้างรองรับ VAT ในอนาคต)\nคุณสมบัติที่มองหา:\n มีประสบการณ์พัฒนาระบบ Booking, Reservation, POS หรือระบบจัดการคิว\n เคยเชื่อมต่อ API Payment Gateway (เช่น Omise)\n สามารถแนะนำ Tech Stack ที่มีความเสถียรและต่อยอดได้ในอนาคต\nสิ่งที่ต้องการเพื่อประกอบการพิจารณา:\n1. แนะนำตัว/ทีมงาน พร้อม Portfolio หรือ Demo ระบบที่เคยพัฒนา\n2. ประเมินราคาเบื้องต้น (Quotation)\n3. ประเมินระยะเวลาในการพัฒนาโดยประมาณ (Timeline)",
+    "title": "ประกาศหา web developer ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-02T18:44:12.564759Z",
+    "updated_at": "2026-10-02T18:44:14.133568Z",
+    "user_id": "3e9a2bc9-3ece-44bf-a93c-cc31fd89fb63",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-01T18:44:12.479078Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "3e9a2bc9-3ece-44bf-a93c-cc31fd89fb63",
+      "username": "taxbuddyth",
+      "display_name": "Tax BuddyTH",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3e9a2bc9-3ece-44bf-a93c-cc31fd89fb63/profile/10f8ee76-5902-4b0d-b151-8e4dd004a363.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-02T21:53:39.441Z"
+  },
+  {
+    "id": "3f37e56d-ec61-4881-bcb2-0929b750fcb0",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ต้องการคนสร้างคลิป ai video เป็นคอนเท้นในเกม ragnarok ขอคนที่มีพื้นฐานหรือเคยเล่น เพราะคิดว่าจะ promp ได้ดีกว่า หากทำดี เราจะต้องการหลายคลิป 10++\nต้องการด่วน ขอแก้ไขปรับงานได้ \nhttps://web.facebook.com/reel/1406648114931278",
+    "title": "หาคนสร้าง คลิป AI เกม Ragnarok",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-02T18:03:15.212017Z",
+    "updated_at": "2026-10-02T18:03:16.312830Z",
+    "user_id": "01d3fa17-ac08-4bdd-9419-4e57765607b1",
+    "already_offered": false,
+    "brief_url": "https://web.facebook.com/reel/1406648114931278",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-04",
+    "expired_at": "2026-11-01T18:03:15.145755Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "01d3fa17-ac08-4bdd-9419-4e57765607b1",
+      "username": "o0gv1tjw",
+      "display_name": "TOPTWO",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-02T21:53:38.310Z"
+  },
+  {
     "id": "06c0ceeb-fed6-491d-b902-f144eec7eee9",
     "status": "open",
     "tag": {
