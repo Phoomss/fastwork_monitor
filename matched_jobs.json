@@ -1,5 +1,54 @@
 [
   {
+    "id": "3e6f6a89-ef40-4d6b-87ec-ccd4d89bc3bf",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาคนพัฒนาระบบ Web App (Responsive / PWA) สำหรับธุรกิจบริการช่างล้างแอร์-ซ่อมบำรุงถึงบ้าน พร้อมระบบหลังบ้านบริหารแฟรนไชส์ครับ\n\nสิ่งที่ระบบต้องทำได้:\n\nฝั่งลูกค้า (Web / Mobile PWA):\n\nล็อกอินด้วย Firebase Phone SMS OTP หรือ Google Login\nระบบจอง 5 ขั้นตอน: เลือกขนาดแอร์ (BTU S/M/L) ➔ เลือกแพ็กเกจ + Add-ons ➔ ปักหมุดบนแผนที่ (คำนวณค่าเดินทางนอกโซนอัตโนมัติ) ➔ เลือกวันเวลา ➔ ชำระเงิน (บัตร / PromptPay ผ่าน Stripe Connect)\nมีหน้าติดตามสถานะงานสด ดูภาพถ่าย Before/After 4 มุม แชทสด และจ่ายเงินค่าบริการเพิ่มหน้างานได้\n\nฝั่งช่างหน้างาน (Mobile PWA):\nล็อกอินด้วยเบอร์มือถือ (SMS OTP) รับแจ้งเตือนงานผ่าน LINE / Push Notification\nฟังก์ชันหัวใจสำคัญ (Quality Gate): ระบบจะบล็อก ไม่ให้ช่างกดเริ่มงาน ถ้ายังไม่อัปโหลดภาพตรวจเช็กสภาพแอร์เดิม ครบ 4 มุม (หน้า, ซ้าย, ขวา, แผงวงจร)\nบันทึกจุดชำรุดหน้างานเพื���อคิดเงินเพิ่ม และมีกระเป๋าเงินช่างดูค่าจ้าง/คอมมิชชั่น\n\nฝั่งสาขาแฟรนไชส์ (Branch OS):\nเครื่องมือวาดโซนบนแผนที่ (Polygon Map Canvas): ลากเส้นขอบเขตพื้นที่บริการได้เอง เพื่อแยกว่าจุดไหนฟรี จุดไหนคิดค่าเดินทางต่อ กม.\nล็อกโควตาจำนวนโซนและจำนวนช่างตามระดับแพ็กเกจแฟรนไชส์ (Starter / Pro / Enterprise)\nจัดตารางเวรช่าง ดูกระดานงานสด และมีกระเป๋าเงินถอนรายได้\n\nฝั่งส่วนกลางเจ้าของระบบ (Platform HQ SuperAdmin):\nคุมสัดส่วนหักหัวคิว GP (เช่น 5% - 15%), ออกรหัสเชิญเปิดสาขาใหม่ และแดชบอร์ดสรุปยอดขาย GMV\n\n🛠 Stack ที่เล็งไว้:\nFrontend: Next.js (App Router), TypeScript, TailwindCSS\nBackend & DB: Supabase (PostgreSQL + RLS, Storage, Realtime, Auth)\nAuth: Firebase Authentication (Phone SMS OTP)\nMaps: Leaflet / OpenStreetMap (GeoJSON Polygon)\nGateway: Stripe Connect, LINE Messaging API\n\nสิ่งที่อยากได้:\nใบเสนอราคา (Quotation / Proposal) แจกแจงรายการฟังก์ชัน พร้อมประมาณการระยะเวลา (Man-Days หรือจำนวนสัปดาห์)\nแนะนำรูปแบบการแบ่งจ่ายเงินตาม Milestone งวดงานที่เหมาะสม\nลิงก์ผลงานหรือ Portfolio ที่เคยทำแนว On-Demand, Marketplace, แผนที่ หรือระบบ Dashboard หลังบ้าน",
+    "title": "คนรับงานพัฒนาแพลตฟอร์ม",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-02T05:48:32.465727Z",
+    "updated_at": "2026-10-02T05:48:33.232159Z",
+    "user_id": "49efa316-0928-4e01-b829-5579749b8949",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-01T05:48:32.414685Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-02T06:12:43.335Z"
+  },
+  {
     "id": "f524cbc9-77e6-407a-be5a-d17296759b82",
     "status": "open",
     "tag": {
