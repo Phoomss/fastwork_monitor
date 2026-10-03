@@ -1,5 +1,7 @@
 [
-  "[2026-10-03T05:47:07.938Z]     Notification sent successfully.",
-  "[2026-10-03T05:47:07.567Z]   FOUND NEW TARGET JOB: คนทำโปรเจคโอริกามิลงใน GitHub (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-10-03T05:47:06.439Z] Checking Fastwork for new job posts..."
+  "[2026-10-03T10:39:45.709Z]     Notification sent successfully.",
+  "[2026-10-03T10:39:45.376Z]   FOUND NEW TARGET JOB: อัดเสียงประโยคสั้น ผู้ชาย (Cats: พัฒนาแอปพลิเคชัน) (Budget: 130 THB)",
+  "[2026-10-03T10:39:44.317Z] Checking Fastwork for new job posts...",
+  "[2026-10-03T10:39:44.317Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-03T10:39:44.313Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
