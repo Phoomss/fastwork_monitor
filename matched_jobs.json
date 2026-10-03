@@ -1,5 +1,54 @@
 [
   {
+    "id": "d4b37249-5bfe-41c5-98ff-322264904eb5",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "​จ้างติดตั้ง server และ host ของระบบ ojs3 ที่เป็น\nการตั้งระบบวารสารออนไลน์ให้ได้มาตรฐานสากลด้วยต้นทุนต่ำ ทำได้โดยการใช้ระบบ Open Source ที่มหาวิทยาลัยทั่วโลกใช้งานกัน\n​จดโดเมนเนมและเช่าโฮสติ้ง (Domain & Hosting):\n​จดโดเมนเนมที่สื่อความหมาย เช่น [www.njsee-journal.com](https://www.njsee-journal.com) หรือชื่อที่เกี่ยวข้อง\n​เช่า Virtual Private Server (VPS) ที่รองรับระบบ PHP/MySQL (ความจุแนะนำ: RAM อย่างน้อย 2-4 GB เพื่อความเสถียร)\n​ติดตั้งระบบ Open Journal Systems (OJS 3):\n​ดาวน์โหลดและ���ิดตั้ง OJS 3 (Open Journal Systems) ซึ่งเป็นซอฟต์แวร์จัดการวารสารระดับโลกของ Public Knowledge Project (PKP) เป็นระบบฟรีที่ครอบคลุมตั้งแต่การส่งบทความ, การตรวจประเมิน, ไปจนถึงการตีพิมพ์ออนไลน์\n​ปรับแต่งหน้าเว็บวารสาร (Website Customization):\n​ออกแบบหน้าแรกให้ดูน่าเชื่อถือ ทันสมัย และใช้งานง่ายสำหรับนักเรียนและผู้ปกครอง\n​กำหนดนโยบายวารสาร (Editorial Policies), ขอบเขตเนื้อหา (Scope), จริยธรรมการตีพิมพ์ (Publication Ethics) และคำแนะนำสำหรับผู้แต่ง (Author Guidelines)",
+    "title": "จดโดเมนติดตั้งserver php ของระบบวารสารออนไลน์ ojs",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-03T15:02:23.206217Z",
+    "updated_at": "2026-10-03T15:02:24.170044Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;ALT-LX2;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-02T15:02:23.146741Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4624221f-076d-40db-8879-c973a8e8daf8",
+    "user_profile": {
+      "id": "4624221f-076d-40db-8879-c973a8e8daf8",
+      "username": "hysxezxr",
+      "display_name": "จง",
+      "image_url": "https://storage.googleapis.com/fastwork-static/06561c3a-926d-43ab-9364-1efb786998cf.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-03T18:21:21.583Z"
+  },
+  {
     "id": "b4419c54-1d1b-4645-9192-4c0647323552",
     "status": "open",
     "tag": {
