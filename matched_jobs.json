@@ -1,5 +1,54 @@
 [
   {
+    "id": "277f0bb1-161b-4497-8909-5c1b0457cb84",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "[Smart Contract / Software Security] หาผู้ช่วยรัน PoC ยืนยันบั๊กและความปลอดภัยของระบบ\n1. ข้อมูลงานและวัตถุประสงค์:\nต้องการหาฟรีแลนซ์หรือนักพัฒนาที่มีความรู้ด้านความปลอดภัยซอฟต์แวร์/สมาร์ทคอนแทค (Smart Contract Security) มาช่วยรันสคริปต์ PoC (Proof of Concept) ตามเงื่อนไขที่กำหนด เพื่อตรวจสอบและบันทึกผลลัพธ์ของบั๊กที่พบในระบบ\n2. รายละเอียดและขอบเขตงาน:\nสิ่งที่ต้องทำ: นำสคริปต์/โค้ด PoC ที่เตรียมไว้ให้ ไปรันในสภาพแวดล้อมที่ปลอดภัย (Local Environment เช่น Hardhat, Foundry หรือตามเครื่องมือที่เกี่ยวข้อง)\nการตรวจสอบ: บันทึกภาพหน้าจอ (Screenshot), บันทึก Log การทำงาน และสรุปผลลัพธ์ที่ได้จากการรัน PoC ว่าตรงตามเงื่อนไขช่องโหว่หรือไม่\nขอบเขต: งานเป็นลักษณะเฉพาะกิจ (Task-based) ใช้เวลาสั้นๆ เน้นความแม่นยำและความเข้าใจด้านโค้ดเบื้องต้น\n3. เงื่อนไขและทักษะที่ต้องการ:\nมีความรู้พื้นฐานด้านการเขียนโปรแกรม (เช่น Python, JavaScript, Solidity หรือภาษาอื่นๆ ตามที่ระบบของคุณใช้)\nเข้าใจหลักการทำงานของ Vulnerability หรือ Smart Contract Security เบื้องต้น\nสามารถรักษาความลับของข้อมูลและโค้ดที่ได้รับอย่างเคร่งครัด\n",
+    "title": "[Smart Contract / Software Security] หาผู้ช่���ยรัน PoC ยืนยันบั๊กและความปลอดภัยของระบบ",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-04T20:54:53.447017Z",
+    "updated_at": "2026-10-04T20:54:55.040610Z",
+    "user_id": "708e5ca9-7d4c-4678-86b1-c2f5600b56f6",
+    "already_offered": false,
+    "brief_url": "https://x.com/luckyhacker43/status/2106751280924295297",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-05",
+    "expired_at": "2026-11-03T20:54:53.426184Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;V2436;11.15.0-6002938"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-04T21:57:10.099Z"
+  },
+  {
     "id": "9e15274a-f9b0-4370-a2e2-673c808c772e",
     "status": "open",
     "tag": {
