@@ -1,5 +1,54 @@
 [
   {
+    "id": "066412bc-0f78-42cd-b49b-accbbc9db104",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "เปิดรับเคสตัวอย่างฟรี จำนวนจำกัด\nตอนนี้ผมกำลังสร้าง Portfolio สำหรับงาน Freelance และกำลังมองหาคนที่มีงานจริงให้ช่วยทำ เพื่อใช้เป็น Case Study และตัวอย่างผลงานครับ\nค่าใช้จ่าย: ฟรี\nงานที่รับ เช่น\n• จัดหน้า Microsoft Word / รายงาน / เอกสาร\n• Canva Presentation / Poster / Infographic / Social Post\n• Resume / CV\n• Excel / Data Cleaning\n• Power BI Dashboard เบื้องต้น\n• ตัดต่อคลิปสั้น TikTok / Reels / Shorts\n• Landing Page เว็บไซต์หน้าเดียว HTML / CSS / JavaScript\nเงื่อนไข\nขอเป็นงานที่มี Requirement จริง ไม่ใช่งานทดลองเปล่า ๆ\nผู้ขอใช้บริการต้องส่งข้อมูล/เนื้อหา/ไฟล์ที่จำเป็นมาให้ครบ\nผมขออนุญาตนำบางส่วนของผลงานไปใช้ใน Portfolio ของ Q Digital Studio\nหากมีข้อมูลส่วนตัวหรือข้อมูลสำคัญ สามารถปิดชื่อ/ตัวเลข/ข้อมูลที่ระบุตัวตนได้\nงานจะรับตามความสามารถและขอบเขตที่ตกลงกันก่อนเริ่ม\nไม่รับทำข้อสอบหรือทำผลงานทางวิชาการแทนเจ้าของงานทั้งหมด\nผมจะรับเพียง 3–5 เคสแรก เพื่อให้สามารถดูแลงานแต่ละชิ้นได้เต็มที่ครับ\nสนใจส่งมาได้เลย: ประเภทงาน + รายละเอียด + Deadline + ตัวอย่างงานที่ต้องการ (ถ้ามี)\n📩 ทัก Inbox ได้เลยครับ",
+    "title": "เปิดรับเคสตัวอย่างฟรี จำนวนจำกัด",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-04T06:49:39.102617Z",
+    "updated_at": "2026-10-04T06:49:40.905147Z",
+    "user_id": "8498b5af-9a99-4ddd-8df5-92b4681604d5",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-03T06:49:39.046097Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S731B;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-04T10:33:49.948Z"
+  },
+  {
     "id": "d4b37249-5bfe-41c5-98ff-322264904eb5",
     "status": "open",
     "tag": {
@@ -96,54 +145,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-03T10:39:45.375Z"
-  },
-  {
-    "id": "cd96e6bc-deac-4c29-868a-ad447cf35bff",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พ���ฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "เป็นโปรเจคง่ายๆ แต่ต้องเตรียมข้อมูลทั้งหมด 96 ไฟล์\nต้องการใส่ข้อมูลโอริกามิพื้นฐาน 24 ชิ้น ทำเป็น HTML จำนวน 1 หน้า \nแต่ละชิ้นจะโชว์รูปและใต้รูปจะลิงค์ไปยังข้อมูล CP, pdf, vdo\nสามารถใช้ AI ช่วยสร้างข้อมูลได้ แต่ข้อมูลจะต้องถูกต้องตามแบบโอริกามิ\n- วาด Crease Pattern (CP) ทำเป็น SVG ไฟล์ หรือใช้โปรแกรมช่วยวาด CP\n- วาด Origami Diagram เป็น pdf\n- ทำวิดีโอสอนพับเป็น .mp4\n- ทำหน้าเว็บและใส่ข้อมูลลงบน Github\nเสนอราคามาได้ค่ะ",
-    "title": "คนทำโปรเจคโอริกามิลงใน GitHub",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-03T04:50:36.287527Z",
-    "updated_at": "2026-10-03T04:50:37.809559Z",
-    "user_id": "8ae20671-b366-4fbc-8810-9bdab6216a07",
-    "already_offered": false,
-    "brief_url": "https://x.com/PrwOrigami/status/2106161524213686463?s=20",
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-02T04:50:36.265415Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-03T05:47:07.465Z"
   }
 ]
