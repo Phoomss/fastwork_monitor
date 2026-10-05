@@ -1,5 +1,55 @@
 [
   {
+    "id": "327651f4-7960-498d-9f98-bd3a7d1d78e6",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ช่วยออกแบบ และพัฒ​นา​โปรแกรมสต๊อกสินค้า แบบweb app\n.ช่วยทำงานโกดังได้สะดวกขึ้นในทุกขั้นตอน\n.ลูกค้า สามารถ ล๊อกอิน เข้ามาเช็คสต๊อก คีย์เบิกสั่งของ  ดูรายงานต่างๆได้\n",
+    "title": "หาคนออกแบบ และ เขียนโปรแกรมสต๊อกสินค้า ครับ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-05T14:49:40.736950Z",
+    "updated_at": "2026-10-05T14:49:42.437018Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android9;PAR-LX9;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-04T14:49:40.660792Z",
+    "freelance_offers_count": 12,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f0c973e5-3344-44ad-8b6a-65d3181c3820",
+    "user_profile": {
+      "id": "f0c973e5-3344-44ad-8b6a-65d3181c3820",
+      "username": "rungpattana",
+      "display_name": "rungpattana",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-05T21:03:33.139Z"
+  },
+  {
     "id": "1798db69-fa32-4f57-b331-df5f24d1a908",
     "status": "open",
     "tag": {
@@ -341,202 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-04T21:57:10.099Z"
-  },
-  {
-    "id": "9e15274a-f9b0-4370-a2e2-673c808c772e",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "contract",
-    "description": "ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า\nสินค้าเกี่ยวกับการสอนสร้างรายได้หลายทาง การทำคอนเทนต์ ปักตะกร้า ทำครีเอเตอร์\n(มีหลายเล่มครับ) เรียนผ่าน Website \n\nน้องออกแบบ สร้าง Content Video วันละ 1 ตอน ความยาว 1 นาที\nโดยใช้หลัก น้องใช้อะไร? ผลลัพธ์ได้อะไร? ต้องทำยังไงต่อ?\nไม่ขายของ เน้น Branding ครับ\n\nนำไปตั้งเวลาลง FB TK YT TK SHOPEE Treads แล้วแนบลิงก์สินค้า มีช่องให้\n\nรายได้โตขึ้นเรื่อยๆ ตามช่องที่โตขึ้นจ้า \nและคุณภาพของงานที่ดีขึ้น เป็นธรรมชาติขึ้น\nเช่น เดือนที่ 7 อาจอยู่ที่ 10,000\nหรือเดือนที่ 17 อาจจะอยู่ที่ 40,000 บาทก็ได้\n ขึ้นอยู่กับกระแสของช่องจ้า\n  \nเริ่มต้นที่ 3,000/เดือน\n+ Affiliate ให้น้องอีกด้วยจ้า\n\nการร่วมงานบอกหน่อยว่า \n1. น้องเข้าใจงานนี้อย่างไร? ต้องทำอะไร?\n2. ด้านรายได้ และอื่นๆ เข้าใจอย่างไร(อธิบายแบบละเอียด)\n3. และถ้าพูดถึงคำว่า คอนเทนต์แนวใช้งานจริง (Style ตัวอย่างแนบ)\nน้องจะทำออกมาอย่างไร? (ในแบบ Lifestyle ตอบโจทย์คนดู ที่ไม่ใช่เราชอบ)\nและไม่จำเป็นต้องอ้างอิงตัวอย่าง แบบ Style ที่น้องทำไ���้ดี\n4. จะทักหาเฉพาะท่านที่ตอบครบนะครับ",
-    "title": "ทีมช่วยทำคอนเทนต์ ที่อยากมีรายได้หลายทางระยะยาวจ้า",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-04T14:28:50.793737Z",
-    "updated_at": "2026-10-04T14:28:51.726401Z",
-    "brief_url": "https://www.facebook.com/share/r/19NVMKtuoY/",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-03T14:28:50.772802Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "82496286-93c2-461e-a2fd-ce8db9589be3",
-    "user_profile": {
-      "id": "82496286-93c2-461e-a2fd-ce8db9589be3",
-      "username": "lvvilnclub",
-      "display_name": "Ronnakrit Kiratiarporn",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/82496286-93c2-461e-a2fd-ce8db9589be3/profile/b8d382e9-efa7-4574-9368-f3cbbd2cce9a.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-04T15:28:34.648Z"
-  },
-  {
-    "id": "8a9bc67b-4f1d-4352-b4bd-3e124552126e",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ สนใจจ้างพัฒนาซอฟต์แวร์สำหรับตู้ถ่ายรูป (photo booth) แบบสั่งทำเฉพาะ ไม่ใช้โปรแกรมสำเร็จรูป รบกวนขอสอบถ��มความเป็นไปได้ ราคา และระยะเวลาครับ\n\n[1] ภาพรวม\nตู้ถ่ายรูปสไตล์ studio ถ่ายเต็มตัว ลูกค้ากดเริ่มเอง ถ่ายรูป เลือกรูป เลือกเทมเพลต แล้วปริ้นออกมาเป็นการ์ด 6x8 นิ้ว ธีมเทมเพลตเปลี่ยนทุกเดือน\n\n[2] อุปกรณ์จริงที่จะใช้\n- กล้อง Panasonic Lumix G97\n- เครื่องปริ้น DNP DS-RX1HS (กระดาษ 6x8)\n- Mini PC หน้าจอสัมผัส (ตั้งใจใช้ Windows ยังไม่ได้เลือกรุ่น)\nขอให้ยืนยันก่อนว่ากล้อง G97 สั่งถ่ายและดึงรูปเข้าคอมผ่านโปรแกรมได้จริง และบอกวิธีที่จะใช้\n\n[3] Flow ที่ต้องการ\n1. หน้าจอเริ่มต้น (แสดงภาพธีมประจำเดือน)\n2. ลูกค้ากดเริ่ม (เฟสแรกยังไม่มีระบบจ่ายเงิน ให้พนักงานปลดล็อกหรือกดเริ่มเอง)\n3. นับถอยหลัง แล้วสั่งกล้องถ่าย (จำนวนรูปที่ถ่ายตั้งค่าได้)\n4. แสดงรูปให้ลูกค้าเลือก\n5. เลือกเทมเพลตได้หลายแบบ\n6. แสดงตัวอย่างการ์ดก่อนปริ้น\n7. สั่งปริ้นไปที่ DNP แล้วกลับหน้าเริ่มต้น\n\n[4] เทมเพลต\nผมออกแบบเทมเพลตเองเป็นไฟล์ PNG (มีช่องโปร่งใสสำหรับวางรูป) ระบบต้องดึงรูปมาใส่ช่องและปริ้นได้ถูกขนาด ต้องเพิ่ม/เปลี่ยนเทมเพลตเองได้โดยไม่ต้องแก้โค้ด\n\n[5] หลังบ้าน (Admin)\n- เพิ่ม/ลบ/เปลี่ยนเทมเพลตและภาพหน้าเริ่มต้น\n- ตั้งจำนวนรูปที่ถ่ายต่อรอบ\n- ดูจำนวนรอบถ่ายและจำนวนใบ��ี่ปริ้น\n\n[6] เฟสถัดไป (ขอราคาแยก)\n- ชำระเงินอัตโนมัติด้วย QR PromptPay\n- ส่งไฟล์รูปให้ลูกค้าสแกน QR โหลด\n- ดูรายงานยอดขายย้อนหลัง\n\n[7] เงื่อนไขการส่งงาน\n- ส่ง source code ครบ และผมมีสิทธิ์ใช้งาน/แก้ไขเต็มที่\n- ทดสอบบนอุปกรณ์จริงของผมก่อนรับงาน\n- แบ่งจ่ายเป็นงวดตามผลงาน เช่น ถ่ายได้ → ปริ้นได้ → ครบทุกหน้าจอ\n- ช่วยแก้บั๊กหลังส่งงาน [20] วัน และบอกวิธีแก้เบื้องต้นถ้าโปรแกรมค้างหน้างาน\n- มีคู่มือติดตั้งและวิธีใช้สั้นๆ\n\n[8] ขอให้ตอบกลับ\n- ผลงานตู้ถ่ายรูปหรืองานควบคุมกล้อง/เครื่องปริ้นที่เคยทำ (ถ้ามี)\n- แนวทางเทคนิคท���่จะใช้ และความเสี่ยงที่เห็น\n- ราคาแยกเฟส 1 และเฟสถัดไป พร้อมระยะเวลา\n\nงบประมาณ: [เสนอมา]\nอยากได้งานภายใน: [20]\n\nขอบคุณครับ",
-    "title": "พัฒนาซอฟต์แวร์สำหรับตู้ถ่ายรูป (photo booth) ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-04T14:01:36.886137Z",
-    "updated_at": "2026-10-04T14:01:38.052594Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-20",
-    "expired_at": "2026-11-03T14:01:36.862154Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "09e5a7bb-e8e3-454e-9854-131e354b1036",
-    "user_profile": {
-      "id": "09e5a7bb-e8e3-454e-9854-131e354b1036",
-      "username": "tangpangman",
-      "display_name": "Katang",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/09e5a7bb-e8e3-454e-9854-131e354b1036/profile/526f6855-c42b-426a-9425-9c8ad07109e4.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-04T15:28:33.522Z"
-  },
-  {
-    "id": "899f6ccf-53f2-4098-9d70-0558f5d4998d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการ คนเขียน BOT ระบบ Marketing & Sales Automation / AI BOT สำหรับใช้งานภายในบริษัท\nระบบมีแนวคิดหลักในการนำ AI มาช่วย��ดงาน Manual ของทีม Marketing และ Sales \nตั้งแต่การวางแผน การสร้าง Content ไปจนถึงการเก็บข้อมูลและวิเคราะห์ผล\n\nขอบเขตงานโดยสรุป\n- ระบบ User / Role / Permission\n- ระบบจัดการข้อมูลสินค้าและข้อมูลแบรนด์\n- AI ช่วยวางแผน Marketing / Content\n- สร้าง Poster / AI Creative / Content\n- ระบบวางแผนและอนุมัติงาน\n- เชื่อมต่อ AI / API / Social Platform ตามความเหมาะสม\n- Dashboard และการเก็บข้อมูลเพื่อวิเคราะห์ผล\n- รองรับการพัฒนาต่อยอดเป็นหลาย Module ในอนาคต\n\nมี Concept, Workflow และ Requirement เบื้องต้นเตรียมไว้แล้ว\nรายละเอียดเชิงลึกของระบบจะส่งให้พูดคุยหลังไมค์ก่อนประเมินงาน\n\nคุณสมบัติที่ต้องการ\nมีประสบการณ์พัฒนา Web Application / Full-Stack และสามารถออกแบบ Database + API ได้ \nหากมีประสบการณ์ด้าน AI Integration, Automation, Social Media API หรือระบบ Dashboard จะพิจารณาเป็นพิเศษ\nต้องการผู้ที่สามารถ ช่วยวิเคราะห์ Technical Feasibility \nและเสนอแนวทางพัฒนา ได้ ไม่ใช่เพียงรับ Requirement แล้วเขียนตามอย่างเดียว\n\nกรุณาส่ง Portfolio / ระบบที่เคยพัฒนา / Tech Stack ที่ถนัด \nพร้อมแจ้งประสบการณ์เกี่ยวกับ AI หรือ API Integration เพื่อพิจารณาก่อนคุยรายละเอียด",
-    "title": "คนสร้าง BOT / Automation BOT ระบบ Marketing & Sales BOT",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-04T13:26:54.086698Z",
-    "updated_at": "2026-10-04T13:26:55.106224Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-03T13:26:54.045220Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "de76790f-da51-4a1c-8189-9497e4998638",
-    "user_profile": {
-      "id": "de76790f-da51-4a1c-8189-9497e4998638",
-      "username": "mghtnnvg",
-      "display_name": "HRKCFoods",
-      "image_url": "https://storage.googleapis.com/fastwork-static/acb6bcac-eb26-4b1f-bbf7-6498d82589fa.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-04T15:28:32.392Z"
-  },
-  {
-    "id": "d3ca8a34-527a-469d-84d6-3f1c77039d80",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการฟรีแลนซ์สำหรับ พัฒนาและต่อยอดระบบ Sale LeadBOT เพื่อช่วยงานทีมขาย\nระบบมีทั้งส่วนที่พัฒนาไว้แล้วและส่วนที่ต้องพัฒนาเพิ่มเติม \nโดยมี Requirement, Workflow และ Mockup เตรียมไว้แล้ว ไม่ต้องเริ่มออกแบบระบบ���ากศูนย์\n\nขอบเขตโดยรวมประกอบด้วย\n- BOT สำหรับค้นหาและรวบรวม Lead จาก Social Media\n- BOT สำหรับช่วยดำเนินการกับ Lead เช่น Comment / Chat / Calling\n- BOT สำหรับค้นหากลุ่มลูกค้าตามสินค้าเป้าหมาย\n- ระบบจัดการ Calling / Follow-up และบันทึกผลการติดต่อลูกค้า\n- การเชื่อมข้อมูลระหว่าง BOT และระบบเดิม\n\nต้องการผู้ที่มีประสบการณ์ด้าน Web Application / Automation / Bot / Database / API และสามารถศึกษาระบบเดิมเพื่อพัฒนาต่อยอดได้\nมีเอกสาร Requirement และ Flow รายละเอียดให้ศึกษาหลังจากพูดคุยเบื้องต้น\nกรุณาส่ง ผลงานที่เคยพัฒนา, Technology ที่ถนัด, ระยะเวลาที่สามารถเริ่มงานได้ และงบประมาณเบื้องต้น\nรายละเอียดเชิงลึกของระบบและขอบเขตแต่ละ BOT ขอคุยหลังไมค์ค่ะ",
-    "title": "คนสร้าง BOT / Automation พัฒนาระบบ Sale LeadBOT",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-04T13:22:56.667102Z",
-    "updated_at": "2026-10-04T13:22:57.871610Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-03T13:22:56.592144Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "de76790f-da51-4a1c-8189-9497e4998638",
-    "user_profile": {
-      "id": "de76790f-da51-4a1c-8189-9497e4998638",
-      "username": "mghtnnvg",
-      "display_name": "HRKCFoods",
-      "image_url": "https://storage.googleapis.com/fastwork-static/acb6bcac-eb26-4b1f-bbf7-6498d82589fa.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-04T15:28:31.191Z"
   }
 ]
