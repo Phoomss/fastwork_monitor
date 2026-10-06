@@ -1,5 +1,103 @@
 [
   {
+    "id": "5b6d976f-8287-4119-9843-3b5fb59ff28e",
+    "status": "open",
+    "tag": {
+      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
+      "name": "นักพากย์เสียง",
+      "sort": 23
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nกรุณาอ่านให้ครบก่อนรับงาน ทำเสร็จภายใน 24 ชม. หลังได้รับรหัส (ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nอัดเสียงอ่านข้อความสั้นๆ 210 ประโยค (15-20 นาที) ผ่านสมาร์ตโฟน (iOS/Android) ในห้องเงียบ ไม่มีเสียงรบกวน (พัดลม ทีวี คนคุยกัน)\n\n⚠️ ข้อกำหนดอุปกรณ์ (สำคัญมาก):\nใช้ไมค์ในตัวเครื่องเท่านั้น ห้ามใช้ไมค์นอก/สายแปลงใดๆ เพราะเสี่ยงมีเสียงไฟรั่ว/เสียงจี่แทรก (สาเหตุอันดั��� 1 ที่ไม่ผ่าน QC) ให้ถอดปลั๊ก/ปิดเครื่องใช้ไฟฟ้าใกล้ตัวขณะอัดเสมอ (ตู้เย็น พัดลม แอร์)\n\nคุณสมบัติ:\n1. พูดไทยเป็นภาษาแม่ สำเนียงปกติ ฟังชัด\n2. อายุ 18-60 ปี รับทั้งชายหญิง\n\nQC Standard:\n- อ่านธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เวอร์ ไม่เว้นจังหวะแปลก\n- อ่านตรงสคริปต์ 100% ห้ามเติม/ตัด/อ่านตก\n- เสียงชัด ไม่มีเสียงซ่า/ก้อง/รบกวน รวมถึงเสียงไฟฟ้า\n\n📋 เงื่อนไขแก้ไข:\nผ่าน QC 95% ขึ้นไป = อนุมัติทันที มีจุดแก้ไขได้ 1 ครั้งเท่านั้น แก้ครั้งที่ 1 แล้วยังไม่ผ่าน = ถือว่างานใช้ไม่ได้ ไม่เปิดแก้เพิ่ม หากพบว่าปัญหามาจากอุปกรณ์ ต้องเปลี่ยนมาใช้ไมค์ในตัวเครื่องก่อนแก้ไข\n\n⏳ เงื่อนไขปลดล็อกไอดี:\nติดต่อไม่ได้เกิน 24 ชม. หลังแจ้งผล QC/คำขอแก้ไข ขอปลดล็อก (Unbind) ทันทีเพื่อคืนโควตา ถือเป็นการยุติงานโดยไม่มีค่าตอบแทน\n\n⏳ ระยะเวลาตรวจ: แจ้งผลเบื้องต้น 3-5 วัน อนุมัติเงินประมาณ 10-12 วันทำการ (ผ่าน QC 95%+ อนุมัติทันที)\n\n💰 ค่าตอบแทน: [130]\nจ่ายเมื่อผลงานผ่าน QC ตามเกณฑ์เท่านั้น\n\n��ารกดรับงานถือว่ายอมรับเงื่อนไขทุกข้อแล้ว\n",
+    "title": "หาอัดเสียงประโยคสั้น ผู้ชาย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "130",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-06T11:20:06.585179Z",
+    "updated_at": "2026-10-06T11:20:07.808748Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-07",
+    "expired_at": "2026-11-05T11:20:06.567804Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "130",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-06T15:02:19.775Z"
+  },
+  {
+    "id": "d3bf50cb-422b-41b5-950e-046c81cf6d40",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "หาคนทำเสื้อ/ตัดเสื้อให้ฮะ มีแบบให้ดูครับผมลองทำเป็น Prototype ไว้ + อยากลองปรึกษาเกี่ยวกับการทำเสื้อขายฮะ การพัฒนาแบบเสื้อ",
+    "title": "หาคนทำเสื้อให้",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-06T10:14:03.195691Z",
+    "updated_at": "2026-10-06T10:14:04.406201Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android13;CPH2375;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-05T10:14:03.178172Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "47920188-1bb8-4e8c-be58-0de2e43b6cc9",
+    "user_profile": {
+      "id": "47920188-1bb8-4e8c-be58-0de2e43b6cc9",
+      "username": "ponponn",
+      "display_name": "Pon Latthapon",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/47920188-1bb8-4e8c-be58-0de2e43b6cc9/profile/7c4e92b7-1028-4df2-ab67-25bcede807bb.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-06T15:02:18.544Z"
+  },
+  {
     "id": "6d62e239-ecd0-4543-849e-8ba2201c0166",
     "status": "open",
     "tag": {
@@ -245,201 +343,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-05T21:03:33.139Z"
-  },
-  {
-    "id": "1798db69-fa32-4f57-b331-df5f24d1a908",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หลั��ๆ คืออยากได้ตัวผ่าน Captcha ตอนนี้คือกำลังทำแอพรันระบบอะไรสักอย่างแล้วมันต้องดูจอ Tiktok กดดูนั้นนี้ แล้วมันชอบขึ้น Captcha จิ๊กซอว์มา เลยพยายามหาวิธีที่จะทำให้มันไม่เกิดขึ้นหรือถ้ามันเกิดขึ้นเรามีอีกระบบลองรับให้มันรูดจิ๊กซอว์ให้เองครับ\n\n#Captcha จะขึ้นผ่านจอ Emulator อีกทีนะครับ ไม่ได้ขึ้นใน Browser ตรงๆ",
-    "title": "คนทำตัวผ่าน Bot Captcha",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-05T12:30:36.235346Z",
-    "updated_at": "2026-10-05T12:30:39.581846Z",
-    "user_id": "4946641b-9a97-4932-b4b9-2b21ac2ac09e",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-09",
-    "expired_at": "2026-11-04T12:30:36.215630Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "4946641b-9a97-4932-b4b9-2b21ac2ac09e",
-      "username": "williamvstc",
-      "display_name": "williamvstc",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/4946641b-9a97-4932-b4b9-2b21ac2ac09e/profile/e0d126c1-2c72-4252-89f0-1328eb64cd83.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-05T12:59:10.997Z"
-  },
-  {
-    "id": "7c0db610-ecc8-465b-964f-0770d577eb9c",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "รับสมัคร Freelance Sales Partner สำหรับโปรเจกต์ทดลอง 1 เดือน\n\nเหมาะสำหรับคนที่มีเวลาว่างประมาณ 1 เดือนก่อนเริ่มโปรเจกต์ถัดไป\nหรืออยากรับงานเสริมระยะสั้น โดยสามารถทำควบคู่กับงานประจำหรือ Freelance อื่นได้\n\nรายได้:\n• Project Fee 3,000 บาท / 1 เดือน\n• Commission 500 บาท / ร้าน เมื่อร้านที่แนะนำสมัคร ชำระเงิน และ Active\n• สูงสุด 1,000 บาท / ร้าน หากช่วยตั้งค่าเริ่มต้น\n• Recurring Reward 200–600 บาท / ร้าน / เดือน สำหรับร้านที่แนะนำโดยตรงและยัง Active\n\nแม้โปรเจกต์ 1 เดือนจะจบแล้ว คุณยังสามารถได้รับ Recurring Reward จากร้านที่คุณแนะนำไว้ ตราบใดที่ร้านยัง Active และเข้าเงื่อนไข Partner Program\n\nขอบเขตงาน:\n• อย่างน้อย 30 Qualified Store Approaches / เดือน\n• พูดคุยกับเจ้าของร้าน ผู้จัดการ หรือผู้มีอำนาจตัดสินใจ\n• นำเสนอ Boktor และบันทึกผลการติดต่อแบบสั้น ๆ\n• KPI: 1 Paid & Active Store / เดือน\n\nQualified Store Approach = ได้พูดคุยและนำเสนอจริงกับผู้ตัดสินใจ ไม่รวม Mass DM ที่ไม่มีการสนทนา\n\nรูปแบบงาน:\n• Freelance / Flexible\n• ไม่มีเวลาเข้างานหรือออฟฟิศบังคับ\n• วางแผนพื้นที่และเวลาทำงานเองได้\n• โปรเจกต์เริ่มต้น 1 เดือน และไม่จำเป็นต้องทำต่อหากมีโปรเจกต์อื่นรออยู่\n\nเหมาะกับผู้มีประสบการณ์ Sales / BD หรือมี Connection กับร้านค้า เช่น Restaurant, Café, Beauty, Spa, POS, SaaS, Digital Marketing, Website, Google Maps, Supplier หรือ Consultant\n\nBoktor เป็น SaaS สำหรับร้านค้า ช่วยให้ลูกค้าเขียน Google Review ได้ง่ายขึ้นผ่าน QR + คำถามสั้น ๆ + AI โดยลูกค้าตรวจสอบ แก้ไข และโพสต์ Google ด้วยตัวเอง\n\nไม่มีค่าสมัคร ไม่ต้องซื้อสินค้า ไม่มีสต็อก ไม่ใช่ MLM และไม่ใช่งานรับจ้างโพสต์ Google Review\n\nProject Fee เป็นค่าตอบแทนตาม Scope งาน\nส่วน KPI ใช้สำหรับประเมินผลและการต่อโปรเจกต์\nRecurring Reward เป็นไปตา��เงื่อนไข Partner Program ที่มีผลในขณะนั้น",
-    "title": "Freelance Sales Partner – 3,000 THB + Commission + Recurring Reward",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-05T10:14:09.384103Z",
-    "updated_at": "2026-10-05T10:14:10.398689Z",
-    "user_id": "5eb9a09d-afb4-47e4-84b1-a0c02e24d333",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-04T10:14:09.341198Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "5eb9a09d-afb4-47e4-84b1-a0c02e24d333",
-      "username": "boktor",
-      "display_name": "Boktor",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5eb9a09d-afb4-47e4-84b1-a0c02e24d333/profile/d73ef8b1-4b78-42c4-b4ce-44587a179c22.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-05T12:59:09.910Z"
-  },
-  {
-    "id": "4ad11b52-f7cb-40fa-b319-8eae681152e2",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "📌 ประกาศหาผู้รับจ้างทำระบบ Excel → Google Sheets**\n\nบริษัทต้องการผู้มีประสบการณ์ด้าน **Excel, Google Sheets, Google Apps Script** และการเชื่อมโยงข้อมูลจาก **NAS / Shared Folder**\n\nลักษณะงานโดยสรุป\n* นำข้อมูลจาก Excel มาเชื���อมต่อกับ Google Sheets โดยรักษาข้อมูลต้นฉบับ\n* เชื่อมโยงข้อมูลจาก NAS / Shared Folder หรือเสนอระบบทดแทนที่เหมาะสม\n* จัดทำระบบค้นหาข้อมูลด้วย **Invoice / Lot Number**\n* เชื่อมโยงข้อมูล **Master Data, Copy Doc, Payment** และข้อมูลที่เกี่ยวข้อง\n* ออกแบบ Workflow ให้ใช้งานง่าย และรวมข้อมูลให้อยู่ใน Platform เดียวกัน\n* สามารถใช้ Google Apps Script ในการพัฒนาระบบได้\n\n**คุณสมบัติที่ต้องการ**\n* มีประสบการณ์ทำระบบ Excel → Google Sheets\n* มีความรู้ด้าน Google Apps Script\n* มีประสบการณ์เชื่อมต่อข้อมูลจาก NAS / Shared Folder จะพิจารณาเป็นพิเศษ\n* สามารถออกแบบระบบค้นหาและเชื่อมโยงข้อมูลได้\n\n📩 ผู้สนใจ รบกวนแจ้ง **ประส���การณ์/ผลงานที่เกี่ยวข้อง, ระยะเวลาดำเนินงาน และค่าใช้จ่ายโดยประมาณ** พร้อมแนบตัวอย่างผลงาน (ถ้ามี)\n**ขอผู้ที่สามารถรับงานและพัฒนาระบบได้จริงค่ะ**\n\nตัวอย่างผลงานที่ต้องการ\n-\nกำหนดส่งงาน\n07/10/2026 (อีก 2 วัน)\n\n",
-    "title": "ประกาศหาผู้รับจ้างทำระบบ Excel → Google Sheets",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-05T09:49:18.860221Z",
-    "updated_at": "2026-10-05T09:49:19.893993Z",
-    "user_id": "257300ba-09fc-4919-84a9-f2bf8d1824e2",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-07",
-    "expired_at": "2026-11-04T09:49:18.784380Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "257300ba-09fc-4919-84a9-f2bf8d1824e2",
-      "username": "fifafafexwork",
-      "display_name": "fifafafexwork",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/257300ba-09fc-4919-84a9-f2bf8d1824e2/profile/8e94bc56-1bea-4a4b-ba13-9f3492730d55.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-05T12:59:08.403Z"
-  },
-  {
-    "id": "8bc2690b-81df-48df-af7d-c82f8c6bb08c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "📌 ประกาศหาผู้รับจ้างทำระบบ Excel → Google Sheets**\n\nบริษัทต้องการผู้มีประสบการณ์ด้าน **Excel, Google Sheets, Google Apps Script** และการเชื่อมโยงข้อมูลจาก **NAS / Shared Folder**\n\nลักษณะงานโดยสรุป\n* นำข้อมูลจาก Excel มาเชื่อมต่อกับ Google Sheets โดยรักษาข้อมูลต้นฉบับ\n* เชื่อมโยงข้อมูลจาก NAS / Shared Folder หรือเสนอระบบทดแทนที่เหมาะสม\n* จัดทำระบบค้นหาข้อมูลด้วย **Invoice / Lot Number**\n* เชื่อมโยงข้อมูล **Master Data, Copy Doc, Payment** และข้อมูลที่เกี่ยวข้อง\n* ออกแบบ Workflow ให้ใช้งานง่าย และรวมข้อมูลให้อยู่ใน Platform เดียวกัน\n* สามารถใช้ Google Apps Script ในการพัฒนาระบบได้\n\n**คุณสมบัติที่ต้องการ**\n* มีประสบการณ์ทำระบบ Excel → Google Sheets\n* มีความรู้ด้าน Google Apps Script\n* มีประสบการณ์เชื่อมต่อข้อมูลจาก NAS / Shared Folder จะพิจารณาเป็นพิเศษ\n* สามารถออกแบบระบบค้นหาและเชื่อมโยงข้อมูลได้\n\n📩 ผู้สนใจ รบกวนแจ้ง **ประสบการณ์/ผลงานที่เกี่ยวข้อง, ระยะเวลาดำเนินงาน และค่าใช้จ่ายโดยประมาณ** พร้อมแนบตัวอย่างผลงาน (ถ้ามี)\n**ขอผู้ที่สามารถรับงานและพัฒนาระบบได้จริงค่ะ**\n",
-    "title": "ประกาศหาผู้รับจ้างทำระบบ Excel → Google Sheets ระบบบริษัท",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-05T07:23:29.279534Z",
-    "updated_at": "2026-10-05T07:23:30.615851Z",
-    "user_id": "257300ba-09fc-4919-84a9-f2bf8d1824e2",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-07",
-    "expired_at": "2026-11-04T07:23:29.234373Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "257300ba-09fc-4919-84a9-f2bf8d1824e2",
-      "username": "fifafafexwork",
-      "display_name": "fifafafexwork",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/257300ba-09fc-4919-84a9-f2bf8d1824e2/profile/8e94bc56-1bea-4a4b-ba13-9f3492730d55.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-05T12:59:07.241Z"
   }
 ]
