@@ -392,55 +392,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-06T01:39:20.736Z"
-  },
-  {
-    "id": "327651f4-7960-498d-9f98-bd3a7d1d78e6",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ช่วยออกแบบ และพัฒ​นา​โปรแกรมสต๊อกสินค้า แบบweb app\n.ช่วยทำงานโกดังได้สะดวกขึ้นในทุกขั้นตอน\n.ลูกค้า สามารถ ล๊อกอิน เข้ามาเช็คสต๊อก คีย์เบิกสั่งของ  ดูรายงานต่างๆได้\n",
-    "title": "หาคนออกแบบ และ เขียนโปรแกรมสต๊อกสินค้า ครับ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-05T14:49:40.736950Z",
-    "updated_at": "2026-10-05T14:49:42.437018Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android9;PAR-LX9;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-04T14:49:40.660792Z",
-    "freelance_offers_count": 12,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f0c973e5-3344-44ad-8b6a-65d3181c3820",
-    "user_profile": {
-      "id": "f0c973e5-3344-44ad-8b6a-65d3181c3820",
-      "username": "rungpattana",
-      "display_name": "rungpattana",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-05T21:03:33.139Z"
   }
 ]

@@ -1,7 +1,5 @@
 [
-  "[2026-10-06T20:08:17.518Z]     Notification sent successfully.",
-  "[2026-10-06T20:08:17.289Z]   FOUND NEW TARGET JOB: ต้องการคนสร้างเว็บ (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-10-06T20:08:16.286Z]     Notification sent successfully.",
-  "[2026-10-06T20:08:15.398Z]   FOUND NEW TARGET JOB: หาคนช่วยสอนสร้างเว็บแอปใช้ในองค์กร (Cats: พัฒนาเว็บไซต์, พัฒนาแอปพลิเคชัน) (Budget: 3000 THB)",
-  "[2026-10-06T20:08:14.196Z] Checking Fastwork for new job posts..."
+  "[2026-10-06T23:45:35.981Z] Checking Fastwork for new job posts...",
+  "[2026-10-06T23:45:35.980Z] Auto-cleanup: Removed 30 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-06T23:45:35.978Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
