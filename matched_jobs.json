@@ -1,5 +1,54 @@
 [
   {
+    "id": "ac3b22de-372f-41a0-af05-0cf5a9f61f97",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "บรีฟโปรเจกต์สร้างเว็บไซต์ \nชื่อโปรเจกต์: Spencer & Hawkesbury Community Hub & Local Marketplace\nรูปแบบ��ว็บไซต์: แพลตฟอร์มชุมชน + ข่าวสาร + ตลาดออนไลน์หลายผู้ขาย + ระบบจัดส่งในท้องถิ่น\n1. ภาพรวมโปรเจกต์และวัตถุประสงค์ (Project Overview)\nCommunity Hub: ประชาสัมพันธ์ข่าวสาร กิจกรรม แจ้งเตือนภัย/ประกาศสำคัญ และโปรโมชั่นจากร้านค้าในพื้นที่ Spencer, NSW\nLocal Marketplace: เปิดโอกาสให้คนในท้องถิ่นและธุรกิจชุมชน ลงทะเบียนเปิดร้านและขายสินค้า/บริการผ่านแพลตฟอร์ม\nLocal Delivery & Fulfillment: มีระบบจัดส่งสินค้าที่ยืดหยุ่น เหมาะกับบริบทพื้นที่ริมแม่น้ำ/ชุมชนท้องถิ่น (นัดรับ, ส่งด่วนในพื้นที่, ส่งพัสดุ)\n2. ขอบเขตงานและฟังก์ชันหลัก \nก. ศูนย์รวมข่าวสารแล���กิจกรรมชุมชน (Community Hub)\nปฏิทินกิจกรรม (Event Calendar)\nระบบบทความ/ข่าวสาร (News & Notices)\nทำเนียบร้านค้าและบริการ (Local Directory & Map)\nศูนย์รวมโปรโมชั่น (Local Deals & Coupons)\nข. ตลาดออนไลน์สำหรับผู้ขายหลายราย (Multi-Vendor Marketplace)\nสมัครสมาชิกร้านค้า (Vendor Registration)\nแผงควบคุมผู้ขาย (Vendor Dashboard): ลงสินค้า ตั้งราคา จัดการสต็อก ดูยอดขาย และส่งคำขอถอนเงิน (Payout)\nตะกร้าสินค้าและระบบชำระเงิน (Cart & Payment Checkout)\nระบบคอมมิชชันและโอนเงิน\nค. ระบบจัดส่งสินค้า (Delivery & Fulfillment System)\nนัดรับสินค้า (Self-Pickup)\nส่งด่วนในท้องถิ่น (Local Express Delivery)\nส่งพัสดุเอกชน (Standard Courier)\nง. การเชื่อมต่อ Social Media (Social Media Integrations)\nลิงก์และไอ��อนโซเชียล\nระบบแชร์โซเชียล\nดึงฟีดมาแสดง (Live Feeds)\nแชตด่วน (Live Chat / Messenger Widget)\nSocial Profile ของผู้ขาย\n\nการแสดงผล: Mobile-First Design (รองรับสมาร์ตโฟน แท็บเล็ต และคอมพิวเตอร์)\n\nความเร็วและความปลอดภัย: Optimization สำหรับการโหลดเร็ว, ติดตั้ง SSL (HTTPS), วางระบบความปลอดภัยพื้นฐาน\n\n4. กรอบเวลา (Timeline)\nระยะเวลาดำเนินการ: ยืดหยุ่นได้",
+    "title": "Community Hub & Local Marketplace",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-06T01:02:48.410627Z",
+    "updated_at": "2026-10-06T01:02:52.458329Z",
+    "user_id": "6da60981-cc71-41c2-a5ac-d08b9d1871a9",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-05T01:02:48.355925Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "6da60981-cc71-41c2-a5ac-d08b9d1871a9",
+      "username": "mronetongjai",
+      "display_name": "Mr One",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-06T01:39:20.736Z"
+  },
+  {
     "id": "327651f4-7960-498d-9f98-bd3a7d1d78e6",
     "status": "open",
     "tag": {
@@ -342,54 +391,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-05T05:55:23.548Z"
-  },
-  {
-    "id": "277f0bb1-161b-4497-8909-5c1b0457cb84",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "[Smart Contract / Software Security] หาผู้ช่วยรัน PoC ยืนยันบั๊กและความปลอดภัยของระบบ\n1. ข้อมูลงานและวัตถุประสงค์:\nต้องการหาฟรีแลนซ์หรือนักพัฒนาที่มีความรู้ด้านความปลอดภัยซอฟต์แวร์/สมาร์ทคอนแทค (Smart Contract Security) มาช่วยรันสคริปต์ PoC (Proof of Concept) ตามเงื่อนไขที่กำหนด เพื่อตรวจสอบและบันทึกผลลัพธ์ของบั๊กที่พบในระบบ\n2. รายละเอียดและขอบเขตงาน:\nสิ่งที่ต้องทำ: นำสคริปต์/โค้ด PoC ที่เตรียมไว้ให้ ไปรันในสภาพแวดล้อมที่ปลอดภัย (Local Environment เช่น Hardhat, Foundry หรือตามเครื่องมือที่เกี่ยวข้อง)\nการตรวจสอบ: บันทึกภาพหน้าจอ (Screenshot), บันทึก Log การทำงาน และสรุปผลลัพธ์ที่ได้จากการรัน PoC ว่าตรงตามเงื่อนไขช่องโหว่หรือไม่\nขอบเขต: งานเป็นลักษณะเฉพาะกิจ (Task-based) ใช้เวลาสั้นๆ เน้นความแม่นยำและความเข้าใจด้านโค้ดเบื้องต้น\n3. เงื่อนไขและทักษะที่ต้องการ:\nมีความรู้พื้นฐานด้านการเขียนโปรแกรม (เช่น Python, JavaScript, Solidity หรือภาษาอื่นๆ ตามที่ระบบของคุณใช้)\nเข้าใจหลักการทำงานของ Vulnerability หรือ Smart Contract Security เบื้องต้น\nสามารถรักษาความลับของข้อมูลและโค้ดที่ได้รับอย่างเคร่งครัด\n",
-    "title": "[Smart Contract / Software Security] หาผู้ช่���ยรัน PoC ยืนยันบั๊กและความปลอดภัยของระบบ",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-04T20:54:53.447017Z",
-    "updated_at": "2026-10-04T20:54:55.040610Z",
-    "user_id": "708e5ca9-7d4c-4678-86b1-c2f5600b56f6",
-    "already_offered": false,
-    "brief_url": "https://x.com/luckyhacker43/status/2106751280924295297",
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-05",
-    "expired_at": "2026-11-03T20:54:53.426184Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;V2436;11.15.0-6002938"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-04T21:57:10.099Z"
   }
 ]
