@@ -1,5 +1,55 @@
 [
   {
+    "id": "b0662118-c0a4-4642-b34d-53ffa0148466",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "รับสมัคร Freelance UX/UI Designer ออกแบบเว็บไซต์โรงพยาบาลด้วย Figma\n\nต้องการผู้มีประสบการณ์ออกแบบเว็บไซต์ที่ดูน่าเชื่อถือ ใช้งานง่าย และเหมาะกับมือถือ เพื่อส่งต่อให้ทีมพัฒนาด้วย WordPress รองรับภาษาไทย–อังกฤษ\n\nขอบเขตประมาณ 30–35 แบบหน้า นับเป็นแม่แบบที่ไม่ซ้ำ ไม่ต้องออกแบบแยกทุกบทความ แพ็กเกจ หรือแพทย์ ครอบคลุม:\n• หน้าแรก ศูนย์การรักษา และบริการ\n• ค้นหาแพทย์ โปรไฟล์ ตารางออกตรวจ และนัดหมาย\n• แพ็กเกจ โปรโมชั่น และขั้นตอนซื้อออนไลน์\n• บทความสุขภาพ พร้อมส่วนแสดงแพ็กเกจที่เกี่ยวข้อง\n• สิทธิการรักษา ประกันสังคม และข้อมูลผู้ป่วย\n• เกี่ยวกับโรงพยาบาล ติดต่อ ข่าวสาร และร่วมงานกับเรา\n• หน้าต่างผู้ช่วย AI ค้นหาบริการ แพ็กเกจ แพทย์ และช่องทางติดต่อ\n• เมนู ฟอร์ม และสถานะต่าง ๆ เช่น คิวเต็ม ไม่พบข้อมูล และส่งข้อมูลสำเร็จ\n\nสิ่งที่ต้องส่งมอบ:\n• Wireframe และดีไซน์ Desktop/Mobile บน Figma\n• Design System และ Components ใช้ Auto Layout\n• Prototype ขั้นตอนค้นหาแพทย์–นัดหมาย และเลือกแพ็กเกจ–ซื้อ\n• แนวทาง Layout ไทย–อังกฤษ และการปรับบน Tablet\n• ไฟล์แก้ไขได้ พร้อมส่งมอบและอธิบายงานให้ทีมพัฒนา\n\nคุณสมบัติ:\nมี Portfolio เว็บไซต์จริง โดยเฉพาะสุขภาพ บริการ หรือ E-commerce ใช้ Figma คล่อง เข้าใจการส่งต่องานให้ Developer และรับผิดชอบเวลา\n\nระยะเวลาประเมิน 6–8 สัปดาห์ โดยสรุปขอบเขตและรอบแก้ไขร่วมกันก่อนเริ่มงาน\n\nกรุณาส่ง Portfolio ระบุบทบาทในผลงาน พร้อมเสนอราคาค่างานที่ต้องการ สิ่งที่รวมในราคา จำนวนรอบแก้ไข ระยะเวลาทำงาน และวันที่พร้อมเริ่ม\n\nงานนี้จ้างออกแบบ UX/UI เท่านั้น มีทีมพัฒนาเว็บไซต์รับช่วงต่อ ชื่อโรงพยาบาลจะแจ้งหลังพิจารณาเบื้องต้น",
+    "title": "รับสมัคร Freelance UX/UI Designer ออก���บบเว็บไซต์โรงพยาบาลด้วย Figma",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_profile-menu",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-07T14:35:15.818573Z",
+    "updated_at": "2026-10-07T14:35:17.839560Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-06T14:35:15.767627Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a77f97ad-8f7b-4a43-b993-0659adf39dfa",
+    "user_profile": {
+      "id": "a77f97ad-8f7b-4a43-b993-0659adf39dfa",
+      "username": "ztdnbakb",
+      "display_name": "Wan",
+      "image_url": "https://storage.googleapis.com/fastwork-static/2af10226-0c91-4b72-bfe8-b72bf03125e6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-07T16:31:15.681Z"
+  },
+  {
     "id": "73867fbe-3420-4bdf-8a0f-f6ba7e4349d6",
     "status": "open",
     "tag": {
@@ -245,103 +295,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-06T20:08:15.398Z"
-  },
-  {
-    "id": "5b6d976f-8287-4119-9843-3b5fb59ff28e",
-    "status": "open",
-    "tag": {
-      "id": "e5f1627a-ade2-4e4a-9077-759a268b0130",
-      "name": "นักพากย์เสียง",
-      "sort": 23
-    },
-    "type": "freelance",
-    "description": "บรีฟงาน\nกรุณาอ่านให้ครบก่อนรับงาน ทำเสร็จภายใน 24 ชม. หลังได้รับรหัส (ไม่ดองงาน ไม่เทงาน)\n\n📌 รายละเอียดงาน\nอัดเสียงอ่านข้อความสั้นๆ 210 ประโยค (15-20 นาที) ผ่านสมาร์ตโฟน (iOS/Android) ในห้องเงียบ ไม่มีเสียงรบกวน (พัดลม ทีวี คนคุยกัน)\n\n⚠️ ข้อกำหนดอุปกรณ์ (สำคัญมาก):\nใช้ไมค์ในตัวเครื่องเท่านั้น ห้ามใช้ไมค์นอก/สายแปลงใดๆ เพราะเสี่ยงมีเสียงไฟรั่ว/เสียงจี่แทรก (สาเหตุอันดั��� 1 ที่ไม่ผ่าน QC) ให้ถอดปลั๊ก/ปิดเครื่องใช้ไฟฟ้าใกล้ตัวขณะอัดเสมอ (ตู้เย็น พัดลม แอร์)\n\nคุณสมบัติ:\n1. พูดไทยเป็นภาษาแม่ สำเนียงปกติ ฟังชัด\n2. อายุ 18-60 ปี รับทั้งชายหญิง\n\nQC Standard:\n- อ่านธรรมชาติ ไม่เกร็ง ไม่ใส่อารมณ์เวอร์ ไม่เว้นจังหวะแปลก\n- อ่านตรงสคริปต์ 100% ห้ามเติม/ตัด/อ่านตก\n- เสียงชัด ไม่มีเสียงซ่า/ก้อง/รบกวน รวมถึงเสียงไฟฟ้า\n\n📋 เงื่อนไขแก้ไข:\nผ่าน QC 95% ขึ้นไป = อนุมัติทันที มีจุดแก้ไขได้ 1 ครั้งเท่านั้น แก้ครั้งที่ 1 แล้วยังไม่ผ่าน = ถือว่างานใช้ไม่ได้ ไม่เปิดแก้เพิ่ม หากพบว่าปัญหามาจากอุปกรณ์ ต้องเปลี่ยนมาใช้ไมค์ในตัวเครื่องก่อนแก้ไข\n\n⏳ เงื่อนไขปลดล็อกไอดี:\nติดต่อไม่ได้เกิน 24 ชม. หลังแจ้งผล QC/คำขอแก้ไข ขอปลดล็อก (Unbind) ทันทีเพื่อคืนโควตา ถือเป็นการยุติงานโดยไม่มีค่าตอบแทน\n\n⏳ ระยะเวลาตรวจ: แจ้งผลเบื้องต้น 3-5 วัน อนุมัติเงินประมาณ 10-12 วันทำการ (ผ่าน QC 95%+ อนุมัติทันที)\n\n💰 ค่าตอบแทน: [130]\nจ่ายเมื่อผลงานผ่าน QC ตามเกณฑ์เท่านั้น\n\n��ารกดรับงานถือว่ายอมรับเงื่อนไขทุกข้อแล้ว\n",
-    "title": "หาอัดเสียงประโยคสั้น ผู้ชาย",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "130",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-06T11:20:06.585179Z",
-    "updated_at": "2026-10-06T11:20:07.808748Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-07",
-    "expired_at": "2026-11-05T11:20:06.567804Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "7b77aa30-054f-4c22-b257-a60f8894d2ba",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "130",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-06T15:02:19.775Z"
-  },
-  {
-    "id": "d3bf50cb-422b-41b5-950e-046c81cf6d40",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "หาคนทำเสื้อ/ตัดเสื้อให้ฮะ มีแบบให้ดูครับผมลองทำเป็น Prototype ไว้ + อยากลองปรึกษาเกี่ยวกับการทำเสื้อขายฮะ การพัฒนาแบบเสื้อ",
-    "title": "หาคนทำเสื้อให้",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-06T10:14:03.195691Z",
-    "updated_at": "2026-10-06T10:14:04.406201Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android13;CPH2375;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-05T10:14:03.178172Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "47920188-1bb8-4e8c-be58-0de2e43b6cc9",
-    "user_profile": {
-      "id": "47920188-1bb8-4e8c-be58-0de2e43b6cc9",
-      "username": "ponponn",
-      "display_name": "Pon Latthapon",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/47920188-1bb8-4e8c-be58-0de2e43b6cc9/profile/7c4e92b7-1028-4df2-ab67-25bcede807bb.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-06T15:02:18.544Z"
   }
 ]
