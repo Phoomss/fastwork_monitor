@@ -1,5 +1,153 @@
 [
   {
+    "id": "73867fbe-3420-4bdf-8a0f-f6ba7e4349d6",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ผมสร้างระบบจองรถขึ้นมา โดยใช้ google sheets และ app scrpt อะครับ ตัวระบบเสร็จแล้ว แต่ผมจะทำให้การแจ้งเตือนการอนุมัติผ่านไลน์ไม่ได้ หาคนช่วยขึ้นไลน์ครับ ให้มันเป็นแชทบอทตอบกลับผู้จองผมต้องส่งงานจบม.6ให้ครูครับ เหลือแค่ขั้นตอนสุดท้ายแล้ว อยากได้ราคานักเรียนครับ เอาแบบธรรดาๆเลยครับหน้าไลน์ไม่ต้องดูดีขอแค่มีการแจ่งเตือนมีการตอบกลับ",
+    "title": "ทำให้ระบบการจองรถที่ผมสร้าง มีการแจ้งเตือนผ่านไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-07T08:49:32.443199Z",
+    "updated_at": "2026-10-07T08:49:34.363162Z",
+    "user_id": "54d0a3e5-7729-4920-bbd2-54ed590b2d96",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-08",
+    "expired_at": "2026-11-06T08:49:32.423789Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS15.8.8;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "54d0a3e5-7729-4920-bbd2-54ed590b2d96",
+      "username": "e17nakzw",
+      "display_name": "ซา",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-07T09:15:41.963Z"
+  },
+  {
+    "id": "5a1feee7-5f94-4a2d-bd66-a0f2ccecb636",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "ระยะการทำงาน เรทราคา ตามตกลงและหน้าที่งาน ขอคนมีสักยภาพแก้ไขปัญหางานได้ และดูแลเว็บให้ตลอดการใช้งาน เสนองานการออกแบบเว็บรูปแบบอนิเมชั่น (หากมีทีมอยู่แล้วพิจารณาเป็นพิเศษ แต่หากคิดว่าทำคนเดียวไหวเอาอยู่และแก้ไขปัญหาได้ส่งผลงานมาได้เลย)\n- รู้การสร้าง\n- มีความรู้ ai การนำมาใช้แบบถูกลิขสิทธิ์\n- ช่วยกันแก้ไขงาน ทำเป็นทีมช่วยกันออกแบบงาน\n- ประมาณ 10-15 หน้า\n(ถ้ามีความรู้ภาษาจีน แปลภาษาให้ได้ จะพิจารณาเป็นพิเศษ 1 คน มีค่าส่วนต่างค่าแปลภาษาให้ตามเรทราคาต���ลง)",
+    "title": "หาทีมหลายคน ช่วยกันทำเว็บสร้าง figma animation",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-07T08:13:14.035860Z",
+    "updated_at": "2026-10-07T08:13:16.093052Z",
+    "user_id": "0b1c3da7-afb9-48e3-93e2-e488b895708b",
+    "already_offered": false,
+    "brief_url": "https://vt.tiktok.com/ZSbqNytdt/",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-20",
+    "expired_at": "2026-11-06T08:13:13.958088Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.7;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "0b1c3da7-afb9-48e3-93e2-e488b895708b",
+      "username": "pedphalo",
+      "display_name": "P",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0b1c3da7-afb9-48e3-93e2-e488b895708b/profile/b836cc6b-8fd0-417a-9641-ee5bc702d31b.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-07T09:15:40.722Z"
+  },
+  {
+    "id": "85e10eaa-51a2-43c5-81c2-a1f54a4715a4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการตามหาโปรแกรมเมอร์ที่สามารถเขียนเว็บไซต์และแก้ไขเว็บไซต์เดิมที่มีอยู่แล้วได้\n\nรู้วิธีใช้ sanity + shoptify \nรู้วิธีเขียนโค้ด \nเข้าใจงานที่บรีฟ",
+    "title": "โปรแกรมเมอร์แก้ไข website เดิม",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "6000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-07T05:11:33.982811Z",
+    "updated_at": "2026-10-07T05:11:35.309539Z",
+    "user_id": "72a18d5a-a55a-40a8-aa7a-309ca103819f",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-06T05:11:33.935271Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.7.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "72a18d5a-a55a-40a8-aa7a-309ca103819f",
+      "username": "sir.goy",
+      "display_name": "Goy PP",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/72a18d5a-a55a-40a8-aa7a-309ca103819f/profile/226faf48-72ac-4639-88fc-219df9a35ac3.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "6000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-07T09:15:39.589Z"
+  },
+  {
     "id": "9fe211ca-a824-48e2-8633-1cf6026f5fcd",
     "status": "open",
     "tag": {
@@ -195,153 +343,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-06T15:02:18.544Z"
-  },
-  {
-    "id": "6d62e239-ecd0-4543-849e-8ba2201c0166",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "AI / Data / Automation Engineer | พัฒนาระบบข้อมูลอัจฉริยะ เชื่อม AI และ Automation เพื่อเพิ่มประสิทธิภาพธุรกิจ",
-    "title": "web app by next js",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-06T06:23:27.800920Z",
-    "updated_at": "2026-10-06T06:23:28.895378Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-05T06:23:27.737045Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "ee8c4539-54d9-4c4b-87c0-159b9f52fa29",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-06T08:06:13.182Z"
-  },
-  {
-    "id": "11b225a2-72ba-4bdb-a455-751f37db33cd",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "กำลังมองหา Senior Full-stack / Backend Developer แบบ Part-time / Project-based เพื่อช่วยพัฒนา Internal Web Application สำหรับบริษัท Logistics\nระบบมี Architecture และ Business Requirement วางไว้แล้ว ต้องการผู้มีประสบการณ์ช่วย Review, Implement และทำระบบให้ Production-ready ไม่ได้เริ่มจากศูนย์\nTech Stack\n- Next.js / TypeScript\n- Supabase / PostgreSQL\n- Supabase Auth / RLS / Storage\n- Git / Database Migration\n- Integration กับ PEAK Accounting ในอนาคต\nระบบที่กำลังพัฒนา\n- Trip Ledger / Import Excel-CSV\n- Data Cleaning / Validation\n- Rate Card / Pricing Engine BUY-SELL\n- Cost & Revenue\n- AP ทำจ่าย Supplier\n- AR วางบิลลูกค้า\n- Approval / Audit Log\n- Payment / Receipt\n- Treasury / Bank Reconciliation\n- Dashboard / PEAK Integration\nงานที่ต้องการให้ช่วย\n- Review Architecture และ Database Schema\n- ออกแบบ/Review FK, Constraint, Index, Migration\n- พัฒนาและ Review Next.js + Supabase\n- RLS / Permission / Security\n- ตรวจ Transaction Logic, Duplicate, Idempotency, Concurrency\n- Automated/Integration Test\n- Setup DEV / STAGING / PRODUCTION\n- Review Deployment, Backup/Restore\n- ช่วย Shadow Run เทียบระบบเดิมก่อน Go-live\nคุณสมบัติ\n- PostgreSQL แข็งแรง\n- มีประสบการณ์ Next.js + TypeScript\n- เคยใช้ Supabase จะพิจารณาเป็นพิเศษ\n- เข้าใจ Transaction, RLS/RBAC, Database Design\n- ใช้ Git/Migration/Production Workflow เป็น\n- เคยทำ ERP / Finance / Accounting / Logistics / Back-office จะดีมาก\n- หากเคยทำ AP/AR, Payment, Billing, Reconciliation, Audit Trail จะพิจารณาเป็นพิเศษ\n- สามารถ Review Code ที่สร้างร่วมกับ AI ได้\nรูปแบบงาน\nRemote / Part-time ประมาณ 1–3 เดือน\nทำงานร่วมกับเจ้าของระบบและ AI Coding Assistant\nมีงานต่อเนื่องหากทำงานร่วมกันได้ดี\nงบประมาณ\nประมาณ 30,000–60,000 บาท/เดือน หรือเสนอ Hourly/Man-day ได้\nตอนเสนอราคา กรุณาส่ง\n1. Portfolio ระบบ Back-office/ERP/Finance ที่เคยทำ\n2. บทบาทที่รับผิดชอบใน Project\n3. ประสบการณ์ PostgreSQL/Supabase\n4. Rate และเวลาที่ทำได้ต่อสัปดาห์\n5. วันที่เริ่มงานได้\nไม่เน้น Frontend/UI อย่างเดียว ต้องการคนที่แข็งแรงด้าน Database + Backend + Transaction System",
-    "title": "Senior Full-stack / Backend Developer – Next.js + Supabase + PostgreSQL",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "50000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-06T05:23:34.097783Z",
-    "updated_at": "2026-10-06T05:23:35.006837Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-05T05:23:34.042266Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "5090b83e-5c06-4d5c-8252-b84215aa3dd6",
-    "user_profile": {
-      "id": "5090b83e-5c06-4d5c-8252-b84215aa3dd6",
-      "username": "sunroad",
-      "display_name": "sunroad",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5090b83e-5c06-4d5c-8252-b84215aa3dd6/profile/a244da2f-2f98-4766-9b5d-18befcdf1971.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "50000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-06T08:06:11.960Z"
-  },
-  {
-    "id": "16dd007d-3911-4b22-9f1f-1a94e4f0fb5c",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการคนที่มีประสบการณ์ออกแบบเว็บไซต์ WIX ครับ สนใจเป็นภาษาอังกฤษและภาษาไทยนะครับ\n\nสนใจทักมาได้พร้อมส่งผลงานนะครับ",
-    "title": "มองหาคนออกแบบเว็บไซต์บน WIX ครับ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-06T05:11:29.869500Z",
-    "updated_at": "2026-10-06T05:11:31.561517Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;Pixel 10 Pro Fold;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-05T05:11:29.826926Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d514f692-55d9-451c-99bc-18451207f443",
-    "user_profile": {
-      "id": "d514f692-55d9-451c-99bc-18451207f443",
-      "username": "phakphumb",
-      "display_name": "ภูมิ",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-06T08:06:10.588Z"
   }
 ]
