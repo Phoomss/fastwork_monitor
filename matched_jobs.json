@@ -343,54 +343,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-06T08:06:10.588Z"
-  },
-  {
-    "id": "ac3b22de-372f-41a0-af05-0cf5a9f61f97",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "บรีฟโปรเจกต์สร้างเว็บไซต์ \nชื่อโปรเจกต์: Spencer & Hawkesbury Community Hub & Local Marketplace\nรูปแบบ��ว็บไซต์: แพลตฟอร์มชุมชน + ข่าวสาร + ตลาดออนไลน์หลายผู้ขาย + ระบบจัดส่งในท้องถิ่น\n1. ภาพรวมโปรเจกต์และวัตถุประสงค์ (Project Overview)\nCommunity Hub: ประชาสัมพันธ์ข่าวสาร กิจกรรม แจ้งเตือนภัย/ประกาศสำคัญ และโปรโมชั่นจากร้านค้าในพื้นที่ Spencer, NSW\nLocal Marketplace: เปิดโอกาสให้คนในท้องถิ่นและธุรกิจชุมชน ลงทะเบียนเปิดร้านและขายสินค้า/บริการผ่านแพลตฟอร์ม\nLocal Delivery & Fulfillment: มีระบบจัดส่งสินค้าที่ยืดหยุ่น เหมาะกับบริบทพื้นที่ริมแม่น้ำ/ชุมชนท้องถิ่น (นัดรับ, ส่งด่วนในพื้นที่, ส่งพัสดุ)\n2. ขอบเขตงานและฟังก์ชันหลัก \nก. ศูนย์รวมข่าวสารแล���กิจกรรมชุมชน (Community Hub)\nปฏิทินกิจกรรม (Event Calendar)\nระบบบทความ/ข่าวสาร (News & Notices)\nทำเนียบร้านค้าและบริการ (Local Directory & Map)\nศูนย์รวมโปรโมชั่น (Local Deals & Coupons)\nข. ตลาดออนไลน์สำหรับผู้ขายหลายราย (Multi-Vendor Marketplace)\nสมัครสมาชิกร้านค้า (Vendor Registration)\nแผงควบคุมผู้ขาย (Vendor Dashboard): ลงสินค้า ตั้งราคา จัดการสต็อก ดูยอดขาย และส่งคำขอถอนเงิน (Payout)\nตะกร้าสินค้าและระบบชำระเงิน (Cart & Payment Checkout)\nระบบคอมมิชชันและโอนเงิน\nค. ระบบจัดส่งสินค้า (Delivery & Fulfillment System)\nนัดรับสินค้า (Self-Pickup)\nส่งด่วนในท้องถิ่น (Local Express Delivery)\nส่งพัสดุเอกชน (Standard Courier)\nง. การเชื่อมต่อ Social Media (Social Media Integrations)\nลิงก์และไอ��อนโซเชียล\nระบบแชร์โซเชียล\nดึงฟีดมาแสดง (Live Feeds)\nแชตด่วน (Live Chat / Messenger Widget)\nSocial Profile ของผู้ขาย\n\nการแสดงผล: Mobile-First Design (รองรับสมาร์ตโฟน แท็บเล็ต และคอมพิวเตอร์)\n\nความเร็วและความปลอดภัย: Optimization สำหรับการโหลดเร็ว, ติดตั้ง SSL (HTTPS), วางระบบความปลอดภัยพื้นฐาน\n\n4. กรอบเวลา (Timeline)\nระยะเวลาดำเนินการ: ยืดหยุ่นได้",
-    "title": "Community Hub & Local Marketplace",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-06T01:02:48.410627Z",
-    "updated_at": "2026-10-06T01:02:52.458329Z",
-    "user_id": "6da60981-cc71-41c2-a5ac-d08b9d1871a9",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-05T01:02:48.355925Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "6da60981-cc71-41c2-a5ac-d08b9d1871a9",
-      "username": "mronetongjai",
-      "display_name": "Mr One",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-06T01:39:20.736Z"
   }
 ]
