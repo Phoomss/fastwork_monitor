@@ -1,5 +1,103 @@
 [
   {
+    "id": "e54fa348-7eb5-4d15-ac1f-d1668263c4bd",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "จะเริ่มให้ตาม สโคปโปรเจกต์งาน ซึ่งต้องเป็นคนที่จัดการ โปรแกรม���ป็น full stack และ จะให้ดูแล คนในทีมทั้งหมด ให้รับ บรีฟงานว่า ต้องทำ saas หรือ ระบบ อัตโนมัติอะไรบ้าง database จะ วางไว้ที่ไหนและ การ follow up ลูกน้อง IT ของคุณเอง จะหาเองก็ได้หรือว่า จะอย่างไรก็ได้ ถ้า งานโปรเจค เสร็จตามtimeline งาน\n1. สามารถ จัดการ ระบบ IT หลังบ้านได้ \n2.เชื่อมข้อมูล หลังบ้านได้ รู้เรื่อง api / การ รวม data ระบบ หลังบ้านให้เป็นระเบียบ กรณี ที่ โปรเจคมีหลายโปรแกรมมีหลายระบบ แล้วให้ทุกคนทำพร้อมกัน \n3. ใช้ ai  ในการเขียน โค้ดดิ้ง ยุคนี้ สมัยไหนแล้ว \n4. เน้นความเป็น เลขา ส่วนตัวของผู้บริหารไม่ใช่ คนรับjob แล้ว เหมาโปรเจคต์ \n5. cyber security \n6. การรวม โปรแกรมเข้าด้วยกัน เชื่อมด้วย api / database หลังบ้าน ฯลฯ\n7.การ maintainance หาก ข้อมูล การใช้งาน user มีเพิ่ม ขึ้น \n8. การ ปรับข้อมูล โปรแกรม ปรับเปลี่ยน /เพิ่มเติม /แก้ไข สามารถทำได้โดยที่ หลัง ขึ้น production แล้วไม่สะดุด\n\nยิ่งมี impact กับทาง บริษัท ข้อมูล งานใช้ได้ จะยิ่งได้เงินเดือน ขึ้น เยอะ แล้วแต่ โปรเจคที่ทำและความรับผิดชอบ (มีโปรเจคต์ อย่างต่อเนื่อง )\nงาน erp เบื้องต้นต้องทำได้ เว็บไซต์ ต่างๆ เน้น คุยรู้เรื่อง คล่องแคล่วกระฉับกระเฉง เข้าใจ จุดประสงค์ เพราะต้อง บรีฟงานต่อ งานที่ให้ไม่มีงานเล็ก ต้องการจายงานเอง รู้ว่า จะต้อง ใช้ IT กี่ท่าน และ ต้องใช้ ai ร่วมด้วยเท่านั้น ",
+    "title": "ฉันหาIT คอยคุมงานโปรเจคต์ รับบรีฟจากเจ้าของธุรกิจ PM งานทำระบบอัตโนมัติ IT เขียนโปรแกรม โปรเจค",
+    "is_owner": false,
+    "source": "jobboard_web_web_chat_profile-menu_jobboard",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-08T06:06:01.693842Z",
+    "updated_at": "2026-10-08T06:06:03.568852Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-07T06:06:01.630741Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "45635aaf-a491-4969-a8b4-2b2f674b84a1",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-08T07:19:52.662Z"
+  },
+  {
+    "id": "d677f16d-a313-4cf4-9b3a-7d706680d64a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "1. format คำนวน kpi พนักงานตามรายชื่อ \n2. ดูคลีนไม่รก ใช้งานง่าย เหมาะกับคนที่ไม่เก่ง excel\n3. คำนวนคะแนนอัตโนมัติ เมื่อใส่รายชื่อ งานที่ได้รับมอบหมาย รายวัน รวมถึงคิดคะแนนรวมรายเดือนได้เลยทันทีเมื่อใส่รายละเอียดงานครบ \n",
+    "title": "ทำ format การคิด kpi พนักงานใน excel **ดูคลีน ใช้งานง่าย**",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-08T03:27:59.179000Z",
+    "updated_at": "2026-10-08T03:28:01.261168Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-11",
+    "expired_at": "2026-11-07T03:27:59.159734Z",
+    "freelance_offers_count": 14,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "28fb78d3-0ac1-48cb-9901-628691159a57",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-08T07:19:51.441Z"
+  },
+  {
     "id": "b0662118-c0a4-4642-b34d-53ffa0148466",
     "status": "open",
     "tag": {
