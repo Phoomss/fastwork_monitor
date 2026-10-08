@@ -1,5 +1,103 @@
 [
   {
+    "id": "f1112e61-fcab-4584-9907-287368639e6f",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "contract",
+    "description": "ระบบดูแลทรัพย์สินทั้งหน้าและหลังบ้านแบบ อัติโนมัติ\n\nสิ่งที่คุณจะได้ทำ:\n\nสร้างและดูแลระบบอัตโนมัติด้วย n8n\nพัฒนาเว็บแพลตฟอร์ม (Next.js + ฐานข้อมูล + ฟีเจอร์ AI)\nเชื่อมต่อ API: LINE, Facebook Messenger, WhatsApp, Claude/OpenAI, Google\n\nคุณสมบัติที่ต้องมี:\nประสบการณ์ Full-Stack อย่างน้อย 3 ปี (Next.js/React + Supabase/Firebase/PostgreSQL)\nเคยใช้งาน n8n จริง\nเคยเชื่อมต่อ API กับแพลตฟอร์มข้อความ (LINE, Messenger, WhatsApp หรือใกล้เคียง)\nเคยเชื่อมต่อ LLM API (Claude/OpenAI)\n\nมีผลงานที่สร้างและใช้งานจริงอย่างน้อย 1 ชิ้น\n\nจะพิจารณาเป็นพิเศษ: เคยทำโปรเจกต์อสังหาฯ/marketplace/SaaS · สามารถสื่อสารภาษาอังกฤษได้ในระดับทำงาน (อ่านเอกสาร)\n\n\nวิธีสมัคร (ใช้เวลา 2 นาที):\n1️⃣ ส่งลิงก์ผลงานจริง 2 ชิ้น\n2️⃣ เขียนสั้นๆ 1 ย่อหน้า: จะสร้างระบบจับคู่/อัตโนมัติด้วย AI อย่างไร\n3️⃣ ยืนยันว่าเคยใช้ n8n\n\nพร้อมเรียนรู้สิ่งใหม่ๆเสมอ\nรับความกดดันได้",
+    "title": "Full Stack Developer ที่ทำทั้งระบบอสังหา ขาย/เช่า ด้วย AI",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-08T19:59:09.291580Z",
+    "updated_at": "2026-10-08T19:59:11.075115Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-07T19:59:09.243371Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;SM-S928B;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5971e955-42fb-4230-8afe-200c72397144",
+    "user_profile": {
+      "id": "5971e955-42fb-4230-8afe-200c72397144",
+      "username": "ratchathep",
+      "display_name": "Thep",
+      "image_url": "https://storage.googleapis.com/fastwork-static/0ce6b2af-e206-4ef9-9cc8-f62b58f9203c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-08T20:06:00.148Z"
+  },
+  {
+    "id": "213b5b83-3903-4e44-80b6-a199a8d10191",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "contract",
+    "description": "ระบบดูแลทรัพย์สินทั้งหน้าและหลังบ้านแบบ อัติโนมัติ\n\nสิ่งที่คุณจะได้ทำ:\n\nสร้างและดูแลระบบอัตโนมัติด้วย n8n\nพัฒนาเว็บแพลตฟอร์ม (Next.js + ฐานข้อมูล + ฟีเจอร์ AI)\nเชื่อมต่อ API: LINE, Facebook Messenger, WhatsApp, Claude/OpenAI, Google\n\nคุณสมบัติที่ต้องมี:\nประสบการณ์ Full-Stack อย่างน้อย 3 ปี (Next.js/React + Supabase/Firebase/PostgreSQL)\nเคยใช้งาน n8n จริง\nเคยเชื่อมต่อ API กับแพลตฟอร์มข้อความ (LINE, Messenger, WhatsApp หรือใกล้เคียง)\nเคยเชื่อ���ต่อ LLM API (Claude/OpenAI)\n\nมีผลงานที่สร้างและใช้งานจริงอย่างน้อย 1 ชิ้น\n\nจะพิจารณาเป็นพิเศษ: เคยทำโปรเจกต์อสังหาฯ/marketplace/SaaS · สามารถสื่อสารภาษาอังกฤษได้ในระดับทำงาน (อ่านเอกสาร)\n\n\nวิธีสมัคร (ใช้เวลา 2 นาที):\n1️⃣ ส่งลิงก์ผลงานจริง 2 ชิ้น\n2️⃣ เขียนสั้นๆ 1 ย่อหน้า: จะสร้างระบบจับคู่/อัตโนมัติด้วย AI อย่างไร\n3️⃣ ยืนยันว่าเคยใช้ n8n\n\nพร้อมเรียนรู้สิ่งใหม่ๆเสมอ\nรับความกดดันได้",
+    "title": "Full Stack Developer ที่ทำทั้งระบบอสังหา ขาย/เช่า ด้วย AI",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-08T19:59:09.155279Z",
+    "updated_at": "2026-10-08T19:59:11.206148Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-07T19:59:09.110552Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;SM-S928B;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5971e955-42fb-4230-8afe-200c72397144",
+    "user_profile": {
+      "id": "5971e955-42fb-4230-8afe-200c72397144",
+      "username": "ratchathep",
+      "display_name": "Thep",
+      "image_url": "https://storage.googleapis.com/fastwork-static/0ce6b2af-e206-4ef9-9cc8-f62b58f9203c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-08T20:05:58.967Z"
+  },
+  {
     "id": "e54fa348-7eb5-4d15-ac1f-d1668263c4bd",
     "status": "open",
     "tag": {
@@ -96,55 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-08T07:19:51.441Z"
-  },
-  {
-    "id": "b0662118-c0a4-4642-b34d-53ffa0148466",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "รับสมัคร Freelance UX/UI Designer ออกแบบเว็บไซต์โรงพยาบาลด้วย Figma\n\nต้องการผู้มีประสบการณ์ออกแบบเว็บไซต์ที่ดูน่าเชื่อถือ ใช้งานง่าย และเหมาะกับมือถือ เพื่อส่งต่อให้ทีมพัฒนาด้วย WordPress รองรับภาษาไทย–อังกฤษ\n\nขอบเขตประมาณ 30–35 แบบหน้า นับเป็นแม่แบบที่ไม่ซ้ำ ไม่ต้องออกแบบแยกทุกบทความ แพ็กเกจ หรือแพทย์ ครอบคลุม:\n• หน้าแรก ศูนย์การรักษา และบริการ\n• ค้นหาแพทย์ โปรไฟล์ ตารางออกตรวจ และนัดหมาย\n• แพ็กเกจ โปรโมชั่น และขั้นตอนซื้อออนไลน์\n• บทความสุขภาพ พร้อมส่วนแสดงแพ็กเกจที่เกี่ยวข้อง\n• สิทธิการรักษา ประกันสังคม และข้อมูลผู้ป่วย\n• เกี่ยวกับโรงพยาบาล ติดต่อ ข่าวสาร และร่วมงานกับเรา\n• หน้าต่างผู้ช่วย AI ค้นหาบริการ แพ็กเกจ แพทย์ และช่องทางติดต่อ\n• เมนู ฟอร์ม และสถานะต่าง ๆ เช่น คิวเต็ม ไม่พบข้อมูล และส่งข้อมูลสำเร็จ\n\nสิ่งที่ต้องส่งมอบ:\n• Wireframe และดีไซน์ Desktop/Mobile บน Figma\n• Design System และ Components ใช้ Auto Layout\n• Prototype ขั้นตอนค้นหาแพทย์–นัดหมาย และเลือกแพ็กเกจ–ซื้อ\n• แนวทาง Layout ไทย–อังกฤษ และการปรับบน Tablet\n• ไฟล์แก้ไขได้ พร้อมส่งมอบและอธิบายงานให้ทีมพัฒนา\n\nคุณสมบัติ:\nมี Portfolio เว็บไซต์จริง โดยเฉพาะสุขภาพ บริการ หรือ E-commerce ใช้ Figma คล่อง เข้าใจการส่งต่องานให้ Developer และรับผิดชอบเวลา\n\nระยะเวลาประเมิน 6–8 สัปดาห์ โดยสรุปขอบเขตและรอบแก้ไขร่วมกันก่อนเริ่มงาน\n\nกรุณาส่ง Portfolio ระบุบทบาทในผลงาน พร้อมเสนอราคาค่างานที่ต้องการ สิ่งที่รวมในราคา จำนวนรอบแก้ไข ระยะเวลาทำงาน และวันที่พร้อมเริ่ม\n\nงานนี้จ้างออกแบบ UX/UI เท่านั้น มีทีมพัฒนาเว็บไซต์รับช่วงต่อ ชื่อโรงพยาบาลจะแจ้งหลังพิจารณาเบื้องต้น",
-    "title": "รับสมัคร Freelance UX/UI Designer ออก���บบเว็บไซต์โรงพยาบาลด้วย Figma",
-    "is_owner": false,
-    "source": "jobboard_web_web_marketplace_profile-menu",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-07T14:35:15.818573Z",
-    "updated_at": "2026-10-07T14:35:17.839560Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-06T14:35:15.767627Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "a77f97ad-8f7b-4a43-b993-0659adf39dfa",
-    "user_profile": {
-      "id": "a77f97ad-8f7b-4a43-b993-0659adf39dfa",
-      "username": "ztdnbakb",
-      "display_name": "Wan",
-      "image_url": "https://storage.googleapis.com/fastwork-static/2af10226-0c91-4b72-bfe8-b72bf03125e6.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-07T16:31:15.681Z"
   }
 ]
