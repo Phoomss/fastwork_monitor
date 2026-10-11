@@ -1,5 +1,152 @@
 [
   {
+    "id": "18aff42f-8be6-4e46-a1b8-23fe9c42595c",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "กำลังทำแอพ เหลือขั้นตอนการ test ���ห้ 12 users ดาวน์โหลดและเทสแอป ขอคนรู้เรื่องและให้คำแนะนำจน verified",
+    "title": "คนทำ 12 users testing google play application 14 days",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-11T13:09:47.278473Z",
+    "updated_at": "2026-10-11T13:09:48.835462Z",
+    "user_id": "2588643c-1501-4f46-8624-917ecbca91e1",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-10T13:09:47.258676Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-11T13:15:18.521Z"
+  },
+  {
+    "id": "567de91e-98b0-4491-93f3-470df9118209",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาฟรีแลนซ์วางระบบออนไลน์และการตลาดให้ร้าน SANGDAW Sleep Salon\n\nรายละเอียดงาน\n\nกำลังมองหาฟรีแลนซ์ที่มีประสบการณ์วางระบบและ เข้ามาให้คำปรึกษาและช่วยดำเนินการที่ร้านจริง โดยมีรายละเอียดดังนี้\n\n1. Google Maps & Google Business Profile\n    * สร้างหรือตั้งค่าหน้าร้านบน Google Maps \n2. LINE Official Account (LINE OA)\n    * ตั้งค่า LINE OA สำหรับร้านให้พร้อมใช้งาน\n    * วางระบบตอบกลับอัตโนมัติและข้อความต้อนรับลูกค้า\n    * แนะนำระบบรับจองคิวและติดตามลูกค้า\n3. Instagram (มีแล้ว)\n    อยากให้ เพิ่มตำแหน่งร้านและเชื่อมโยงช่องทางติดต่อให้ลูกค้าเข้าถึงง่าย\n4. วางระบบการตลาดและการติดต่อของร้าน\n    * วางระบบเชื่อมโยง Google Maps, LINE OA และ Instagram และแอปอื่นๆ ให้ลูกค้าติดต่อและจองบริการได้สะดวก\n   \nรูปแบบการทำงาน: ต้องการผู้ที่สามารถเข้ามาดูแลจัดระบบให้ที่ร้าน พร้อมช่วยตั้งค่าระบบจริง\nสถานที่: SANGDAW Sleep Salon ใต้คอนโด U Delight @ ห้วยขวาง กรุงเทพฯ\n\n",
+    "title": "หาคนเซตระบบร้านเปิดใหม่",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-11T12:37:43.243351Z",
+    "updated_at": "2026-10-11T12:37:44.427510Z",
+    "user_id": "0b8a534a-3727-4c1f-9d91-9d89751f966c",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-13",
+    "expired_at": "2026-11-10T12:37:43.186656Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "0b8a534a-3727-4c1f-9d91-9d89751f966c",
+      "username": "hongyok2610",
+      "display_name": "Hongyok2610",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0b8a534a-3727-4c1f-9d91-9d89751f966c/profile/e5999556-fce1-43c7-bb0f-98e69b928024.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-11T13:15:17.370Z"
+  },
+  {
+    "id": "58993118-10c7-4b47-a6c7-4cb36be95604",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "อยากได้คนมาประเมินมูลค่าเว็บไซต์และลิสต์ฟีเจอร์ของเว็บไซต์ออกมาให้ดู\n\nพร้อมทั้งใบเสนอราคา\nเป็นไปได้ขอดู format ของใบเสนอราคาด้วย",
+    "title": "ด่วนๆ หาคนประเมินมูลค่าเว็บพร้อมทำใบเสนอราคาและลิสฟีเจอร์ทั้งหมดผ่านโค้ด",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-11T07:12:03.181810Z",
+    "updated_at": "2026-10-11T07:12:05.127246Z",
+    "user_id": "49efa316-0928-4e01-b829-5579749b8949",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-11",
+    "expired_at": "2026-11-10T07:12:03.129681Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;25069PTEBG;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-11T13:15:15.968Z"
+  },
+  {
     "id": "d2b9c9d3-853d-4b2c-8fa3-eeacbb2d7545",
     "status": "open",
     "tag": {
@@ -96,103 +243,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-10T18:44:21.054Z"
-  },
-  {
-    "id": "6cc9dbc9-75fe-48af-a2ef-0e12467cd1d2",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "full-time",
-    "description": "บริษัทดำเนินธุรกิจออกแบบและติดตั้งระบบ Solar Cell แบบครบวงจร มีความต้องการพัฒนาแอปพลิเคชันของบริษัท เพื่อใช้ติดตามสถานะการดำเนินงาน ติดตามประสิทธิภาพการผลิตไฟฟ้า และตรวจสอบการทำงานของระบบโซลาร์เซลล์ของลูกค้าแบบเรียลไทม์\n\nขอบเขตการพัฒนาที่ต้องการ\n\n1. ระบบติดตามสถานะงาน\n\n- ติดตามสถานะตั้งแต่ลูกค้าสั่งซื้อ การติดตั้ง การขออนุญาตการไฟฟ���า จนถึงการส่งมอบงาน\n- ติดตามสถานะการล้างแผงโซลาร์เซลล์ประจำปี\n- แสดงรายละเอียดและประวัติการดำเนินงานของลูกค้าแต่ละราย\n\n2. ระบบตรวจสอบการทำงานของ Solar Cell\n\n- เชื่อมต่อและดึงข้อมูลจาก Inverter ที่ติดตั้งให้ลูกค้า\n- แสดงข้อมูลการผลิตไฟฟ้าและประสิทธิภาพการทำงานของระบบ\n- ประมวลผลข้อมูลร่วมกับสภาพอากาศและความเข้มแสง เพื่อประเมินประสิทธิภาพการผลิตไฟฟ้า\n- แสดงสถานะการทำงานและแจ้งเตือนเมื่อระบบผิดปกติหรือเกิดข้อผิดพลาด\n- รองรับการติดตามข้อมูลย้อนหลังและข้อมูลแบบเรียลไทม์ตามความสามารถของอุปกรณ์\n\n3. การรองรับอุปกรณ์และระบบ\n\n- ต้องการรองรับ Inverter แบรนด์ Deye, Solis และ Huawei\n- รองรับการใช้งานบน iOS และ Android\n- มีระบบหลังบ้าน (Admin Dashboard) สำหรับจัดการข้อมูลลูกค้า สถานะงาน และข้อมูลระบบ\n- สามารถต่อยอดและเพิ่มฟังก์ชันในอนาคตได้",
-    "title": "หาผู้พัฒนา Mobile Application สำหรับธุรกิจติดตั้งโซลาร์เซลล์ (iOS & Android) พร้อมเชื่อมต่อข้อมูล Inverter",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "50000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-10T03:30:55.618535Z",
-    "updated_at": "2026-10-10T03:30:57.184853Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-09T03:30:55.553202Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;V2250;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "fc511fd7-d32a-4121-bdf0-933890a21a47",
-    "user_profile": {
-      "id": "fc511fd7-d32a-4121-bdf0-933890a21a47",
-      "username": "honeypooh",
-      "display_name": "Jantima",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc511fd7-d32a-4121-bdf0-933890a21a47/profile/7dd387c8-6c18-452d-8940-daecac9c5a5c.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "50000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-10T08:10:06.891Z"
-  },
-  {
-    "id": "a5f94046-790a-4526-9401-fc4ca183096c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "อธิบายลักษณะ\n งานที่  ต้องการครับ\nลูกค้า เอาคูปอง มาขึ้นเงิน\n\nหน้าร้าน ถ่ายรูป คูปองมาในไลน์ OA\n\nอยากให้  โปรแกรม อ่าน  qr code. และ อ่านผลรางวัลบนคูปอง \n\nแล้วตรวจเชคสถานะการ ขึ้นเงินซ้ำ หรือ ใช้ไปแล้ว \n\nและส่งกลับไป ให้ ทางหน้าร้าน เพื่อจ่ายเงิน",
-    "title": "อ่าน ข้อมูลคูปอง บนไลน  OA",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "999",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-10T03:28:03.439497Z",
-    "updated_at": "2026-10-10T03:28:04.955662Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-09T03:28:03.377577Z",
-    "freelance_offers_count": 13,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;V2511;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "28dac832-bfe9-4021-922f-831b59b95db1",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "999",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-10T08:10:05.469Z"
   }
 ]
