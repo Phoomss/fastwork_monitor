@@ -1,5 +1,54 @@
 [
   {
+    "id": "90809f2b-6496-4927-b72f-cbee3dfeeac7",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "เขียนโปรแกรมในproteuseมีทำ���น้าวงจร ,หน้าpcb layuot ,หน้า3Dไว้ดูlayuot\n แล้วนำมากัดแผ่นpcbพร้อมต่อวงจรชิ้นงานค่ะ",
+    "title": "มินิโปรเจคเครื่องชาร์จแบตเตอรี่อัจฉริยะแบบสแตนด์อะโลน(Smart Buck-Boost Battery Charger)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-11T16:03:58.801332Z",
+    "updated_at": "2026-10-11T16:04:00.607087Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-29",
+    "expired_at": "2026-11-10T16:03:58.783672Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "5856b0ba-c895-46da-9fda-3a12e7946f8e",
+    "user_profile": {
+      "id": "5856b0ba-c895-46da-9fda-3a12e7946f8e",
+      "username": "ihc_chi",
+      "display_name": "chicha",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5856b0ba-c895-46da-9fda-3a12e7946f8e/profile/db006cdd-04fe-40a9-83a5-e9ab4668e2fa.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-11T18:05:25.890Z"
+  },
+  {
     "id": "18aff42f-8be6-4e46-a1b8-23fe9c42595c",
     "status": "open",
     "tag": {
