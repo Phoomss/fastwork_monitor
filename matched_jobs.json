@@ -1,5 +1,54 @@
 [
   {
+    "id": "2947956c-32bf-4349-b32f-c8b82ce8497f",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "part-time",
+    "description": "Looking for a skilled Graphic Designer / Video Editor to help create engaging content for social media (TikTok, Facebook, and Instagram). The project includes editing short videos, designing banners, and optimizing visual assets. We need high-quality work with fast delivery and smooth communication.",
+    "title": "Graphic Designer for Logo and Social Media Banners",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-11T20:38:49.705119Z",
+    "updated_at": "2026-10-11T20:38:51.751526Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-20",
+    "expired_at": "2026-11-10T20:38:49.687253Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;RMX3933;11.15.0-6002938"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "45f80b7e-1ce9-4cff-8d1e-571de297dd21",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-11T21:49:43.354Z"
+  },
+  {
     "id": "90809f2b-6496-4927-b72f-cbee3dfeeac7",
     "status": "open",
     "tag": {
@@ -243,54 +292,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-11T06:27:55.345Z"
-  },
-  {
-    "id": "1278fdf3-43fb-41af-b9f6-be2b941b59cf",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "คือปัจจุบันทำอยู่แผนก CS ใช้โปรแกรม Infor SL 9 ในการลงข้อมูล ทั้ง Order และ Forecast คิดหัวข้อไคเซนไม่ออกค่ะ",
-    "title": "คนช่วยคิด Kaizen",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "150",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-10T16:11:17.919526Z",
-    "updated_at": "2026-10-10T16:11:19.654145Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-13",
-    "expired_at": "2026-11-09T16:11:17.867330Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "327f2028-1348-4e27-9587-74522d00a0a2",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "150",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-10T18:44:21.054Z"
   }
 ]
