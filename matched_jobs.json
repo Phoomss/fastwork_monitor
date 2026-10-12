@@ -1,5 +1,152 @@
 [
   {
+    "id": "003978ae-5b8b-40d0-b4dd-8ec8f6c7d79f",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "full-time",
+    "description": "หาโปรแกรมเมอร์และไอที\nมาร่วมงานกันครับ ทำโปรแกรมทั้งในและนอกให้กับทางลูกค้า\nเงินเดือนตามตกลง ออฟฟิศ เครือสหพัฒน์ แหลมฉบัง ชลบุรี\nท่านใดสนใจขอรายละเอียดงาน เพิ่มเติมติดต่อมาได้ครับ",
+    "title": "หาโปรแกรมเมอร์ และ ไอที เครือสหพัฒน์ แหลมฉบัง",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "18000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T05:21:52.944073Z",
+    "updated_at": "2026-10-12T05:21:54.320597Z",
+    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-11T05:21:52.896860Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
+      "username": "rtxvpuda",
+      "display_name": "AR Induction",
+      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "18000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-12T06:34:36.740Z"
+  },
+  {
+    "id": "633b09d9-0cfc-4821-be76-ec306a96fe99",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนทำแบบสอบถามครับหาคนทำแบบสอบถามเกี่ยวกับแอปซื้อของออนไลน ใช้เวลาไม่นานครับ10นาทีเสร็จใครสนใจลงงานไว้เลยนะครับจะรีบติดต่อไป",
+    "title": "คนตอบแบบสอบถามวิจัย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "150",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T02:12:01.393383Z",
+    "updated_at": "2026-10-12T02:12:03.323184Z",
+    "user_id": "18c5a2ea-e494-45b0-a432-3358abec2ebf",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-11T02:12:01.344654Z",
+    "freelance_offers_count": 29,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.0.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "18c5a2ea-e494-45b0-a432-3358abec2ebf",
+      "username": "byl6r7nk",
+      "display_name": "ธรรมรัตน์",
+      "image_url": "https://storage.googleapis.com/fastwork-asset/profile-seller-default.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "150",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-12T06:34:35.619Z"
+  },
+  {
+    "id": "8c3064e8-785f-40a4-9020-24a3bdc7f4bf",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนทำแบบสอบถามครับหาคนทำแบบสอบถามเกี่ยวกับแอปซื้อของออนไลน ใช้เวลาไม่นานครับ10นาทีเสร็จใครสนใจลงงานไว้เลยนะครับจะรีบติดต่อไป",
+    "title": "ฉันหา คนตอบแบบสอบถามวิจัย",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "150",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T01:01:32.860002Z",
+    "updated_at": "2026-10-12T01:01:34.769462Z",
+    "user_id": "18c5a2ea-e494-45b0-a432-3358abec2ebf",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-11T01:01:32.840131Z",
+    "freelance_offers_count": 17,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.0.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "18c5a2ea-e494-45b0-a432-3358abec2ebf",
+      "username": "byl6r7nk",
+      "display_name": "ธรรมรัตน์",
+      "image_url": "https://storage.googleapis.com/fastwork-asset/profile-seller-default.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "150",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-12T06:34:34.462Z"
+  },
+  {
     "id": "2947956c-32bf-4349-b32f-c8b82ce8497f",
     "status": "open",
     "tag": {
@@ -243,54 +390,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-11T13:15:15.968Z"
-  },
-  {
-    "id": "d2b9c9d3-853d-4b2c-8fa3-eeacbb2d7545",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาระบบขายส่งน้ำมัน พร้อมด้วยระบบบัญชีผ่าน SAP หรือ ERP สำหรับผู้ประกอบการ\nท่านใดมีอยู่แล้วพร้อมใช้งาน เสนอมาได้นะครับ",
-    "title": "หาโปรแกรมและระบบ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "30000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-11T01:35:44.107024Z",
-    "updated_at": "2026-10-11T01:35:45.925775Z",
-    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-10T01:35:44.053559Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPhone;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
-      "username": "rtxvpuda",
-      "display_name": "AR Induction",
-      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-11T06:27:55.345Z"
   }
 ]
