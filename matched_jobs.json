@@ -1,5 +1,204 @@
 [
   {
+    "id": "fc95de98-86d8-496c-a847-c35edc4236fb",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "part-time",
+    "description": "ผมต้องการหาคนที่สามารถออกแบบกระเป๋าได้ ไม่สนใจความสามารถขอแค่คุณทำได้ พอแต่ ฟังบรีพ ด้วยก่อนจะรับผลงาน",
+    "title": "หาคนออก แบบกระเป๋า ราคา100-200บาท",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T13:40:27.045436Z",
+    "updated_at": "2026-10-12T13:40:28.318596Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;CPH2599;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-12",
+    "expired_at": "2026-11-11T13:40:27.026695Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
+    "user_profile": {
+      "id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
+      "username": "autotvygaming",
+      "display_name": "ออโต้",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8418339b-e26e-4d61-8705-cc4a6cba7c2c/profile/85da9748-2439-4ae2-9cb3-434cb4497dd9.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-12T16:00:05.848Z"
+  },
+  {
+    "id": "28351aa6-34da-4011-8362-90681d63b516",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "part-time",
+    "description": "ผมต้องการหาคนที่สามารถออกแบบกระเป๋าได้ ไม่สนใจความสามารถขอแค่คุณทำได้ พอแต่ ฟังบรีพ ด้วยก่อนจะรับผลงาน",
+    "title": "หาคนออก แบบกระเป๋า ราคา100-200บาท",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T13:40:26.903423Z",
+    "updated_at": "2026-10-12T13:40:28.263175Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;CPH2599;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-12",
+    "expired_at": "2026-11-11T13:40:26.885355Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
+    "user_profile": {
+      "id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
+      "username": "autotvygaming",
+      "display_name": "ออโต้",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8418339b-e26e-4d61-8705-cc4a6cba7c2c/profile/85da9748-2439-4ae2-9cb3-434cb4497dd9.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-12T16:00:04.680Z"
+  },
+  {
+    "id": "9f87faff-318c-45b6-9baf-ceb97e15a2b7",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ต้องการฟรีแลนซ์พัฒนาระบบต้นแบบ (Prototype) AI Smart Home ควบคุมการเปิด-ปิดไฟ จำลองการทำงานร่วมกับอุปกรณ์ IoT\n\nขอบเขตงานที่ต้องการ:\nแอปพลิเคชันควบคุม (Android App)\nหน้า Dashboard สวิตช์ควบคุมเปิด-ปิดไฟ และแสดงสถานะแบบ Real-time\nแสดงสถานะการตรวจจับบุคคล (Presence Detection)\nบิลด์ไฟล์ติดตั้งสำหรับ Android เพื่อนำไปทดสอบบนอุปกรณ์จริง\nระบบคำสั่งเสียง (Voice Command)\nรองรับการรับคำสั่งเสียงภาษาไทยเพื่อสั่งเปิด-ปิดไฟ\nระบบคลาวด์และบอร์ดไมโครคอนโทรลเลอร์ (ESP32)\nเชื่อมต่อ Cloud Database (Firebase หรือ MQTT) เพื่อรับ-ส่งสถานะ\nเขียนโค้ด ESP32 สำหรับควบคุมรีเลย์ (Relay) และอ่านค่าเซนเซอร์ตรวจจั���คน (PIR)\nแนบผังการต่อสายไฟ (Wiring Diagram) ให้ครบถ้วน\n(สามารถทดสอบระบบบอร์ดและส่งผลการรันผ่าน Wokwi Simulator ได้)\n\nสิ่งที่ต้องส่งมอบ:\nซอร์สโค้ดระบบทั้งหมด พร้อมไฟล์ติดตั้ง Android\nผังวงจรการต่อสายไฟ และวิดีโอ/คำแนะนำขั้นตอนการรันระบบ\nกำหนดส่งงาน: ภายใน 16–17 ตุลาคมนี้ (ต้องการคนพร้อมเริ่มงานทันที)",
+    "title": "[งานด่วน] พัฒนาระบบต้นแบบ Smart Home ควบคุมไฟ (Web/Android App + คำสั่งเสียง + โค้ด ESP32)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-12T13:38:11.729544Z",
+    "updated_at": "2026-10-12T13:38:12.960306Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-17",
+    "expired_at": "2026-11-11T13:38:11.709753Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "e9c1f2ae-533e-4a14-8cbe-efc31eb7aca9",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-12T16:00:03.301Z"
+  },
+  {
+    "id": "4184c725-6743-4143-a525-78fe0c52787b",
+    "status": "open",
+    "tag": {
+      "id": "9f240bc1-fde2-4217-a5f5-f6fc02ba3f54",
+      "name": "งาน IoT",
+      "sort": 22
+    },
+    "type": "freelance",
+    "description": "สวัสดีครับ ผมกำลังพัฒนาระบบควบคุมตู้ โดยผมจะให้บริษัทอื่นผลิตตัวตู้ให้ ส่วนระบบ Dashboard และการควบคุมต้องการพัฒนาเป็นระบบของผมเอง\n\nขอบเขตงานที่ต้องการมีดังนี้\n\n1. Web Dashboard สำหรับผู้ดูแล มีระบบ Login และกำหนดสิทธิ์ผู้ใช้งาน\n2. ระบบ NFC สำหรับแตะเพื่อปลดล็อกหรือสั่งงานตู้\n3. ระบบ Backend/API สำหรับตรวจสอบสิทธิ์ ส่งคำสั่งไปยังตู้ และรับสถานะกลับ\n4. บันทึกประวัติว่าใครเปิดตู้ไหน เวลาใด และเปิดสำเร็จหรือไม่\n5. เชื่อมต่อกับ Hardware Controller และกลอนไฟ���้าที่ติดตั้งในตู้ ซึ่งผลิตโดยบริษัทอื่น\n6. ขอให้ส่งมอบ Source Code, API Documentation และเอกสารการต่อวงจร เพื่อให้ผมพัฒนาต่อได้\n\nผมต้องการเริ่มจาก Prototype 1 ตู้ เพื่อทดสอบการแตะ NFC การปลดล็อก การรับสถานะ และการทำงานเมื่ออินเทอร์เน็ตขัดข้องก่อน\n\nรบกวนแจ้งว่าบริษัทรับทำงานลักษณะนี้หรือไม่ มีผลงานที่ใกล้เคียงหรือไม่ และขอใบเสนอราคาแยกค่า Hardware, Firmware, Backend, Dashboard, Prototype และค่าบำรุงรักษารายปีด้วยครับ",
+    "title": "งานจัดทำระบบ dashboard  nfc และ iot",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "20000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-12T11:43:21.721947Z",
+    "updated_at": "2026-10-12T11:43:23.833767Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;2602DPT53G;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-11T11:43:21.673465Z",
+    "freelance_offers_count": 6,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "272d6328-3195-425a-aeab-bb42723469e1",
+    "user_profile": {
+      "id": "272d6328-3195-425a-aeab-bb42723469e1",
+      "username": "brxtbney",
+      "display_name": "brxtbney",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/272d6328-3195-425a-aeab-bb42723469e1/profile/12fa77a2-aa65-417c-abbc-38dc7fb2b0b0.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "20000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-12T16:00:02.154Z"
+  },
+  {
     "id": "003978ae-5b8b-40d0-b4dd-8ec8f6c7d79f",
     "status": "open",
     "tag": {
@@ -243,152 +442,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-11T18:05:25.890Z"
-  },
-  {
-    "id": "18aff42f-8be6-4e46-a1b8-23fe9c42595c",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "กำลังทำแอพ เหลือขั้นตอนการ test ���ห้ 12 users ดาวน์โหลดและเทสแอป ขอคนรู้เรื่องและให้คำแนะนำจน verified",
-    "title": "คนทำ 12 users testing google play application 14 days",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-11T13:09:47.278473Z",
-    "updated_at": "2026-10-11T13:09:48.835462Z",
-    "user_id": "2588643c-1501-4f46-8624-917ecbca91e1",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-10T13:09:47.258676Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-11T13:15:18.521Z"
-  },
-  {
-    "id": "567de91e-98b0-4491-93f3-470df9118209",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาฟรีแลนซ์วางระบบออนไลน์และการตลาดให้ร้าน SANGDAW Sleep Salon\n\nรายละเอียดงาน\n\nกำลังมองหาฟรีแลนซ์ที่มีประสบการณ์วางระบบและ เข้ามาให้คำปรึกษาและช่วยดำเนินการที่ร้านจริง โดยมีรายละเอียดดังนี้\n\n1. Google Maps & Google Business Profile\n    * สร้างหรือตั้งค่าหน้าร้านบน Google Maps \n2. LINE Official Account (LINE OA)\n    * ตั้งค่า LINE OA สำหรับร้านให้พร้อมใช้งาน\n    * วางระบบตอบกลับอัตโนมัติและข้อความต้อนรับลูกค้า\n    * แนะนำระบบรับจองคิวและติดตามลูกค้า\n3. Instagram (มีแล้ว)\n    อยากให้ เพิ่มตำแหน่งร้านและเชื่อมโยงช่องทางติดต่อให้ลูกค้าเข้าถึงง่าย\n4. วางระบบการตลาดและการติดต่อของร้าน\n    * วางระบบเชื่อมโยง Google Maps, LINE OA และ Instagram และแอปอื่นๆ ให้ลูกค้าติดต่อและจองบริการได้สะดวก\n   \nรูปแบบการทำงาน: ต้องการผู้ที่สามารถเข้ามาดูแลจัดระบบให้ที่ร้าน พร้อมช่วยตั้งค่าระบบจริง\nสถานที่: SANGDAW Sleep Salon ใต้คอนโด U Delight @ ห้วยขวาง กรุงเทพฯ\n\n",
-    "title": "หาคนเซตระบบร้านเปิดใหม่",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-11T12:37:43.243351Z",
-    "updated_at": "2026-10-11T12:37:44.427510Z",
-    "user_id": "0b8a534a-3727-4c1f-9d91-9d89751f966c",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-13",
-    "expired_at": "2026-11-10T12:37:43.186656Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0;iPhone;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "0b8a534a-3727-4c1f-9d91-9d89751f966c",
-      "username": "hongyok2610",
-      "display_name": "Hongyok2610",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/0b8a534a-3727-4c1f-9d91-9d89751f966c/profile/e5999556-fce1-43c7-bb0f-98e69b928024.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-11T13:15:17.370Z"
-  },
-  {
-    "id": "58993118-10c7-4b47-a6c7-4cb36be95604",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "อยากได้คนมาประเมินมูลค่าเว็บไซต์และลิสต์ฟีเจอร์ของเว็บไซต์ออกมาให้ดู\n\nพร้อมทั้งใบเสนอราคา\nเป็นไปได้ขอดู format ของใบเสนอราคาด้วย",
-    "title": "ด่วนๆ หาคนประเมินมูลค่าเว็บพร้อมทำใบเสนอราคาและลิสฟีเจอร์ทั้งหมดผ่านโค้ด",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-11T07:12:03.181810Z",
-    "updated_at": "2026-10-11T07:12:05.127246Z",
-    "user_id": "49efa316-0928-4e01-b829-5579749b8949",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-11",
-    "expired_at": "2026-11-10T07:12:03.129681Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;25069PTEBG;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-11T13:15:15.968Z"
   }
 ]

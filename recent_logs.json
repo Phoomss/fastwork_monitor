@@ -1,11 +1,13 @@
 [
-  "[2026-10-12T06:34:36.861Z]     Notification sent successfully.",
-  "[2026-10-12T06:34:36.741Z]   FOUND NEW TARGET JOB: หาโปรแกรมเมอร์ และ ไอที เครือสหพัฒน์ แหลมฉบัง (Cats: พัฒนาเว็บไซต์) (Budget: 18000 THB)",
-  "[2026-10-12T06:34:35.738Z]     Notification sent successfully.",
-  "[2026-10-12T06:34:35.619Z]   FOUND NEW TARGET JOB: คนตอบแบบสอบถามวิจัย (Cats: พัฒนาเว็บไซต์) (Budget: 150 THB)",
-  "[2026-10-12T06:34:34.616Z]     Notification sent successfully.",
-  "[2026-10-12T06:34:34.463Z]   FOUND NEW TARGET JOB: ฉันหา คนตอบแบบสอบถามวิจัย (Cats: พัฒนาแอปพลิเคชัน) (Budget: 150 THB)",
-  "[2026-10-12T06:34:33.234Z] Checking Fastwork for new job posts...",
-  "[2026-10-12T06:34:33.233Z] Auto-cleanup: Removed 41 seen job tracking IDs older than 1 day(s).",
-  "[2026-10-12T06:34:33.230Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-10-12T16:00:06.064Z]     Notification sent successfully.",
+  "[2026-10-12T16:00:05.848Z]   FOUND NEW TARGET JOB: หาคนออก แบบกระเป๋า ราคา100-200บาท (Cats: ออกแบบ UX UI) (Budget: 200 THB)",
+  "[2026-10-12T16:00:04.846Z]     Notification sent successfully.",
+  "[2026-10-12T16:00:04.681Z]   FOUND NEW TARGET JOB: หาคนออก แบบกระเป๋า ราคา100-200บาท (Cats: ออกแบบ UX UI) (Budget: 200 THB)",
+  "[2026-10-12T16:00:03.679Z]     Notification sent successfully.",
+  "[2026-10-12T16:00:03.301Z]   FOUND NEW TARGET JOB: [งานด่วน] พัฒนาระบบต้นแบบ Smart Home ควบคุมไฟ (Web/Android App + คำสั่งเสียง + โค้ด ESP32) (Cats: พัฒนาเว็บไซต์, พัฒนาแอปพลิเคชัน, ออกแบบ UX UI) (Budget: 0 THB)",
+  "[2026-10-12T16:00:02.299Z]     Notification sent successfully.",
+  "[2026-10-12T16:00:02.154Z]   FOUND NEW TARGET JOB: งานจัดทำระบบ dashboard  nfc และ iot (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 20000 THB)",
+  "[2026-10-12T16:00:01.081Z] Checking Fastwork for new job posts...",
+  "[2026-10-12T16:00:01.081Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-12T16:00:01.078Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
