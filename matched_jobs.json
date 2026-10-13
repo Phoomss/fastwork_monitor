@@ -1,5 +1,103 @@
 [
   {
+    "id": "186d6213-a70f-466b-ab01-298b1a2bb1a0",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "ตอนนี้มีระบบที่ใช้งานอยู่แล้ว (ใช้เป็นต้นแบบอ้างอิงได้) แต่อยากออกแบบใหม่ทั้งหมดให้ปลอดภัย ใช้ง่าย และดูแลต่อได้\n\nระบบมีอะไรบ้าง\n- หน้าจองคิวสำหรับลูกค้า\n- หน้าแอดมิน\n- ตารางงานพนักงานรายวัน\n- ติดตามแพ็กเกจที่ซื้อล่วงหน้า (เช่น 10 ครั้ง)\n- แจ้งเตือนผ่าน LINE ถึงพนักงานและลูกค้า\n\nขอบเขตงาน\n- ดูระบบเดิม แล้วออกแบบโครงสร้างระบบใหม่\n- ออกแบบฐานข้อมูลใหม่ และย้ายข้อมูลเดิมเข้าไป\n- ออกแบบหน้���จอใหม่ (UX/UI) สำหรับลูกค้า พนักงาน และแอดมิน\n- พัฒนาระบบ และติดตั้งใช้งานจริงบนโฮสต์ที่เหมาะสม\n- แก้ปัญหาที่ทราบอยู่ เช่น นับครั้งแพ็กเกจซ้ำ และลูกค้า 2 คนจองเวลาเดียวกันได้\n- ระบบล็อกอิน แยกสิทธิ์พนักงาน\n- ทำการแจ้งเตือน LINE ใหม่ให้ปลอดภัย\n- รองรับ PDPA เบื้องต้น (หน้าขอความยินยอม หน้านโยบาย บันทึกการเข้าถึงข้อมูล)\n- ทดสอบ ย้ายระบบ และทำเอกสารส่งมอบสั้นๆ\n\nไม่รวม: ข้อความทางกฎหมาย, ฟีเจอร์ใหม่นอกรายการ, ค่าโฮสต์ (เจ้าของจ่ายเอง ใช้บัญชีของเจ้าของ)\n\nรบกวนตอบกลับพร้อม\n- ราคา (แบบเหมาจ่ายหรือเป็นช่วง) และการแบ่งจ่ายเป็นงวด\n- ระยะเวลาโดยประมาณ\n- ผลงานที่เคยทำ (ส่งลิงก์ได้)\n- ค่าดูแลรายเดือนหลังส่งมอบ",
+    "title": "ทำระบบจองคิวและตารางงานพนักงาน ให้ธุรกิจขนาดเล็ก",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-13T17:03:04.441814Z",
+    "updated_at": "2026-10-13T17:03:06.710837Z",
+    "user_id": "b0eac98e-9f60-4973-ae7f-5c21df1585ea",
+    "company_display_name": null,
+    "company_image_url": null,
+    "is_fastwork_pick": false,
+    "expired_at": "2026-11-12T17:03:04.383028Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-13T17:45:13.782Z"
+  },
+  {
+    "id": "c62e157c-806f-4d91-8125-383773e6bc32",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาฟรีแลนซ์ที่มีประสบการณ์ด้าน UI/UX Design เพื่อออกแบบเว็บไซต์ E-commerce ให้สวยงาม ทันสมัย ใช้งานง่าย และตอบโจทย์การซื้อสินค้าของลูกค้า\n\nรายละเอียดงาน\n\n• ออกแบบ UI/UX สำหรับเว็บไซต์ E-commerce\n• ออกแบบหน้าเว็บไซต์ เช่น Homepage, Product Listing, Product Detail และ Checkout\n• ออกแบบให้รองรับทั้ง Desktop และ Mobile\n• จัดทำไฟล์ออกแบบด้วย Figma เพื่อส่งต่อให้ทีมโปรแกรมเมอร์พัฒนาต่อ\n• ปรับแก้งานตาม Feedback ของทีม\n\nรูปแบบการทำงาน\n\n• ทำงานออนไลน์ 100% (Remote Work)\n• ทำงานร่วมกับโปรแกรมเมอร์และฝ่ายออกแบบหลักของบริษัท\n• อัปเดตความคืบหน้าสัปดาห์ละ 1–2 ครั้ง หรือตามความเหมาะสม",
+    "title": "รับสมัคร Freelance UI/UX Designer ออกแบบเว็บไซต์ E-commerce",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-13T16:41:26.654852Z",
+    "updated_at": "2026-10-13T16:41:28.814413Z",
+    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
+    "company_display_name": null,
+    "company_image_url": null,
+    "is_fastwork_pick": false,
+    "expired_at": "2026-11-12T16:41:26.590147Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
+      "username": "sopetcoo",
+      "display_name": "Napat Sienglue",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/7c506f8c-ca1c-4675-b460-e14e830ede63/profile/911f0e44-1df3-47c7-8fd1-6aefcbe99c58.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-13T17:45:12.605Z"
+  },
+  {
     "id": "b7e6c4f9-feb9-4538-8e56-e6d9bdf6865e",
     "status": "open",
     "tag": {
@@ -47,204 +145,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-13T10:31:33.991Z"
-  },
-  {
-    "id": "fc95de98-86d8-496c-a847-c35edc4236fb",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "part-time",
-    "description": "ผมต้องการหาคนที่สามารถออกแบบกระเป๋าได้ ไม่สนใจความสามารถขอแค่คุณทำได้ พอแต่ ฟังบรีพ ด้วยก่อนจะรับผลงาน",
-    "title": "หาคนออก แบบกระเป๋า ราคา100-200บาท",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-12T13:40:27.045436Z",
-    "updated_at": "2026-10-12T13:40:28.318596Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;CPH2599;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-12",
-    "expired_at": "2026-11-11T13:40:27.026695Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
-    "user_profile": {
-      "id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
-      "username": "autotvygaming",
-      "display_name": "ออโต้",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8418339b-e26e-4d61-8705-cc4a6cba7c2c/profile/85da9748-2439-4ae2-9cb3-434cb4497dd9.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-12T16:00:05.848Z"
-  },
-  {
-    "id": "28351aa6-34da-4011-8362-90681d63b516",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "part-time",
-    "description": "ผมต้องการหาคนที่สามารถออกแบบกระเป๋าได้ ไม่สนใจความสามารถขอแค่คุณทำได้ พอแต่ ฟังบรีพ ด้วยก่อนจะรับผลงาน",
-    "title": "หาคนออก แบบกระเป๋า ราคา100-200บาท",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-12T13:40:26.903423Z",
-    "updated_at": "2026-10-12T13:40:28.263175Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;CPH2599;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-12",
-    "expired_at": "2026-11-11T13:40:26.885355Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
-    "user_profile": {
-      "id": "8418339b-e26e-4d61-8705-cc4a6cba7c2c",
-      "username": "autotvygaming",
-      "display_name": "ออโต้",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8418339b-e26e-4d61-8705-cc4a6cba7c2c/profile/85da9748-2439-4ae2-9cb3-434cb4497dd9.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-12T16:00:04.680Z"
-  },
-  {
-    "id": "9f87faff-318c-45b6-9baf-ceb97e15a2b7",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการฟรีแลนซ์พัฒนาระบบต้นแบบ (Prototype) AI Smart Home ควบคุมการเปิด-ปิดไฟ จำลองการทำงานร่วมกับอุปกรณ์ IoT\n\nขอบเขตงานที่ต้องการ:\nแอปพลิเคชันควบคุม (Android App)\nหน้า Dashboard สวิตช์ควบคุมเปิด-ปิดไฟ และแสดงสถานะแบบ Real-time\nแสดงสถานะการตรวจจับบุคคล (Presence Detection)\nบิลด์ไฟล์ติดตั้งสำหรับ Android เพื่อนำไปทดสอบบนอุปกรณ์จริง\nระบบคำสั่งเสียง (Voice Command)\nรองรับการรับคำสั่งเสียงภาษาไทยเพื่อสั่งเปิด-ปิดไฟ\nระบบคลาวด์และบอร์ดไมโครคอนโทรลเลอร์ (ESP32)\nเชื่อมต่อ Cloud Database (Firebase หรือ MQTT) เพื่อรับ-ส่งสถานะ\nเขียนโค้ด ESP32 สำหรับควบคุมรีเลย์ (Relay) และอ่านค่าเซนเซอร์ตรวจจั���คน (PIR)\nแนบผังการต่อสายไฟ (Wiring Diagram) ให้ครบถ้วน\n(สามารถทดสอบระบบบอร์ดและส่งผลการรันผ่าน Wokwi Simulator ได้)\n\nสิ่งที่ต้องส่งมอบ:\nซอร์สโค้ดระบบทั้งหมด พร้อมไฟล์ติดตั้ง Android\nผังวงจรการต่อสายไฟ และวิดีโอ/คำแนะนำขั้นตอนการรันระบบ\nกำหนดส่งงาน: ภายใน 16–17 ตุลาคมนี้ (ต้องการคนพร้อมเริ่มงานทันที)",
-    "title": "[งานด่วน] พัฒนาระบบต้นแบบ Smart Home ควบคุมไฟ (Web/Android App + คำสั่งเสียง + โค้ด ESP32)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-12T13:38:11.729544Z",
-    "updated_at": "2026-10-12T13:38:12.960306Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-17",
-    "expired_at": "2026-11-11T13:38:11.709753Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "e9c1f2ae-533e-4a14-8cbe-efc31eb7aca9",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-12T16:00:03.301Z"
-  },
-  {
-    "id": "4184c725-6743-4143-a525-78fe0c52787b",
-    "status": "open",
-    "tag": {
-      "id": "9f240bc1-fde2-4217-a5f5-f6fc02ba3f54",
-      "name": "งาน IoT",
-      "sort": 22
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ ผมกำลังพัฒนาระบบควบคุมตู้ โดยผมจะให้บริษัทอื่นผลิตตัวตู้ให้ ส่วนระบบ Dashboard และการควบคุมต้องการพัฒนาเป็นระบบของผมเอง\n\nขอบเขตงานที่ต้องการมีดังนี้\n\n1. Web Dashboard สำหรับผู้ดูแล มีระบบ Login และกำหนดสิทธิ์ผู้ใช้งาน\n2. ระบบ NFC สำหรับแตะเพื่อปลดล็อกหรือสั่งงานตู้\n3. ระบบ Backend/API สำหรับตรวจสอบสิทธิ์ ส่งคำสั่งไปยังตู้ และรับสถานะกลับ\n4. บันทึกประวัติว่าใครเปิดตู้ไหน เวลาใด และเปิดสำเร็จหรือไม่\n5. เชื่อมต่อกับ Hardware Controller และกลอนไฟ���้าที่ติดตั้งในตู้ ซึ่งผลิตโดยบริษัทอื่น\n6. ขอให้ส่งมอบ Source Code, API Documentation และเอกสารการต่อวงจร เพื่อให้ผมพัฒนาต่อได้\n\nผมต้องการเริ่มจาก Prototype 1 ตู้ เพื่อทดสอบการแตะ NFC การปลดล็อก การรับสถานะ และการทำงานเมื่ออินเทอร์เน็ตขัดข้องก่อน\n\nรบกวนแจ้งว่าบริษัทรับทำงานลักษณะนี้หรือไม่ มีผลงานที่ใกล้เคียงหรือไม่ และขอใบเสนอราคาแยกค่า Hardware, Firmware, Backend, Dashboard, Prototype และค่าบำรุงรักษารายปีด้วยครับ",
-    "title": "งานจัดทำระบบ dashboard  nfc และ iot",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "20000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-12T11:43:21.721947Z",
-    "updated_at": "2026-10-12T11:43:23.833767Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;2602DPT53G;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-11T11:43:21.673465Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "272d6328-3195-425a-aeab-bb42723469e1",
-    "user_profile": {
-      "id": "272d6328-3195-425a-aeab-bb42723469e1",
-      "username": "brxtbney",
-      "display_name": "brxtbney",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/272d6328-3195-425a-aeab-bb42723469e1/profile/12fa77a2-aa65-417c-abbc-38dc7fb2b0b0.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "20000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-12T16:00:02.154Z"
   }
 ]
