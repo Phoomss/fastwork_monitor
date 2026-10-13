@@ -1,4 +1,7 @@
 [
-  "[2026-10-13T03:12:11.180Z] Checking Fastwork for new job posts...",
-  "[2026-10-13T03:12:11.178Z] Auto-cleanup: Removed 7 seen job tracking IDs older than 1 day(s)."
+  "[2026-10-13T10:31:34.176Z]     Notification sent successfully.",
+  "[2026-10-13T10:31:33.991Z]   FOUND NEW TARGET JOB: หาคนทำเสื้อให้ (Cats: ออกแบบ UX UI) (Budget: 2000 THB)",
+  "[2026-10-13T10:31:33.386Z] Checking Fastwork for new job posts...",
+  "[2026-10-13T10:31:33.385Z] Auto-cleanup: Removed 40 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-13T10:31:33.384Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
