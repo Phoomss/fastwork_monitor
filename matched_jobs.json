@@ -1,5 +1,54 @@
 [
   {
+    "id": "cad82ccd-ff46-4ac8-a0e7-033a8105dd53",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "freelance",
+    "description": "🚀 [HIRING] Freelance AI Solutions Architect & Full-Stack Developer\nโครงการ: Private Executive AI System (บริษัทด้านการศึกษา)\n💰 ค่าตอบแทน: 200,000 – 250,000 บาท (ขึ้นอยู่กับประสบการณ์)\n📍 รูปแบบงาน: Project-Based / Remote 100%\n⏱️ ระยะเวลา: ประมาณ 2 เดือน (มีโอกาสต่อยอดดูแลระบบระยะยาว)\n\n📌 ภาพรวมโครงการ\nรับสมัค��ผู้เชี่ยวชาญ AI เพื่อออกแบบ พัฒนา และส่งมอบระบบ AI สำหรับผู้บริหารระดับสูงแบบ End-to-End เน้นวิเคราะห์ข้อมูลธุรกิจจริง วางแผน ตัดสินใจ และสร้าง Deliverables นำไปใช้ได้ทันที มีทีมงานภายในคอยจัดเตรียมข้อมูลและประสานงานอย่างใกล้ชิด\n\n🎯 ขอบเขตงานหลัก (Scope of Work)\nData Architecture & Integration: จัดโครงสร้าง/เชื่อมโยงข้อมูลหลายรูปแบบ (Excel, CSV, PDF, Media, APIs) พร้อม Version Control และ Traceability\n\nAI Knowledge Base & RAG: พัฒนาระบบค้นหา/วิเคราะห์เชิงลึก พร้อมอ้างอิงแหล่งที่มา วันที่อัปเดต และข้อจำกัดข้อมูล\n\nAI Agent & Workflows: ออกแบบ AI Assistant หลัก และ Sub-Agents เฉพาะทาง เพื่อสรุปรายงาน สร้างแผนง���น และตารางวิเคราะห์\n\nSecurity & Access Control: ออกแบบสิทธิ์ผู้ใช้ (รองรับ 2 Accounts/Workspace), บันทึก Logs, ระบบรักษาความลับขั้นสูง พร้อมส่งมอบ Source Code และ Documentation\n\nTesting & Handover: ทดสอบระบบ อบรมการใช้งาน และส่งมอบคู่มืออย่างเป็นทางการ\n\n🧩 คุณสมบัติผู้สมัคร\nมีประสบการณ์พัฒนา AI Solutions / LLM / RAG / AI Agents ที่ใช้งานจริง\n\nมีทักษะ Data Engineering, Backend Development และ API Integration\n\nเชี่ยวชาญ Data Security, Authentication & Authorization\n\nมี Portfolio / Demo ผลงานที่ตรวจสอบได้\n\nสื่อสารภาษาไทยได้ชัดเจน ทำงานร่วมกับทีมได้ดี\n\nรักษาความลับทางธุรกิจได้อย่างเคร่งครัด (พร้อมเซ็น NDA)\n\n📩 วิธีการสมัคร\nส่งข้อมูลประกอบการสมัครมาที่ Email: **********\n\nResume / CV และ Portfolio\n\nตัวอย่างโครงการ AI ที่เคยพัฒนา ระบุบทบาทจริง และ Tech Stack ที่ถนัด\n\nแนวทางการออกแบบระบบเบื้องต้น (Brief Architecture Concept)\n\nวันที่พร้อมเริ่มงาน\n\n(หมายเหตุ: รายละเอียดเชิงลึกของโครงการจะเปิดเผยเฉพาะผู้ที่ผ่านการคัดเลือกและเซ็น NDA เท่านั้น)",
+    "title": "Freelance AI Solutions Architect & Full-Stack Developer",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "200000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T04:47:36.980952Z",
+    "updated_at": "2026-10-14T04:47:38.723725Z",
+    "user_id": "f720bfe2-764c-4074-8653-3841171008d0",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-13T04:47:36.895003Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "f720bfe2-764c-4074-8653-3841171008d0",
+      "username": "knsy30xl",
+      "display_name": "Marapanya",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f720bfe2-764c-4074-8653-3841171008d0/profile/862b5aba-a653-44aa-b0c4-de8f00c9c138.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "200000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-14T05:29:29.108Z"
+  },
+  {
     "id": "04eb6084-59d7-4bc3-9fca-1b14be28bc7c",
     "status": "open",
     "tag": {
