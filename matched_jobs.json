@@ -1,5 +1,252 @@
 [
   {
+    "id": "63b91232-878b-4cd8-a425-517503bf1f86",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "���️ เปิดรับสมัครผู้เข้าร่วมโปรเจกต์บันทึกเสียง TH-EN (AI Voice Recording)\n\nเปิดรับสมัครผู้เข้าร่วมโครงการบันทึกเสียงเพื่อนำข้อมูลเสียงไปใช้ในการพัฒนาเทคโนโลยี AI และระบบรู้จำเสียงภายในรถยนต์\n\n📌 รายละเอียดงาน\n- บันทึกเสียงประมาณ 300–400 ประโยค\n- เนื้อหาเป็นคำสั่งภาษาไทยผสมภาษาอังกฤษ\n- ใช้เวลาบันทึกประมาณ 1–2 ชั่วโมง\n- ทำงานจากที่บ้านหรือสถานที่เงียบ\n- ใช้โทรศัพท์มือถือในการบันทึกเสียง\n- ไม่จำเป็นต้องมีประสบการณ์ด้านการบันทึกเสียง\n\n✅ คุณสมบัติผู้สมัคร\n- สามารถอ่านภาษาไทยและภาษาอังกฤษได้\n- มีโทรศัพท์ม���อถือที่สามารถบันทึกเสียงได้\n- มีสถานที่เงียบ เหมาะสำหรับการบันทึกเสียง\n- สามารถปฏิบัติตามคำแนะนำและข้อกำหนดของโครงการได้\n- ไม่เคยเข้าร่วมโครงการบันทึกเสียงผ่านแอป ECAI มาก่อน\n- สามารถเข้าร่วมโครงการได้เพียง 1 ครั้ง\n\n💰 ค่าตอบแทน\n500 บาทต่อผู้เข้าร่วมที่ทำงานเสร็จสมบูรณ์และผ่านการตรวจรับคุณภาพเสียงตามเงื่อนไขของโครงการ",
+    "title": "ผู้สมัครบันทึกเสียงภาษาไทย-อังกฤษ (TH-EN) สำหรับ AI Training | ทำงานที่บ้าน",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_profile-menu",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T10:19:11.460766Z",
+    "updated_at": "2026-10-14T10:19:13.472673Z",
+    "user_id": "9d7449df-fd31-49de-939a-61f183f3ffd2",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-11-13T10:19:11.410277Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "9d7449df-fd31-49de-939a-61f183f3ffd2",
+      "username": "aonkpdata03",
+      "display_name": "aonkpdata03",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-14T10:27:41.454Z"
+  },
+  {
+    "id": "0349c7b5-ca19-4465-8975-fccf4b90bf85",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาโปรแกรมเมอร์ Freelance เพื่อร่วมพัฒนาฟีเจอร์ใหม่ (New Feature Development) สำหรับระบบ E-commerce ที่มีอยู่แล้ว โดยทำงานร่วมกับทีมโปรแกรมเมอร์ภายในบริษัท เพื่อเพิ่มความสามารถและต่อยอดระบบตามความต้องการของธุรกิจ\n\nลักษณะงานหลัก\n\nพัฒนาและเพิ่มฟีเจอร์ใหม่ให้กับระบบ E-commerce ตาม Requirement ที่กำหนด\nออกแบบและพัฒนาฟังก์ชันใหม่ทั้งฝั่ง Backend, Frontend และ Admin Dashboard ตามขอบเขตงาน\nพัฒนา API และเชื่อมต่อบริการภายนอกที่เกี่ยวข้อง\nทำงานร่วมกับทีม Developer ภายในบริษัท เพื่อให้ฟีเจอร์ใหม่ทำงานร่วมกับระบบเดิมได้อย่างถูกต้อง\nเขียน Tests ตรวจสอบการทำงาน และส่งมอบ Source Code ผ่าน Git / Pull Request\n\nTechnology Stack\n\nBackend\n\nNestJS 11, GraphQL, TypeORM\nPostgreSQL, Redis / BullMQ\nOmise, Jest\n\nStorefront\n\nNext.js 16, React 19\nApollo Client, Tailwind CSS 4, Vitest\n\nAdmin Dashboard\n\nNext.js 16, React 19\nApollo Client, TanStack Query\nZod, Zustand, Playwright\n\nInfrastructure & Services\n\nAWS EC2, ECR, SSM, IAM, GitHub OIDC\nS3 SDK, R2 / MinIO, CloudWatch, RDS\nVercel, Cloudflare, Resend, Omise\nGoogle Analytics 4 (GA4), Google Tag Manager\n\nคุณสมบัติที่ต้องการ\n\nมีประสบการณ์พัฒนา Web Application ด้วยเทคโนโลยีที่เกี่ยวข้อง\nสามารถอ่านและทำความเข้าใจโค้ดเดิม เพื่อต่อยอดและเพิ่มฟีเจอร์ใหม่ได้\nสามารถทำงานร่วมกับทีม Developer ผ่าน Git และ Pull Request ได้\nประเมินขอบเขตงาน ระยะเวลา และค่าใช้จ่ายได้อย่างชัดเจน\nไม่จำเป็นต้องเชี่ยวชาญทุก Stack สามารถรับผิดชอบงานตามความถนัดได้\n\nรูปแบบการจ้างงาน\n\nจ้างเป็นรายโปรเจกต์ ตามฟีเจอร์และขอบเขตงานที่ตกลงกัน\nมีระบบ E-commerce และทีม Developer ภายในบริษัทอยู่แล้ว\nเน้นการพัฒนาฟีเจอร์ใหม่เป็นหลัก ไม่ใช่การสร้างเว็บไซต์ใหม่ตั้งแต่ต้น\nทำงานร่วมกับทีมภายในเพื่อให้สามารถพัฒนาและดูแลระบบต่อได้ในระยะยาว",
+    "title": "Freelance Programmer พัฒนาฟีเจอร์ใหม่สำหรับระบบ E-commerce (จ้างรายโปรเจกต์)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T09:20:17.935678Z",
+    "updated_at": "2026-10-14T09:20:19.420686Z",
+    "user_id": "a34b18ab-9f86-4c30-9238-180cef7b03a5",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-13T09:20:17.881881Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a34b18ab-9f86-4c30-9238-180cef7b03a5",
+      "username": "pbvkjiqb",
+      "display_name": "Pong",
+      "image_url": "https://storage.googleapis.com/fastwork-static/5c4d4e85-8006-4cab-8146-6b440346af1f.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-14T10:27:40.304Z"
+  },
+  {
+    "id": "ef005d5e-d351-4e81-b71e-811f46ab0222",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ผมต้องทำเว็บสำหรับขายของสำหรับแบรนด์ผมครับ เว็บต้องสามารถจ่ายชำระเงินได้สำหรับคนไทยและต่างชาติ และออกแบบให้ตรงตามภาพลักษณแบรนด์",
+    "title": "คนทำเว็บสำหรับขายเสื้อผ้าแบรนด์",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T07:58:35.722512Z",
+    "updated_at": "2026-10-14T07:58:36.920548Z",
+    "user_id": "c0ad88a4-a69a-4cf0-a826-b12577b3392b",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-30",
+    "expired_at": "2026-11-13T07:58:35.662492Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "c0ad88a4-a69a-4cf0-a826-b12577b3392b",
+      "username": "fearlesscommerce",
+      "display_name": "fearlesscommerce",
+      "image_url": "https://storage.googleapis.com/fastwork-static/3a14b3e7-875b-4607-bfbf-e04d4e223f49.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-14T10:27:39.160Z"
+  },
+  {
+    "id": "f41ff70d-455c-4dd2-b11b-d51dc7cd95d4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "**หัวข้อ: หาฟรีแลนซ์จัดทำ Web App ระบบเปรียบเทียบราคาซัพพลายเออร์และจัดทำใบเสนอราคา**\n\nต้องการโปรแกรมเมอร์ / Full-Stack Developer พัฒนาระบบ Web Application สำหรับธุรกิจค้าส่งสินค้าอาหารสดและแช่แข็ง เพื่อช่วยจัดการต้นทุน เปรียบเทียบราคาซัพพลายเออร์ และสร้างใบเสนอราคา\n\n**ขอบเขตงานเบื้องต้น**\n1. นำเข้าไฟล์ราคาสินค้าจากซัพพลายเออร์ (Excel / PDF)\n2. เปรียบเทียบราคาทุนและติดตามการเปลี่ยนแปลงราคา\n3. จัดการชื่อสินค้าและจับคู่สินค้าจากซัพพลายเออร์กับสินค้าหลัก\n4. สร้างใบเสนอราคา กำหนดราคาขาย คำนวณกำไร และจัดโปรโมชั่นตามเรท\n5. ออกแบบและส่งออกใบเสนอราคาเป็น PDF / Excel / รูปภาพ\n\n**คุณสมบัติที่ต้องการ**\n- มีประสบการณ์พัฒนา Web Application ที่ใช้งานได้จริง\n- สามารถพัฒนาทั้ง Frontend, Backend และ Database\n- มีประสบการณ์���ัดการข้อมูล Excel และสร้างเอกสาร PDF\n- เข้าใจระบบตารางข้อมูล การคำนวณ และการเชื่อมโยงข้อมูลระหว่างฟังก์ชัน\n- ออกแบบ UX/UI ให้ใช้งานง่าย ไม่ซับซ้อน\n- สามารถแก้ไขและพัฒนาระบบเพิ่มเติมในอนาคตได้\n- มีความรับผิดชอบ สื่อสารงานชัดเจน และส่งมอบ Source Code ได้\n\n**สิ่งที่มีให้**\n- ไฟล์นำเสนอแนวคิดและขั้นตอนการทำงาน\n- ตัวอย่างหน้าจอและรูปแบบใบเสนอราคา\n- ขอบเขตฟังก์ชันหลักที่ต้องการพัฒนา\n\n**ผู้สนใจกรุณาแจ้ง**\n- ผลงานระบบ Web App ที่เคยพัฒนา\n- เทคโนโลยีที่ถนัด\n- ระยะเวลาพัฒนาโดยประมาณ\n- งบประมาณเบื้องต้น\n\nมีรายละเอียดระบบเพิ่มเติมสำหรับพูดคุยก่อนประเมินราคาและตกลงขอบเขตงาน",
+    "title": "หาฟรีแลนซ์จัดทำ Web App ระบบเปรียบเทียบราคาซัพพลายเออร์และจัดทำใบเสนอราคา",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T07:19:13.193643Z",
+    "updated_at": "2026-10-14T07:19:14.235156Z",
+    "user_id": "de76790f-da51-4a1c-8189-9497e4998638",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-13T07:19:13.135335Z",
+    "freelance_offers_count": 17,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "de76790f-da51-4a1c-8189-9497e4998638",
+      "username": "mghtnnvg",
+      "display_name": "HRKCFoods",
+      "image_url": "https://storage.googleapis.com/fastwork-static/acb6bcac-eb26-4b1f-bbf7-6498d82589fa.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-14T10:27:37.997Z"
+  },
+  {
+    "id": "81060daf-575c-441b-b5b3-da0c1a682f18",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการ Full-stack Developer หรือทีมพัฒนาเว็บแอป “สร้างพร้อม by ThaiWay” เชื่อมผู้ว่าจ้างกับช่าง/ผู้รับเหมา และร้านวัสดุก่อสร้าง รองรับมือถือและคอมพิวเตอร์ เน้นใช้งานง่ายสำหรับวัย 50 ปีขึ้นไป\n\nมีต้นแบบกดได้พร้อมโค้ด ข้อมูลจำลอง ภาพอ้างอิง 39 หน้า และเอกสารขอบเขตให้ ต้องตรวจโค้ดเดิมก่อนเสนอแผนพัฒนาต่อ โดย 39 หน้ามีหน้าที่ใช้ร่วมกันและแนวคิดอนาคต ไม่ใช่ทั้งหมดที่ต้องเปิดใช้ในรุ่นแรก\n\nขอบเขตรุ่นแรก\n\n1. สมัคร/เข้าสู่ระบบ แยกสิทธิ์ผู้ว่าจ้าง ช่าง ร้านวัสดุ และผู้ดูแล\n2. โปรไฟล์ช่าง ผลงาน หมวดงาน พื้นที่บริการ และค้นหาช่าง\n3. ลงคำขอหาช่าง กระดานงาน ส่งความสนใจ ยินยอมเปิดข้อมูลติดต่อ นัดหมาย เสนอราคาเบื้องต้น และติดตามผล\n4. โปรไฟล์ร้านวัสดุ รับและตอบคำถาม พร้อมสรุปประมาณราคา\n5. หลังบ้านตรวจโปรไฟล์/ประกาศ รับรายงานปัญหา บล็อกผู้ใช้ และบันทึกประวัติการดำเนินการ\n6. พื้นที่บริการและโฆษณาของ ThaiWay พร้อมป้ายโฆษณาชัดเจน\n7. เชื่อมฐานข้อมูล API และจัดเก็บไฟล์ ควบคุมสิทธิ์ฝั่งเซิร์ฟเวอร์ พร้อมมาตรการป้องกันการหลอกลวงและคุ้มครองข้อมูล\n8. UI ภาษาไทย อังกฤษ และจีน ระบุขอบเขตงานแปลให้ชัดเจน\n\nระบบสัญญา รับชำระเงิน ถือเงินค่าจ้าง แบ่งงวด จ่ายเงินช่าง และคืนเงิน ให้เสนอราคาแยก ยังไม่รวมรุ่นแรก อัตราค่า���มาชิกและค่าธรรมเนียมยังไม่กำหนด\n\nคุณสมบัติ\nมีผลงานเว็บแอปใช้งานจริง เข้าใจระบบหลายบทบาทและความปลอดภัย ต่อโค้ดจากต้นแบบ AI ได้ สื่อสารภาษาไทย และแบ่งส่งงานเป็นช่วงพร้อมหลักฐานทดสอบ\n\nเงื่อนไขส่งมอบ\nส่งโค้ดต้นฉบับ เอกสารฐานข้อมูล/API วิธีติดตั้ง และคู่มือผู้ดูแล บัญชีหลักและ repository อยู่ในการควบคุมของเจ้าของโครงการ ตรวจรับบนระบบทดสอบก่อนเปิดใช้จริง พร้อมระบุระยะรับประกันข้อผิดพลาด โครงการนี้แยกจาก LocalLink\n\nกรุณาส่งผลงาน เทคโนโลยีที่เสนอ ราคาและระยะเวลาแยกตามช่วงงาน พร้อมค่าใช้จ่ายรายเดือน/รายปี และสิ่งที่รวม/ไม่รวม งบและกำหนดส่งตกลงหลังตรวจต้นแบบ ติดต่อผ่านข้อความ Fastwork เพื่อรับเอกสารประเมินงาน",
+    "title": "จ้าง Full-stack Developer พัฒนาเว็บแอปหาช่าง “สร้างพร้อม by ThaiWay” มีต้นแบบให้",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-14T06:31:08.535471Z",
+    "updated_at": "2026-10-14T06:31:09.890371Z",
+    "user_id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A346N;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-13T06:31:08.485696Z",
+    "freelance_offers_count": 12,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+      "username": "ii0z4bpe",
+      "display_name": "ZOON STUDIO",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/59f144a3-c79c-4cfc-8b65-735b49b98da0/profile/48f6fc13-d501-4eb9-a7d6-a65e03abb374.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-14T10:27:36.790Z"
+  },
+  {
     "id": "cad82ccd-ff46-4ac8-a0e7-033a8105dd53",
     "status": "open",
     "tag": {
