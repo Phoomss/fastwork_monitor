@@ -1,5 +1,103 @@
 [
   {
+    "id": "9bef3494-f19f-4c4a-8dee-a3a7ff6b7f43",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ขยายเครือข่าย Freelance Recruiter / Recruitment Coordinator เพื่อร่วมงานในโครงการด้าน AI Data เป็นรายโปรเจกต์\nโครงการเบื้องต้นเป็นงาน Voice Data Collection โดย Recruiter จะรับผิดชอบด้านการสรรหา คัดกรอง และประสานผู้เข้าร่วมที่มีคุณสมบัติตรงตาม Requirement ของแต่ละโครงการ\nผู้เข้าร่วมจะทำก��รบันทึกเสียงตามโจทย์ที่กำหนด ข้อมูลที่ได้รับจะผ่านกระบวนการตรวจสอบคุณภาพและ Data Analysis ก่อนจัดทำเป็น Dataset เพื่อส่งมอบ\n\nขอบเขตงาน\n- สรรหาผู้เข้าร่วมตาม Target Profile และ Requirement ของแต่ละโครงการ\n- ประชาสัมพันธ์และ Sourcing ผ่านช่องทางหรือเครือข่ายที่ตนเองสามารถเข้าถึงได้\n- คัดกรองคุณสมบัติและความพร้อมของผู้เข้าร่วมเบื้องต้น\n- อธิบายขั้นตอนและเงื่อนไขการเข้าร่วมโครงการ\n- ประสานงานและติดตามผู้เข้าร่วมให้ดำเนินงานภายใน Timeline ที่กำหนด\n- ติดตามผู้เข้าร่วมกรณีข้อมูลไม่ครบหรือต้องดำเนินการเพิ่มเติม\n- อัปเดต��ำนวนผู้สมัครและสถานะการ Recruitment ให้ทีมทราบเป็นระยะ\n\nบริษัทจะเป็นผู้ดูแล Project Requirement, Workflow และกระบวนการตรวจสอบคุณภาพ/Data Analysis\n\nคุณสมบัติ\n- มีประสบการณ์ด้าน Recruitment, Sourcing, Coordinator, Community Management หรืองานที่เกี่ยวข้อง\n- หรือมี Network / Community ที่สามารถเข้าถึงและจัดหาผู้เข้าร่วมได้\n- สามารถบริหารและติดตามผู้เข้าร่วมหลายคนพร้อมกันได้\n- มีทักษะการสื่อสารและประสานงานที่ดี\n- ทำงานตาม Requirement และ Timeline ได้\n- มีความรับผิดชอบและสามารถอัปเดตสถานะงานอย่างเป็นระบบ\n\nไม่จำเป็นต้องมีประสบการณ์ด้าน AI Data โดยตรง หากมีประสบการณ์ด้านการจัดหาคนห���ือมี Network ที่เหมาะสม สามารถสมัครได้\n\nค่าตอบแทน\n- เบื้องต้น Recruiter จะได้รับค่าตอบแทนประมาณ 15–20% ตามเงื่อนไขของแต่ละโปรเจกต์\n- การคำนวณค่าตอบแทนจะอ้างอิงจาก มูลค่าของ Data ที่ผ่านเกณฑ์การตรวจสอบและ Data Analysis (Approved Data Hours) ของผู้เข้าร่วมที่ Recruiter เป็นผู้จัดหา ไม่ได้คำนวณจากจำนวนชั่วโมงที่บันทึกเข้ามาทั้งหมด\nRate, วิธีคำนวณ และเงื่อนไขการจ่ายของแต่ละโปรเจกต์จะแจ้งให้ทราบและตกลงร่วมกันก่อนเริ่มงาน\n",
+    "title": "Freelance Recruiter / Recruitment Coordinator สำหรับโครงการ AI Data Collection",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-15T07:56:44.818745Z",
+    "updated_at": "2026-10-15T07:56:46.073143Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-14T07:56:44.768560Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
+    "user_profile": {
+      "id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
+      "username": "starwavesolution",
+      "display_name": "STARWAVESOLUTION",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/631a0f81-24ee-46f1-a797-0cf5b73da52c/profile/6f16e94c-a594-4278-a25c-16b372e7957d.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-15T09:51:38.531Z"
+  },
+  {
+    "id": "45e99fe1-09f4-4fa0-9b2c-a2f9bc9ba803",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "full-time",
+    "description": "KEY RESPONSIBILITIES\n\n• Content Strategy & Calendar Management: Plan, schedule, and publish structured content calendars across TikTok,YouTube, and the official website, ensuring alignment with overall marketing campaign timelines.\n\n• Performance-Driven Ads & Creatives: Produce high-converting image and short-form video creative assets tailored to full-funnel paid campaigns, directly aligned with strategic objectives set by the Performance Marketing Manager.\n\n• Video Production & Editing: Conceptualise, shoot, and edit short-form and long-form video content specifically optimised for TikTok and YouTube audiences.\n\n• Website Management: Oversee and maintain website content to ensure high freshness, accurate promotional listings, and consistent product/service messaging.\n\n• Content Mix & Strategic Execution: Execute cyclical content plans in line with ad-to-organic ratios and defined brand content pillars.\n\n• Trend Monitoring & Competitor Analysis: Keep up with social media trends, viral formats, and industry\n\ndevelopments, whilst monitoring the competitor landscape to capitalise on timely content opportunities.\n\n• Cross-Functional Collaboration: Partner with Graphic & Motion Designers for asset production, collaborate with the Senior Digital Ads Executive to optimise creative quality scores, and support promotional pricing rollouts.\n\n\n\nKPIS\n\n• Calendar & Production Adherence: 100% on-time execution of the planned content calendar and maintenance of the designated content mix.\n\n• Channel Engagement & Growth: Month-on-month (MoM) growth in views, interactions, shares (video/post/shares), and engagement rates on TikTok and YouTube.\n\n• Creative Quality & Conversion: Achieving target Creative Quality Scores and meeting ROAS/CTR benchmarks established by the Performance Marketing team.\n\n• Website Freshness & Accuracy: Timely updates of promotional offers, landing page assets, and website content accuracy.",
+    "title": "คนทำ VDO Content & Social",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-15T06:51:05.811730Z",
+    "updated_at": "2026-10-15T06:51:07.776929Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-14T06:51:05.775455Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "0fff308a-e636-43e4-9c86-9f273f530443",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-15T09:51:37.373Z"
+  },
+  {
     "id": "ce4f8b70-fe9a-4e5d-a43d-b1d6a1eb109b",
     "status": "open",
     "tag": {
@@ -294,54 +392,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-14T10:27:36.790Z"
-  },
-  {
-    "id": "cad82ccd-ff46-4ac8-a0e7-033a8105dd53",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "freelance",
-    "description": "🚀 [HIRING] Freelance AI Solutions Architect & Full-Stack Developer\nโครงการ: Private Executive AI System (บริษัทด้านการศึกษา)\n💰 ค่าตอบแทน: 200,000 – 250,000 บาท (ขึ้นอยู่กับประสบการณ์)\n📍 รูปแบบงาน: Project-Based / Remote 100%\n⏱️ ระยะเวลา: ประมาณ 2 เดือน (มีโอกาสต่อยอดดูแลระบบระยะยาว)\n\n📌 ภาพรวมโครงการ\nรับสมัค��ผู้เชี่ยวชาญ AI เพื่อออกแบบ พัฒนา และส่งมอบระบบ AI สำหรับผู้บริหารระดับสูงแบบ End-to-End เน้นวิเคราะห์ข้อมูลธุรกิจจริง วางแผน ตัดสินใจ และสร้าง Deliverables นำไปใช้ได้ทันที มีทีมงานภายในคอยจัดเตรียมข้อมูลและประสานงานอย่างใกล้ชิด\n\n🎯 ขอบเขตงานหลัก (Scope of Work)\nData Architecture & Integration: จัดโครงสร้าง/เชื่อมโยงข้อมูลหลายรูปแบบ (Excel, CSV, PDF, Media, APIs) พร้อม Version Control และ Traceability\n\nAI Knowledge Base & RAG: พัฒนาระบบค้นหา/วิเคราะห์เชิงลึก พร้อมอ้างอิงแหล่งที่มา วันที่อัปเดต และข้อจำกัดข้อมูล\n\nAI Agent & Workflows: ออกแบบ AI Assistant หลัก และ Sub-Agents เฉพาะทาง เพื่อสรุปรายงาน สร้างแผนง���น และตารางวิเคราะห์\n\nSecurity & Access Control: ออกแบบสิทธิ์ผู้ใช้ (รองรับ 2 Accounts/Workspace), บันทึก Logs, ระบบรักษาความลับขั้นสูง พร้อมส่งมอบ Source Code และ Documentation\n\nTesting & Handover: ทดสอบระบบ อบรมการใช้งาน และส่งมอบคู่มืออย่างเป็นทางการ\n\n🧩 คุณสมบัติผู้สมัคร\nมีประสบการณ์พัฒนา AI Solutions / LLM / RAG / AI Agents ที่ใช้งานจริง\n\nมีทักษะ Data Engineering, Backend Development และ API Integration\n\nเชี่ยวชาญ Data Security, Authentication & Authorization\n\nมี Portfolio / Demo ผลงานที่ตรวจสอบได้\n\nสื่อสารภาษาไทยได้ชัดเจน ทำงานร่วมกับทีมได้ดี\n\nรักษาความลับทางธุรกิจได้อย่างเคร่งครัด (พร้อมเซ็น NDA)\n\n📩 วิธีการสมัคร\nส่งข้อมูลประกอบการสมัครมาที่ Email: **********\n\nResume / CV และ Portfolio\n\nตัวอย่างโครงการ AI ที่เคยพัฒนา ระบุบทบาทจริง และ Tech Stack ที่ถนัด\n\nแนวทางการออกแบบระบบเบื้องต้น (Brief Architecture Concept)\n\nวันที่พร้อมเริ่มงาน\n\n(หมายเหตุ: รายละเอียดเชิงลึกของโครงการจะเปิดเผยเฉพาะผู้ที่ผ่านการคัดเลือกและเซ็น NDA เท่านั้น)",
-    "title": "Freelance AI Solutions Architect & Full-Stack Developer",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "200000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-14T04:47:36.980952Z",
-    "updated_at": "2026-10-14T04:47:38.723725Z",
-    "user_id": "f720bfe2-764c-4074-8653-3841171008d0",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-13T04:47:36.895003Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "f720bfe2-764c-4074-8653-3841171008d0",
-      "username": "knsy30xl",
-      "display_name": "Marapanya",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f720bfe2-764c-4074-8653-3841171008d0/profile/862b5aba-a653-44aa-b0c4-de8f00c9c138.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "200000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-14T05:29:29.108Z"
   }
 ]
