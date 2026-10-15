@@ -343,54 +343,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-14T05:29:29.108Z"
-  },
-  {
-    "id": "04eb6084-59d7-4bc3-9fca-1b14be28bc7c",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "1.\tPrint template 3–4 แบบ บนกระดาษ 6x8 นิ้ว\n\t•\tFull-body: ให้ชุดลูกค้าเป็นพระเอก\n\t•\tClose-up / look\n\t•\tอย่างน้อย 1 แบบที่เล่นกราฟิกจัดสุด ๆ\n\tไฟล์ต้นฉบับ แก้ไขได้ (Canva / Figma) เพื่อให้เจ้าของเปลี่ยนธีมเองได้ภายหลัง หรือจะเป็นpngมาก็ได้\n\nเงื่อนไขสำคัญ\n\n\t•\tห้ามใช้งานที่มีลิขสิทธิ์ (เช่น งาน Pop Art ของศิลปินดัง, ตัวการ์ตูน) ต้องเป็นงานออริจินัลหรือแหล่งที่ใช้เชิงพาณิชย์ได้\n\t•\tต้องอ่านง่ายบนจอทัชสกรีน ปุ่มใหญ่ กดง่าย แม้สไตล์จะวุ่นวาย\n\t•\tTemplate ต้องเหลือพื้นที่ให้ภาพคนเด่นที่สุด กราฟิกไม่กลบภาพ",
-    "title": "คนออกแบบtemplate สำหรับ Photo Booth",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-14T00:34:01.618474Z",
-    "updated_at": "2026-10-14T00:34:03.653154Z",
-    "user_id": "09e5a7bb-e8e3-454e-9854-131e354b1036",
-    "company_display_name": null,
-    "company_image_url": null,
-    "is_fastwork_pick": false,
-    "expired_at": "2026-11-13T00:34:01.599855Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 0,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "09e5a7bb-e8e3-454e-9854-131e354b1036",
-      "username": "tangpangman",
-      "display_name": "Katang",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/09e5a7bb-e8e3-454e-9854-131e354b1036/profile/526f6855-c42b-426a-9425-9c8ad07109e4.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-14T00:49:59.721Z"
   }
 ]
