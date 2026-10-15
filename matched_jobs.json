@@ -1,5 +1,54 @@
 [
   {
+    "id": "95859d3b-eded-470f-a65e-8c87b16de628",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "เราอยากได้เว็บไซต์ไว้ใช้งานสำหรับเสิร์ชหาชื่อบัญชีฉ้อโกง ทุจริตต่าง ๆ ค่ะโดยที่\n- สามารถเสิร์ชได้ทั้งชื่อ/นา��สกุล/เลขบัญชี หรือข้อมูลอื่น \n- โชว์รายละเอียดเลขบัญชี ธนาคาร (หากเสิร์ชพบ) \n- พอกดเข้าไปอยากให้แสดงรายละเอียดของรายงานนั้น ๆ\n- มีช่องทางแก้ไขหลังบ้าน,ช่องทางลงแบล็คลิสต์สำหรับหลังบ้าน\n- มีช่องทางติดต่อเข้ามาหาทีมงานแปะไว้ที่หน้าแรกโดยตรงเพื่อติดต่อลงแบล็คลิสต์ อำนวยความสะดวกในข้อผิดพลาดของเว็บ หรือต้องการอุทธรณ์รายชื่อ\n\nตัวอย่างศึกษาได้ที่เว็บ Blacklistseller เลยค่ะแต่ไม่ต้องเป๊ะตามแบบ 100% ก็ได้",
+    "title": "คนรับทำเว็บไซต์เกี่ยวกับรายชื่อแบล็คลิสต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-15T21:25:03.065131Z",
+    "updated_at": "2026-10-15T21:25:05.266576Z",
+    "user_id": "985961c1-70b8-4ed4-badf-25538bf9c084",
+    "brief_url": "https://www.blacklistseller.com/",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-14T21:25:03.047343Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-15T21:36:38.966Z"
+  },
+  {
     "id": "b117ba74-04fa-4fd9-913b-3a897a9de1e9",
     "status": "open",
     "tag": {
