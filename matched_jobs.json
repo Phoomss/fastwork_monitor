@@ -1,5 +1,54 @@
 [
   {
+    "id": "b117ba74-04fa-4fd9-913b-3a897a9de1e9",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "รับสมัครคนรีวิวเครื่องมือ AI สำหรับสร้างเว็บไซต์และแอปพลิเคชัน ใช้งานง่าย ไม่จำเป็นต้องเขียนโค้ด สามารถสร้างเว็บธุรกิจ Landing Page และ Web App ได้\n\nรับสิ��ธิ์ใช้งานฟรี มูลค่าประมาณ 2,590 บาท ใช้งานผ่านอีเมลส่วนตัวของตัวเองได้\n\nหากเป็นเจ้าของเพจ ครีเอเตอร์ หรือสายทำคลิป จะพิจารณาเป็นพิเศษ\n\n",
+    "title": "คนทำโพสต์รีวิวใน Facebook ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-15T15:57:59.204307Z",
+    "updated_at": "2026-10-15T15:58:01.104992Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.7.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-17",
+    "expired_at": "2026-11-14T15:57:59.150226Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "4ac58c92-d748-4ea7-8e19-30482916176f",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-15T18:28:37.131Z"
+  },
+  {
     "id": "0f73d85a-cef1-4e83-aebd-2356524b8d49",
     "status": "open",
     "tag": {
@@ -145,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-15T09:51:37.373Z"
-  },
-  {
-    "id": "ce4f8b70-fe9a-4e5d-a43d-b1d6a1eb109b",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "contract",
-    "description": "รับสมัคร Office Admin (Full-time) 🏢 ธุรกิจอสังหาริมทรัพย์ [เริ่มงานภายใน 30 ก.ย. 2026]\nมองหาทีมงานสายลุย สื่อสารดี ใจเย็น แก้ปัญหาเฉพาะหน้าเก่ง จัดระเบียบงานเยี่ยม พร้อมลุยงานอสังหาฯ!\n📌 รูปแบบการทำงาน • เข้าออฟฟิศ (ใกล้เซ็นทรัลลาดพร้าว) 1-2 วัน/สัปดาห์ • ทำงานที่บ้าน (WFH) หรือ คาเฟ่ ได้ • หยุด 2 วัน / สัปดาห์\n🎯 คุณสมบัติผู้สมัคร • อายุ 24 ปีขึ้นไป | วุฒิ ป.ตรี ขึ้นไป (ไม่จำกัดสาขา) • ขับรถยนต์ หรือ มอเตอร์ไซค์ได้ (ลงพื้นที่หน้างาน เดินทางสะดวก ไม่เกี่ยงฝนตก/รถติด) • ใช้ภาษาไทยได้ดีเยี่ยม (สื่อสารชัดเจน มืออาชีพ) *หากได้ภาษาอื่นจะพิจารณาพิเศษ • ใช้ Canva / แต่งรูป / ตัดต่อคลิปวิดีโอสั้นได้ • ถนัดการใช้ Social Media (FB, TikTok, IG, Line@, Marketplace) • ใช้งาน Google Drive, WordPress หรือระบบออนไลน์ได้คล่อง\n📋 ขอบเขตงานและความรับผิดชอบ\n1️⃣ งานเอกสารและระบบหลังบ้าน\n• ร่างสัญญาซื้อ-ขาย / สัญญาเช่า (มีฟอร์มมาตรฐานให้)\n• ออกใบวางจอง และรับเงินมัดจำ\n• บันทึก/จัดเก็บฐานข้อมูลลูกค้า, เจ้าของทรัพย์, ผู้เช่า และติดตามการต่อ/หมดสัญญา\n• ลงตารางเวลานัดหมาย และจดบันทึกสรุปการประชุม\n2️⃣ งานการตลาด (Online & Offline)\n• ทำรูปภาพ คอนเทนต์ และตัดต่อคลิปวิดีโอโปรโมตทรัพย์\n• โพสต์ประกาศ ซื้อ-ขาย-เช่า ลงเว็บอสังหาฯ และ Social Media ของบริษัท\n• สรรหาและลงคอนเทนต์ใน Facebook, IG, TikTok อย่างสม่ำเสมอ\n• เขียนและติดป้ายประกาศการตลาดออฟไลน์หน้างาน\n3️⃣ งานบริการและประสานงานลูกค้า\n• ตอบแชต รับโทรศัพท์ ให้ข้อมูลลูกค้าทุกช่องทาง (Page, Line@, TikTok)\n• ประสานงานนัดหมาย และลงพื้นที่อำนวยความสะดวกในการดูทรัพย์หน้างาน\n📩 วิธีการสมัคร ส่ง Resume / พอร์ตงาน (ถ้ามี) มาที่the99estate@gmail.com\nภายในวันที่ 30 กันยายน 2026",
-    "title": "รับสมัครเด็กไฟแรง รักความสนุก ชอบความท้าท้ายไม่จำเจ  Office Admin (Full-time) 🏢 ธุรกิจอสังหาริมทรัพย์",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-14T10:36:28.741606Z",
-    "updated_at": "2026-10-14T10:36:31.492660Z",
-    "user_id": "477c1ad3-b497-4945-b370-b319a4eab692",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-13T10:36:28.680974Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "477c1ad3-b497-4945-b370-b319a4eab692",
-      "username": "anni.estate",
-      "display_name": "anni.estate",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/477c1ad3-b497-4945-b370-b319a4eab692/profile/96d7be98-a3b4-4980-b89b-321582cdd40b.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-14T15:18:36.892Z"
   }
 ]
