@@ -194,54 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-15T18:28:37.131Z"
-  },
-  {
-    "id": "0f73d85a-cef1-4e83-aebd-2356524b8d49",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "รับสมัครฟรีแลนซ์ UX/UI Designer (ธุรกิจการศึกษา)\n\nกำลังมองหา UX/UI Designer เพื่อออกแบบฟีเจอร์ใหม่บนแพลตฟอร์มการศึกษา เกี่ยวกับการเรียนและการเตรียมสอบ\n\n🎯 ลักษณะงาน\nออกแบบ UX/UI สำหรับฟีเจอร์ใหม���บนเว็บไซต์\nพูดคุยวางแผนว่าแต่ละฟีเจอร์ควรมีหน้าตาและการใช้งานอย่างไร\nเน้นดีไซน์ที่สวยงาม เรียบง่าย เป็นระเบียบ และผู้ใช้งานเข้าใจได้ทันที\n\n📌 คุณสมบัติที่มองหา\nมีประสบการณ์ทำงานจริง และมีผลงานให้พิจารณา\nเข้าใจและคำนึงถึงประสบการณ์และความสะดวกของผู้ใช้งาน\nสามารถคิด วิเคราะห์ และเสนอแนวทางการออกแบบที่เหมาะสมกับฟีเจอร์ได้\nหากสามารถลงโค้ดได้ยินดีเพิ่มค่าตอบแทน\n\n💰 ค่าตอบแทน\nงบประมาณ 5,000–15,000 บาท (ขึ้นอยู่กับขอบเขตงานที่ตกลงกัน)",
-    "title": "ฟรีแลนซ์ UX/UI Designer (ธุรกิจการศึกษา)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-15T13:52:30.860047Z",
-    "updated_at": "2026-10-15T13:52:32.381810Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-14T13:52:30.842775Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "2588643c-1501-4f46-8624-917ecbca91e1",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-15T14:27:46.338Z"
   }
 ]
