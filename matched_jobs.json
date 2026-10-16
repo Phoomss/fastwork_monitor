@@ -1,5 +1,103 @@
 [
   {
+    "id": "95a37101-dc61-4321-be8b-873e6930e455",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "## หน้าที่ความรับผิดชอบ\n\nดำเนินการทดสอบเว็บแอปพลิเคชันสามส่วนที่ทำงานร่วมกัน ได้แก่ หน้าร้านสำหรับลูกค้า แดชบอร์ดสำหรับผู้ขาย และระบบจัดการสำหรับผู้ดูแลแพลตฟอร์ม โดยทดสอบบนสภาพแวดล้���ม UAT\n\n- ทดสอบฟังก์ชันที่พัฒนาใหม่ตามเกณฑ์การยอมรับที่ทีมกำหนด ทั้งกรณีที่ทำงานได้ตามปกติ กรณีที่เกิดข้อผิดพลาด และสิทธิ์การเข้าถึงของแต่ละบทบาทผู้ใช้งาน\n- ทดสอบซ้ำก่อนการเผยแพร่แต่ละเวอร์ชัน และยืนยันว่าข้อบกพร่องที่ได้รับการแก้ไขแล้วไม่เกิดขึ้นซ้ำ\n- จัดทำและปรับปรุงกรณีทดสอบเมื่อมีฟังก์ชันใหม่\n- ดำเนินการชุดทดสอบอัตโนมัติที่มีอยู่ และเพิ่มกรณีทดสอบสำหรับขั้นตอนที่สามารถทำซ้ำได้อย่างปลอดภัย\n- รายงานข้อบกพร่องให้สามารถทำซ้ำได้ โดยระบุขั้นตอน ผลที่เกิดขึ้นจริง ผลที่คาด���วัง หลักฐานประกอบ และระดับความรุนแรง\n- ตรวจสอบการแสดงผลทั้งบนอุปกรณ์มือถือและคอมพิวเตอร์ รวมถึงความถูกต้องของข้อความภาษาไทยและราคา\n\nขอบเขตที่ต้องทดสอบเป็นประจำ ได้แก่ การค้นหาและดูสินค้า ตะกร้าสินค้า การชำระเงิน การติดตามคำสั่งซื้อ บัญชีผู้ใช้ รีวิว การคืนสินค้า โปรโมชัน การจัดการสินค้าและคำสั่งซื้อของผู้ขาย และการดูแลร้านค้าโดยผู้ดูแลแพลตฟอร์ม\n\nช่องทางการชำระเงินประกอบด้วยบัตร PromptPay และการโอนเงินเข้าบัญชี ลูกค้าเข้าสู่ระบบด้วยรหัส OTP ทางหมายเลขโทรศัพท์ ผู้ขายและผู้ดูแลแพลตฟอร์มเข้าสู่ระบบด้วยอีเมลและรหัสผ่าน\n\n## ผลงานที่ต้องส่งมอบ\n\n- รายงานข้อบกพร่องเมื่อตรวจพบ\n- ผลการทดสอบฟังก์ชัน ระบุสถานะผ่าน ไม่ผ่าน หรือไม่สามารถทดสอบได้ พร้อมเหตุผล\n- กรณีทดสอบที่ปรับปรุงให้สอดคล้องกับฟังก์ชันที่รับผิดชอบ\n- สรุปผลการทดสอบก่อนการเผยแพร่เวอร์ชัน ระบุรายการที่ผ่าน รายการที่ไม่ผ่าน และรายการที่ยังไม่ได้ทดสอบ\n\n## คุณสมบัติ\n\n- มีประสบการณ์ทดสอบเว็บแอปพลิเคชัน สามารถจัดทำกรณีทดสอบ ดำเนินการทดสอบ และรายงานข้อบกพร่องให้สามารถทำซ้ำได้\n- สามารถทดสอบระบบที่มีผู้ใช้งานหลายบทบาท และตรวจสอบได้ว่าแต่ละบทบาทเข้าถึงเฉพาะข้อมูลในขอบเขตของตน\n- สามารถดำเนินการชุดทดสอบอัตโนมัติที่มีอยู่ และเพิ่มกรณีทดสอบในชุดเดิมได้\n- แจ้งปัญหาเมื่อไม่สามารถดำเนินการต่อได้ และส่งมอบผลการทดสอบเมื่อสิ้นสุดรอบการทดสอบ\n\nผู้ที่มีประสบการณ์ทดสอบระบบพาณิชย์อิเล็กทรอนิกส์ การชำระเงิน หรือเว็บแอปพลิเคชันบนอุปกรณ์มือถือ จะได้รับการพิจารณาเป็นพิเศษ",
+    "title": "QA Tester (ด่วน) ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "15000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-16T09:36:27.976009Z",
+    "updated_at": "2026-10-16T09:36:29.716528Z",
+    "brief_url": "https://docs.google.com/document/d/1ZtP6P0pEIguV9eckGtkrsd3Iv4PiWo_mCo7ZhTT3R3Y/edit?usp=drivesdk",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-15T09:36:27.934417Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-16T11:37:52.803Z"
+  },
+  {
+    "id": "9b77d181-c536-48f2-8292-ab3edf33e3cb",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "-เขียน โค้ดเข้าคิวได้หลายๆจอ\n-เขียน โค้ดเข้าคิวได้หลายๆจอ\n-เขียน โค้ดเข้าคิวได้หลายๆจอ\n\nรายละเอียดเอียดอื่นๆจะแจ้งอีกครั้ง",
+    "title": "คนเขียนโค้ด",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-16T07:52:25.183360Z",
+    "updated_at": "2026-10-16T07:52:26.797019Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-16",
+    "expired_at": "2026-11-15T07:52:25.163372Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "344ab153-09fd-4008-81c0-1efc48b55217",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-16T11:37:51.576Z"
+  },
+  {
     "id": "95859d3b-eded-470f-a65e-8c87b16de628",
     "status": "open",
     "tag": {
@@ -145,103 +243,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-15T14:27:46.338Z"
-  },
-  {
-    "id": "9bef3494-f19f-4c4a-8dee-a3a7ff6b7f43",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ขยายเครือข่าย Freelance Recruiter / Recruitment Coordinator เพื่อร่วมงานในโครงการด้าน AI Data เป็นรายโปรเจกต์\nโครงการเบื้องต้นเป็นงาน Voice Data Collection โดย Recruiter จะรับผิดชอบด้านการสรรหา คัดกรอง และประสานผู้เข้าร่วมที่มีคุณสมบัติตรงตาม Requirement ของแต่ละโครงการ\nผู้เข้าร่วมจะทำก��รบันทึกเสียงตามโจทย์ที่กำหนด ข้อมูลที่ได้รับจะผ่านกระบวนการตรวจสอบคุณภาพและ Data Analysis ก่อนจัดทำเป็น Dataset เพื่อส่งมอบ\n\nขอบเขตงาน\n- สรรหาผู้เข้าร่วมตาม Target Profile และ Requirement ของแต่ละโครงการ\n- ประชาสัมพันธ์และ Sourcing ผ่านช่องทางหรือเครือข่ายที่ตนเองสามารถเข้าถึงได้\n- คัดกรองคุณสมบัติและความพร้อมของผู้เข้าร่วมเบื้องต้น\n- อธิบายขั้นตอนและเงื่อนไขการเข้าร่วมโครงการ\n- ประสานงานและติดตามผู้เข้าร่วมให้ดำเนินงานภายใน Timeline ที่กำหนด\n- ติดตามผู้เข้าร่วมกรณีข้อมูลไม่ครบหรือต้องดำเนินการเพิ่มเติม\n- อัปเดต��ำนวนผู้สมัครและสถานะการ Recruitment ให้ทีมทราบเป็นระยะ\n\nบริษัทจะเป็นผู้ดูแล Project Requirement, Workflow และกระบวนการตรวจสอบคุณภาพ/Data Analysis\n\nคุณสมบัติ\n- มีประสบการณ์ด้าน Recruitment, Sourcing, Coordinator, Community Management หรืองานที่เกี่ยวข้อง\n- หรือมี Network / Community ที่สามารถเข้าถึงและจัดหาผู้เข้าร่วมได้\n- สามารถบริหารและติดตามผู้เข้าร่วมหลายคนพร้อมกันได้\n- มีทักษะการสื่อสารและประสานงานที่ดี\n- ทำงานตาม Requirement และ Timeline ได้\n- มีความรับผิดชอบและสามารถอัปเดตสถานะงานอย่างเป็นระบบ\n\nไม่จำเป็นต้องมีประสบการณ์ด้าน AI Data โดยตรง หากมีประสบการณ์ด้านการจัดหาคนห���ือมี Network ที่เหมาะสม สามารถสมัครได้\n\nค่าตอบแทน\n- เบื้องต้น Recruiter จะได้รับค่าตอบแทนประมาณ 15–20% ตามเงื่อนไขของแต่ละโปรเจกต์\n- การคำนวณค่าตอบแทนจะอ้างอิงจาก มูลค่าของ Data ที่ผ่านเกณฑ์การตรวจสอบและ Data Analysis (Approved Data Hours) ของผู้เข้าร่วมที่ Recruiter เป็นผู้จัดหา ไม่ได้คำนวณจากจำนวนชั่วโมงที่บันทึกเข้ามาทั้งหมด\nRate, วิธีคำนวณ และเงื่อนไขการจ่ายของแต่ละโปรเจกต์จะแจ้งให้ทราบและตกลงร่วมกันก่อนเริ่มงาน\n",
-    "title": "Freelance Recruiter / Recruitment Coordinator สำหรับโครงการ AI Data Collection",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-15T07:56:44.818745Z",
-    "updated_at": "2026-10-15T07:56:46.073143Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-14T07:56:44.768560Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-    "user_profile": {
-      "id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-      "username": "starwavesolution",
-      "display_name": "STARWAVESOLUTION",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/631a0f81-24ee-46f1-a797-0cf5b73da52c/profile/6f16e94c-a594-4278-a25c-16b372e7957d.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-15T09:51:38.531Z"
-  },
-  {
-    "id": "45e99fe1-09f4-4fa0-9b2c-a2f9bc9ba803",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "full-time",
-    "description": "KEY RESPONSIBILITIES\n\n• Content Strategy & Calendar Management: Plan, schedule, and publish structured content calendars across TikTok,YouTube, and the official website, ensuring alignment with overall marketing campaign timelines.\n\n• Performance-Driven Ads & Creatives: Produce high-converting image and short-form video creative assets tailored to full-funnel paid campaigns, directly aligned with strategic objectives set by the Performance Marketing Manager.\n\n• Video Production & Editing: Conceptualise, shoot, and edit short-form and long-form video content specifically optimised for TikTok and YouTube audiences.\n\n• Website Management: Oversee and maintain website content to ensure high freshness, accurate promotional listings, and consistent product/service messaging.\n\n• Content Mix & Strategic Execution: Execute cyclical content plans in line with ad-to-organic ratios and defined brand content pillars.\n\n• Trend Monitoring & Competitor Analysis: Keep up with social media trends, viral formats, and industry\n\ndevelopments, whilst monitoring the competitor landscape to capitalise on timely content opportunities.\n\n• Cross-Functional Collaboration: Partner with Graphic & Motion Designers for asset production, collaborate with the Senior Digital Ads Executive to optimise creative quality scores, and support promotional pricing rollouts.\n\n\n\nKPIS\n\n• Calendar & Production Adherence: 100% on-time execution of the planned content calendar and maintenance of the designated content mix.\n\n• Channel Engagement & Growth: Month-on-month (MoM) growth in views, interactions, shares (video/post/shares), and engagement rates on TikTok and YouTube.\n\n• Creative Quality & Conversion: Achieving target Creative Quality Scores and meeting ROAS/CTR benchmarks established by the Performance Marketing team.\n\n• Website Freshness & Accuracy: Timely updates of promotional offers, landing page assets, and website content accuracy.",
-    "title": "คนทำ VDO Content & Social",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "30000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-15T06:51:05.811730Z",
-    "updated_at": "2026-10-15T06:51:07.776929Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-14T06:51:05.775455Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "0fff308a-e636-43e4-9c86-9f273f530443",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-15T09:51:37.373Z"
   }
 ]

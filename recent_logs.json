@@ -1,4 +1,9 @@
 [
-  "[2026-10-16T06:22:15.884Z] Checking Fastwork for new job posts...",
-  "[2026-10-16T06:22:15.882Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s)."
+  "[2026-10-16T11:37:53.027Z]     Notification sent successfully.",
+  "[2026-10-16T11:37:52.803Z]   FOUND NEW TARGET JOB: QA Tester (ด่วน)  (Cats: พัฒนาเว็บไซต์) (Budget: 15000 THB)",
+  "[2026-10-16T11:37:51.801Z]     Notification sent successfully.",
+  "[2026-10-16T11:37:51.577Z]   FOUND NEW TARGET JOB: คนเขียนโค้ด (Cats: พัฒนาเว็บไซต์) (Budget: 1000 THB)",
+  "[2026-10-16T11:37:50.486Z] Checking Fastwork for new job posts...",
+  "[2026-10-16T11:37:50.485Z] Auto-cleanup: Removed 38 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-16T11:37:50.482Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
