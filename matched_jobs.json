@@ -145,54 +145,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-15T21:36:38.966Z"
-  },
-  {
-    "id": "b117ba74-04fa-4fd9-913b-3a897a9de1e9",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "รับสมัครคนรีวิวเครื่องมือ AI สำหรับสร้างเว็บไซต์และแอปพลิเคชัน ใช้งานง่าย ไม่จำเป็นต้องเขียนโค้ด สามารถสร้างเว็บธุรกิจ Landing Page และ Web App ได้\n\nรับสิ��ธิ์ใช้งานฟรี มูลค่าประมาณ 2,590 บาท ใช้งานผ่านอีเมลส่วนตัวของตัวเองได้\n\nหากเป็นเจ้าของเพจ ครีเอเตอร์ หรือสายทำคลิป จะพิจารณาเป็นพิเศษ\n\n",
-    "title": "คนทำโพสต์รีวิวใน Facebook ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-15T15:57:59.204307Z",
-    "updated_at": "2026-10-15T15:58:01.104992Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.7.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-17",
-    "expired_at": "2026-11-14T15:57:59.150226Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "4ac58c92-d748-4ea7-8e19-30482916176f",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-15T18:28:37.131Z"
   }
 ]
