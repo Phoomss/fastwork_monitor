@@ -1,5 +1,252 @@
 [
   {
+    "id": "29f95059-bc79-4ecf-86a5-5229a7f58a6f",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "\nระบบจะแสดงข้อมูล เลขรหัสงาน วันที่ จุดรับ จุดส่ง ราคา และรายละเอียดที่ต้องการ ให้คขขับรถ กดปุ่มยืนัยตอบรับ โ��ยที่ใครกดก่อน จะได้งานนั้นไป \n1. คนขับต้องละทะเบียนก่อนเข้ารับงานประมูล\n2. เมื่อ แอดมินลงข้อมูลงาน จะส่งให้เข้าห้องแช็ทกลาง ประมูลทันที\n3. งานไหนที่คนขับรับแล้ว จะถูกลบออกไปจากห้องแชทหลัก\n4. งานที่ถูกประมูลได้ จะถูกส่งให้คนขับ และ แอดมินรับทราบ\n",
+    "title": "Telegram ระบบประมูลรับงาน ธุรกิจรับส่งนักท่องเที่ยว ใน Telegram",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-17T07:06:24.972305Z",
+    "updated_at": "2026-10-17T07:06:26.581054Z",
+    "user_id": "1caec5bf-0a5d-47df-8524-ae025b5f4eee",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-16T07:06:24.955384Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "1caec5bf-0a5d-47df-8524-ae025b5f4eee",
+      "username": "yvjfsrpj",
+      "display_name": "BB",
+      "image_url": "https://storage.googleapis.com/fastwork-static/d7c357ff-8932-4a18-bdfc-0db969ab0761.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-17T07:09:25.956Z"
+  },
+  {
+    "id": "1408229b-fbbd-4dff-a1cb-bf5bc93131c9",
+    "status": "open",
+    "tag": {
+      "id": "16aef900-7df8-4f9c-8c9b-b5118f51da2f",
+      "name": "จัดการร้านค้าออนไลน์",
+      "sort": 15
+    },
+    "type": "freelance",
+    "description": "ดูแลการย้ายเว็บไซต์จากเว็บเก่าไปเว็บใหม่ ให้คนยังหาเราเจอบน Google เหมือนเดิม และให้อันดับดีขึ้นในอนาคต (เว็บเก่า SEO ติดอันดับ 1-3)\n\nทำงานร่วมกับ: ทีม Web Developer และทีม Content\n\nหน้าที่ก่อนย้ายเว็บ\n\n1. ทำรายชื่อหน้าเว็บเก่าทั้งหมด\n2. จดอันดับคำค้นหาและจำนวนคนเข้าเว็บตอนนี้ไว้เพื่อใช้เทียบทีหลัง\n3. หาหน้าที่สำคัญที่สุด (หน้าที่ได้คนเข้ามากและขายของได้)\n4. วางแผนว่า URL เก่าแต่ละอัน จะไปที่ URL ใหม่อันไหน\n\nหน้าที่ตอนย้ายเว็บ:\n\n1. ดูแลการทำ 301 Redirect ให้ถูกต้องทุกหน้���\n2. เช็ก Title, Meta Description, Canonical Tag, Sitemap และ robots.txt\n3. แจ้ง Google ผ่าน Google Search Console (Change of Address)\n4.ตรวจความเร็วเว็บและการใช้งานบนมือถือ\n5. สั่งงานและตรวจงาน Web Developer ให้ทำตามแผน SEO",
+    "title": "SEO Specialist (โปรเจกต์ย้ายเว็บไซต์)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-17T06:57:51.179074Z",
+    "updated_at": "2026-10-17T06:57:52.417262Z",
+    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
+    "brief_url": "https://docs.google.com/document/d/1Pl--9_gmJNxxBB1ihflrX2xBIn-JREEwTXQyc9q8M94/edit?usp=drivesdk",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-16T06:57:51.134476Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-17T07:09:24.781Z"
+  },
+  {
+    "id": "b30c748e-da62-4514-a477-a3aa66ec64f1",
+    "status": "open",
+    "tag": {
+      "id": "768c1259-c5e6-4b1a-99fb-26d67458cd77",
+      "name": "ไลฟ์สไตล์",
+      "sort": 2
+    },
+    "type": "freelance",
+    "description": "สวัสดีครับ 😊\n\nกำลังมองหาคนที่มี iPhone หรือ iPad มาช่วยทดลองเล่นเกม Duckling sort บน iOS ที่ผมพัฒนาขึ้นเองครับ เกมเป็นแนว Puzzle น่ารักๆ เกี่ยวกับการจับกลุ่มและเรียงน้องเป็ด 🐥 เล่นง่าย สบายๆ มีระบบฟาร์มให้ตกแต่ง สร้างบ้าน และกิจกรรมต่างๆ ภายในเกม\n\nhttps://apps.apple.com/th/app/duckling-sort/id6811509098\n\nสิ่งที่อยากให้ช่วย\n\n- ทดลองเล่นเกมประมาณ 30-60 นาที\n- แสดงความคิดเห็นเกี่ยวกับความสนุก ความยากง่าย และความน่าเล่นของเกม\n- ช่วยดูว่า��ีจุดไหนที่ใช้งานยาก สับสน หรือควรปรับปรุง\n- หากพบข้อผิดพลาด (Bug) หรือเกมทำงานผิดปกติ รบกวนแจ้งรายละเอียด พร้อมภาพหน้าจอถ้ามี\n- สรุปความคิดเห็นสั้นๆ หลังเล่น ว่าชอบหรือไม่ชอบอะไร และมีอะไรที่อยากให้เพิ่มหรือแก้ไข\n\nคุณสมบัติ\n\n- มี iPhone หรือ iPad ที่สามารถติดตั้งและเล่นเกมได้\n- ไม่จำเป็นต้องมีประสบการณ์ทดสอบเกมมาก่อน\n- ชอบเล่นเกมมือถือ หรือเป็นคนที่ชอบลองอะไรใหม่ๆ\n- สามารถให้ความคิดเห็นตรงไปตรงมาได้ครับ\n\nระยะเวลางาน: ไม่เกิน 1 ชั่วโมง\nรูปแบบงาน: ทดลองเล่นจากที่บ้านได้เลย\n\nขอบคุณทุกคนที่ส��ใจมาช่วยทดลองเล่นเกมเล็กๆ ที่ผมตั้งใจทำขึ้นครับ 🦆💛",
+    "title": "คนเทสเกม iOS",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-17T06:49:45.075485Z",
+    "updated_at": "2026-10-17T06:49:46.927408Z",
+    "user_id": "28fce4b7-f418-4158-bf1e-535817c656d7",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-16T06:49:45.053686Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "28fce4b7-f418-4158-bf1e-535817c656d7",
+      "username": "joeths",
+      "display_name": "joeths",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/28fce4b7-f418-4158-bf1e-535817c656d7/profile/5737c0da-bfac-4bbb-a8ce-495e31299df5.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-17T07:09:23.491Z"
+  },
+  {
+    "id": "61e5dc68-dc29-4740-aa2d-95f43d67ffe0",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาคนในวงการออกแบบมาลองใช้เว็บของเราและบอกความเห็นตรงๆ เพื่อให้เราปรับปรุงให้ตอบโจทย์คนทำงานจริง\n\nใครสมัครได้\n\nGraphic / UX/UI / Product Designer\nนักศึกษาหรือคนที่ทำงานเกี่ยวกับงานออกแบบ\nฟรีแลนซ์ พนักงานประจำ หรือเพิ่งเริ่มต้นก็ได้\n\n⭐ มีพอร์ตบน Behance / Dribbble หรือแพลตฟอร์มอื่น แนบมาด้วย จะได้รับการคัดเลือกก่อน\n\nรายละเอียด\n\n⏱ ประมาณ 1–2 ชม.\n💻 ออนไลน์ผ่าน Google Meet (ใช้คอมพิวเตอร์เท่านั้น)\nแชร์หน้าจอ ลองใช้เว็บ และพูดสิ่งที่คิดออกมา\nไม่มีถูกผิด เราอยากฟังประสบการณ์จริง\n\nค่าตอบแทน: 300 บาท/คน\n\n🔒 ข้อมูลที่ได้ใช้เพื่อการวิจัยและพัฒนาเว็บไซต์เท่านั้น ไม่เผยแพร่ข้อมูลส่วนตัวโดยไม่ได้รับอนุญาต",
+    "title": "📢 หา Tester สายดีไซน์ ร่วมทดลองเว็บไซต์ รับ 300 บาท",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-17T05:54:48.732048Z",
+    "updated_at": "2026-10-17T05:54:50.322618Z",
+    "user_id": "40d8f21a-083b-4538-829b-a3419c57cf05",
+    "brief_url": "https://samecor.com/",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-16T05:54:48.712986Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "40d8f21a-083b-4538-829b-a3419c57cf05",
+      "username": "monolith.design",
+      "display_name": "MONOLITH.DESIGN",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/40d8f21a-083b-4538-829b-a3419c57cf05/profile/339c33e0-27ad-42b6-af8a-8a9a34e4535e.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-17T07:09:22.351Z"
+  },
+  {
+    "id": "28189a06-509e-41e0-93ca-29b25b66592e",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "full-time",
+    "description": "1. โปรแกรมเมอร์ (Programmer / Developer)\n หน้าที่ความรับผิดชอบ:\n พัฒนาและดูแลระบบเว็บไซต์ หรือแอปพลิเคชันตามที่ได้รับมอบหมาย\n เขียนโค้ดที่มีคุณภาพ ตรวจสอบและแก้ไขบั๊ก (Debug) เพื่อให้ระบบทำงานได้อย่างเสถียร\n ทำงานร่วมกับ Project Manager และทีมดีไซน์ในการพัฒนาฟีเจอร์ใหม่ๆ\n คุณสมบัติเด่น:\n มี��ระสบการณ์หรือความรู้ความสามารถในภาษาโปรแกรมที่เกี่ยวข้อง (เช่น JavaScript, PHP, Python, React, Node.js หรืออื่นๆ ตามเหมาะสม)\n สามารถแก้ปัญหาเฉพาะหน้าได้ดี และเรียนรู้เทคโนโลยีใหม่ๆ ได้เร็ว\n มีความเข้าใจเรื่อง Database และระบบ API\n2. กราฟฟิก ดีไซน์ (Graphic Designer)\n หน้าที่ความรับผิดชอบ:\n ออกแบบสื่อสำหรับประชาสัมพันธ์และการตลาด (Social Media Post, Banner, Ad)\n ออกแบบ UI/UX สำหรับเว็บไซต์หรือแอปพลิเคชัน (ถ้ามี)\n สร้างสรรค์ผลงานให้สอดคล้องกับภาพลักษณ์ของแบรนด์ (Brand Identity)\n คุณสมบัติเด่น:\n ใช้โปรแกรมออกแบบได้อย่างคล่องแคล่ว (เช่น Photoshop, Illustrator, Figma หรือโปรแกรมอื่นๆ)\n มีความคิดสร้างสรรค์ มีมุมมองด้านศิลปะและการตลาดที่ทันสมัย\n เปิดรับคำติชม (Feedback) และสามารถปรับแก้ตามโจทย์ได้\n3. แอดมิน (Admin / Customer Service)\n หน้าที่ความรับผิดชอบ:\n ตอบแชท ดูแล และให้คำปรึกษาแก่ลูกค้าผ่านช่องทางออนไลน์ต่างๆ (Line, Facebook, TikTok ฯลฯ)\n ประสานงานกับภายในทีมเพื่ออำนวยความสะดวกในการให้บริการ\n จัดทำสรุปยอด หรือข้อมูลการขาย/บริการประจำวัน\n คุณสมบัติเด่น:\n มีใจรักในการบริการ (Service Mind) อัธยาศัยดี และสื่อสารเข้าใจง่าย\n พิมพ์คล่อง รวดเร็ว และบริหารจัดการเวลาได้ดี\n มีความรับผิดชอบ ละเอียดรอบคอบ\n4. ผู้จัดการโครงการ (Project Manager)\n หน้าที่ความรับผิดชอบ:\n วางแผน ควบคุม และติดตามความคืบหน้าของโปรเจกต์ให้เป็นไปตามเป้าหมายและกำหนดเวลา\n ประสานงานระหว่างลูกค้าและทีมงาน (Developer, Designer, Admin)\n บริหารจัดการทรัพยากร และแก้ปัญหาที่อาจเกิดขึ้นระหว่างการดำเนินงาน\n คุณสมบัติเด่น:\n มีทักษะความเป็นผู้นำและการสื่อสารที่ยอดเยี่ยม\n มีประสบการณ์ในการบริหารจัดการโปรเจกต์ (หากมีประสบการณ์ด้านสายงาน IT หรือ Digital Agency จะพิจารณาเป็นพิเศษ)\n สามารถจัดลำดับความสำคัญของงานได้ดีภายใต้ความกดดัน\n\nเข้าออฟฟิศ เครือสหพัฒน์ ชลบุรี สัปดาห์ละ 3-4 วัน\nนอกนั้น WFH\n\nเงินเดือน พิจารณา ตามความสามารถ",
+    "title": "รับสมัครหลายตำแหน่ง เครือสหพัฒน์ ชลบุรี",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-17T04:42:58.164918Z",
+    "updated_at": "2026-10-17T04:42:59.992980Z",
+    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-16T04:42:58.104263Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
+      "username": "rtxvpuda",
+      "display_name": "AR Induction",
+      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-17T07:09:21.063Z"
+  },
+  {
     "id": "95a37101-dc61-4321-be8b-873e6930e455",
     "status": "open",
     "tag": {
