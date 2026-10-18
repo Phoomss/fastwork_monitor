@@ -1,5 +1,54 @@
 [
   {
+    "id": "3174103f-f8b4-44bf-bb73-091a8a64783b",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "1) จำยูสได้ จำอีเมล์ได้\n2) จำพาสเวิร์ดของทั้ง Account และ Email ที่ใช้สมัครไม่ได้\n\nตอนนี้ลองทุกพาสที่เคยใช้ในชีวิตแล้ว แต่มันบอกว่าเรากรอกผิด",
+    "title": "ฉันหาคนกู้คืนแ���คเค้าท์ติ๊กตอก",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-18T10:18:46.502115Z",
+    "updated_at": "2026-10-18T10:18:47.880811Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-30",
+    "expired_at": "2026-11-17T10:18:46.426654Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3d9b1cc1-6600-41c9-b4c5-1e9d79b7c549",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-18T13:43:21.914Z"
+  },
+  {
     "id": "28d34220-a192-46d4-b798-c6079633d2d0",
     "status": "open",
     "tag": {
@@ -97,201 +146,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-18T09:57:09.518Z"
-  },
-  {
-    "id": "ed023039-670b-49a8-ae35-1ecf699a3be0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "ตามหาโปรแกรมเมอร์ คนเขียนโปรแกรมช่วยลงประกาศอสังหา Work from Home\n- เขียนโปรแกรมโดยใช้ iMacros , javascript , pycharm ( หรือตัวอื่นสามารถคุยได้ )\n- ทำระบบจัดการข้อมูล User\n- ดูแล Server\n\nการทำงาน\n- พนักงานประจำ ( ทำสัญญ���จ้าง )\n- ทำงาน 5 วัน/สัปดาห์ เวลางานตามที่ตกลงกัน\n- Work from Home\n\nเงินเดือนตอบแทน\n- เริ่มต้น 20,000 บาท\n*ขอคนตรงต่อเวลาและมีความรับผิดชอบ ( พร้อมลุยและเริ่มต้นใหม่ไปด้วยกัน )\n\nสนใจติดต่อ เต๋า\nโทร : **********\nLine : taoducati",
-    "title": "ตามหาโปรแกรมเมอร์ คนเขียนโปรแกรมช่วยลงประกาศอสังหา Work from Home",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "20000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-17T11:17:52.744760Z",
-    "updated_at": "2026-10-17T11:17:54.126150Z",
-    "user_id": "1fd74dd3-9288-46e6-a0c2-1428b9a8843f",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-16T11:17:52.728313Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "20000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-17T11:33:32.460Z"
-  },
-  {
-    "id": "f990a617-e709-40ab-bb51-2a5523681e4e",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": " 🌟 เปิดรับผู้ร่วมงานอัดเสียง หลายอัตรา 🎙️\n\n🏠 ทำงานจากที่บ้าน 100% (WFH)\n📱 ทำผ่าน App ECAI บนมือถือ/แท็บเล็ต\n🎧 เลือกงาน ภาษาไทย หรือ ไทย + อังกฤษ\n⏰ ใช้เวลาประมาณ 1–2 ชม. ขึ้นอยู่กับแต่ละบุคคล\n📌 อ่านและอัดเสียงประมาณ 300–500 ข้อความ\n📅 รับงานแล้วส��งภายใน 1–2 วัน\n\n💰 ค่าตอบแทน\n🇹🇭 ภาษาไทย 300 บาท/งาน\n🇹🇭🇬🇧 ไทย + อังกฤษ 400 บาท/งาน\nได้รับค่าตอบแทนเมื่องานผ่านการตรวจสอบเรียบร้อยแล้ว\n\n💳 รอบจ่ายวันที่ 10, 20 และ 30 ของเดือน\n✅ ไม่มีค่าธรรมเนียมสมัครงาน\n\n💚 สนใจสมัครงานทักกล่องข้อความได้เลยค่ะ\n",
-    "title": "อัดเสียง ในแอพเพืือพัฒนา AI",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-17T08:58:58.056944Z",
-    "updated_at": "2026-10-17T08:58:59.777430Z",
-    "user_id": "5de5a5a6-b5ee-4dad-87d1-f27a0ef9a411",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-16T08:58:58.035965Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "5de5a5a6-b5ee-4dad-87d1-f27a0ef9a411",
-      "username": "jutamas.aui",
-      "display_name": "jutamas",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/5de5a5a6-b5ee-4dad-87d1-f27a0ef9a411/profile/03bde54e-8364-409d-9351-6c083b19acf4.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-17T11:33:31.284Z"
-  },
-  {
-    "id": "bfc71922-c89e-4ead-951f-0069014f2a0c",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "สวัสดีค่ะ หาทนาย ร่างเงื่อนไข Term of use กับ Privacy Policy ให้กับเว็บไซต์,แอปพลิเคชั่นค่ะ แล้วก็คำแนะนำด้านอื่นๆให้ครอบคลุมด้วย",
-    "title": "หาทนาย ร่างเงื่อนไข Term of use กับ Privacy Policy ให้กับเว็บไซต์,แอปพลิเคชั่นค่ะ ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-17T08:04:16.177584Z",
-    "updated_at": "2026-10-17T08:04:17.594316Z",
-    "user_id": "bc7249fe-b51f-4e45-8aeb-a1a7b0809d3b",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-16T08:04:16.117633Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-17T11:33:30.062Z"
-  },
-  {
-    "id": "6bbf6285-3569-4fe0-bed7-1a1d99eb4de8",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "ต้องการคนที่ทำตามโจทย์และมีความสวยงาม สามาร���แก้งานได้หลายครั้ง ราคาถูกหน่อยจะดีมาก                      ",
-    "title": "คนทำเว็บ Google Site ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-17T07:47:01.000247Z",
-    "updated_at": "2026-10-17T07:47:02.602202Z",
-    "user_id": "c95778db-c364-4d2f-8762-a258ac235c4b",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.10;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-16T07:47:00.979585Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-17T11:33:28.520Z"
   }
 ]
