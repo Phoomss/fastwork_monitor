@@ -1,5 +1,54 @@
 [
   {
+    "id": "fa414d70-42e3-4198-9bf3-a03d8ca6cc80",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "ต้องการหาผู้รับจ้างที่มีบัญชี Apple Developer และสามารถรับฝากเผยแพร่แอปพลิเคชันบน Apple App Store ได้",
+    "title": "ผู้รับฝากแอป Flutter ขึ้น Apple App Store ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-19T18:16:05.847213Z",
+    "updated_at": "2026-10-19T18:16:07.272563Z",
+    "user_id": "217d0e10-d84b-4599-9d8f-c3429bcc8339",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-18T18:16:05.809332Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "217d0e10-d84b-4599-9d8f-c3429bcc8339",
+      "username": "krunat",
+      "display_name": "krunat",
+      "image_url": "https://storage.googleapis.com/fastwork-static/84005965-62c3-427b-b068-8a1afa533741.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-19T19:28:44.374Z"
+  },
+  {
     "id": "65280a31-b2c9-477e-af7c-e6e6b5c97d24",
     "status": "open",
     "tag": {
@@ -245,54 +294,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-19T06:24:27.666Z"
-  },
-  {
-    "id": "3174103f-f8b4-44bf-bb73-091a8a64783b",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "1) จำยูสได้ จำอีเมล์ได้\n2) จำพาสเวิร์ดของทั้ง Account และ Email ที่ใช้สมัครไม่ได้\n\nตอนนี้ลองทุกพาสที่เคยใช้ในชีวิตแล้ว แต่มันบอกว่าเรากรอกผิด",
-    "title": "ฉันหาคนกู้คืนแ���คเค้าท์ติ๊กตอก",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-18T10:18:46.502115Z",
-    "updated_at": "2026-10-18T10:18:47.880811Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-10-30",
-    "expired_at": "2026-11-17T10:18:46.426654Z",
-    "freelance_offers_count": 5,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "3d9b1cc1-6600-41c9-b4c5-1e9d79b7c549",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-18T13:43:21.914Z"
   }
 ]
