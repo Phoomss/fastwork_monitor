@@ -1,5 +1,54 @@
 [
   {
+    "id": "37c580bc-309a-45f7-9256-e57ff6f7dd99",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "กำลังมองหา Freelance WordPress Developer ที่มีประสบการณ์ด้าน WordPress และ Technical SEO เพื่อช่วยดูแล แก้ไขปัญหา และปรับปรุงเว็บไซต์ของบริษัทจำนวน 3 เว็บไซต์ (EN, TH, DK)\n\nขอบเขตงาน (Scope of Work)\n- ตรวจสอบและแก้ไขปัญหา Technical SEO\n- ปรับแก้ HTML และ CSS บนเว็บไซต์\n- ปรับแต่ง WordPress Template และ Layout\n- จัดการ URL Redirects\n- Troubleshoot และแก้ไข Technical Errors ของเว็บไซต์\n- ปรับปรุง Core Web Vitals, Page Speed และ Website Performance\n- สนับสนุนงาน Technical SEO และ WordPress อื่น ๆ ตามที่ได้รับมอบหมาย\n\nหมายเหตุ: ทีม Marketing ดูแลงาน Content และการเพิ่ม Blog Pages เองอยู่แล้ว จึงเน้นหาคนที่เชี่ยวชาญด้าน Technical เป็นหลัก\n\nคุณสมบัติที่มองหา\n- มีประสบการณ์ทำงานกับ WordPress และแก้ไขปัญหาทางเทคนิคได้ด้วยตัวเอง\n- มีความรู้ HTML, CSS และการปรับแต่ง WordPress Templates\n- ข้าใจ Technical SEO, Core Web Vitals และ Website Performance\n- สามารถวิเคราะห์ปัญหาและเสนอแนวทางแก้ไขได้\n- สื่อสารได้ดี ตอบกลับงานได้รวดเร็ว และมีเวลารองรับงาน Technical Support\n- หากมีประสบการณ์ PHP, JavaScript, Google Search Console หรือ GA4 จะพิจารณาเป็นพิเศษ\n\nรูปแบบการทำงาน\n- Freelance / Remote\n- จ้างแบบรายชั่วโมง (Time & Materials) จ่ายตามชั่วโมงที่ทำงานจริง\n- ประมาณ 15–25 ชั่วโมง/เดือน ขึ้นอยู่กับปริมาณงาน\n- เ���็นงานต่อเนื่องระยะยาวตามความต้องการของบริษัท\n- ก่อนเริ่มแต่ละงาน จะมีการประเมินจำนวนชั่วโมงและตกลงร่วมกัน\n- สามารถตอบกลับภายใน 24 ชั่วโมงในวันทำการ\n\nทักหา พร้อมส่ง portfolio แจ้งเรทราคาต่อชั่วโมง และวันที่เริ่มงานได้เลยค่ะ \nขอบคุณค่ะ",
+    "title": "หาฟรีแลนซ์ WordPress Developer (Technical SEO & Website Support)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-19T03:40:00.679541Z",
+    "updated_at": "2026-10-19T03:40:01.953610Z",
+    "user_id": "7ea92787-091b-4d7f-b977-305d19009271",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-18T03:40:00.633702Z",
+    "freelance_offers_count": 5,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-19T06:24:27.666Z"
+  },
+  {
     "id": "3174103f-f8b4-44bf-bb73-091a8a64783b",
     "status": "open",
     "tag": {
