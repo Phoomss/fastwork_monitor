@@ -1,5 +1,203 @@
 [
   {
+    "id": "65280a31-b2c9-477e-af7c-e6e6b5c97d24",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "บรีฟงาน\nสวัสดีค่ะ บริษัท ซิสเท็ม ยู โซลูชั่น \nบริษัทสายพัฒนา Software \nต้องการ Full time Full-Stack Dev\nเงินเดือน 25000-35000+++ (ขึ้นอยู่กับความสามารถ)\nงาน WFH , Hybrid , ส่วนใหญ่จะ WFH \n\nประสบการ��์ 3+ Yrs \nถนัด React , Next.js , Node.js , C# , JavaScript , TypeScript , CSS\nDB : MS SQL Server , postgresql , Cloud AWS , Google Cloud , คำสั่ง SQL \nVersion : Git , GitLAB \n\nมีระบบ Software น่าสนใจให้ร่วมทีม \nมีให้เรียนรู้พร้อมปฏิบัติงานจริง \n\nต้องการด่วน พร้อมเริ่มงาน ทันที",
+    "title": "ProgrammerFull-Stack Dev ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-19T10:59:24.728876Z",
+    "updated_at": "2026-10-19T10:59:28.230908Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-18T10:59:24.650695Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
+    "user_profile": {
+      "id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
+      "username": "aghzhgwf",
+      "display_name": "ผกาวัลย์  ศิลขันธ์",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-19T13:43:11.880Z"
+  },
+  {
+    "id": "6bad4d26-b759-47a4-837e-ccb7a871b154",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "contract",
+    "description": "🚀 ประกาศรับสมัครงานด่วน!!\n💻 ตำแหน่ง Full-Stack Developer (Full-Time)\n\nบริษัท ซิสเท็ม ยู โซลูชั่น จำกัด (System You Solution Co., Ltd.) บริษัทรับพัฒนาระบบ Software สำหรับธุรกิจ กำลังมองหา Developer มาร่วมเติบโตไปด้วยกัน 🚀\n\n💰 เงินเดือน 25,000 – 35,000+++ บาท\n(พิจารณาตามประสบการณ์และความสามารถ)\n\n🏡 รูปแบ���การทำงาน\n\nWork From Home (WFH) / Hybrid\n\nทำงานจากที่บ้านเป็นหลัก\n\nตำแหน่งประจำ Full-Time\n\n👨‍💻 คุณสมบัติที่ต้องการ\n\nมีประสบการณ์พัฒนา Software อย่างน้อย 3 ปีขึ้นไป\n\nสามารถพัฒนาระบบได้ทั้ง Frontend และ Backend\n\nมีความรับผิดชอบ สามารถทำงานร่วมกับทีมได้ดี\n\nพร้อมเรียนรู้เทคโนโลยีใหม่ ๆ\n\n🛠️ Tech Stack ที่ต้องการ\n\nFrontend / Backend\n\nReact / Next.js\n\nNode.js / C#\n\nJavaScript / TypeScript\n\nCSS\n\nDatabase & Cloud\n\nMS SQL Server\n\nPostgreSQL\n\nAWS / Google Cloud\n\nSQL\n\nVersion Control\n\nGit / GitLab\n\n✨ สิ่งที่คุณจะได้รับ\n\nได้พัฒนาระบบ Software สำหรับธุรกิจจริง\n\nมีโปรเจกต์หลากหลายให้เรียนรู้และพัฒนาทักษะ\n\nได้เรียนรู้พร้อมลงมือปฏิบัติงานจริง\n\nทำงานแบบ WFH เป็นหลัก\n\n🔥 ต้องการคนพร้อมเริ่มงานทันที!",
+    "title": "Developer Full-Stack",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-19T09:25:35.498582Z",
+    "updated_at": "2026-10-19T09:25:37.122777Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-18T09:25:35.438874Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "f7c4714a-6d7b-4e91-b6f0-d53aac5d585a",
+    "user_profile": {
+      "id": "f7c4714a-6d7b-4e91-b6f0-d53aac5d585a",
+      "username": "sy30052224",
+      "display_name": "sy30052224",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-19T13:43:10.002Z"
+  },
+  {
+    "id": "372d4b33-9124-4898-adac-0c9bc3044f4f",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนสร้างเว็บ  โดย Ref= Website:แสนสิริ,แกรดิโอ แนวอสังหา ขอแบบใกล้เคียงหรือสไตล์นี้ แนบผลงานพร้อมเสนอราคาครับ ขอแบบคนบจบครับ",
+    "title": "หาคนสร้าง Website ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-19T08:40:35.889636Z",
+    "updated_at": "2026-10-19T08:40:38.005499Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-18T08:40:35.781484Z",
+    "freelance_offers_count": 19,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "daba9158-f136-4da9-b362-a9000abab7e2",
+    "user_profile": {
+      "id": "daba9158-f136-4da9-b362-a9000abab7e2",
+      "username": "ppr8u6fp",
+      "display_name": "Zenma666",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/daba9158-f136-4da9-b362-a9000abab7e2/profile/46d728e8-c008-4579-8491-01b34f972814.jpeg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-19T13:43:08.868Z"
+  },
+  {
+    "id": "dda3937b-4b64-4d24-9f2e-786b8f975b52",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ต้องการคนเขียนแอป\n1.ลูกค้าต้องการซ่อมแซมบ้าน หอ รร \n2.สามารถเสนอ ค่าใช้จ่าย คร่าวไปได้\n3.ลุกค้าสารมารถระบุ โล ที่ต้องการซ่อม\n4.เลือกระบุเวลาซ่อม ได้\n5.แมช ช่างที่ว่าง กับ โล ใกล้เคียง ได้",
+    "title": "หาคนเขียนแอป หาช่างซ่อมบ้าน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-19T08:38:41.410432Z",
+    "updated_at": "2026-10-19T08:38:43.408795Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A536E;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-19",
+    "expired_at": "2026-11-18T08:38:41.366639Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "86fcf80b-798c-44a0-baa2-d673c4b83e2b",
+    "user_profile": {
+      "id": "86fcf80b-798c-44a0-baa2-d673c4b83e2b",
+      "username": "uschyqzn",
+      "display_name": "uschyqzn",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-19T13:43:07.723Z"
+  },
+  {
     "id": "37c580bc-309a-45f7-9256-e57ff6f7dd99",
     "status": "open",
     "tag": {
@@ -96,104 +294,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-18T13:43:21.914Z"
-  },
-  {
-    "id": "28d34220-a192-46d4-b798-c6079633d2d0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาฟรีแลนซ์ช่วยหาลูกค้า (Sales Partner) รับค่าคอมมิชชัน 10–15%\n\nเรากำลังมองหาคนช่วยหาลูกค้าให้กับทีมพัฒนาเว็บไซต์และซอฟต์แวร์ โดยเป็นงานฟรีแลนซ์ รับค่าคอมมิชชันเมื่อแนะนำลูกค้าเข้ามาและเกิดการจ้างงานจริง\n\nทีมเรารับพัฒนาเว็บไซต์ Web Application, Mobile Application และระบบจัดการสำ���รับธุรกิจต่าง ๆ มีประสบการณ์ทำงานกับลูกค้าทั้งในไทย อังกฤษ และอเมริกา\n\nลูกค้าที่อยากให้ช่วยหา\n\n* ธุรกิจที่ต้องการทำเว็บไซต์ใหม่หรือปรับปรุงเว็บไซต์เดิม\n* ธุรกิจที่ต้องการแอปพลิเคชันหรือ Web Application\n* ร้านอาหาร คาเฟ่ คลินิก ร้านเสริมสวย ที่ต้องการระบบจองคิวหรือจัดการร้าน\n* บริษัทที่ต้องการระบบจัดการลูกค้า สต็อก พนักงาน หรือระบบหลังบ้าน\n* ธุรกิจที่อยากเปลี่ยนจากการใช้ Excel หรือเอกสารมาเป็นระบบออนไลน์\n\nหาลูกค้าได้ทั้งในไทยและต่างประเทศ\n\nสิ่งที่ต้องทำ\n\n1. หาลูกค้าผ่าน Facebook, LinkedIn, คอนเนกชันส่��นตัว หรือช่องทางที่ถนัด\n2. ติดต่อสอบถามความต้องการเบื้องต้น\n3. แนะนำลูกค้าที่สนใจจริงให้รู้จักกับทีมเรา พร้อมข้อมูลติดต่อและรายละเอียดงาน\n4. ช่วยประสานงานนัดพูดคุย จากนั้นทีมเราจะดูแลเรื่องเสนอราคาและปิดการขายต่อเอง\n\nทำงานเวลาไหนก็ได้ ไม่กำหนดจำนวนลูกค้าต่อวัน สามารถทำเป็นงานเสริมได้ โดยเน้นลูกค้าที่มีความต้องการจริง ไม่ใช้วิธีสแปม\n\nคุณสมบัติ\n\n* มีประสบการณ์ Sales, Marketing หรือ Lead Generation จะพิจารณาเป็นพิเศษ\n* มีคอนเนกชันกับเจ้าของธุรกิจจะดีมาก\n* สื่อสารภาษาอังกฤษได้จะเป็นข้อได้เปรียบ\n* ไ���่จำเป็นต้องเขียนโปรแกรมเป็น\n* สามารถหาลูกค้าและทำงานด้วยตัวเองได้\n\nค่าตอบแทน\n\nCommission Based 10–15% ของมูลค่าโปรเจกต์\n\n* ได้รับค่าคอมมิชชันเมื่อลูกค้าที่แนะนำตกลงจ้างและชำระเงินมัดจำแล้ว\n* ไม่มีเงินเดือนหรือค่าตอบแทนสำหรับการส่งรายชื่อและนัดคุยที่ยังไม่เกิดการจ้างงาน\n* ไม่จำกัดจำนวนลูกค้าที่แนะนำได้\n\nตัวอย่าง: โปรเจกต์มูลค่า 100,000 บาท รับค่าคอมมิชชัน 10,000–15,000 บาท\n\nหากสนใจ\n\nรบกวนแนะนำตัวสั้น ๆ พร้อมแจ้งประสบการณ์ด้านการขาย ช่องทางที่คิดว่าจะใช้หาลูกค้า และกลุ่มธุรกิจหรือประเทศที่ถนัด\n\nเราตั้งใจหาคนมาร่วมงานระยะยาว หากทำงานเข้ากันได้ก็สามารถร่วมงานกันต่อเนื่องได้ครับ\n\nหมายเหตุ: งานนี้จ่ายค่าตอบแทนเฉพาะกรณีที่แนะนำลูกค้าแล้วเกิดการว่าจ้างจริงเท่านั้น รบกวนอ่านเงื่อนไขก่อนเสนอราคาหรือสมัครงานครับ",
-    "title": "หา Digital sales เพื่อหาลูกค้าให้กับบริษัท",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-18T08:31:13.282356Z",
-    "updated_at": "2026-10-18T08:31:15.868149Z",
-    "user_id": "129c94d7-6c42-47c1-a436-ebaab0419537",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-17T08:31:13.244125Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-18T09:57:10.725Z"
-  },
-  {
-    "id": "a1beea5b-145e-47a8-8653-f8e7fdde409d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รับ Backend/Full-stack Developer หรือทีมพัฒนา เพื่อต่อยอดระบบเดิม (ไม่ใช่สร้างใหม่) รองรับ Citizen, Seller, Provider และ Executive ผ��าน ThaiWay Platform Core\n\nขอบเขตงาน\n\n1. Auth: Login/Logout, Session, Token, Session Expiry และป้องกันการเข้าถึงผิดสิทธิ์\n2. Tenant/Membership: จัดการ User–Tenant–Role ป้องกันข้อมูลข้าม Tenant โดยไม่ลดความปลอดภัยของ RLS เดิม\n3. RBAC: บังคับใช้ Role/Permission ที่ Backend/API ป้องกันยกระดับสิทธิ์ และแยกข้อมูลพาณิชย์จาก Executive\n4. Core API: /me, /tenants, /memberships, /roles ตาม Scope อนุมัติ พร้อม Validation, Error Handling, Correlation ID, Audit และ OpenAPI\n5. เชื่อม Auth/Tenant/Role กับ UI รวม Unauthorized และ Session Expired โดยไม่ขยายฟีเจอร์เกินขอบเขต\n\nข้อบังคับ: ทำเฉพาะ Sandbox/Staging ด้วยข้อมูลจำลอง ห้ามใช้ Production/ข้อมูลจริง/Secrets ห้ามแก้ Schema, Migration, RLS, Merge, Deploy หรือขยาย Scope โดยไม่อนุมัติ ต้องรักษาความลับและ No Vendor Lock-in\n\nตรวจรับจากผลทดสอบจริง: Auth/Session, Permission, Cross-Tenant Denial, API Error, Security และ Regression ต้องไม่มี Critical/High ค้างในขอบเขต\n\nส่งมอบ: Source Code, API Docs, Test Plan/Results, Security Report, Git Commit/SHA-256, Migration/Rollback (ถ้ามี), Runbook, ZIP+Manifest/Evidence พร้อมให้ Dev รายอื่นทำงานต่อได้\n\nคุณสมบัติ: มีประสบการณ์ React/TypeScript, Supabase/PostgreSQL, Auth, Multi-Tenant, RLS/RBAC, API Security, Git และ Testing\n\nข้อเสนอต้องครบ 9 เรื่อง: ข้อมูลทีม, ผลงาน, ความเข้าใจโจทย์, แนวทางพัฒนา, แผนทดสอบ, ระยะเวลา, ราคา Fixed Price/ข้อยกเว้น, การรับประกัน/ส่งมอบ, การยอมรับเงื่อนไข Security และสิทธิ์ผลงาน\n\nคัดความครบถ้วนและคุณสมบัติก่อนพิจารณาราคา ชำระตามงวดภายใต้ Fastwork ไม่มีมัดจำนอกข้อ���กลง\n\nเปิดรับ 5 วัน (120 ชั่วโมง) จากเวลาเผยแพร่ (เวลาไทย) ส่งข้อเสนอผ่าน Fastwork เท่านั้น การคัดเลือกไม่ใช่คำสั่ง START ต้องรออนุมัติเป็นลายลักษณ์อักษรหลังตรวจเงื่อนไข M-D1/Gate ที่เกี่ยวข้อง",
-    "title": "ประกาศจ้าง Developer — ThaiWay/LocalLink M-D2 Shared Core: Auth / Tenant / Role / API",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-18T07:30:29.677935Z",
-    "updated_at": "2026-10-18T07:30:31.006503Z",
-    "user_id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A346N;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-17T07:30:29.631185Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
-      "username": "ii0z4bpe",
-      "display_name": "ZOON STUDIO",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/59f144a3-c79c-4cfc-8b65-735b49b98da0/profile/48f6fc13-d501-4eb9-a7d6-a65e03abb374.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-18T09:57:09.518Z"
   }
 ]
