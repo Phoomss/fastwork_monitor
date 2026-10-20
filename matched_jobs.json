@@ -1,5 +1,54 @@
 [
   {
+    "id": "33065fa0-6919-49bf-96e4-caa7b40f07d9",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนแก้โปรแกรม tts error \nกระบวนการแปลงเสียงล้มเหลว:\n\n403, message='Invalid response status', url='wss:// speech.platform.bing.com/consumer/ speech/synthesize/readaloud/edge/ v1?TrustedClientToken=6A5AA1D4EA FF4E9FB37E23D68491D6F4&Connecti onld=c5acc0bacbdd4f42bf714efbd25 690a7&Sec-MS-GEC=1997B2F6B790B 891821B07ABCE18F8C6C923766625 552BBF6EFB462BCCC1FB0E&Sec-MS- GEC-Version=1-143.0.3650.75",
+    "title": "หาคนแก้โปรแกรม tts error ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-20T17:51:52.609151Z",
+    "updated_at": "2026-10-20T17:51:54.417590Z",
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2027-10-21",
+    "expired_at": "2026-11-19T17:51:52.593695Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-20T20:02:56.458Z"
+  },
+  {
     "id": "ec67d627-ce9d-49e5-87f2-69f5a9e80042",
     "status": "open",
     "tag": {
@@ -246,54 +295,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-20T11:59:14.570Z"
-  },
-  {
-    "id": "fa414d70-42e3-4198-9bf3-a03d8ca6cc80",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "ต้องการหาผู้รับจ้างที่มีบัญชี Apple Developer และสามารถรับฝากเผยแพร่แอปพลิเคชันบน Apple App Store ได้",
-    "title": "ผู้รับฝากแอป Flutter ขึ้น Apple App Store ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-19T18:16:05.847213Z",
-    "updated_at": "2026-10-19T18:16:07.272563Z",
-    "user_id": "217d0e10-d84b-4599-9d8f-c3429bcc8339",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-18T18:16:05.809332Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "217d0e10-d84b-4599-9d8f-c3429bcc8339",
-      "username": "krunat",
-      "display_name": "krunat",
-      "image_url": "https://storage.googleapis.com/fastwork-static/84005965-62c3-427b-b068-8a1afa533741.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-19T19:28:44.374Z"
   }
 ]
