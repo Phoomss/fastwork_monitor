@@ -1,5 +1,54 @@
 [
   {
+    "id": "ec67d627-ce9d-49e5-87f2-69f5a9e80042",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "สร้าง meta app การเชื่อมต่อ Facebook & Instagram (Meta Graph API) ผมทำแอป Saas สำหรับโพสต์ Content ลง Facebook Instagram อัตโนมัติิ ",
+    "title": "สร้าง Meta App เพื่อเชื่อมต่อกับแอปในการโพสต์ Content จากแอปตัวเอง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "3000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-20T15:05:56.235515Z",
+    "updated_at": "2026-10-20T15:05:58.241442Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-19T15:05:56.187055Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d27fcf4e-d447-4050-a756-bf1a7b557757",
+    "user_profile": {
+      "id": "d27fcf4e-d447-4050-a756-bf1a7b557757",
+      "username": "khunkim",
+      "display_name": "Khun Kim",
+      "image_url": "https://storage.googleapis.com/fastwork-static/cc27614f-7ac0-448b-b9e4-a27fba3a0f00.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-20T16:26:49.453Z"
+  },
+  {
     "id": "6ffe1851-215e-45e6-8590-54fbbd910385",
     "status": "open",
     "tag": {
@@ -246,203 +295,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-19T19:28:44.374Z"
-  },
-  {
-    "id": "65280a31-b2c9-477e-af7c-e6e6b5c97d24",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "บรีฟงาน\nสวัสดีค่ะ บริษัท ซิสเท็ม ยู โซลูชั่น \nบริษัทสายพัฒนา Software \nต้องการ Full time Full-Stack Dev\nเงินเดือน 25000-35000+++ (ขึ้นอยู่กับความสามารถ)\nงาน WFH , Hybrid , ส่วนใหญ่จะ WFH \n\nประสบการ��์ 3+ Yrs \nถนัด React , Next.js , Node.js , C# , JavaScript , TypeScript , CSS\nDB : MS SQL Server , postgresql , Cloud AWS , Google Cloud , คำสั่ง SQL \nVersion : Git , GitLAB \n\nมีระบบ Software น่าสนใจให้ร่วมทีม \nมีให้เรียนรู้พร้อมปฏิบัติงานจริง \n\nต้องการด่วน พร้อมเริ่มงาน ทันที",
-    "title": "ProgrammerFull-Stack Dev ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-19T10:59:24.728876Z",
-    "updated_at": "2026-10-19T10:59:28.230908Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-18T10:59:24.650695Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
-    "user_profile": {
-      "id": "15fe4cea-c9fb-4617-8aaa-d43122a29718",
-      "username": "aghzhgwf",
-      "display_name": "ผกาวัลย์  ศิลขันธ์",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-19T13:43:11.880Z"
-  },
-  {
-    "id": "6bad4d26-b759-47a4-837e-ccb7a871b154",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "🚀 ประกาศรับสมัครงานด่วน!!\n💻 ตำแหน่ง Full-Stack Developer (Full-Time)\n\nบริษัท ซิสเท็ม ยู โซลูชั่น จำกัด (System You Solution Co., Ltd.) บริษัทรับพัฒนาระบบ Software สำหรับธุรกิจ กำลังมองหา Developer มาร่วมเติบโตไปด้วยกัน 🚀\n\n💰 เงินเดือน 25,000 – 35,000+++ บาท\n(พิจารณาตามประสบการณ์และความสามารถ)\n\n🏡 รูปแบ���การทำงาน\n\nWork From Home (WFH) / Hybrid\n\nทำงานจากที่บ้านเป็นหลัก\n\nตำแหน่งประจำ Full-Time\n\n👨‍💻 คุณสมบัติที่ต้องการ\n\nมีประสบการณ์พัฒนา Software อย่างน้อย 3 ปีขึ้นไป\n\nสามารถพัฒนาระบบได้ทั้ง Frontend และ Backend\n\nมีความรับผิดชอบ สามารถทำงานร่วมกับทีมได้ดี\n\nพร้อมเรียนรู้เทคโนโลยีใหม่ ๆ\n\n🛠️ Tech Stack ที่ต้องการ\n\nFrontend / Backend\n\nReact / Next.js\n\nNode.js / C#\n\nJavaScript / TypeScript\n\nCSS\n\nDatabase & Cloud\n\nMS SQL Server\n\nPostgreSQL\n\nAWS / Google Cloud\n\nSQL\n\nVersion Control\n\nGit / GitLab\n\n✨ สิ่งที่คุณจะได้รับ\n\nได้พัฒนาระบบ Software สำหรับธุรกิจจริง\n\nมีโปรเจกต์หลากหลายให้เรียนรู้และพัฒนาทักษะ\n\nได้เรียนรู้พร้อมลงมือปฏิบัติงานจริง\n\nทำงานแบบ WFH เป็นหลัก\n\n🔥 ต้องการคนพร้อมเริ่มงานทันที!",
-    "title": "Developer Full-Stack",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-19T09:25:35.498582Z",
-    "updated_at": "2026-10-19T09:25:37.122777Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-18T09:25:35.438874Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "f7c4714a-6d7b-4e91-b6f0-d53aac5d585a",
-    "user_profile": {
-      "id": "f7c4714a-6d7b-4e91-b6f0-d53aac5d585a",
-      "username": "sy30052224",
-      "display_name": "sy30052224",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-19T13:43:10.002Z"
-  },
-  {
-    "id": "372d4b33-9124-4898-adac-0c9bc3044f4f",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "หาคนสร้างเว็บ  โดย Ref= Website:แสนสิริ,แกรดิโอ แนวอสังหา ขอแบบใกล้เคียงหรือสไตล์นี้ แนบผลงานพร้อมเสนอราคาครับ ขอแบบคนบจบครับ",
-    "title": "หาคนสร้าง Website ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-19T08:40:35.889636Z",
-    "updated_at": "2026-10-19T08:40:38.005499Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-18T08:40:35.781484Z",
-    "freelance_offers_count": 19,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "daba9158-f136-4da9-b362-a9000abab7e2",
-    "user_profile": {
-      "id": "daba9158-f136-4da9-b362-a9000abab7e2",
-      "username": "ppr8u6fp",
-      "display_name": "Zenma666",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/daba9158-f136-4da9-b362-a9000abab7e2/profile/46d728e8-c008-4579-8491-01b34f972814.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-19T13:43:08.868Z"
-  },
-  {
-    "id": "dda3937b-4b64-4d24-9f2e-786b8f975b52",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการคนเขียนแอป\n1.ลูกค้าต้องการซ่อมแซมบ้าน หอ รร \n2.สามารถเสนอ ค่าใช้จ่าย คร่าวไปได้\n3.ลุกค้าสารมารถระบุ โล ที่ต้องการซ่อม\n4.เลือกระบุเวลาซ่อม ได้\n5.แมช ช่างที่ว่าง กับ โล ใกล้เคียง ได้",
-    "title": "หาคนเขียนแอป หาช่างซ่อมบ้าน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-19T08:38:41.410432Z",
-    "updated_at": "2026-10-19T08:38:43.408795Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A536E;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-12-19",
-    "expired_at": "2026-11-18T08:38:41.366639Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "86fcf80b-798c-44a0-baa2-d673c4b83e2b",
-    "user_profile": {
-      "id": "86fcf80b-798c-44a0-baa2-d673c4b83e2b",
-      "username": "uschyqzn",
-      "display_name": "uschyqzn",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-19T13:43:07.723Z"
   }
 ]
