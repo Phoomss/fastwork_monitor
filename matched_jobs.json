@@ -1,5 +1,204 @@
 [
   {
+    "id": "6ffe1851-215e-45e6-8590-54fbbd910385",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "DINKR x The Playbook | พิกเคิลบอล & บอร์ดเกม (รับ 2 คน)\n\nDINKR คือคอมมูนิตี้พิกเคิลบอลในไทย เราหาคนที่เล่นเอง ถ่ายเอง และชวนคนมาเล่นได้เอง เลือกสนามหรือร้านใกล้บ้านได้เอง\nเว็บแอป: https://dinkropenplay.com/\nเพจ Facebook: ดูจากลิงก์ตัวอย่างผลงาน\n\nหน้าที่\n1. ลงพื้นที่สัปดาห์ละ 2 ครั้ง เลือกสายได้: พิกเคิลบอล / บอร์ดเกม / ผสม\n2. ลงเล่นจริง และชวนคนในและนอกสนามมาเล่นด้วยกัน\n3. ถ่ายและตัดต่อคลิปสั���นด้วยมือถือเอง โดยเป็นพิธีกรหรือตัวดำเนินเรื่อง\n4. ชวนคนสมัครและนัดเล่นผ่านเว็บแอป dinkropenplay.com ด้วย QR หรือรหัสของตัวเอง\n5. เป็นพิธีกรในอีเวนต์ใหญ่ของบริษัท (มีทีมมือกล้องของบริษัท)\n6. เสนอและลองไอเดียแคมเปญใหม่ และส่งสรุปผลสั้นๆ ทุกวันศุกร์\n\nKPI รายสัปดาห์\n- ลงพื้นที่ครบ 2 ครั้ง\n- ลงสตอรี่ระหว่างลงพื้นที่ทุกครั้ง\n- คลิปสั้น 4 คลิป ส่งภายใน 24 ชม.\n- สมัครใหม่ผ่านเว็บแอป 20 คน\n- มาเล่นจริงผ่านเว็บแอป 10 คน\n- ลองไอเดียใหม่หน้างาน 1 อย่าง\n- ตอบทีมภายในวันเดียวกัน\n\nคุณสมบัติ\n- ชอบพิกเคิลบอลหรือบอร์ดเกม เล่นย���งไม่เก่งก็ได้\n- กล้าแสดงออก พูดหน้ากล้องได้ และเข้าหาคนแปลกหน้าได้\n- ถ่ายและตัดต่อคลิปด้วยมือถือได้ (เช่น CapCut)\n- คล่องตัว ทำงานเร็ว ว่างช่วงเย็นหรือวันหยุด\n- พิจารณาเป็นพิเศษ: บ้านใกล้สนามหรือร้าน เดินทางสะดวก, รู้จักคนในสนามอยู่แล้ว, มีช่องโซเชียลหรือเคยดูแลคอมมูนิตี้\n\nค่าตอบแทน\n- ฟรีแลนซ์ สัญญารายเดือน ทดลองงาน 2–4 สัปดาห์\n- 15,000–25,000 บาท/เดือน (ฐาน + โบนัสรายสัปดาห์ตาม KPI)\n- บริษัทออกค่าคอร์ทหรือค่าเล่นในวันลงพื้นที่ และค่าเดินทาง\n\nวิธีสมัคร: กดเสนองานใน Fastwork พร้อมแนบ\n1. คลิปแนะนำตัวที่ถ่ายและ��ัดต่อเอง ไม่เกิน 60 วินาที\n2. ลิงก์ผลงานหรือโซเชียล (ถ้ามี)\n3. สายที่เลือก\n4. ย่านที่พัก และสนามหรือร้านที่จะไป",
+    "title": "ครีเอทีฟสายคอมมูนิตี้ พิกเคิลบอล/บอร์ดเกม ถ่ายคอนเทนต์และชวนคนมาเล่น (รับ 2 คน)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-20T11:32:39.636079Z",
+    "updated_at": "2026-10-20T11:32:40.982484Z",
+    "brief_url": "https://www.facebook.com/DINKR.TH/",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-11-19T11:32:39.576733Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+    "user_profile": {
+      "id": "486a4610-f6dc-49d2-8df6-69b7854adec2",
+      "username": "joethongchai",
+      "display_name": "Joe Thongchai",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/486a4610-f6dc-49d2-8df6-69b7854adec2/profile/7baf2a1d-b2f8-41e4-9036-78cbbb42ca9a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-20T11:59:18.414Z"
+  },
+  {
+    "id": "1dca562e-8eba-45d6-99d8-99c48bef0993",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": " หา Technical Partner ร่วมสร้างแอปพลิเคชันธุรกิจร้านอาหาร\n\nผมกำลังมองหานักพัฒนาที่สนใจร่วมสร้างธุรกิจแพลตฟอร์มรวบรวมร้านอาหารท้องถิ่น โดยเริ่มต้นจากภาคเหนือ และมีเป้าหมายต่อยอดสู่แพลตฟอร์มที่เ���ิบโตได้ในระยะยาว\n\nผมไม่ได้มองหาผู้รับจ้างเขียนโค้ดทั่วไป แต่ต้องการคนที่มีความสามารถด้านเทคโนโลยีและสนใจเปลี่ยนไอเดียให้กลายเป็นธุรกิจจริง โดยร่วมมือกันตั้งแต่เริ่มต้น\n\nบทบาทของผม\n- วางวิสัยทัศน์และทิศทางธุรกิจ\n- กำหนดแนวคิดและรูปแบบการให้บริการ\n- วางแผนการตลาดและขยายฐานร้านอาหาร\n- สร้างเครือข่ายร้านค้าและพันธมิตรทางธุรกิจ\n\nบทบาทของคุณ\n- ออกแบบและพัฒนาแอปพลิเคชัน\n- สร้างฐานข้อมูลและระบบหลังบ้าน\n- พัฒนาระบบให้พร้อมใช้งานจริงและรองรับการเติบโต\n- ดูแลและปรับปรุงระบบตามขอ���เขตที่ตกลงร่วมกัน\n\nรูปแบบผลตอบแทนและเงื่อนไขเบื้องต้น\n\nผมเสนอส่วนแบ่งกำไร 10% เป็นระยะเวลา 10 ปี โดยไม่ให้หุ้นหรือกรรมสิทธิ์ในบริษัท เพื่อเป็นผลตอบแทนสำหรับการร่วมพัฒนาระบบ\n\nเงื่อนไขจะกำหนดในสัญญาร่วมกันอย่างชัดเจน ได้แก่\n\n1. ส่วนแบ่ง 10% คำนวณจากกำไรสุทธิของธุรกิจที่เกี่ยวข้องกับแพลตฟอร์ม ตามสูตรและรายการค่าใช้จ่ายที่ระบุในสัญญา ไม่ใช่ยอดขาย\n2. เริ่มนับระยะเวลา 10 ปีเมื่อแพลตฟอร์มเปิดให้บริการเชิงพาณิชย์ตามเงื่อนไขที่ตกลงกัน\n3. กำหนดขอบเขตงาน การส่งมอบระบบ การดูแลต่อเนื่อง และ���งื่อนไขกรณีฝ่ายใดฝ่ายหนึ่งยุติความร่วมมือ\n4. กำหนดสิทธิในซอร์สโค้ด ฐานข้อมูล และทรัพย์สินทางปัญญา รวมถึงการเข้าถึงระบบให้ชัดเจน\n5. มีรายงานผลประกอบการและวิธีตรวจสอบการคำนวณส่วนแบ่งอย่างโปร่งใส\n\nเป้าหมายคือร่วมกันสร้าง MVP ทดลองตลาด ขยายฐานร้านอาหารและผู้ใช้งาน แล้วเติบโตไปด้วยกัน โดยรายละเอียดและสัญญาจะเจรจาให้เป็นธรรมกับทั้งสองฝ่าย\n\nหากคุณสนใจสร้างธุรกิจมากกว่าการรับงานเป็นครั้ง ๆ ผมยินดีพูดคุยเพื่อแลกเปลี่ยนแนวคิดและวางแผนร่วมกัน",
+    "title": "Technical Partner ร่วมพัฒนาแอปแพลตฟอร์มร้าน��าหารจนเสร็จ รับส่วนแบ่งกำไร 10% นาน 10 ปี โดยไม่ต้องลงทุนเงินสด",
+    "is_owner": false,
+    "source": "jobboard_web_seller-center_top-nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-20T09:53:21.259262Z",
+    "updated_at": "2026-10-20T09:53:22.560293Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-19T09:53:21.139850Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-20T11:59:17.193Z"
+  },
+  {
+    "id": "4718eb97-5ea7-4395-946a-17e26f79832f",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "ออกแบบ UX / UI Application สำหรับ Web และ Mob App และ ระบบหลังบ้านดูแลสมาชิก\n- มีตัวอย่าง refer. สำหรับทิศทาง ในการออกแบบ\n- รบกวนหาก เป็น designer ที่เคยมีประสบการณ์การใช้งาน e-book ",
+    "title": "ออกแบบ UX / UI Application สำหรับ Web และ Mob App และ ระบบหลังบ้านดูแลสมาชิก",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-20T09:06:28.779849Z",
+    "updated_at": "2026-10-20T09:06:30.679093Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-19T09:06:28.738068Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3ae44d2c-0014-4530-abdb-4c46036081d2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-20T11:59:15.803Z"
+  },
+  {
+    "id": "82b5cfad-9ea1-4441-9d23-d841ddd25e5c",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนพัฒนาเว็ปไซต์และเชียวชาญการทำเว็ป\n\nธุรกิจที่ทำ เราทำเว็ปไซต์คล้าย wongnai เป็นเว็ปรีวิวร้านอาหารแทบจะเหมือนกันทุกอย่างเลย\nแต่ทำสำหรับคนที่เป็นอิสลาม มี halal \n\nงานที่ต้องทำคือ ทำให้เว็ปไซต์จากที่มีแค่ ux ui\nใช้งานได้จริงมีร้านอาหาร มีอาหารอยู่ในเว็ปไซต์จริงๆใช้งานได้จริงเหมือน wongnai ดึงรูปอาหารบริการจากร้านนั้นมาใช้ได้จริง และจดโดเมน .com ให้ด้วย\nสรุปง่ายๆคือการทำให้เว็ปไซต์ใช้ได้จริง\n\nแก้ไขบัคพวกที่ไม่เกี่ยวกับอาหารร้านอาหารอิสลาม\n\nลิงค์เว็ปอยู่ด้านล่าง",
+    "title": "เชียวชาญการทำเว็ปไซต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-20T07:25:09.886105Z",
+    "updated_at": "2026-10-20T07:25:11.540346Z",
+    "brief_url": "https://l.instagram.com/?u=https%3A%2F%2Filovehalal.tiwankeawakkapol.workers.dev%2F&e=AUCuOM17WflqFskhmix9TOtG_wuOYxux6oTtFFail55M7sZpD6xCw5Jg4aWN7WjkMXn8_oVLW_LjHVTV1iSAmCtJVpp4WJ0bZX25EbFeRIUrWmg2VetyQu86WCpSdaB0ab-6T-PSRaSs",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-31",
+    "expired_at": "2026-11-19T07:25:09.840725Z",
+    "freelance_offers_count": 14,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "b7389b4a-9d19-408a-94ee-7d293e37362d",
+    "user_profile": {
+      "id": "b7389b4a-9d19-408a-94ee-7d293e37362d",
+      "username": "sudcrcpa",
+      "display_name": "jacob",
+      "image_url": "https://storage.googleapis.com/fastwork-static/b15c8a5e-6d0f-433d-a190-bd78eda2e0d6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-20T11:59:14.570Z"
+  },
+  {
     "id": "fa414d70-42e3-4198-9bf3-a03d8ca6cc80",
     "status": "open",
     "tag": {
