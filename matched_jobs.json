@@ -1,5 +1,54 @@
 [
   {
+    "id": "283badcb-69e2-4756-a2bb-c85948713590",
+    "status": "open",
+    "tag": {
+      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
+      "name": "แปลภาษา",
+      "sort": 10
+    },
+    "type": "freelance",
+    "description": "ตามที่โพส\n\nหาคนสอนแปลนิยาย หรือมีโปรแกรมแปลนิยาย\n\n-ทีละเยอะๆ\n\n-ขั���เกลา\n\n-ประโยค สถานที่ วิชา ไม่เรียน\n\nทักมาได้เลยครับขอคนมีประสบการยิ่งดี\n\n*อาจจะเขียนโปรแกรมหรืออื่นๆ\n*สามารถแปลได้หลายตอน\n*แปลไม่เพี้ยน",
+    "title": "หาคนสอนแปลนิยาย ด้วย ai นิยายจีน,อื่นๆ แปลทีละหลายๆตอน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-21T17:33:30.456184Z",
+    "updated_at": "2026-10-21T17:33:32.392525Z",
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-20T17:33:30.440036Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-21T20:31:03.699Z"
+  },
+  {
     "id": "da37abde-0681-4c9b-8281-fc8020fefc4b",
     "status": "open",
     "tag": {
@@ -293,54 +342,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-21T06:21:01.814Z"
-  },
-  {
-    "id": "33065fa0-6919-49bf-96e4-caa7b40f07d9",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนแก้โปรแกรม tts error \nกระบวนการแปลงเสียงล้มเหลว:\n\n403, message='Invalid response status', url='wss:// speech.platform.bing.com/consumer/ speech/synthesize/readaloud/edge/ v1?TrustedClientToken=6A5AA1D4EA FF4E9FB37E23D68491D6F4&Connecti onld=c5acc0bacbdd4f42bf714efbd25 690a7&Sec-MS-GEC=1997B2F6B790B 891821B07ABCE18F8C6C923766625 552BBF6EFB462BCCC1FB0E&Sec-MS- GEC-Version=1-143.0.3650.75",
-    "title": "หาคนแก้โปรแกรม tts error ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-20T17:51:52.609151Z",
-    "updated_at": "2026-10-20T17:51:54.417590Z",
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S938B;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2027-10-21",
-    "expired_at": "2026-11-19T17:51:52.593695Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-20T20:02:56.458Z"
   }
 ]
