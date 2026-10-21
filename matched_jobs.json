@@ -342,54 +342,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-20T20:02:56.458Z"
-  },
-  {
-    "id": "ec67d627-ce9d-49e5-87f2-69f5a9e80042",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สร้าง meta app การเชื่อมต่อ Facebook & Instagram (Meta Graph API) ผมทำแอป Saas สำหรับโพสต์ Content ลง Facebook Instagram อัตโนมัติิ ",
-    "title": "สร้าง Meta App เพื่อเชื่อมต่อกับแอปในการโพสต์ Content จากแอปตัวเอง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-20T15:05:56.235515Z",
-    "updated_at": "2026-10-20T15:05:58.241442Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5.2;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-19T15:05:56.187055Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "d27fcf4e-d447-4050-a756-bf1a7b557757",
-    "user_profile": {
-      "id": "d27fcf4e-d447-4050-a756-bf1a7b557757",
-      "username": "khunkim",
-      "display_name": "Khun Kim",
-      "image_url": "https://storage.googleapis.com/fastwork-static/cc27614f-7ac0-448b-b9e4-a27fba3a0f00.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-20T16:26:49.453Z"
   }
 ]
