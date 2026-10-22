@@ -1,5 +1,54 @@
 [
   {
+    "id": "7641cb9c-fa84-4bfb-9893-44bf61171e7f",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "ต้องการคนที่เชื่อม Meta Tech Provider ได้ เพื่อให้แอพ/เว็บ ของผมสามารถกด เชื่อม Meta/whatsapp ผ่าน เว็บได้เลย ",
+    "title": "meta tech provider",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-22T03:22:51.562832Z",
+    "updated_at": "2026-10-22T03:22:53.044948Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-10-25",
+    "expired_at": "2026-11-21T03:22:51.515523Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "57496c46-8900-40d2-b31a-f3559e67e10e",
+    "user_profile": {
+      "id": "57496c46-8900-40d2-b31a-f3559e67e10e",
+      "username": "jmmfoto",
+      "display_name": "jmmfoto",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/57496c46-8900-40d2-b31a-f3559e67e10e/profile/55b38484-d25c-46a6-a8ec-8781ea151f51.png"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-22T06:35:27.122Z"
+  },
+  {
     "id": "283badcb-69e2-4756-a2bb-c85948713590",
     "status": "open",
     "tag": {
@@ -244,103 +293,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-21T12:02:14.264Z"
-  },
-  {
-    "id": "e4d6109d-8f05-431b-b651-d88b18c95165",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": " 📢 ประกาศรับสมัครงาน Part-time\n\nตำแหน่ง: ผู้ดูแลเว็บไซต์ WordPress (Work from Home)\n\npharm-job เปิดรับสมัครผู้ดูแลเว็บไซต์ WordPress แบบ Part-time สามารถทำงานจากที่บ้านได้ เหมาะสำหรับผู้ที่มีความรู้และประสบการณ์ในการใช้งาน WordPress สามารถดูแลระบบหลังบ้าน ตรวจสอบการทำงานของเว็บไซต์ และแก้ไขปัญหาเบื้องต้นได้\n\n 📝 หน้าที่และความรับผิดชอบ\n- ตรวจสอบและดูแลระบบหลังบ้านเว็บไซต์ WordPress\n- ตรวจสอบความผิดปกติและแก้ไขปัญหาการใช้งานเว็บไซต์เบื้องต้น\n- ดูแลความเรียบร้อยและตรวจสอบการทำงานของเว็บไซต์ให้เป็นปกติ\n- ปรับปรุงหรือแก้ไขเว็บไซต์ตามที��ได้รับมอบหมาย\n- รายงานผลการทำงานและแจ้งปัญหาที่พบให้ผู้เกี่ยวข้องทราบ\n\n ✅ คุณสมบัติผู้สมัคร\n- มีความรู้และประสบการณ์ในการใช้งาน WordPress\n- สามารถตรวจสอบและแก้ไขปัญหาเว็บไซต์เบื้องต้นได้\n- มีความรับผิดชอบ ละเอียดรอบคอบ และตรงต่อเวลา\n- สามารถทำงานออนไลน์และสื่อสารประสานงานได้ดี\n\n💻 รูปแบบการทำงานและค่าตอบแทน\n- รูปแบบงาน:Part-time\n- สถานที่ทำงาน:Work from Home (ทำงานจากที่บ้าน)\n- เวลาทำงาน:ยืดหยุ่นตามที่ตกลงและปริมาณงาน\n- ค่าตอบแทน:คิดตามชั่วโมงการทำงาน สามารถพูดคุยและตกลงกันได้ตามประสบการณ์และขอบเขตงาน\n\n📩 วิธีสมัครงาน\nผู้สนใจสามารถส่งประวัติส่วนตัว พร้อมรายละเอียดประสบการณ์ในการดูแลเว็บไซต์ WordPress เพื่อประกอบการพิจารณา โดยอัตราค่าตอบแทนสามารถพูดคุยและตกลงกันได้\n\nสอบถามรายละเอียดเพิ่มเติมและสมัครงาน\n\n📞 โทรศัพท์: **********\n📧 Email: **********\n🌐 เว็บไซต์: www.pharm-job.com",
-    "title": "ประกาศรับสมัครงาน Part-time  ตำแหน่ง: ผู้ดูแลเว็บไซต์ WordPress (Work from Home)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-21T03:08:31.409008Z",
-    "updated_at": "2026-10-21T03:08:33.193787Z",
-    "user_id": "62bd799c-4e45-47c3-a546-2108d08f029d",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T03:08:31.360340Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "62bd799c-4e45-47c3-a546-2108d08f029d",
-      "username": "p_a_n_ggg",
-      "display_name": "pang official",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/62bd799c-4e45-47c3-a546-2108d08f029d/profile/4110cfa9-7651-4763-9a7d-a049edfd8789.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T06:21:03.159Z"
-  },
-  {
-    "id": "e13c9b62-10a4-4f2c-9a57-c08820be3abb",
-    "status": "open",
-    "tag": {
-      "id": "529766b3-d027-4e00-bc92-baa77c45901f",
-      "name": "ธุรกิจและการเงิน",
-      "sort": 5
-    },
-    "type": "freelance",
-    "description": "งบ200,000ดูแลงานทั้งหมด ตั้งแต่ต้นหน้างานและหลังงานระบบความปลอดภัย และการวางแผนโครงสร้าง\nและหลังจากจบงานจะจ้างเปนรายเดือนเพื่อดูแลระบบเปนสัญญา  เวปไซติเกี่ยวกับการซื้อขายสกินในcsgo",
-    "title": "website buysell skin",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-21T02:44:00.883152Z",
-    "updated_at": "2026-10-21T02:44:02.707453Z",
-    "user_id": "b0c76d90-3b1d-4f25-bf28-92cdf98641fd",
-    "brief_url": "https://skin.club/th",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-12-18",
-    "expired_at": "2026-11-20T02:44:00.829169Z",
-    "freelance_offers_count": 12,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T06:21:01.814Z"
   }
 ]
