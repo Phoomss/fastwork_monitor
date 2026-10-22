@@ -146,54 +146,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-22T06:35:27.122Z"
-  },
-  {
-    "id": "283badcb-69e2-4756-a2bb-c85948713590",
-    "status": "open",
-    "tag": {
-      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
-      "name": "แปลภาษา",
-      "sort": 10
-    },
-    "type": "freelance",
-    "description": "ตามที่โพส\n\nหาคนสอนแปลนิยาย หรือมีโปรแกรมแปลนิยาย\n\n-ทีละเยอะๆ\n\n-ขั���เกลา\n\n-ประโยค สถานที่ วิชา ไม่เรียน\n\nทักมาได้เลยครับขอคนมีประสบการยิ่งดี\n\n*อาจจะเขียนโปรแกรมหรืออื่นๆ\n*สามารถแปลได้หลายตอน\n*แปลไม่เพี้ยน",
-    "title": "หาคนสอนแปลนิยาย ด้วย ai นิยายจีน,อื่นๆ แปลทีละหลายๆตอน",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-21T17:33:30.456184Z",
-    "updated_at": "2026-10-21T17:33:32.392525Z",
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S938B;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T17:33:30.440036Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T20:31:03.699Z"
   }
 ]
