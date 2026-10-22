@@ -1,5 +1,104 @@
 [
   {
+    "id": "f41d3121-6255-4c1c-8ffc-c7709151af48",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "📌 รับสมัครตัวแทนขายอิสระ | บริการทำเว็บไซต์สำหรับธุรกิจขนาดเล็กและกลาง\n\nSTwebsite กำลังมองหาตัวแทนขายอิสระ ที่สนใจช่วยแนะนำบริการทำเว็บไซต์ให้เจ้าของธุรกิจ เช่น ร้านนวดและสปา สถาปนิก ร้านอาหาร และธุรกิจบริการทั่วไป\n\nโดยมุ่งเน้นที่ SME เป็นพิเศษ ช่วยให้เขาเห็นความสำคัญของเรา \n\nบริการที่คุณจะแนะนำ\n\n\t•\tเว็บไซต์ 5 หน้า ราคาเริ่มต้น 13,000 บาท\n     /Landing page ราคา 6,900 บาท\n\t•\tโค้ด HTML/CSS ที่โหลดเร็ว ไม่พึ่งปลั๊กอิน\n\t•\tตั้งค่า SEO และการแชร์ลิงก์บนโซเชียลมีเดีย\n\t•\tฟรีโดเมนและโฮสติ้งปีแรก\n\t•\tดูแลแก้ไขข้อมูลตามเงื่อนไขที่กำหนดในปีแรก\n\nค่าตอบแทน\n\n\t•\tค่าคอมมิชชันไม่เกิน 25% ของราคาที่ลูกค้าชำระจริง\n\n\t•\tตัวแทนสามารถเสนอราคาเพิ่มได้ไม่เกิน 30% ของราคาตั้งต้น / สำหรับยอดต่ำกว่า 7,000 บาท เพิ่มได้สูงสุด 2,000 บาท\n\n\t•\tจ่าย 40 %หลังลูกค้าชำระมัดจำและทีมส่งมอบง���นแล้ว จ่ายส่วนที่เหลือ\n\nคุณสมบัติ\n\n\t•\tมีเครือข่ายหรือรู้จักเจ้าของธุรกิจในพื้นที่ของคุณ\n\t•\tติดต่อสื่อสารเก่ง และพร้อมทำงานตามเงื่อนไขที่ตกลงร่วมกัน\n\t•\tไม่จำเป็นต้องมีประสบการณ์ด้านเว็บไซต์ ทีมพัฒนาดูแลด้านเทคนิคทั้งหมด",
+    "title": "รับสมัครตัวแทนขายอิสระ บริการจัดทำเว็บไซต์สำหรับ SME",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-22T07:29:32.109460Z",
+    "updated_at": "2026-10-22T07:29:34.054948Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-21T07:29:32.068025Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
+    "user_profile": {
+      "id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
+      "username": "punweb",
+      "display_name": "punwebsitedevelopment",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8179f3ac-3c7c-451a-9688-e76cccedb8e8/profile/277cb70b-3e72-40a1-a8a7-0042af3cbd8c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-22T12:18:27.147Z"
+  },
+  {
+    "id": "ebafc0fa-909a-49e2-9363-0d714e9b2d74",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนที่มีความเชียวชาญด้านการทำเว็บไซต์ให้สวยมีภาพ ux ui ขยับได้สวยงามดูอลังการเหมือนในลิงก์ที่ผมแนบไว้ และรู้ว่าธุรกิจแต่ละธุรกิจควรเอาอะไรไปใส่ใน website บ้าง\n\nต้องการคนที่มีประสบการณ์งานจริงๆ\nมีความสามารถไม่ใช่เชียวชาญด้านเว็ปไซต์อย่างเดี่ยวแต่ขอสวยด้วยใข้ได้จริงด้วยใข้เท็มเพ็ตได้",
+    "title": "ผู้พัฒนา website",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-22T07:13:05.095083Z",
+    "updated_at": "2026-10-22T07:13:06.457954Z",
+    "brief_url": "https://www.instagram.com/w.wearebrand?vrfl=a3RiNHQxb2ZmbnFo",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5.2;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-22",
+    "expired_at": "2026-11-21T07:13:05.011951Z",
+    "freelance_offers_count": 13,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "b7389b4a-9d19-408a-94ee-7d293e37362d",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-22T12:18:25.770Z"
+  },
+  {
     "id": "7641cb9c-fa84-4bfb-9893-44bf61171e7f",
     "status": "open",
     "tag": {
@@ -96,202 +195,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-21T20:31:03.699Z"
-  },
-  {
-    "id": "da37abde-0681-4c9b-8281-fc8020fefc4b",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "- ถ่ายรูป ลง เข้า - ออก เวลาทำงาน\n- มีจำนวน วัน และ คำนวณ เงินเดือน\n- อาจจะ export ออกมาเป็น Excel ได้\n- มี Log เก็บ บันทึก ประวัติ เงินเดือน ย้อนหลัง",
-    "title": "คนพัฒนา Web Application สำหรับ โปรแกรม HR สำหรับลงเวลาทำงาน และ คำนวณเงินเดือน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-21T10:58:51.342912Z",
-    "updated_at": "2026-10-21T10:58:52.535651Z",
-    "user_id": "3ae44d2c-0014-4530-abdb-4c46036081d2",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T10:58:51.297723Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T12:02:18.825Z"
-  },
-  {
-    "id": "b657868a-7b43-4b55-855a-c45238a7bf41",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "contract",
-    "description": "เรากำลังมองหา Fulltime Contract – Unity Game Developer เพื���อพัฒนาโปรเจกต์เกมขนาดเล็ก อย่างเช่น สือการเรียนรู้ประเภทเกม, เกมแคชชวล สำหรับงานอีเว้นท์, เกมมือถือ\n\nรูปแบบการทำงาน\n\n\t•\tระยะเวลาจ้าง 1-3 เดือน\n\t•\tการทำงาน Online เป็นหลัก มีเข้าหน้างานบ้าง\n\t•\tสื่อสารและประชมงานผ่าน Discord เป็นหลัก\n\nคุณสมบัติ\n\n\t•\tมีประสบการณ์ในการพฒนาเกมหรือแอปลิเคชันด้วย Unity และภาษา C#\n\t•\tมีความเข้าใจลึกซึ้งในหลักการเขยนโปรแกรมเชิงวัตถุ (OOP) และหลักการ SOLID\n\t•\tสามารถประยุกต์ใช้ Design Patterns\n\t•\tมีความเข้าใจในการทำงานกบ 3D/2D Assets, UI, และ Animation\n\t•\tสามารถเรียนรู้เทคโนโลยีใหม่ๆ ได้เร็ว และสามารถแก้ป���ญหาเฉพาะหนาได้ดี\n\t•\tอยู่ใน กทม สามารถเป็น Staff แนะนำเกมที่ทำตามงานอีเว้นท์ได้\n\nทักษะที่จะพิจารณาเปนพิเศษ\n\n\t•\tมีประสบการณ์ในการพัฒนา AR, VR\n\t•\tมีประสบการณ์ในการเชื่อมต่อ API หรือระบบฐานข้อมูล\n\t•\tมีผลงาน (Portfolio) ที่เกี่ยวข้องกับการพัฒนาเกม\n\t•\tขับรถเป็น และ มีความสามารถในการ Support งานติดตั้งเกมตามอีเว้นท์\n\nงบประมาณ (Budget)\n20,000 – 25,000 (ตามความสามารถ)",
-    "title": "Unity Game Developer",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-21T10:32:17.256901Z",
-    "updated_at": "2026-10-21T10:32:19.183741Z",
-    "user_id": "9cf2fab7-5dea-4606-a5a3-ea8e8952d01f",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T10:32:17.157064Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-21T12:02:17.592Z"
-  },
-  {
-    "id": "19d0a93a-7983-4e3c-8de8-6218058ca8f7",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "เรากำลังมองหา AI Business Lead / Solutions Director (AI Agent) \nคนที่เข้าใจเทคโนโลยี มองเห็นโอกาสทางธุรกิจ และพร้อมลงมือสร้างหน่วยธุรกิจ AI ใหม่ไปด้วยกัน\nตำแหน่งนี้จะมีบทบาทในการนำ AI Agent มาพัฒนาเป็นโซลูชันที่องค์กรใช้งานได้จริง ตั้งแต่การวิเคราะห์ความต้องการของลูกค้า การออกแบบโครงการและหลักสูตรอบรม ไปจนถึงการส่งมอบงาน พร้อมเชื่อมโยงโอกาสและความร่วมมือด้าน AI ระหว่างไทยกับจีน\n\nหน้าที่และความรับผิดชอบ\n• ประเมิน เลือกใช้ และประยุกต์เครื่องมือ AI Agent, LLMs และแพลตฟอร์ม Automation ให้เหมาะกับโจทย์ธุรกิจ\n• ร่วมจัดเวิร์กช็อป AI ดำเนินโครงการให้คำปรึกษา โครงการนำร่อง และส่งมอบโซลูชันให้ลูกค้า\n• พบปะลูกค้า วิเคราะห์ความต้องการ และจัดทำข้อเสนอโครงการ รวมถึงเอกสารนำเสนอ\n• ทำงานโดยตรงกับผู้ก่อตั้ง เพื่อร่วมกำหนดทิศทางผลิตภัณฑ์ พัฒนาความร่วมมือกับพาร์ตเนอร์ และวางกลยุทธ์ธุรกิจ AI\n\nคุณสมบัติที่เรามองหา\n• มีประสบการณ์อย่างน้อย 2 ปี ด้าน AI, Automation, ซอฟต์แวร์ การให้คำปรึกษาด้านโซลูชัน หรือสาขาที่เกี่ยวข้อง\n• มีความรู้และประสบการณ์ลงมือใช้งาน AI Agents, LLM APIs, RAG, Workflow Automation และการเชื่อมต่อระบบ\n• สื่อสารภาษาไทยและภาษาอังกฤษได้ดี หากสื่อสารภาษาจีนได้จะได้รับการพิจารณาเป็นพิเศษ\n• มั่นใจในการพูดคุยกับลูกค้า นำเสนอแนวทางแก้ปัญหา และขายโซลูชันโดยเข้าใจความต้องการของธุรกิจ\n• มีแนวคิดแบบผู้ประกอบการ ปรับตัวได้ดี และพร้อมร่วมสร้างธุรกิจตั้งแต่เริ่มต้น\n\nโอกาสเติบโตไปกับเรา\n• มีส่วนร่วมในการสร้างหน่วยธุรกิจ AI ใหม่ ทั้งด้านกลยุทธ์และการดำเนินงาน\n• ได้ทำงานกับโครงการ AI สำหรับองค์กร หลักสูตรอบรมผู้บริหาร และความร่วมมือระหว่างไทยกับจีน\n• ขยายประสบการณ์และเครือข่ายในแวดวง AI ของทั้งสองประเทศ\n• มีโอกาสเติบโตสู่บทบาทผู้นำระดับสูง และโอกาสร่วมเป็นเจ้าของธุรกิจ AI ของบริษัท\n• ม���ผลตอบแทนเพิ่มเติมตามผลงาน พร้อมโอกาสเติบโตในระยะยาว",
-    "title": "AI Business Lead / Solutions Director (AI Agent)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-21T10:13:47.746741Z",
-    "updated_at": "2026-10-21T10:13:49.880965Z",
-    "user_id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T10:13:47.666130Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-      "username": "starwavesolution",
-      "display_name": "STARWAVESOLUTION",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/631a0f81-24ee-46f1-a797-0cf5b73da52c/profile/6f16e94c-a594-4278-a25c-16b372e7957d.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T12:02:16.428Z"
-  },
-  {
-    "id": "05b03261-1599-4854-9370-2ca3390d4fc0",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "📢 รับสมัคร Part-time Programmer\n\nทางเรากำลังมองหาโปรแกรมเมอร์ Part-time เพื่อร่วมดูแลและพัฒนาระบบเว็บไซต์\n\n🛠️ คุณสมบัติผู้สมัคร\n- มีทักษะด้าน Database (DB), MySQL และ PHP\n- สามารถดูแลและพัฒนาระบบเว็บไซต์ได้\n- มีความรับผิดชอบและสามารถทำงานตามที่ได้รับมอบหมายได้\n\n💻 หน้าที่และความรับผิดชอบ\n- ดูแลและปรับปรุงระบบเว็บไซต์ Pharm-Job\n- จัดการฐานข้อมูลและแก้ไขปัญหาที่เกิดขึ้นกับระบบ\n- พัฒนาฟังก์ชันและปรับปรุงประสิทธิภาพเว็บไซต์ตามที่ได้รับมอบหมาย\n\n⏰ รูปแบบการทำงาน\n- Part-time / Freelance\n- รายละเอียดวันและเวลาทำงานตามที่ตกลงกัน\n\n 💰ค่าตอบแทน\n-ตามตกลงโดยพิจารณาจากทักษะและขอบเขตงาน\n\n📩 สนใจร่วมงาน\nส่งประวัติและรายละเอียดทักษะหรือผลงานที่ผ่านมาได้เลยค่ะ\n",
-    "title": " รับสมัคร Part-time Programmer ดูเเลเว็บไซต์ของบริษัท",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-21T09:32:53.872238Z",
-    "updated_at": "2026-10-21T09:32:55.616525Z",
-    "user_id": "62bd799c-4e45-47c3-a546-2108d08f029d",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-20T09:32:53.813552Z",
-    "freelance_offers_count": 10,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "62bd799c-4e45-47c3-a546-2108d08f029d",
-      "username": "p_a_n_ggg",
-      "display_name": "pang official",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/62bd799c-4e45-47c3-a546-2108d08f029d/profile/4110cfa9-7651-4763-9a7d-a049edfd8789.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-21T12:02:14.264Z"
   }
 ]
