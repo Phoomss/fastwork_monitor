@@ -1,5 +1,251 @@
 [
   {
+    "id": "4ee401ba-41e3-4d52-8669-76cc2867d401",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "หาคนปักหมุดในเพจ เพื่อให้ลูกค้าเช็คอินได้ ปัญหาคือ ร้านมี 3 สาขา แต่มี เพจเดียว ใครพอที่จะแก้ไขได้บ้าง ",
+    "title": "หาคนปักหมุด check in Facebook ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-23T06:09:53.387145Z",
+    "updated_at": "2026-10-23T06:09:55.128327Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPad;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-22T06:09:53.337018Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d6b6f672-6fbc-42f5-adf5-87e36df11660",
+    "user_profile": {
+      "id": "d6b6f672-6fbc-42f5-adf5-87e36df11660",
+      "username": "manwika9925",
+      "display_name": "Manwika Jenpromrach",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d6b6f672-6fbc-42f5-adf5-87e36df11660/profile/13468031-2bee-4cff-a6aa-f214c14f6d6a.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-23T06:32:57.355Z"
+  },
+  {
+    "id": "9b79973f-b3e9-46e2-9364-d2dac102cf05",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "Ref. อาจจะใช้แบบ https://www.vtiger.com/ หรือ https://twenty.com/\n\n1. Module email ที่ใช้ function พื้นฐาน ทั่วไป และ มี Schedule Send , \n- รวมถึง มี Group email ที่สามารถ เพิ่ม/ลด อีเมล เจ้าหน้าที่ เข้าไปในกลุ่ม และ รับ- ส่ง อีเมล ด้วย @ของ Group email นั้นๆ ได้\n2. Customer Manage.\n- เน้นการ Note ของภายใน ทีม และ สถานะ ต่างๆ ว่าขั้นตอน ไหน \n- แนบเอกสารได้\n3. Task Manage.\n- UX UI แบบ Calendar เพื่อ แจ้งเตือน และ Note ย่อ งาน .\n- UX UI แบบ Kanban Board เพื่อจัด Priority ของแต่ละงาน\n4. Home\n- มีแจ้งเตือน งานที่ต้องติดตาม\n",
+    "title": "คนออกแบบ UX UI โปรแกรม CRM ที่ทำเฉพาะส่วน Email , Customer Manage. , Task Manage",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-23T05:14:06.610128Z",
+    "updated_at": "2026-10-23T05:14:07.919839Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-22T05:14:06.528649Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "3ae44d2c-0014-4530-abdb-4c46036081d2",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-23T06:32:56.007Z"
+  },
+  {
+    "id": "78d117ad-026b-4ecc-b28e-89a4356f47ce",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "part-time",
+    "description": "  1. ข้อมูลงาน\n  ต้องการผู้ทดสอบแอป Android ชื่อ \"TeuanSub - เตือนค่าสมัครสมาชิก\" แอปช่วยจดและเตือนวันตัดเงินค่าบริการรายเดือน เช่น Netflix, Spotify,\n  YouTube Premium\n  แอปอยู่ในช่วงทดสอบแบบปิด (Closed Testing) บน Google Play ก่อนเปิดตัวจริง ต้องการผู้ใช้จริงช่วยลองใช้งานและบอกความเห็น\n\n  2. รายละเอียดงาน\n  - รับ 12 คน ค่าจ้างคนละ 30 บาท\n  - เข้าร่วมการทดสอบผ่าน Google Play ตามขั้นตอนที่แจ้งหลังตกลงจ้าง\n  - ใช้งานแอปต่อเนื่องเป็นระยะตลอด 14 วัน เช่น เพิ่มบริการที่ใช้อยู่จริง ต��้งการแจ้งเตือน ดูสรุปค่าใช้จ่าย\n  - ส่งความเห็นสั้น ๆ เมื่อครบกำหนด เช่น ใช้งานง่ายไหม เจอปัญหาอะไร อยากให้เพิ่มอะไร\n  - ไม่มีค่าใช้จ่าย ไม่ต้องซื้อฟีเจอร์เสริม\n\n  3. คุณสมบัติ\n  - มีมือถือ Android ที่ใช้ Google Play ได้\n  - ร่วมทดสอบได้ครบ 14 วัน\n\n  4. การส่งงาน\n  - ส่งความเห็นการใช้งานเมื่อครบ 14 วัน\n  - ชำระเงินเมื่อส่งงานเรียบร้อย",
+    "title": "คนช่วยทดสอบแอป Android และให้ความเห็นการใช้งาน 14 วัน (12 คน)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-23T04:06:57.231139Z",
+    "updated_at": "2026-10-23T04:06:58.449254Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-22T04:06:57.214336Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "bcbbdde4-95ab-4cb1-be57-e31e282f586d",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-23T06:32:54.824Z"
+  },
+  {
+    "id": "7b41c395-e929-45a4-8587-9f23ee3a1401",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ตามที่โพส\n\nหาคนสอนแปลนิยาย หรือมีโปรแกรมแปลนิยาย\n\n-ที���ะเยอะๆ\n\n-ขัดเกลา\n\n-ประโยค สถานที่ วิชา ไม่เรียน\n\nทักมาได้เลยครับขอคนมีประสบการยิ่งดี\n\n*อาจจะเขียนโปรแกรมหรืออื่นๆ *สามารถแปลได้หลายตอน *แปลไม่เพี้ยน",
+    "title": "หาคนสอนแปลนิยาย นิยาย จีน, อื่นๆ แปลทีละหลายๆตอน ด้วย ai",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-23T03:08:22.736755Z",
+    "updated_at": "2026-10-23T03:08:23.995711Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2027-10-23",
+    "expired_at": "2026-11-22T03:08:22.719581Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-23T06:32:53.680Z"
+  },
+  {
+    "id": "eead7008-17a4-4832-8569-768fb1eac8b0",
+    "status": "open",
+    "tag": {
+      "id": "0a0700fa-fd6f-4aee-a78d-13d6ec54c9dd",
+      "name": "แปลภาษา",
+      "sort": 10
+    },
+    "type": "freelance",
+    "description": "\nตามที่โพส\n\nหาคนสอนแปลนิยาย หรือมีโปรแกรมแปลนิยาย\n\n-ทีละเยอะๆ\n\n-ขัดเกลา\n\n-ประโยค สถานที่ วิชา ไม่เรียน\n\nทักมาได้เลยครับขอคนมีประสบการยิ่งดี\n\n*อาจจะเขียนโปรแกรมหรืออื่นๆ *สามารถแปลได้หลายตอน *แปลไม่เพี้ยน",
+    "title": "คนสอนแปลนิยาย ด้วย ai นิ���าย จีน, อื่นๆ แปลทีละหลายๆตอน",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-23T03:05:03.428378Z",
+    "updated_at": "2026-10-23T03:05:05.072876Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-22T03:05:03.412732Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-23T06:32:52.488Z"
+  },
+  {
     "id": "f41d3121-6255-4c1c-8ffc-c7709151af48",
     "status": "open",
     "tag": {
