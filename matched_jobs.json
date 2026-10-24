@@ -1,5 +1,54 @@
 [
   {
+    "id": "eb86254b-7726-4c51-969b-28a5bfa4c702",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "full-time",
+    "description": "🚀 รับสมัคร Odoo Technical Lead (English Speaking)\n\n📍 สถานที่ทำงาน: พระโขนง กรุงเทพฯ\n💰 เงินเดือน: สูงสุด 50,000 บาท/เดือน\n\nกำลังมองหาผู้เชี่ยวชาญด้าน Odoo ERP ที่มีความสามารถทั้ง Technical และ Functional เพื่อดูแล พัฒนา และปรับปรุงระบบ ERP ขององค์กร รวมถึงนำ AI และ Automation มาประยุกต์ใช้เพื่อเพิ่มประสิทธิภาพการทำงาน\n\n💻 หน้าที่ความรับผิดชอบ\n\n- ดูแล บริหาร และพัฒนาระบบ Odoo ERP\n- วิเคราะห์ความต้องการของแต่ละฝ่ายและออกแบบโซลูชัน\n- พัฒนาและนำ AI, AI Agents และ Automation Workflow มาใช้งานร่วมกับ Odoo\n- Troubleshoot และแก้ไขปัญหาระบบ รวมถึงปรับปรุง Performance\n- ประสานงานกับ Odoo Partner ในการพัฒนาและติดตั้งระบบ\n- ทดสอบ Module / Feature ใหม่ และปรับปรุงระบบอย่างต่อเนื่อง\n- จัดทำ Documentation, Report และ Training ให้ผู้ใช้งาน\n- สนับสนุนโครงการ Digital Transformation ขององค์กร\n\n🎯 คุณสมบัติที่ต้องการ\n\n- ปริญญาตรีด้าน IT, Computer Science หรือสาขาที่เกี่ยวข้อง\n- มีประสบการณ์ Odoo ERP หรือ ERP System Administration อย่างน้อย 2 ปี\n- มีประสบการณ์ด้าน System Analyst, System Tester หรือสายงานที่เกี่ยวข้อง\n- เข้าใจการทำงานของ Odoo ERP ทั้งด้าน Technical และ Functional\n- มีความสนใจหรือประสบการณ์ด้าน AI และ Automation จะพิจารณาเป็นพิเศษ\n- สื่อสารภาษาอังกฤษได้ดี ทั้งพูดและเขียน โดยเฉพาะคำศัพท์ด้าน IT\n- มีทักษะ Analytical Thinking และ Problem-Solving\n- สามารถทำงานร่วมกับทีมที่มีความหลากหลายทางวัฒนธรรมได้\n\n✨ เหมาะสำหรับผู้ที่ต้องการเติบโตในสาย ERP, AI Automation และ Digital Transformation\n\n📩 สนใจสมัครงานผ่าน Fastwork\n\nกรุณาส่งข้อมูลประกอบการสมัคร ได้แก่\n\n1. ประสบการณ์การใช้งานหรือพัฒนาระบบ Odoo ERP\n2. ระดับความสามารถในการสื่อสารภาษาอังกฤษ\n3. เงินเดือนปัจจุบันและเงินเดือนที่คาดหวัง\n4. วันที่สามารถเริ่มงานได้\n\nเปิดรับผู้สมัครที่มีประสบการณ์ตรงและพร้อมร่วมพัฒนาระบบ ERP ขององค์กรค่ะ",
+    "title": "Odoo Technical Lead (English Speaking)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "50000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-24T03:23:34.714800Z",
+    "updated_at": "2026-10-24T03:23:35.909496Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S928B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-30",
+    "expired_at": "2026-11-23T03:23:34.659877Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "9e49cbd0-cadc-404c-9a04-7ac4d7e4426d",
+    "user_profile": {
+      "id": "9e49cbd0-cadc-404c-9a04-7ac4d7e4426d",
+      "username": "yingnui452",
+      "display_name": "จริยา",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9e49cbd0-cadc-404c-9a04-7ac4d7e4426d/profile/64076a37-1691-42c2-890f-fcaeaa4e9ad6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "50000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-24T06:01:11.312Z"
+  },
+  {
     "id": "1f71fb90-4d0b-407b-a66a-929337a8f439",
     "status": "open",
     "tag": {
