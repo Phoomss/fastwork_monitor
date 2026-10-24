@@ -1,5 +1,54 @@
 [
   {
+    "id": "4a6c7448-3ec0-41e9-89e0-4ed148488042",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ขออนุญาตหาคนรับทำเว็บไซต์ค่ะ 🙏🏻\n\nอยากทำเว็บสำหรับร้านขายไม้ก่อสร้างค่ะ อยากให้มีหน้าแรกแนะนำร้าน หน้าสินค้าที่บอกว่ามีไม้ชนิดไหนขายบ้าง ขนาดอะไร ราคาเท่าไหร่ และหน้าข้อมูลติดต่อร้านค่ะ\n\nตอนนี้ยังไม่มีแบบดีไซน์นะคะ อยากให้ช่วยแนะนำได้เลยค่ะ ขอเว็บเรียบง่าย ใช้งานง่าย ลูกค้าเข้ามาดูสินค้าและราคาได้ และถ้าแก้ไขราคากับสินค้ากับรูปได้เองได้จะด��มากค่ะ\n\nพอดีไม่เคยจ้างทำเว็บไซต์มาก่อน เลยยังไม่ทราบงบประมาณค่ะ 😅\n\nDeveloper คนไหนสนใจ รบกวนเสนอราคา พร้อมรายละเอียดงาน ระยะเวลาทำ และค่าใช้จ่ายเพิ่มเติมให้หน่อยนะคะ มีผลงานให้ดูด้วยจะดีมากค่ะ\n\nขอบคุณค่ะ 💗",
+    "title": "คนทำเว็บไซต์ร้านขายไม้ก่อสร้าง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "4000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-24T11:18:46.267225Z",
+    "updated_at": "2026-10-24T11:18:47.873898Z",
+    "user_id": "a178c2fb-a8c8-42e0-9792-0784cdbef5fd",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPad;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-23T11:18:46.207698Z",
+    "freelance_offers_count": 24,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "a178c2fb-a8c8-42e0-9792-0784cdbef5fd",
+      "username": "weethada",
+      "display_name": "weilly",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a178c2fb-a8c8-42e0-9792-0784cdbef5fd/profile/a9c3bc01-90e7-42da-b931-c48309c8f8ea.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "4000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-24T14:06:42.563Z"
+  },
+  {
     "id": "4c968e97-9bef-431a-b0c9-930d6b0e3501",
     "status": "open",
     "tag": {
@@ -96,103 +145,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-24T06:01:11.312Z"
-  },
-  {
-    "id": "1f71fb90-4d0b-407b-a66a-929337a8f439",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รับสมัครนายหน้าขายเว็บไซต์ออนไลน์ (Commission 15%)\n\nรายละเอียดงาน\n\t•\tหาลูกค้าที่ต้องการเว็บไซต์สำหรับธุรกิจ ร้านค้า หรือบริการต่าง ๆ\n\t•\tประสานงานเบื้องต้นกับลูกค้า และส่งรายละเอียดความต้องการให้ทีมพัฒนาเว็บไซต์\n\t•\tไม่จำเป็นต้องมีความรู้ด้านการเขียนโปรแกรม เพราะมีทีมงานดูแลและพัฒนาเว็บไซต์ให้\n\nราคาและค่าคอมมิชชัน\n\t•\tเว็บไซต์ขนาด 1–3 หน้า ราคาเริ่มต้น 1,500 บาท\n\t•\tรับค่าคอมมิชชัน 15% จากยอดขายที่ลูกค้าชำระจริง\n\t•\tตัวอย่าง: ขายเว็บไซต์ราคา 1,500 บาท รับค่าคอมมิชชัน 225 บาทต่อออเดอร์\n\nสิ่งที่ลูกค้าจะได้รับ\n\t•\tเว็บไซต์สำหรับแนะนำธุรกิจ ร้านค้า หรือบริการ\n\t•\tฟรีโดเมน .com ปีแรก\n\t•\tดูแลหลังการขาย 30 วัน\n\t•\tแก้ไขงานเพิ่มเติมหลังส่งมอบได้ 2 รอบ ตามขอบเขตงานที่ตกลงกัน\n\nคุณสมบัติ\n\t•\tมีทักษะการสื่อสารและเจรจากับลูกค้า\n\t•\tมีความกระตือรือร้นในการขายและหาลูกค้า\n\t•\tเหมาะสำหรับผู้ที่ต้องการหารายได้เสริม นักศึกษา หรือฟรีแลนซ์\n\nรูปแ��บการทำงาน\n\t•\tทำงานออนไลน์ได้จากทุกที่\n\t•\tไม่มีข้อจำกัดด้านเวลาทำงาน\n\t•\tรายได้ขึ้นอยู่กับจำนวนยอดขาย ไม่มีเงินเดือนประจำ",
-    "title": "หานายหน้าขายเว็บไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-23T11:33:35.452678Z",
-    "updated_at": "2026-10-23T11:33:37.184692Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS16.6.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-22T11:33:35.412129Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "fc4f711a-eb1e-4143-b4ad-bab619a5536a",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-23T11:58:45.235Z"
-  },
-  {
-    "id": "3436aa12-71b3-42a1-803d-ca342fe34741",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการตัวแทนขายอิสระ: ขายความน่าเชื่อถือให้ธุรกิจ SME ไม่ใช่แค่ขายเว็บไซต์\n\nสิ่งที่ผมต้องการ: คนที่เข้าใจว่าเจ้าของกิจการไม่ได้อยากได้เว็บไซต์ แต่อยากได้ความน่าเชื่อถือ ภาระงานที่ลดลง และลูกค้าที่ติดต่อได้ง่ายขึ้น แล้วนำไปเสนอขายในแบบของตัวเอง\n\nสิ่งที่ลูกค้าได้รับ\n• โดเมน .com และโฮสติ้งฟรี 1 ปี พร้อม HTTPS\n• เว็บโหลดไว แชร์ลง Facebook / LINE แล้วสวย\n• ดูแลหลังการขายฟรี 1 ปี (แก้ไขรูป ข้อความ ราคา รายการบริการ)\n• แถมระบบหลังบ้านเบื้องต้น: สต็อก ลงเวลาพนักงาน บัญชี\n\nแพ็กเกจ\n• Landing Page 1 หน้า: เริ่มต้น 5,990 บาท\n• Studio & Multi-Pages 2-5 หน้า:เริ่มต้น 12,900 บาท\n• Corporate & System:เริ่มต้น 15,900 บาท\n\nสิ่งที่คุณจะได้รับ\n• ค่าคอมมิชชัน 10% จากราคาขายจริง\n• บวกราคาเพิ่มได้สูงสุด 25% ส่วนที่บวกเป็นของคุณ 100%\n• รายได้สูงสุดต่องาน: 2,097 / 4,515 / 5,565 บาท ตามแพ็กเกจ (ตามแต่ราคาตั้งต้น)\n• จ่าย 50% เมื่อลูกค้าชำระมัดจำและทีมยืนยันรับงาน ส่วนที่เหลือหลังจบงาน\n\nใบเสนอราคา ออกแบบ และพัฒนา ทีมงานดูแลทั้งหมด\n\nส่วนคุณขอช่วยประสานงานจนกว่าจะส่งหมอบสมบูรณ์\n\nเอกสารเพิ่มเติมโดยละเอียด\nติดต่อ: Fastwork @punweb",
-    "title": "ตัวแทนขายอิสระ - เว็บไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-23T11:10:41.933961Z",
-    "updated_at": "2026-10-23T11:10:43.203853Z",
-    "brief_url": "https://ststudio-blw.pages.dev/",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-22T11:10:41.915760Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
-    "user_profile": {
-      "id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
-      "username": "punweb",
-      "display_name": "punwebsitedevelopment",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8179f3ac-3c7c-451a-9688-e76cccedb8e8/profile/277cb70b-3e72-40a1-a8a7-0042af3cbd8c.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-23T11:58:43.145Z"
   }
 ]
