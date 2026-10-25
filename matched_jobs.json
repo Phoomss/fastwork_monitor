@@ -1,5 +1,153 @@
 [
   {
+    "id": "aa7b2f6a-ce83-4299-aa58-6809fa889302",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "ต้องการลงโปรแกรมคอมPC ให้คุณพ่อกีบลงโนตบุค ขอคนที่ใจดีให้คำแนะนำไม่รีโมทส่งๆไม่แนะนำอะไรเพราะคุณพ่ออายุมากแล้วไม่ค่อยรู้ค่ะ ราคาคุยกันได้ค่ะ",
+    "title": "ลงโปรแกรมคอมลงวินโดว",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-25T11:55:36.948860Z",
+    "updated_at": "2026-10-25T11:55:38.765126Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-A576B;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-24T11:55:36.930835Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "d195035f-af80-433a-9136-57887f5c0069",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-25T12:07:03.853Z"
+  },
+  {
+    "id": "8015631f-bb26-4e20-b01a-d705575e2f97",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "หานักออกแบบ UI/UX ด้วย Figma ออกแบบแพลตฟอร์ม 30–40 หน้า\n\nกำลังมองหานักออกแบบ UI/UX ที่มีประสบการณ์ใช้ Figma เพื่อออกแบบแพลตฟอร์มรวมร้านอาหารท้องถิ่น โดยเน้นการใช้งานจริงและสามารถส่งต่อให้ Developer พัฒนาต่อได้\n\nขอบเขตงาน\n\n• ออกแบบประมาณ 30–40 หน้าจอ ครอบคลุมระบบหลัก\n• ออกแบบ Responsive สำหรับ Desktop, Tablet และ Mobile ตามขอบเขตที่ตกลงกัน\n• ออกแบบ UI ให้สวยงาม ใช้งานง่าย และมีรูปแบบสม่ำเสมอ\n• จัดทำ Components และ Design System เบื้องต้น\n• จัดทำ Interactive Prototype เชื่อมโยงหน้าจอตาม User Flow\n• จัดระเบียบ Frames, Layers และ Components ให้ Developer ทำงานต่อได้สะดวก\n\nหน้าจอหลักที่ต้องการ\n\n• หน้าหลัก ค้นหาร้าน ร้านใกล้ฉัน ร้านแนะนำ และรายละเอียดร้านอาหาร\n• ระบบสมัครสมาชิก เข้าสู่ระบบ และโปรไฟล์ผู้ใช้\n• Feed เช็กอิน โพสต์ รีวิว และเมนูต้องลอง\n• โปรโมชั่นและรายละเอียดโปรโมชั่น\n• ระบบสมัครร้านอาหารและจัดการข้อมูลร้าน เมนู และโปรโมชั่น\n• หน้าเกี่ยวกับเรา FAQ และหน้าข้อมูลที่จำเป็น\n\nรูปแบบการทำงาน\n\nทางเรามีภาพ AI Mockup และแนวคิดเบื้องต้นให้เป็นแนวทาง นักออกแบบต้องนำมาพัฒนาเป็น UI/UX จริงใน Figma ไม่ใช่เพียงนำภาพ AI มาวางบนหน้าจอ โดยองค์ประกอบต้องแก้ไขได้และพร้อมส่งต่อเพื่อพัฒนาระบบจริง\n\nก่อนเริ่มงานจะตกลงจำนวนหน้าจอ รายละเอียด Responsive และขอบเขตการส่งมอบให้ชัดเจน\n\nสิ่งที่ต้องส่งมอบ\n\n• ไฟล์ Figma ต้นฉบับที่แก้ไขต่อได้\n• UI ตามจำนวนหน้าจอที่ตกลงกัน\n• Components และ Design System\n• Prototype ตาม User Flow\n• ไฟล์จัดระเบียบพร้อมส่งต่อ Developer\n• แก้ไขงานตามจำนวนรอบที่ตกลงกัน\n• ขอบเขตงานอาจจะมีการเปลี่ยนแปลงตามแตละส่วน\n\nงบประมาณ: 5,500 บาท\n\nผู้สนใจรบกวนส่ง Portfolio ผลงาน Figma ประสบการณ์ออกแบบ Responsive และแจ้งขอบเขตงานที่สามารถทำได้ภายในงบประมาณ",
+    "title": "หานักออกแบบ UI/UX ��้วย Figma ออกแบบแพลตฟอร์ม 30–40 หน้า",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "5500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-25T08:31:46.873213Z",
+    "updated_at": "2026-10-25T08:31:48.283783Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-24T08:31:46.741561Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-25T12:07:02.488Z"
+  },
+  {
+    "id": "bf4d5738-5fcb-4020-8ac0-7cae41d4d906",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "full-time",
+    "description": "บรีฟงาน\n1. โปรแกรมเมอร์ (Programmer / Developer)\n หน้าที่ความรับผิดชอบ:\n พัฒนาและดูแลระบบเว็บไซต์ หรือแอปพลิเคชันตามที่ได้รับมอบหมาย\n เขียนโค้ดที่มีคุณภาพ ตรวจสอบและแก้ไขบั๊ก (Debug) เพื่อให้ระบบทำงานได้อย่างเสถียร\n ทำงานร่วมกับ Project Manager และทีมดีไซน์ในการพัฒนาฟีเจอร์ใหม่ๆ\n คุณสมบัติเด่น:\n มีประสบการณ์หรือความรู้ความสามารถในภาษาโปรแกรมที่เกี่ยวข้อง (เช่น JavaScript, PHP, Python, React, Node.js หรืออื่นๆ ตามเหมาะสม)\n สามารถแก้ปัญหาเฉพาะหน้าได้ดี และเรียนรู้เทคโนโลยีใหม่ๆ ได้เร็ว\n มีความเข้าใจเรื่อง Database และระบบ API\n2. กราฟฟิก ดีไซน์ (Graphic Designer)\n หน้าที่ความรับผิดชอบ:\n ออกแบบสื่อสำหรับประชาสัมพันธ์และการตลาด (Social Media Post, Banner, Ad)\n ออกแบบ UI/UX สำหรับเว็บไซต์หรือแอปพลิเคชัน (ถ้ามี)\n สร้างสรรค์ผลงานให้สอดคล้องกับภาพลักษณ์ของแบรนด์ (Brand Identity)\n คุณสมบัติเด่น:\n ใช้โปรแกรมออกแบบได้อย่างคล่องแคล่ว (เช่น Photoshop, Illustrator, Figma หรือโปรแกร��อื่นๆ)\n มีความคิดสร้างสรรค์ มีมุมมองด้านศิลปะและการตลาดที่ทันสมัย\n เปิดรับคำติชม (Feedback) และสามารถปรับแก้ตามโจทย์ได้\n3. แอดมิน (Admin / Customer Service)\n หน้าที่ความรับผิดชอบ:\n ตอบแชท ดูแล และให้คำปรึกษาแก่ลูกค้าผ่านช่องทางออนไลน์ต่างๆ (Line, Facebook, TikTok ฯลฯ)\n ประสานงานกับภายในทีมเพื่ออำนวยความสะดวกในการให้บริการ\n จัดทำสรุปยอด หรือข้อมูลการขาย/บริการประจำวัน\n คุณสมบัติเด่น:\n มีใจรักในการบริการ (Service Mind) อัธยาศัยดี และสื่อสารเข้าใจง่าย\n พิมพ์คล่อง รวดเร็ว และบริหารจัดการเวลาได้ดี\n มีความรับผิดชอบ ละเอียดรอบคอบ\n4. ผู้จัดการโครงการ (Project Manager)\n หน้าที่ความรับผิดชอบ:\n วางแผน ควบคุม และติดตามความคืบหน้าของโปรเจกต์ให้เป็นไปตามเป้าหมายและกำหนดเวลา\n ประสานงานระหว่างลูกค้าและทีมงาน (Developer, Designer, Admin)\n บริหารจัดการทรัพยากร และแก้ปัญหาที่อาจเกิดขึ้นระหว่างการดำเนินงาน\n คุณสมบัติเด่น:\n มีทักษะความเป็นผู้นำและการสื่อสารที่ยอดเยี่ยม\n มีประสบการณ์ในการบริหารจัดการโปรเจกต์ (หากมีประสบการณ์ด้านสายงาน IT หรือ Digital Agency จะพิจารณาเป็นพิเศษ)\n สามารถจัดลำดับความสำคัญของงานได้ดีภายใต้ความกดดัน\n\nเข้าออฟฟิศ เครือสหพัฒน์ ชลบุรี สัปดาห์ละ 3-4 วัน\nนอกนั้น WFH\n\nเงินเดือน พิจารณา ตามความสามารถ",
+    "title": "รับสมัครหลายตำแหน่ง เครือสหพัฒน์ ชลบุรี",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "30000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-25T07:34:42.621797Z",
+    "updated_at": "2026-10-25T07:34:43.963216Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-24T07:34:42.559918Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
+    "user_profile": {
+      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
+      "username": "rtxvpuda",
+      "display_name": "AR Induction",
+      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "30000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-25T12:07:01.356Z"
+  },
+  {
     "id": "567cf847-3675-4e9c-bd23-a2db9e7b6adf",
     "status": "open",
     "tag": {
@@ -147,54 +295,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-24T14:06:42.563Z"
-  },
-  {
-    "id": "4c968e97-9bef-431a-b0c9-930d6b0e3501",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน\nMala Tara ต้องการนักออกแบบ Packaging Artwork สำหรับ Cold Bloom Ritual ชาดอกไม้และผลไม้ไทยสำหรับชงเย็น โดยออกแบบตาม Dieline / Template ที่โรงงานจัดเตรียมให้ และสามารถนำไฟล์ไปผลิต Paper Tube กับโรงงานได้จริง\n\nขอบเขตงาน\n- ออกแบบ artwork รอบตัว Paper Tube และฝาตาม dieline โรงงาน\n- จัดวาง wording, logo และข้อมูลผลิตภัณฑ์ตามไฟล์ที่ให้\n- ออกแบบ background และ floral / botanical pattern\n- จัด typography, hierarchy และ spacing ให้เหมาะกับงานพิมพ์จริง\n- เตรียม final artwork ให้พร้อมส่งโรงงานผลิต\n- หากสามารถทำ Product Mockup เพื่อให้เห็นภาพงานบน Paper Tube จริงได้ จะพิจารณาเป็นพิเศษ\n\nCreative Direction\n- Sunset / Golden Hour + Floral\n- Modern · Premium · Warm · Fresh · Refined\n\nมีไฟล์สำหรับอ้างอิงให้ครบ ได้แก่ Brand Palette, Logo, Font, Existing Packaging, Pattern Reference, Product Wording, Visual Reference และ Dieline จากโรงงาน\n\nDeliverables\n- Editable AI file 2 เวอร์ชัน\n--- ไฟล์ไม่ Outline สำหรับแก้ไขต่อ\n--- ไฟล์ Outline แล้ว สำหรับส่งโรงพิมพ์ / โรงงาน\n- Print-ready PDF\n- JPEG สำหรับ preview / presentation\n- Final artwork ตาม dieline โรงงาน พร้อมใช้งานผลิตจริง\n- Product Mockup (ถ้าสามารถจัดทำได้)\n\nเงื่อนไขงาน\n- ปรับแก้ได้อย่างน้อย 3 ครั้ง\n- ระยะเวลาดำเนินงานทั้งหมด ไม่เกิน 2 สัปดาห์\n- ไม่ใช้ AI-generated design / AI-generated artwork ในการออกแบบ\n- ผู้ที่สนใจรบกวน แนบ Portfolio หรือตัวอย่างผลงาน Packaging / Label / Food & Beverage ที่เคยทำ มาพร้อมข้อเสนอ\n- รบกวนแจ้งราคา ระยะเวลาส่ง draft แรก และจำนวน initial design direction ที่เสนอ",
-    "title": "ออกแบบ Packaging Artwork สำหรับ Paper Tube ตาม Dieline โรงงาน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-24T07:17:54.278859Z",
-    "updated_at": "2026-10-24T07:17:55.833602Z",
-    "user_id": "2dc14570-4490-43fb-af9e-5951628d2c62",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-15",
-    "expired_at": "2026-11-23T07:17:54.220017Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "2dc14570-4490-43fb-af9e-5951628d2c62",
-      "username": "ppui159",
-      "display_name": "Patcha Chaval",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/2dc14570-4490-43fb-af9e-5951628d2c62/profile/31a659f6-5c03-436d-82c8-e7cf92c566e0.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-24T10:40:32.241Z"
   }
 ]
