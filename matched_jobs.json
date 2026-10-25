@@ -1,5 +1,105 @@
 [
   {
+    "id": "567cf847-3675-4e9c-bd23-a2db9e7b6adf",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการจ้าง Full-Stack Developer เพื่อออกแบบและพัฒนาระบบ CRM สำหรับบริษัทอสังหาริมทรัพย์ (Custom Web Application)\n\n1. สามารถพัฒนา Web Application แบบครบวงจร ทั้ง Frontend, Backend และ Database\n2. ระบบหลักประกอบด้วย Customer Management, Property Stock, Owner Management, Contract Management และ Dashboard\n3. สามารถออกแบบ UI/UX ให้ใช้งานง่าย รองรับทั้งคอมพิวเตอร์และมือถือ\n4. มีความเข้าใจระบบการทำงานของธุรกิจอสังหาริมทรัพย์ เช่น การซื้อ-ขาย-เช่า การจัดการ Stock และสัญญา\n5. สามารถนัดประชุมเพื่อเก็บ Requirement วางโครงสร้างระบบ และให้คำปรึกษาด้านเทคนิคไ��้\n6. สามารถสอนวิธีใช้งาน ดูแลระบบ และแนะนำวิธีแก้ไขหรือพัฒนาต่อยอดในอนาคต\n7. ต้องส่งมอบ Source Code, Database และสิทธิ์การเข้าถึงระบบทั้งหมดให้บริษัท\n8. มีประสบการณ์พัฒนา CRM หรือระบบจัดการข้อมูล และมี Portfolio ให้พิจารณา\n9. สามารถเสนอระยะเวลาพัฒนา งบประมาณ และค่าใช้จ่ายในการดูแลระบบรายเดือน\n10. สามารถแบ่งการพัฒนาเป็น Phase และมีบริการแก้ไข Bug หลังส่งมอบ\n",
+    "title": "หานักพัฒนา Full-Stack Developer สร้างระบบ CRM อสังหาริมทรัพย์ (Custom Web Application)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-25T05:29:33.891434Z",
+    "updated_at": "2026-10-25T05:29:35.066891Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-24T05:29:33.833470Z",
+    "freelance_offers_count": 9,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "9fab9990-2cac-469d-91b8-144630b35f22",
+    "user_profile": {
+      "id": "9fab9990-2cac-469d-91b8-144630b35f22",
+      "username": "pearprw",
+      "display_name": "Praewa",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9fab9990-2cac-469d-91b8-144630b35f22/profile/354d8916-d6f6-4585-90e4-671e4ea5fab5.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-25T06:52:21.239Z"
+  },
+  {
+    "id": "68e228f3-8876-4f97-99c9-2fddffe4ac14",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "**หา Technical Partner ร่วมสร้างแพลตฟอร์มร้านอาหารท้องถิ่น**\n\nผมกำลังมองหานักพัฒนาร่วมสร้างแพลตฟอร์มร้านอาหาร เริ่มต้นจากภาคเหนือ โดยมีเป้าหมายขยายสู่แพลตฟอร์มขนาดใหญ่ในอนาคต ไม่ใช่แค่ผู้รับจ้างเขียนโค้ด แต่เป็นผู้ร่วมสร้างธุรกิจจริง\n\n**1. บทบาทของผม**\n- วางวิสัยทัศน์ กลยุทธ์ และรูปแบบบริการ\n- ทำการตลาด ขยายฐานร้านค้าและพันธมิตร\n- วางแผนการเติบโตระยะยาว\n\n**2. บทบาทของ Technical Partner**\n- พัฒนาแพลตฟอร์ม Android, iOS และ Website รวมถึง Backend และฐานข้อมูล\n- พัฒนาระบบสมาชิกและฟังก์ชันที่จำเป็นสำหรับ MVP\n- ทดสอบ แก้ไขข้อผิดพลาด และทำให้ระบบพร้อมใช้งานจริง\n- รองรับ Desktop, Tablet และ Mobile\n- ส่งมอบ Source Code ฐานข้อมูล เอกสารทางเทคนิค และสิทธิ์เข้าถึงระบบครบถ้วน\n\nขอบเขตงาน กำหนดเวลา และเกณฑ์ตรวจรับจะตกลงเป็นลายลักษณ์อักษร\n\n**3. ผลตอบแทนและเงื่อนไข**\n3.1 รับส่วนแบ่งกำไรสุทธิ 10% เป็นเวลา 3 ปี โดยไม่ต้องลงทุนเงินสด ไม่มีหุ้นหรือกรรมสิทธิ์ในบริษัท\n\n3.2 เริ่มนับ 3 ปีเมื่อแพลตฟอร์มเปิดให้บริการเชิงพาณิชย์และส่งมอบงานครบตามข้อตกลง\n\n3.3 คำนวณจากกำไรสุทธิหลังหักค่าใช้จ่ายตามหลักเกณฑ์ในสัญญา พร้อมรายงานที่ตรวจสอบได้\n\n3.4 หากละทิ้งง��นหรือขาดการติดต่อโดยไม่มีเหตุอันสมควร และไม่แก้ไขภายในเวลาที่แจ้งเป็นลายลักษณ์อักษร การรับส่วนแบ่งกำไรให้เป็นไปตามเงื่อนไขสิ้นสุดสิทธิในสัญญา\n\n3.5 ต้องส่งมอบ Source Code, Backend ฐานข้อมูล และเอกสารที่จำเป็น พร้อมทำข้อตกลงโอนสิทธิในลิขสิทธิ์ที่โอนได้ เพื่อให้สามารถใช้งาน แก้ไข พัฒนาต่อ และจ้างผู้อื่นดูแลระบบได้ ส่วนประกอบของบุคคลที่สามเป็นไปตามเงื่อนไขใบอนุญาต\n\n**4. เป้าหมาย**\nสร้าง MVP ที่ใช้งานได้จริง ทดลองตลาด ขยายฐานร้านค้าและผู้ใช้ พร้อมเติบโตอย่างยั่งยืน\n\n**5. ทดสอบทักษะ Frontend**\nผู้สมัครพัฒนาตัวอย่าง 3 ส่วน:\n1) Index Page: Header, Body, Footer พร้อม Responsive\n2) Login, Sign Up และ Forgot Password\n3) Create Account จำนวน 4 Sections\n\nทางเราจัดเตรียมเฉพาะไฟล์ภาพตัวอย่าง ส่วนที่เหลือให้ออกแบบด้วยตนเอง ส่งผลงานภายใน 7 วัน เพื่อประเมินทักษะก่อนพิจารณาร่วมงาน\n\nหากสนใจร่วมสร้างธุรกิจจริง ผมยินดีพูดคุยเพื่อวางแผนร่วมกัน",
+    "title": "หา Technical Partner ร่วมพัฒนาแพลตฟอร์มร้านอาหารให้เสร็จพร้อมใช้งาน ครอบคลุม Android, iOS และ Website รับส่วนแบ่งกำไรสุทธิ 10% นาน 3 ปี",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-25T02:13:31.274073Z",
+    "updated_at": "2026-10-25T02:13:32.873268Z",
+    "brief_url": "https://linktr.ee/",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-24T02:13:31.225089Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-25T06:52:19.960Z"
+  },
+  {
     "id": "4a6c7448-3ec0-41e9-89e0-4ed148488042",
     "status": "open",
     "tag": {
@@ -96,54 +196,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-24T10:40:32.241Z"
-  },
-  {
-    "id": "eb86254b-7726-4c51-969b-28a5bfa4c702",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "full-time",
-    "description": "🚀 รับสมัคร Odoo Technical Lead (English Speaking)\n\n📍 สถานที่ทำงาน: พระโขนง กรุงเทพฯ\n💰 เงินเดือน: สูงสุด 50,000 บาท/เดือน\n\nกำลังมองหาผู้เชี่ยวชาญด้าน Odoo ERP ที่มีความสามารถทั้ง Technical และ Functional เพื่อดูแล พัฒนา และปรับปรุงระบบ ERP ขององค์กร รวมถึงนำ AI และ Automation มาประยุกต์ใช้เพื่อเพิ่มประสิทธิภาพการทำงาน\n\n💻 หน้าที่ความรับผิดชอบ\n\n- ดูแล บริหาร และพัฒนาระบบ Odoo ERP\n- วิเคราะห์ความต้องการของแต่ละฝ่ายและออกแบบโซลูชัน\n- พัฒนาและนำ AI, AI Agents และ Automation Workflow มาใช้งานร่วมกับ Odoo\n- Troubleshoot และแก้ไขปัญหาระบบ รวมถึงปรับปรุง Performance\n- ประสานงานกับ Odoo Partner ในการพัฒนาและติดตั้งระบบ\n- ทดสอบ Module / Feature ใหม่ และปรับปรุงระบบอย่างต่อเนื่อง\n- จัดทำ Documentation, Report และ Training ให้ผู้ใช้งาน\n- สนับสนุนโครงการ Digital Transformation ขององค์กร\n\n🎯 คุณสมบัติที่ต้องการ\n\n- ปริญญาตรีด้าน IT, Computer Science หรือสาขาที่เกี่ยวข้อง\n- มีประสบการณ์ Odoo ERP หรือ ERP System Administration อย่างน้อย 2 ปี\n- มีประสบการณ์ด้าน System Analyst, System Tester หรือสายงานที่เกี่ยวข้อง\n- เข้าใจการทำงานของ Odoo ERP ทั้งด้าน Technical และ Functional\n- มีความสนใจหรือประสบการณ์ด้าน AI และ Automation จะพิจารณาเป็นพิเศษ\n- สื่อสารภาษาอังกฤษได้ดี ทั้งพูดและเขียน โดยเฉพาะคำศัพท์ด้าน IT\n- มีทักษะ Analytical Thinking และ Problem-Solving\n- สามารถทำงานร่วมกับทีมที่มีความหลากหลายทางวัฒนธรรมได้\n\n✨ เหมาะสำหรับผู้ที่ต้องการเติบโตในสาย ERP, AI Automation และ Digital Transformation\n\n📩 สนใจสมัครงานผ่าน Fastwork\n\nกรุณาส่งข้อมูลประกอบการสมัคร ได้แก่\n\n1. ประสบการณ์การใช้งานหรือพัฒนาระบบ Odoo ERP\n2. ระดับความสามารถในการสื่อสารภาษาอังกฤษ\n3. เงินเดือนปัจจุบันและเงินเดือนที่คาดหวัง\n4. วันที่สามารถเริ่มงานได้\n\nเปิดรับผู้สมัครที่มีประสบการณ์ตรงและพร้อมร่วมพัฒนาระบบ ERP ขององค์กรค่ะ",
-    "title": "Odoo Technical Lead (English Speaking)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "50000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-24T03:23:34.714800Z",
-    "updated_at": "2026-10-24T03:23:35.909496Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S928B;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-11-23T03:23:34.659877Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "9e49cbd0-cadc-404c-9a04-7ac4d7e4426d",
-    "user_profile": {
-      "id": "9e49cbd0-cadc-404c-9a04-7ac4d7e4426d",
-      "username": "yingnui452",
-      "display_name": "จริยา",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9e49cbd0-cadc-404c-9a04-7ac4d7e4426d/profile/64076a37-1691-42c2-890f-fcaeaa4e9ad6.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "50000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-24T06:01:11.312Z"
   }
 ]
