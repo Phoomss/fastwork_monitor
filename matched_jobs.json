@@ -246,54 +246,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-25T06:52:19.960Z"
-  },
-  {
-    "id": "4a6c7448-3ec0-41e9-89e0-4ed148488042",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ขออนุญาตหาคนรับทำเว็บไซต์ค่ะ 🙏🏻\n\nอยากทำเว็บสำหรับร้านขายไม้ก่อสร้างค่ะ อยากให้มีหน้าแรกแนะนำร้าน หน้าสินค้าที่บอกว่ามีไม้ชนิดไหนขายบ้าง ขนาดอะไร ราคาเท่าไหร่ และหน้าข้อมูลติดต่อร้านค่ะ\n\nตอนนี้ยังไม่มีแบบดีไซน์นะคะ อยากให้ช่วยแนะนำได้เลยค่ะ ขอเว็บเรียบง่าย ใช้งานง่าย ลูกค้าเข้ามาดูสินค้าและราคาได้ และถ้าแก้ไขราคากับสินค้ากับรูปได้เองได้จะด��มากค่ะ\n\nพอดีไม่เคยจ้างทำเว็บไซต์มาก่อน เลยยังไม่ทราบงบประมาณค่ะ 😅\n\nDeveloper คนไหนสนใจ รบกวนเสนอราคา พร้อมรายละเอียดงาน ระยะเวลาทำ และค่าใช้จ่ายเพิ่มเติมให้หน่อยนะคะ มีผลงานให้ดูด้วยจะดีมากค่ะ\n\nขอบคุณค่ะ 💗",
-    "title": "คนทำเว็บไซต์ร้านขายไม้ก่อสร้าง",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "4000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-24T11:18:46.267225Z",
-    "updated_at": "2026-10-24T11:18:47.873898Z",
-    "user_id": "a178c2fb-a8c8-42e0-9792-0784cdbef5fd",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPad;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-23T11:18:46.207698Z",
-    "freelance_offers_count": 24,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "a178c2fb-a8c8-42e0-9792-0784cdbef5fd",
-      "username": "weethada",
-      "display_name": "weilly",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/a178c2fb-a8c8-42e0-9792-0784cdbef5fd/profile/a9c3bc01-90e7-42da-b931-c48309c8f8ea.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "4000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-24T14:06:42.563Z"
   }
 ]

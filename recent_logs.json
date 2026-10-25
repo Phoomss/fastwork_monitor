@@ -1,11 +1,5 @@
 [
-  "[2026-10-25T12:07:04.152Z]     Notification sent successfully.",
-  "[2026-10-25T12:07:03.853Z]   FOUND NEW TARGET JOB: ลงโปรแกรมคอมลงวินโดว (Cats: พัฒนาเว็บไซต์) (Budget: 100 THB)",
-  "[2026-10-25T12:07:02.851Z]     Notification sent successfully.",
-  "[2026-10-25T12:07:02.488Z]   FOUND NEW TARGET JOB: หานักออกแบบ UI/UX ��้วย Figma ออกแบบแพลตฟอร์ม 30–40 หน้า (Cats: ออกแบบ UX UI) (Budget: 5500 THB)",
-  "[2026-10-25T12:07:01.486Z]     Notification sent successfully.",
-  "[2026-10-25T12:07:01.357Z]   FOUND NEW TARGET JOB: รับสมัครหลายตำแหน่ง เครือสหพัฒน์ ชลบุรี (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 30000 THB)",
-  "[2026-10-25T12:07:00.299Z] Checking Fastwork for new job posts...",
-  "[2026-10-25T12:07:00.298Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-10-25T12:07:00.296Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-10-25T16:04:58.098Z] Checking Fastwork for new job posts...",
+  "[2026-10-25T16:04:58.098Z] Auto-cleanup: Removed 20 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-25T16:04:58.096Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
