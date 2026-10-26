@@ -1,5 +1,55 @@
 [
   {
+    "id": "591ab520-571f-4c84-8fe4-077d5040c899",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังมองหานักออกแบบ UI/UX ที่มีประสบการณ์ใช้ Figma Design เพื่อออกแบบแพลตฟอร์มรวมร้านอาหารท้องถิ่น โดยเน้นการใช้งานจริงและส่งต่อให้ Developer พัฒนาต่อได้\n\nขอบเขตงาน\n\n• ออกแบบประมาณ 50–60 หน้าจอ ครอบคลุมระบบหลัก\n• ออกแบบ Responsive สำหรับ Desktop, Tablet และ Mobile \n• จัดทำ Components และ Design System\n• ทำ Interactive Prototype ตาม User Flow\n• จัดระเบียบ Frames, Layers และ Components ให้พร้อมส่งต่อ Developer\n• พัฒนาต่อยอดจาก AI Mockup ที่มีให้ พร้อมออกแบบ Section ที่ยังขาดด้วยตนเอง\n\nหน้าจอหล��ก\n\n• Index, Sign In, Sign Up, Forgot Password และ Search\n• Create Shop จำนวน 4 หน้า\n• Feed, User Feed และ Restaurant Feed\n• User Profile: Post, Menu และ Bookmark Shop\n• Shop Profile และ Seller Center\n• Menu ฝั่งด้านซ้าย ของทั้ง USER, SHOP, SELLER CENTER\n• อื่นๆ ที่นอกเหนือจากตรงนี้ที่ทางออกแบบต้องคิดตรรกะเพิ่มเติม\n\nหมายเหตุ: ต้องการ Figma Design สำหรับออกแบบ UI/UX และจัดบอร์ดประชุมทีม ไม่ใช่ Figma Make และไม่ใช่การนำภาพ AI Mockup มาวางโดยไม่มีองค์ประกอบที่แก้ไขได้\n\nสิ่งที่ต้องส่งมอบ\n\n• ไฟล์ Figma ต้นฉบับที่แก้ไขต่อได้\n• UI ตามจำนวนหน้าจอและ Responsive Scope ที่ตกลงกัน\n• Components, Design System และ Interactive Prototype\n• ไฟล์ที่จัดระเบียบพร้อมส่งต่อ Developer\n• แก้ไขงานตามจำนวนรอบที่ตกลงกัน\n\nทดสอบทักษะก่อนร่วมงาน\nให้ทดลองออกแบบ Index Page ประกอบด้วย Header, Body และ Footer พร้อม Responsive โดยทางเราจัดเตรียมภาพตัวอย่างให้ ส่วนที่เหลือให้ออกแบบเพิ่มเติมด้วยตนเอง ส่งผลงานภายใน 7 วัน เพื่อประเมินทักษะก่อนพิจารณาร่วมงาน\n\nร่วมสร้าง เติบโตไปด้วยกัน — Build Together. Grow Together.",
+    "title": "รับสมัคร UI/UX Designer (Figma Design) สำหรับประชุมทีม ไม่ใช่ ตัว FIGMA MAKE",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "3500",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-26T00:23:35.001333Z",
+    "updated_at": "2026-10-26T00:23:36.927882Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-25T00:23:34.961133Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "3500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-26T01:18:08.453Z"
+  },
+  {
     "id": "7e21e39a-3185-48b2-b61c-7771f076242f",
     "status": "open",
     "tag": {
