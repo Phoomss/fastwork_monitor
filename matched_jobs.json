@@ -1,5 +1,54 @@
 [
   {
+    "id": "83b3b88d-57ce-4908-b7a1-84e048d1cacb",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาวิศวกรหรือช่างอิเล็กทรอนิกส์ที่มีประสบการณ์ด้านการออกแบบวงจร PCB และระบบประมวลผลสัญญาณเสียง (Audio Processing)\n\nขอบเขตงานเบื้องต้น\n\nออกแบบและประกอบวงจรอิเล็กทรอนิกส์ขนาดเล็ก\n\nใช้ไมโครคอนโทรลเลอร์ เช่น ESP32 หรือเทียบเท่า\n\nมีระบบรับและส่งสัญญาณเสียง\n\nรองรับการประมวลผลสัญญาณเสียงแบบ Real-time\n\nออกแบบ PCB และประกอบลงกล่องขนาดกะทัดรัด\n\nสามารถพัฒนา Firmware และทดสอบการทำงานได้\n\nต้องการผลิตต้นแบบจำนวน 1 เครื่อง เพื่อทดสอบการใช้งานจริง และมีแผนพัฒนาสู่การผลิตจำนวนมากในอนาคต\n\nงบประมาณ: เปิดรับใบเสนอราคาตามขอบเขตงาน\n\nผู้ที่สนใจสามารถส่งผลงานที่ผ่านมา ประสบการณ์ และราคาประเมินเบื้องต้นมาได้ครับ",
+    "title": "ช่างออกแบบและผลิตอุปกรณ์อิเล็กทรอนิกส์ขนาดเล็ก (Prototype)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-26T04:28:44.399968Z",
+    "updated_at": "2026-10-26T04:28:45.551944Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-25T04:28:44.382074Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "695f08c6-f0d8-4834-a676-123c92ccdeff",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-10-26T06:21:31.443Z"
+  },
+  {
     "id": "591ab520-571f-4c84-8fe4-077d5040c899",
     "status": "open",
     "tag": {
