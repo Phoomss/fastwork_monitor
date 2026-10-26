@@ -1,5 +1,103 @@
 [
   {
+    "id": "cedbbafc-9239-4808-9d69-ea9987b71849",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "เกี่ยวกับเรา\nสร้างเอไอพัฒนา AI และระบบซอฟต์แวร์สำหรับบริษัทไทย ทั้งผลิตภัณฑ์ของเราเองและระบบเฉพาะสำหรับลูกค้า\n\nหน้าที่\n- ช่วยพัฒนาและดูแลผลิตภัณฑ์ของบริษัท\n- แก้บั๊ก และเขียนเทสต์\n- สร้างข้อมูลตัวอย่างสำหรับทดสอบและเดโม\n- ตรวจภาษาไทย/อังกฤษบนหน้าจอระบบ\n- เขียนเอกสารการติดตั้งและการใช้งาน\n- ช่วยงานระบบเฉพาะสำหรับลูกค้าตามที่ได้รับมอบหมาย\n\nคุณสมบัติ\n- กำลังศึกษาหรือเพิ่งจบสาย วิทยาการคอมพิวเตอร์ / วิศวกรรมคอมพิวเตอร์ / IT หรือสาขาที่เกี่ยวข้อง หรือเรียนเขียนโปรแกรมด้วยตัวเอง\n- เขียน JavaScript/TypeScript หรือ Python ได้ และใช้ Git เป็น\n- มีผลงานที่ทำเองให้ดู (GitHub หรือโปรเจกต์)\n- อ่านเอกสารและสื่อสารภาษาอังกฤษได้\n- ทำงานได้ประมาณ 20 ชั่วโมง/สัปดาห์ และเข้ามาทำงานในกรุงเทพฯ ได้เป็นบางครั้ง\n- ข้อดี: React/Next.js, SQL, Docker, Linux, เคยใช้เครื่องมือ AI ช่วยเขียนโค้ด\n\nสวัสดิการ\n- ค่าตอบแทน ฿60–75/ชั่วโมง ตามผลสัมภาษณ์\n- เวลาทำงานยืดหยุ่น ทำงานทางไกลเป็นหลัก\n- หนังสือรับรองการทำงาน\n\nวิธีสมัคร\nค่าตอบแทน ฿60–75/ชั่วโมง ประม���ณ 20 ชั่วโมง/สัปดาห์ เริ่มงานได้ทันที\nส่งข้อเสนอผ่าน Fastwork แนบลิงก์ผลงาน แจ้งวันที่เริ่มงานได้ และตอบ 3 ข้อนี้เป็นภาษาอังกฤษ (Please answer in English)\n1. Link one thing you built yourself. What was the hardest part, and how did you solve it?\n2. A user says our web app shows a blank page right after they log in. List the first 5 things you'd check, in order.\n3. Tell us one thing you taught yourself recently, and how.\n\nIn English: part-time support engineer intern, about 20 hours a week, mostly remote in Bangkok, ฿60–75/hour. Fix bugs, write tests, build demo data and help build our AI products. Needs JavaScript/TypeScript or Python, Git, and your own work to show. Apply with a proposal and the 3 answers above.",
+    "title": "นักศึกษาฝึกงาน Support Engineer (พาร์ทไทม์) / Support Engineer Intern",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-26T13:09:27.797629Z",
+    "updated_at": "2026-10-26T13:09:29.395775Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-25T13:09:27.733639Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
+    "user_profile": {
+      "id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
+      "username": "saangai",
+      "display_name": "Saang AI",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-26T13:20:04.194Z"
+  },
+  {
+    "id": "1cb0888b-7714-4386-8e67-b9e82ab04e1d",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนแก้โปรแกรม tts ไม่สเถียรทักมาดูรูปได้ครับ\n\nกระบวนการแปลงเสียงล้มเหลว: No audio was received. Please verify that your parameters are correct.\n\n\n\nกระบวนการแปลงเสียงล้มเหลว:\n\nCannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x7380a775f0> [No address associated with hostname]",
+    "title": "หาคนแก้โปรแกรม tts ไม่เสถียร",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-26T12:46:04.457138Z",
+    "updated_at": "2026-10-26T12:46:05.739505Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2027-10-26",
+    "expired_at": "2026-11-25T12:46:04.438031Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S938B;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-26T13:20:03.061Z"
+  },
+  {
     "id": "83b3b88d-57ce-4908-b7a1-84e048d1cacb",
     "status": "open",
     "tag": {
@@ -195,253 +293,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-25T18:55:32.625Z"
-  },
-  {
-    "id": "aa7b2f6a-ce83-4299-aa58-6809fa889302",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "ต้องการลงโปรแกรมคอมPC ให้คุณพ่อกีบลงโนตบุค ขอคนที่ใจดีให้คำแนะนำไม่รีโมทส่งๆไม่แนะนำอะไรเพราะคุณพ่ออายุมากแล้วไม่ค่อยรู้ค่ะ ราคาคุยกันได้ค่ะ",
-    "title": "ลงโปรแกรมคอมลงวินโดว",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-25T11:55:36.948860Z",
-    "updated_at": "2026-10-25T11:55:38.765126Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-A576B;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-24T11:55:36.930835Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "d195035f-af80-433a-9136-57887f5c0069",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-25T12:07:03.853Z"
-  },
-  {
-    "id": "8015631f-bb26-4e20-b01a-d705575e2f97",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "หานักออกแบบ UI/UX ด้วย Figma ออกแบบแพลตฟอร์ม 30–40 หน้า\n\nกำลังมองหานักออกแบบ UI/UX ที่มีประสบการณ์ใช้ Figma เพื่อออกแบบแพลตฟอร์มรวมร้านอาหารท้องถิ่น โดยเน้นการใช้งานจริงและสามารถส่งต่อให้ Developer พัฒนาต่อได้\n\nขอบเขตงาน\n\n• ออกแบบประมาณ 30–40 หน้าจอ ครอบคลุมระบบหลัก\n• ออกแบบ Responsive สำหรับ Desktop, Tablet และ Mobile ตามขอบเขตที่ตกลงกัน\n• ออกแบบ UI ให้สวยงาม ใช้งานง่าย และมีรูปแบบสม่ำเสมอ\n• จัดทำ Components และ Design System เบื้องต้น\n• จัดทำ Interactive Prototype เชื่อมโยงหน้าจอตาม User Flow\n• จัดระเบียบ Frames, Layers และ Components ให้ Developer ทำงานต่อได้สะดวก\n\nหน้าจอหลักที่ต้องการ\n\n• หน้าหลัก ค้นหาร้าน ร้านใกล้ฉัน ร้านแนะนำ และรายละเอียดร้านอาหาร\n• ระบบสมัครสมาชิก เข้าสู่ระบบ และโปรไฟล์ผู้ใช้\n• Feed เช็กอิน โพสต์ รีวิว และเมนูต้องลอง\n• โปรโมชั่นและรายละเอียดโปรโมชั่น\n• ระบบสมัครร้านอาหารและจัดการข้อมูลร้าน เมนู และโปรโมชั่น\n• หน้าเกี่ยวกับเรา FAQ และหน้าข้อมูลที่จำเป็น\n\nรูปแบบการทำงาน\n\nทางเรามีภาพ AI Mockup และแนวคิดเบื้องต้นให้เป็นแนวทาง นักออกแบบต้องนำมาพัฒนาเป็น UI/UX จริงใน Figma ไม่ใช่เพียงนำภาพ AI มาวางบนหน้าจอ โดยองค์ประกอบต้องแก้ไขได้และพร้อมส่งต่อเพื่อพัฒนาระบบจริง\n\nก่อนเริ่มงานจะตกลงจำนวนหน้าจอ รายละเอียด Responsive และขอบเขตการส่งมอบให้ชัดเจน\n\nสิ่งที่ต้องส่งมอบ\n\n• ไฟล์ Figma ต้นฉบับที่แก้ไขต่อได้\n• UI ตามจำนวนหน้าจอที่ตกลงกัน\n• Components และ Design System\n• Prototype ตาม User Flow\n• ไฟล์จัดระเบียบพร้อมส่งต่อ Developer\n• แก้ไขงานตามจำนวนรอบที่ตกลงกัน\n• ขอบเขตงานอาจจะมีการเปลี่ยนแปลงตามแตละส่วน\n\nงบประมาณ: 5,500 บาท\n\nผู้สนใจรบกวนส่ง Portfolio ผลงาน Figma ประสบการณ์ออกแบบ Responsive และแจ้งขอบเขตงานที่สามารถทำได้ภายในงบประมาณ",
-    "title": "หานักออกแบบ UI/UX ��้วย Figma ออกแบบแพลตฟอร์ม 30–40 หน้า",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5500",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-25T08:31:46.873213Z",
-    "updated_at": "2026-10-25T08:31:48.283783Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-24T08:31:46.741561Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5500",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-25T12:07:02.488Z"
-  },
-  {
-    "id": "bf4d5738-5fcb-4020-8ac0-7cae41d4d906",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "full-time",
-    "description": "บรีฟงาน\n1. โปรแกรมเมอร์ (Programmer / Developer)\n หน้าที่ความรับผิดชอบ:\n พัฒนาและดูแลระบบเว็บไซต์ หรือแอปพลิเคชันตามที่ได้รับมอบหมาย\n เขียนโค้ดที่มีคุณภาพ ตรวจสอบและแก้ไขบั๊ก (Debug) เพื่อให้ระบบทำงานได้อย่างเสถียร\n ทำงานร่วมกับ Project Manager และทีมดีไซน์ในการพัฒนาฟีเจอร์ใหม่ๆ\n คุณสมบัติเด่น:\n มีประสบการณ์หรือความรู้ความสามารถในภาษาโปรแกรมที่เกี่ยวข้อง (เช่น JavaScript, PHP, Python, React, Node.js หรืออื่นๆ ตามเหมาะสม)\n สามารถแก้ปัญหาเฉพาะหน้าได้ดี และเรียนรู้เทคโนโลยีใหม่ๆ ได้เร็ว\n มีความเข้าใจเรื่อง Database และระบบ API\n2. กราฟฟิก ดีไซน์ (Graphic Designer)\n หน้าที่ความรับผิดชอบ:\n ออกแบบสื่อสำหรับประชาสัมพันธ์และการตลาด (Social Media Post, Banner, Ad)\n ออกแบบ UI/UX สำหรับเว็บไซต์หรือแอปพลิเคชัน (ถ้ามี)\n สร้างสรรค์ผลงานให้สอดคล้องกับภาพลักษณ์ของแบรนด์ (Brand Identity)\n คุณสมบัติเด่น:\n ใช้โปรแกรมออกแบบได้อย่างคล่องแคล่ว (เช่น Photoshop, Illustrator, Figma หรือโปรแกร��อื่นๆ)\n มีความคิดสร้างสรรค์ มีมุมมองด้านศิลปะและการตลาดที่ทันสมัย\n เปิดรับคำติชม (Feedback) และสามารถปรับแก้ตามโจทย์ได้\n3. แอดมิน (Admin / Customer Service)\n หน้าที่ความรับผิดชอบ:\n ตอบแชท ดูแล และให้คำปรึกษาแก่ลูกค้าผ่านช่องทางออนไลน์ต่างๆ (Line, Facebook, TikTok ฯลฯ)\n ประสานงานกับภายในทีมเพื่ออำนวยความสะดวกในการให้บริการ\n จัดทำสรุปยอด หรือข้อมูลการขาย/บริการประจำวัน\n คุณสมบัติเด่น:\n มีใจรักในการบริการ (Service Mind) อัธยาศัยดี และสื่อสารเข้าใจง่าย\n พิมพ์คล่อง รวดเร็ว และบริหารจัดการเวลาได้ดี\n มีความรับผิดชอบ ละเอียดรอบคอบ\n4. ผู้จัดการโครงการ (Project Manager)\n หน้าที่ความรับผิดชอบ:\n วางแผน ควบคุม และติดตามความคืบหน้าของโปรเจกต์ให้เป็นไปตามเป้าหมายและกำหนดเวลา\n ประสานงานระหว่างลูกค้าและทีมงาน (Developer, Designer, Admin)\n บริหารจัดการทรัพยากร และแก้ปัญหาที่อาจเกิดขึ้นระหว่างการดำเนินงาน\n คุณสมบัติเด่น:\n มีทักษะความเป็นผู้นำและการสื่อสารที่ยอดเยี่ยม\n มีประสบการณ์ในการบริหารจัดการโปรเจกต์ (หากมีประสบการณ์ด้านสายงาน IT หรือ Digital Agency จะพิจารณาเป็นพิเศษ)\n สามารถจัดลำดับความสำคัญของงานได้ดีภายใต้ความกดดัน\n\nเข้าออฟฟิศ เครือสหพัฒน์ ชลบุรี สัปดาห์ละ 3-4 วัน\nนอกนั้น WFH\n\nเงินเดือน พิจารณา ตามความสามารถ",
-    "title": "รับสมัครหลายตำแหน่ง เครือสหพัฒน์ ชลบุรี",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "30000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-25T07:34:42.621797Z",
-    "updated_at": "2026-10-25T07:34:43.963216Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-24T07:34:42.559918Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "5044c797-a5d1-445d-9135-038d14058bb6",
-    "user_profile": {
-      "id": "5044c797-a5d1-445d-9135-038d14058bb6",
-      "username": "rtxvpuda",
-      "display_name": "AR Induction",
-      "image_url": "https://storage.googleapis.com/fastwork-static/35f450c4-f043-4756-906c-4b80b620edea.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "30000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-25T12:07:01.356Z"
-  },
-  {
-    "id": "567cf847-3675-4e9c-bd23-a2db9e7b6adf",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการจ้าง Full-Stack Developer เพื่อออกแบบและพัฒนาระบบ CRM สำหรับบริษัทอสังหาริมทรัพย์ (Custom Web Application)\n\n1. สามารถพัฒนา Web Application แบบครบวงจร ทั้ง Frontend, Backend และ Database\n2. ระบบหลักประกอบด้วย Customer Management, Property Stock, Owner Management, Contract Management และ Dashboard\n3. สามารถออกแบบ UI/UX ให้ใช้งานง่าย รองรับทั้งคอมพิวเตอร์และมือถือ\n4. มีความเข้าใจระบบการทำงานของธุรกิจอสังหาริมทรัพย์ เช่น การซื้อ-ขาย-เช่า การจัดการ Stock และสัญญา\n5. สามารถนัดประชุมเพื่อเก็บ Requirement วางโครงสร้างระบบ และให้คำปรึกษาด้านเทคนิคไ��้\n6. สามารถสอนวิธีใช้งาน ดูแลระบบ และแนะนำวิธีแก้ไขหรือพัฒนาต่อยอดในอนาคต\n7. ต้องส่งมอบ Source Code, Database และสิทธิ์การเข้าถึงระบบทั้งหมดให้บริษัท\n8. มีประสบการณ์พัฒนา CRM หรือระบบจัดการข้อมูล และมี Portfolio ให้พิจารณา\n9. สามารถเสนอระยะเวลาพัฒนา งบประมาณ และค่าใช้จ่ายในการดูแลระบบรายเดือน\n10. สามารถแบ่งการพัฒนาเป็น Phase และมีบริการแก้ไข Bug หลังส่งมอบ\n",
-    "title": "หานักพัฒนา Full-Stack Developer สร้างระบบ CRM อสังหาริมทรัพย์ (Custom Web Application)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-25T05:29:33.891434Z",
-    "updated_at": "2026-10-25T05:29:35.066891Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-24T05:29:33.833470Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "9fab9990-2cac-469d-91b8-144630b35f22",
-    "user_profile": {
-      "id": "9fab9990-2cac-469d-91b8-144630b35f22",
-      "username": "pearprw",
-      "display_name": "Praewa",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/9fab9990-2cac-469d-91b8-144630b35f22/profile/354d8916-d6f6-4585-90e4-671e4ea5fab5.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-25T06:52:21.239Z"
-  },
-  {
-    "id": "68e228f3-8876-4f97-99c9-2fddffe4ac14",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "**หา Technical Partner ร่วมสร้างแพลตฟอร์มร้านอาหารท้องถิ่น**\n\nผมกำลังมองหานักพัฒนาร่วมสร้างแพลตฟอร์มร้านอาหาร เริ่มต้นจากภาคเหนือ โดยมีเป้าหมายขยายสู่แพลตฟอร์มขนาดใหญ่ในอนาคต ไม่ใช่แค่ผู้รับจ้างเขียนโค้ด แต่เป็นผู้ร่วมสร้างธุรกิจจริง\n\n**1. บทบาทของผม**\n- วางวิสัยทัศน์ กลยุทธ์ และรูปแบบบริการ\n- ทำการตลาด ขยายฐานร้านค้าและพันธมิตร\n- วางแผนการเติบโตระยะยาว\n\n**2. บทบาทของ Technical Partner**\n- พัฒนาแพลตฟอร์ม Android, iOS และ Website รวมถึง Backend และฐานข้อมูล\n- พัฒนาระบบสมาชิกและฟังก์ชันที่จำเป็นสำหรับ MVP\n- ทดสอบ แก้ไขข้อผิดพลาด และทำให้ระบบพร้อมใช้งานจริง\n- รองรับ Desktop, Tablet และ Mobile\n- ส่งมอบ Source Code ฐานข้อมูล เอกสารทางเทคนิค และสิทธิ์เข้าถึงระบบครบถ้วน\n\nขอบเขตงาน กำหนดเวลา และเกณฑ์ตรวจรับจะตกลงเป็นลายลักษณ์อักษร\n\n**3. ผลตอบแทนและเงื่อนไข**\n3.1 รับส่วนแบ่งกำไรสุทธิ 10% เป็นเวลา 3 ปี โดยไม่ต้องลงทุนเงินสด ไม่มีหุ้นหรือกรรมสิทธิ์ในบริษัท\n\n3.2 เริ่มนับ 3 ปีเมื่อแพลตฟอร์มเปิดให้บริการเชิงพาณิชย์และส่งมอบงานครบตามข้อตกลง\n\n3.3 คำนวณจากกำไรสุทธิหลังหักค่าใช้จ่ายตามหลักเกณฑ์ในสัญญา พร้อมรายงานที่ตรวจสอบได้\n\n3.4 หากละทิ้งง��นหรือขาดการติดต่อโดยไม่มีเหตุอันสมควร และไม่แก้ไขภายในเวลาที่แจ้งเป็นลายลักษณ์อักษร การรับส่วนแบ่งกำไรให้เป็นไปตามเงื่อนไขสิ้นสุดสิทธิในสัญญา\n\n3.5 ต้องส่งมอบ Source Code, Backend ฐานข้อมูล และเอกสารที่จำเป็น พร้อมทำข้อตกลงโอนสิทธิในลิขสิทธิ์ที่โอนได้ เพื่อให้สามารถใช้งาน แก้ไข พัฒนาต่อ และจ้างผู้อื่นดูแลระบบได้ ส่วนประกอบของบุคคลที่สามเป็นไปตามเงื่อนไขใบอนุญาต\n\n**4. เป้าหมาย**\nสร้าง MVP ที่ใช้งานได้จริง ทดลองตลาด ขยายฐานร้านค้าและผู้ใช้ พร้อมเติบโตอย่างยั่งยืน\n\n**5. ทดสอบทักษะ Frontend**\nผู้สมัครพัฒนาตัวอย่าง 3 ส่วน:\n1) Index Page: Header, Body, Footer พร้อม Responsive\n2) Login, Sign Up และ Forgot Password\n3) Create Account จำนวน 4 Sections\n\nทางเราจัดเตรียมเฉพาะไฟล์ภาพตัวอย่าง ส่วนที่เหลือให้ออกแบบด้วยตนเอง ส่งผลงานภายใน 7 วัน เพื่อประเมินทักษะก่อนพิจารณาร่วมงาน\n\nหากสนใจร่วมสร้างธุรกิจจริง ผมยินดีพูดคุยเพื่อวางแผนร่วมกัน",
-    "title": "หา Technical Partner ร่วมพัฒนาแพลตฟอร์มร้านอาหารให้เสร็จพร้อมใช้งาน ครอบคลุม Android, iOS และ Website รับส่วนแบ่งกำไรสุทธิ 10% นาน 3 ปี",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-25T02:13:31.274073Z",
-    "updated_at": "2026-10-25T02:13:32.873268Z",
-    "brief_url": "https://linktr.ee/",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-24T02:13:31.225089Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "542c3998-5f0a-4dee-9e5c-550170a6d435",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-25T06:52:19.960Z"
   }
 ]
