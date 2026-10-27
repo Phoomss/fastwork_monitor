@@ -1,5 +1,103 @@
 [
   {
+    "id": "908e524b-db5a-4f2d-8664-5df36cd7d566",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ขยายเครือข่าย Freelance Recruiter / Recruitment Coordinator เพื่อร่วมงานในโครงการด้าน AI Data เป็นรายโปรเจกต์\nโครงการเบื้องต้นเป็นงาน Voice Data Collection โดย Recruiter จะรับผิดชอบด้านการสรรหา คัดกรอง และประสานผู้เข้าร่วมที่มีคุณสมบัติตรงตาม Requirement ของแต่ละโครงการ\nผู้เข้าร่วมจะทำการบันทึกเสียงตามโจทย์ที่กำหนด ข้อมูลที่ได้รับจะผ่านกระบวนการตรวจสอบคุณภาพและ Data Analysis ก่อนจัดทำเป็น Dataset เพื่อส่งมอบ\n\nขอบเขตงาน\n- สรรหาผู้เข้าร่วมตาม Target Profile และ Requirement ของแต่ละโครงการ\n- ประชาสัมพันธ์และ Sourcing ผ่านช่องทางหรือเครือข่ายที่ตนเองสามารถเข้าถึงได้\n- คัดกรองคุณสมบัติและความพร้อมของผู้เข้าร่วมเบื้องต้น\n- อธิบายขั้นตอนและเงื่อนไขการเข้าร่วมโครงการ\n- ประสานงานและติดตามผู้เข้าร่วมให้ดำเนินงานภายใน Timeline ที่กำหนด\n- ติดตามผู้เข้าร่วมกรณีข้อมูลไม่ครบหรือต้องดำเนินการเพิ่มเติม\n- อัปเดตจำนวนผู้สมัครและสถานะการ Recruitment ให้ทีมทราบเป็นระยะ\n\nบริษัทจะเป็นผู้ดูแล Project Requirement, Workflow และกระบวนการตรวจสอบคุณภาพ/Data Analysis\n\nคุณสมบัติ\n- มีประสบการณ์ด้าน Recruitment, Sourcing, Coordinator, Community Management หรืองานที่เกี่ยวข้อง\n- หรือมี Network / Community ที่สามารถเข้าถึงและจัดหาผู้เข้าร่วมได้\n- สามารถบริหารและติดตามผู้เข้าร่วมหลายคนพร้อมกันได้\n- มีทักษะการสื่อสารและประสานงานที่ดี\n- ทำงานตาม Requirement และ Timeline ได้\n- มีความรับผิดชอบและสามารถอัปเดตสถานะงานอย่างเป็นระบบ\n\nไม่จำเป็นต้องมีประสบการณ์ด้าน AI Data โดยตรง หากมีประสบการณ์ด้านการจัดหาคนหรือมี Network ที่เหมาะสม สามารถ���มัครได้\n\nค่าตอบแทน\n- เบื้องต้น Recruiter จะได้รับค่าตอบแทนประมาณ 15–20% ตามเงื่อนไขของแต่ละโปรเจกต์\n- การคำนวณค่าตอบแทนจะอ้างอิงจาก มูลค่าของ Data ที่ผ่านเกณฑ์การตรวจสอบและ Data Analysis (Approved Data Hours) ของผู้เข้าร่วมที่ Recruiter เป็นผู้จัดหา ไม่ได้คำนวณจากจำนวนชั่วโมงที่บันทึกเข้ามาทั้งหมด\nRate, วิธีคำนวณ และเงื่อนไขการจ่ายของแต่ละโปรเจกต์จะแจ้งให้ทราบและตกลงร่วมกันก่อนเริ่มงาน",
+    "title": "Freelance Recruiter / Recruitment Coordinator สำหรับโครงการ AI Data Collection",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-27T06:12:08.111004Z",
+    "updated_at": "2026-10-27T06:12:10.844691Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-26T06:12:08.047599Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
+    "user_profile": {
+      "id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
+      "username": "starwavesolution",
+      "display_name": "STARWAVESOLUTION",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/631a0f81-24ee-46f1-a797-0cf5b73da52c/profile/6f16e94c-a594-4278-a25c-16b372e7957d.png"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-27T07:36:31.741Z"
+  },
+  {
+    "id": "10ec5c61-f1a7-457b-8061-834fdd11ae82",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "โดยคุณสามารถนำไปเสนอขาย ในแบบของตัว\nเองได้เลย\n\nสิ่งที่คุณจะได้รับ\n• ค่าคอมมิชชั่น 10% จากราคาขาย(ก่อนบวกราคาเพิ่มของ\nคุณ)\n• บวกราคาเพิ่มได้สูงสุด 25% ส่วนที่บวกเป็นของคุณ100%\n\n• รายได้ต่องานเบื้องต้น: 2,097 | 4,515 / 5,565 บาทตามแพ็กเกจ (ตามแต่ราคาตั้งต้น)\n\n• จ่าย 50% เมื่อลูกค้าชำระมัดจำและทีมยืนยันรับงาน ส่วน ที่เหลือหลังจบงาน\n\nใบเสนอราคา ออกแบบ และพัฒนา ทีมงาน punwebsiteจะ ดูแลทั้งหมด\n\nส่วนคุณ ขอช่วยประสานงานจนกว่าจะส่งหมอบ",
+    "title": "ตัวแทนขายอิสระ - บริการจัดทำเว็บไซต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-27T05:13:53.784663Z",
+    "updated_at": "2026-10-27T05:13:55.518267Z",
+    "already_offered": false,
+    "brief_url": "https://ststudio-blw.pages.dev/",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-26T05:13:53.765965Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
+    "user_profile": {
+      "id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
+      "username": "punweb",
+      "display_name": "punwebsitedevelopment",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8179f3ac-3c7c-451a-9688-e76cccedb8e8/profile/277cb70b-3e72-40a1-a8a7-0042af3cbd8c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-27T07:36:30.444Z"
+  },
+  {
     "id": "cedbbafc-9239-4808-9d69-ea9987b71849",
     "status": "open",
     "tag": {
@@ -96,54 +194,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-10-26T13:20:03.061Z"
-  },
-  {
-    "id": "83b3b88d-57ce-4908-b7a1-84e048d1cacb",
-    "status": "open",
-    "tag": {
-      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
-      "name": "อื่นๆ",
-      "sort": 99
-    },
-    "type": "freelance",
-    "description": "กำลังมองหาวิศวกรหรือช่างอิเล็กทรอนิกส์ที่มีประสบการณ์ด้านการออกแบบวงจร PCB และระบบประมวลผลสัญญาณเสียง (Audio Processing)\n\nขอบเขตงานเบื้องต้น\n\nออกแบบและประกอบวงจรอิเล็กทรอนิกส์ขนาดเล็ก\n\nใช้ไมโครคอนโทรลเลอร์ เช่น ESP32 หรือเทียบเท่า\n\nมีระบบรับและส่งสัญญาณเสียง\n\nรองรับการประมวลผลสัญญาณเสียงแบบ Real-time\n\nออกแบบ PCB และประกอบลงกล่องขนาดกะทัดรัด\n\nสามารถพัฒนา Firmware และทดสอบการทำงานได้\n\nต้องการผลิตต้นแบบจำนวน 1 เครื่อง เพื่อทดสอบการใช้งานจริง และมีแผนพัฒนาสู่การผลิตจำนวนมากในอนาคต\n\nงบประมาณ: เปิดรับใบเสนอราคาตามขอบเขตงาน\n\nผู้ที่สนใจสามารถส่งผลงานที่ผ่านมา ประสบการณ์ และราคาประเมินเบื้องต้นมาได้ครับ",
-    "title": "ช่างออกแบบและผลิตอุปกรณ์อิเล็กทรอนิกส์ขนาดเล็ก (Prototype)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-26T04:28:44.399968Z",
-    "updated_at": "2026-10-26T04:28:45.551944Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-25T04:28:44.382074Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "695f08c6-f0d8-4834-a676-123c92ccdeff",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-26T06:21:31.443Z"
   }
 ]
