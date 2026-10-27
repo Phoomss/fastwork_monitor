@@ -1,5 +1,152 @@
 [
   {
+    "id": "815b8974-0afd-4690-973b-8d00ab6010d5",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "บริษัท AON KP DATA เปิดรับสมัครผู้ที่สนใจเข้าร่วมโปรเจกต์บันทึกเสียงคำสั่งเดี่ยวแบบไทยผสมอังกฤษ (คำสั่งรถยนต์ไฟฟ้า)\n\nรายละเอียด\n- ต้องการผู้ที่สนใจเข้าร่วมโปรเจกต์จำนวนมากไม่จำกัดอายุ (สามารถแนะนำคนในครอบครัวหรือเพื่อน ๆ มาอัดเสียงได้จะได้รับค่าตอบแทนพิเศษ)\n- การอัดเสียงแบบคำสั่งไทยผสมอังกฤษ (สำหรับคำภาษาอังกฤษได้ถอดเป็นคำภาษาไทยเพื่อง่ายต่อการอ่านให้แล้ว)\n- ต้องอ่านคำสั���งเสียงประมาณ 400-500 ประโยค แต่ละประโยคจะใช้เวลาประมาณ 3-5 วินาที (เวลาโดยรวมในการทำงานอยู่ที่ 1-1.5 ชั่วโมง)\n- ต้องการคนที่มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวนใด ๆ งานนี้สามารถหาสถานที่หรืออัดได้ที่บ้านตนเอง\n- จำเป็นต้องมีการเทสการอ่านเพื่อพิจารณาว่าสามารถทำงานกับโปรเจกต์นี้ได้ (มีการเทส 5 ประโยค ไม่มีค่าตอบแทนสำหรับการเทส)\nค่าตอบแทน\n- จะได้รับคนละ 500 บาทหลังตรวจสอบคุณภาพเสียงเรียบร้อยแล้ว\n- หากสามารถพาคนอื่น ๆ มาอัดเสียงได้ โดยเฉพาะผู้ชาย เราจะเพิ่มให้คนละ 600 บาท (รวมคุณและคนแนะน��อีกคนจะเป็น 1200 บาท แต่ต้องเป็นผู้ชายเท่านั้น)\n- และหากทำงานเสร็จเรียบร้อยแล้วสามารถแนะนำคนอื่น ๆ มาเพิ่มเติมได้ เราจะมีค่าแนะนำให้\n- ผู้ที่ทำงานเสร็จเรียบร้อยมีโอกาสที่จะร่วมงานโปรเจกต์อื่น ๆ ในอนาคตกับทางบริษัท",
+    "title": "คนที่สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยวแบบไทยผสมอังกฤษ",
+    "is_owner": false,
+    "source": "jobboard_web_web_team_grand-company",
+    "files": [],
+    "kind": "standard",
+    "budget": "500",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-27T10:10:22.704900Z",
+    "updated_at": "2026-10-27T10:10:23.869332Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-26T10:10:22.554629Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
+    "user_profile": {
+      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
+      "username": "6t9jskml",
+      "display_name": "aonkpdata",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "500",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-27T13:31:40.968Z"
+  },
+  {
+    "id": "195dc94c-7941-489f-b02b-b4ce18c1ae5f",
+    "status": "open",
+    "tag": {
+      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
+      "name": "งานเขียน / บทความ",
+      "sort": 8
+    },
+    "type": "freelance",
+    "description": "We are currently looking to recruit freelance sales agents in different areas of Thailand who can visit restaurants, speak directly with owners or managers, explain our service and introduce new customers to us.\nOur offer to restaurants is designed to be simple and easy to sell.\nWe provide the restaurant with:\n• A complete professional restaurant webpage\n• A separate mobile-friendly Menu & Order page\n• Conversion of their existing printed or photographed menu into an online menu\n• FREE English translation of their Thai menu\n• A professionally designed restaurant header image\n• A FREE QR code linking directly to their Menu & Order page\n• Opening hours, contact details, restaurant photographs and logo\n• Links to LINE, WhatsApp and delivery services where available\n• Inclusion in our Find a Restaurant & Order directory\nThe initial website setup is FREE OF CHARGE.",
+    "title": "freelance sales agents in different areas of Thailand",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-27T09:27:44.101400Z",
+    "updated_at": "2026-10-27T09:27:45.192883Z",
+    "already_offered": false,
+    "brief_url": "https://mythairestaurant.website/",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-26T09:27:44.083970Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
+    "user_profile": {
+      "id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
+      "username": "goldhaven",
+      "display_name": "mythairestaurant",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8dbd8442-0e2f-4860-9e68-d90b0dae4043/profile/eaf0abbf-6e7a-4377-af11-f0f9b5654c9c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-27T13:31:39.411Z"
+  },
+  {
+    "id": "814e86c3-dc5d-4b9a-b4d6-6d1fc4a58597",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "We are currently looking to recruit freelance sales agents in different areas of Thailand who can visit restaurants, speak directly with owners or managers, explain our service and introduce new customers to us.\nOur offer to restaurants is designed to be simple and easy to sell.\nWe provide the restaurant with:\n• A complete professional restaurant webpage\n• A separate mobile-friendly Menu & Order page\n• Conversion of their existing printed or photographed menu into an online menu\n• FREE English translation of their Thai menu\n• A professionally designed restaurant header image\n• A FREE QR code linking directly to their Menu & Order page\n• Opening hours, contact details, restaurant photographs and logo\n• Links to LINE, WhatsApp and delivery services where available\n• Inclusion in our Find a Restaurant & Order directory\nThe initial website setup is FREE OF CHARGE.\nThe restaurant signs a 12-month agreement and pays:\nFirst month: ฿700\nFollowing 11 months: ฿300 per month\nThe total cost to the restaurant for the complete first year is therefore only ฿4,000.\nThe sales agent does not need any website, design or technical experience. We handle all website creation, menu conversion, translation and technical work.\nThe agent's role is simply to:\n• Find suitable restaurants\n• Speak with the owner or decision-maker\n• Explain and demonstrate the service\n• Help collect the restaurant's basic information, menu and photographs\n• Arrange the signed customer agreement\n• Introduce the completed customer to us\nFor every restaurant successfully introduced that signs the agreement and pays the initial ฿700, the agent receives:\n฿350 commission per restaurant\nThis represents 50% of the customer's first payment.\nWe are particularly interested in agents in areas including Bangkok, Pathum Thani, Nonthaburi, Pattaya, Chonburi, Phuket, Chiang Mai, Hua Hin, Krabi, Koh Samui, Khon Kaen, Udon Thani and Nakhon Ratchasima, although we are interested in suitable agents throughout Thailand.",
+    "title": "freelance sales agents in different areas of Thailand",
+    "is_owner": false,
+    "source": "jobboard_web_PLfilter_landscape",
+    "files": [],
+    "kind": "standard",
+    "budget": "350",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-27T08:15:07.733658Z",
+    "updated_at": "2026-10-27T08:15:09.288480Z",
+    "already_offered": false,
+    "brief_url": "https://mythairestaurant.website/",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-26T08:15:07.710100Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
+    },
+    "require_english_speaker": true,
+    "usage_type": "personal",
+    "user_id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
+    "user_profile": {
+      "id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
+      "username": "goldhaven",
+      "display_name": "mythairestaurant",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8dbd8442-0e2f-4860-9e68-d90b0dae4043/profile/eaf0abbf-6e7a-4377-af11-f0f9b5654c9c.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "350",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-27T13:31:38.227Z"
+  },
+  {
     "id": "908e524b-db5a-4f2d-8664-5df36cd7d566",
     "status": "open",
     "tag": {
@@ -96,103 +243,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-27T07:36:30.444Z"
-  },
-  {
-    "id": "cedbbafc-9239-4808-9d69-ea9987b71849",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "เกี่ยวกับเรา\nสร้างเอไอพัฒนา AI และระบบซอฟต์แวร์สำหรับบริษัทไทย ทั้งผลิตภัณฑ์ของเราเองและระบบเฉพาะสำหรับลูกค้า\n\nหน้าที่\n- ช่วยพัฒนาและดูแลผลิตภัณฑ์ของบริษัท\n- แก้บั๊ก และเขียนเทสต์\n- สร้างข้อมูลตัวอย่างสำหรับทดสอบและเดโม\n- ตรวจภาษาไทย/อังกฤษบนหน้าจอระบบ\n- เขียนเอกสารการติดตั้งและการใช้งาน\n- ช่วยงานระบบเฉพาะสำหรับลูกค้าตามที่ได้รับมอบหมาย\n\nคุณสมบัติ\n- กำลังศึกษาหรือเพิ่งจบสาย วิทยาการคอมพิวเตอร์ / วิศวกรรมคอมพิวเตอร์ / IT หรือสาขาที่เกี่ยวข้อง หรือเรียนเขียนโปรแกรมด้วยตัวเอง\n- เขียน JavaScript/TypeScript หรือ Python ได้ และใช้ Git เป็น\n- มีผลงานที่ทำเองให้ดู (GitHub หรือโปรเจกต์)\n- อ่านเอกสารและสื่อสารภาษาอังกฤษได้\n- ทำงานได้ประมาณ 20 ชั่วโมง/สัปดาห์ และเข้ามาทำงานในกรุงเทพฯ ได้เป็นบางครั้ง\n- ข้อดี: React/Next.js, SQL, Docker, Linux, เคยใช้เครื่องมือ AI ช่วยเขียนโค้ด\n\nสวัสดิการ\n- ค่าตอบแทน ฿60–75/ชั่วโมง ตามผลสัมภาษณ์\n- เวลาทำงานยืดหยุ่น ทำงานทางไกลเป็นหลัก\n- หนังสือรับรองการทำงาน\n\nวิธีสมัคร\nค่าตอบแทน ฿60–75/ชั่วโมง ประม���ณ 20 ชั่วโมง/สัปดาห์ เริ่มงานได้ทันที\nส่งข้อเสนอผ่าน Fastwork แนบลิงก์ผลงาน แจ้งวันที่เริ่มงานได้ และตอบ 3 ข้อนี้เป็นภาษาอังกฤษ (Please answer in English)\n1. Link one thing you built yourself. What was the hardest part, and how did you solve it?\n2. A user says our web app shows a blank page right after they log in. List the first 5 things you'd check, in order.\n3. Tell us one thing you taught yourself recently, and how.\n\nIn English: part-time support engineer intern, about 20 hours a week, mostly remote in Bangkok, ฿60–75/hour. Fix bugs, write tests, build demo data and help build our AI products. Needs JavaScript/TypeScript or Python, Git, and your own work to show. Apply with a proposal and the 3 answers above.",
-    "title": "นักศึกษาฝึกงาน Support Engineer (พาร์ทไทม์) / Support Engineer Intern",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-26T13:09:27.797629Z",
-    "updated_at": "2026-10-26T13:09:29.395775Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-25T13:09:27.733639Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
-    "user_profile": {
-      "id": "7a20f8f1-82b8-41a1-af1e-e8df60b755a7",
-      "username": "saangai",
-      "display_name": "Saang AI",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-26T13:20:04.194Z"
-  },
-  {
-    "id": "1cb0888b-7714-4386-8e67-b9e82ab04e1d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนแก้โปรแกรม tts ไม่สเถียรทักมาดูรูปได้ครับ\n\nกระบวนการแปลงเสียงล้มเหลว: No audio was received. Please verify that your parameters are correct.\n\n\n\nกระบวนการแปลงเสียงล้มเหลว:\n\nCannot connect to host speech.platform.bing.com:443 ssl:<ssl.SSLContext object at 0x7380a775f0> [No address associated with hostname]",
-    "title": "หาคนแก้โปรแกรม tts ไม่เสถียร",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-26T12:46:04.457138Z",
-    "updated_at": "2026-10-26T12:46:05.739505Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2027-10-26",
-    "expired_at": "2026-11-25T12:46:04.438031Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S938B;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-    "user_profile": {
-      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
-      "username": "supawit.14",
-      "display_name": "supawitma.14",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-26T13:20:03.061Z"
   }
 ]
