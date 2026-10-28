@@ -1,104 +1,55 @@
 [
   {
-    "id": "815b8974-0afd-4690-973b-8d00ab6010d5",
+    "id": "670308af-b75a-4585-9a1d-a493571ae431",
     "status": "open",
     "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
     },
-    "type": "freelance",
-    "description": "บริษัท AON KP DATA เปิดรับสมัครผู้ที่สนใจเข้าร่วมโปรเจกต์บันทึกเสียงคำสั่งเดี่ยวแบบไทยผสมอังกฤษ (คำสั่งรถยนต์ไฟฟ้า)\n\nรายละเอียด\n- ต้องการผู้ที่สนใจเข้าร่วมโปรเจกต์จำนวนมากไม่จำกัดอายุ (สามารถแนะนำคนในครอบครัวหรือเพื่อน ๆ มาอัดเสียงได้จะได้รับค่าตอบแทนพิเศษ)\n- การอัดเสียงแบบคำสั่งไทยผสมอังกฤษ (สำหรับคำภาษาอังกฤษได้ถอดเป็นคำภาษาไทยเพื่อง่ายต่อการอ่านให้แล้ว)\n- ต้องอ่านคำสั���งเสียงประมาณ 400-500 ประโยค แต่ละประโยคจะใช้เวลาประมาณ 3-5 วินาที (เวลาโดยรวมในการทำงานอยู่ที่ 1-1.5 ชั่วโมง)\n- ต้องการคนที่มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวนใด ๆ งานนี้สามารถหาสถานที่หรืออัดได้ที่บ้านตนเอง\n- จำเป็นต้องมีการเทสการอ่านเพื่อพิจารณาว่าสามารถทำงานกับโปรเจกต์นี้ได้ (มีการเทส 5 ประโยค ไม่มีค่าตอบแทนสำหรับการเทส)\nค่าตอบแทน\n- จะได้รับคนละ 500 บาทหลังตรวจสอบคุณภาพเสียงเรียบร้อยแล้ว\n- หากสามารถพาคนอื่น ๆ มาอัดเสียงได้ โดยเฉพาะผู้ชาย เราจะเพิ่มให้คนละ 600 บาท (รวมคุณและคนแนะน��อีกคนจะเป็น 1200 บาท แต่ต้องเป็นผู้ชายเท่านั้น)\n- และหากทำงานเสร็จเรียบร้อยแล้วสามารถแนะนำคนอื่น ๆ มาเพิ่มเติมได้ เราจะมีค่าแนะนำให้\n- ผู้ที่ทำงานเสร็จเรียบร้อยมีโอกาสที่จะร่วมงานโปรเจกต์อื่น ๆ ในอนาคตกับทางบริษัท",
-    "title": "คนที่สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยวแบบไทยผสมอังกฤษ",
+    "type": "part-time",
+    "description": "หาร้���นรับสอน SQL Workbench และ ร้านสอนเขียนโค๊ดภาษา python\nกี่ชม.ราคากี่บาท\nจ้างเป็นวันไม่เป็นคร์อท\nขอคนมีประสบการณ์",
+    "title": "หาร้านรับสอน SQL Workbench และ ร้านสอนเขียนโค๊ดภาษา python ",
     "is_owner": false,
-    "source": "jobboard_web_web_team_grand-company",
-    "files": [],
-    "kind": "standard",
-    "budget": "500",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-27T10:10:22.704900Z",
-    "updated_at": "2026-10-27T10:10:23.869332Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-26T10:10:22.554629Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-    "user_profile": {
-      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-      "username": "6t9jskml",
-      "display_name": "aonkpdata",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "500",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-27T13:31:40.968Z"
-  },
-  {
-    "id": "195dc94c-7941-489f-b02b-b4ce18c1ae5f",
-    "status": "open",
-    "tag": {
-      "id": "934dba4f-1d08-433d-81f0-a5c2fb2009d3",
-      "name": "งานเขียน / บทความ",
-      "sort": 8
-    },
-    "type": "freelance",
-    "description": "We are currently looking to recruit freelance sales agents in different areas of Thailand who can visit restaurants, speak directly with owners or managers, explain our service and introduce new customers to us.\nOur offer to restaurants is designed to be simple and easy to sell.\nWe provide the restaurant with:\n• A complete professional restaurant webpage\n• A separate mobile-friendly Menu & Order page\n• Conversion of their existing printed or photographed menu into an online menu\n• FREE English translation of their Thai menu\n• A professionally designed restaurant header image\n• A FREE QR code linking directly to their Menu & Order page\n• Opening hours, contact details, restaurant photographs and logo\n• Links to LINE, WhatsApp and delivery services where available\n• Inclusion in our Find a Restaurant & Order directory\nThe initial website setup is FREE OF CHARGE.",
-    "title": "freelance sales agents in different areas of Thailand",
-    "is_owner": false,
-    "source": "jobboard_web",
+    "source": "jobboard_app_jobboard_home_floating-button",
     "files": [],
     "kind": "standard",
     "budget": "0",
     "is_anonymous": false,
-    "inserted_at": "2026-10-27T09:27:44.101400Z",
-    "updated_at": "2026-10-27T09:27:45.192883Z",
+    "inserted_at": "2026-10-28T13:37:09.814025Z",
+    "updated_at": "2026-10-28T13:37:11.402875Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
+    },
     "already_offered": false,
-    "brief_url": "https://mythairestaurant.website/",
     "business_type": null,
     "company_display_name": null,
     "company_image_url": null,
     "deadline_at": null,
-    "expired_at": "2026-11-26T09:27:44.083970Z",
-    "freelance_offers_count": 0,
+    "expired_at": "2026-11-27T13:37:09.795571Z",
+    "freelance_offers_count": 1,
     "is_fastwork_pick": false,
     "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-    },
     "require_english_speaker": true,
     "usage_type": "personal",
-    "user_id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
+    "user_id": "b279a051-00d7-4cb3-bfba-0ec3822f757e",
     "user_profile": {
-      "id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
-      "username": "goldhaven",
-      "display_name": "mythairestaurant",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8dbd8442-0e2f-4860-9e68-d90b0dae4043/profile/eaf0abbf-6e7a-4377-af11-f0f9b5654c9c.jpg"
+      "id": "b279a051-00d7-4cb3-bfba-0ec3822f757e",
+      "username": "5yu9fe4x",
+      "display_name": "5yu9fe4x",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
     "budget_2": null,
     "matchedCategories": [
       "พัฒนาเว็บไซต์"
     ],
-    "matchedAt": "2026-10-27T13:31:39.411Z"
+    "matchedAt": "2026-10-28T14:07:54.947Z"
   },
   {
-    "id": "814e86c3-dc5d-4b9a-b4d6-6d1fc4a58597",
+    "id": "23e855a7-de81-48ee-b32d-a6adec778986",
     "status": "open",
     "tag": {
       "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
@@ -106,142 +57,93 @@
       "sort": 1
     },
     "type": "freelance",
-    "description": "We are currently looking to recruit freelance sales agents in different areas of Thailand who can visit restaurants, speak directly with owners or managers, explain our service and introduce new customers to us.\nOur offer to restaurants is designed to be simple and easy to sell.\nWe provide the restaurant with:\n• A complete professional restaurant webpage\n• A separate mobile-friendly Menu & Order page\n• Conversion of their existing printed or photographed menu into an online menu\n• FREE English translation of their Thai menu\n• A professionally designed restaurant header image\n• A FREE QR code linking directly to their Menu & Order page\n• Opening hours, contact details, restaurant photographs and logo\n• Links to LINE, WhatsApp and delivery services where available\n• Inclusion in our Find a Restaurant & Order directory\nThe initial website setup is FREE OF CHARGE.\nThe restaurant signs a 12-month agreement and pays:\nFirst month: ฿700\nFollowing 11 months: ฿300 per month\nThe total cost to the restaurant for the complete first year is therefore only ฿4,000.\nThe sales agent does not need any website, design or technical experience. We handle all website creation, menu conversion, translation and technical work.\nThe agent's role is simply to:\n• Find suitable restaurants\n• Speak with the owner or decision-maker\n• Explain and demonstrate the service\n• Help collect the restaurant's basic information, menu and photographs\n• Arrange the signed customer agreement\n• Introduce the completed customer to us\nFor every restaurant successfully introduced that signs the agreement and pays the initial ฿700, the agent receives:\n฿350 commission per restaurant\nThis represents 50% of the customer's first payment.\nWe are particularly interested in agents in areas including Bangkok, Pathum Thani, Nonthaburi, Pattaya, Chonburi, Phuket, Chiang Mai, Hua Hin, Krabi, Koh Samui, Khon Kaen, Udon Thani and Nakhon Ratchasima, although we are interested in suitable agents throughout Thailand.",
-    "title": "freelance sales agents in different areas of Thailand",
-    "is_owner": false,
-    "source": "jobboard_web_PLfilter_landscape",
-    "files": [],
-    "kind": "standard",
-    "budget": "350",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-27T08:15:07.733658Z",
-    "updated_at": "2026-10-27T08:15:09.288480Z",
-    "already_offered": false,
-    "brief_url": "https://mythairestaurant.website/",
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-26T08:15:07.710100Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
-    "user_profile": {
-      "id": "8dbd8442-0e2f-4860-9e68-d90b0dae4043",
-      "username": "goldhaven",
-      "display_name": "mythairestaurant",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8dbd8442-0e2f-4860-9e68-d90b0dae4043/profile/eaf0abbf-6e7a-4377-af11-f0f9b5654c9c.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "350",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-27T13:31:38.227Z"
-  },
-  {
-    "id": "908e524b-db5a-4f2d-8664-5df36cd7d566",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ขยายเครือข่าย Freelance Recruiter / Recruitment Coordinator เพื่อร่วมงานในโครงการด้าน AI Data เป็นรายโปรเจกต์\nโครงการเบื้องต้นเป็นงาน Voice Data Collection โดย Recruiter จะรับผิดชอบด้านการสรรหา คัดกรอง และประสานผู้เข้าร่วมที่มีคุณสมบัติตรงตาม Requirement ของแต่ละโครงการ\nผู้เข้าร่วมจะทำการบันทึกเสียงตามโจทย์ที่กำหนด ข้อมูลที่ได้รับจะผ่านกระบวนการตรวจสอบคุณภาพและ Data Analysis ก่อนจัดทำเป็น Dataset เพื่อส่งมอบ\n\nขอบเขตงาน\n- สรรหาผู้เข้าร่วมตาม Target Profile และ Requirement ของแต่ละโครงการ\n- ประชาสัมพันธ์และ Sourcing ผ่านช่องทางหรือเครือข่ายที่ตนเองสามารถเข้าถึงได้\n- คัดกรองคุณสมบัติและความพร้อมของผู้เข้าร่วมเบื้องต้น\n- อธิบายขั้นตอนและเงื่อนไขการเข้าร่วมโครงการ\n- ประสานงานและติดตามผู้เข้าร่วมให้ดำเนินงานภายใน Timeline ที่กำหนด\n- ติดตามผู้เข้าร่วมกรณีข้อมูลไม่ครบหรือต้องดำเนินการเพิ่มเติม\n- อัปเดตจำนวนผู้สมัครและสถานะการ Recruitment ให้ทีมทราบเป็นระยะ\n\nบริษัทจะเป็นผู้ดูแล Project Requirement, Workflow และกระบวนการตรวจสอบคุณภาพ/Data Analysis\n\nคุณสมบัติ\n- มีประสบการณ์ด้าน Recruitment, Sourcing, Coordinator, Community Management หรืองานที่เกี่ยวข้อง\n- หรือมี Network / Community ที่สามารถเข้าถึงและจัดหาผู้เข้าร่วมได้\n- สามารถบริหารและติดตามผู้เข้าร่วมหลายคนพร้อมกันได้\n- มีทักษะการสื่อสารและประสานงานที่ดี\n- ทำงานตาม Requirement และ Timeline ได้\n- มีความรับผิดชอบและสามารถอัปเดตสถานะงานอย่างเป็นระบบ\n\nไม่จำเป็นต้องมีประสบการณ์ด้าน AI Data โดยตรง หากมีประสบการณ์ด้านการจัดหาคนหรือมี Network ที่เหมาะสม สามารถ���มัครได้\n\nค่าตอบแทน\n- เบื้องต้น Recruiter จะได้รับค่าตอบแทนประมาณ 15–20% ตามเงื่อนไขของแต่ละโปรเจกต์\n- การคำนวณค่าตอบแทนจะอ้างอิงจาก มูลค่าของ Data ที่ผ่านเกณฑ์การตรวจสอบและ Data Analysis (Approved Data Hours) ของผู้เข้าร่วมที่ Recruiter เป็นผู้จัดหา ไม่ได้คำนวณจากจำนวนชั่วโมงที่บันทึกเข้ามาทั้งหมด\nRate, วิธีคำนวณ และเงื่อนไขการจ่ายของแต่ละโปรเจกต์จะแจ้งให้ทราบและตกลงร่วมกันก่อนเริ่มงาน",
-    "title": "Freelance Recruiter / Recruitment Coordinator สำหรับโครงการ AI Data Collection",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-27T06:12:08.111004Z",
-    "updated_at": "2026-10-27T06:12:10.844691Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-26T06:12:08.047599Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-    "user_profile": {
-      "id": "631a0f81-24ee-46f1-a797-0cf5b73da52c",
-      "username": "starwavesolution",
-      "display_name": "STARWAVESOLUTION",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/631a0f81-24ee-46f1-a797-0cf5b73da52c/profile/6f16e94c-a594-4278-a25c-16b372e7957d.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-27T07:36:31.741Z"
-  },
-  {
-    "id": "10ec5c61-f1a7-457b-8061-834fdd11ae82",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "โดยคุณสามารถนำไปเสนอขาย ในแบบของตัว\nเองได้เลย\n\nสิ่งที่คุณจะได้รับ\n• ค่าคอมมิชชั่น 10% จากราคาขาย(ก่อนบวกราคาเพิ่มของ\nคุณ)\n• บวกราคาเพิ่มได้สูงสุด 25% ส่วนที่บวกเป็นของคุณ100%\n\n• รายได้ต่องานเบื้องต้น: 2,097 | 4,515 / 5,565 บาทตามแพ็กเกจ (ตามแต่ราคาตั้งต้น)\n\n• จ่าย 50% เมื่อลูกค้าชำระมัดจำและทีมยืนยันรับงาน ส่วน ที่เหลือหลังจบงาน\n\nใบเสนอราคา ออกแบบ และพัฒนา ทีมงาน punwebsiteจะ ดูแลทั้งหมด\n\nส่วนคุณ ขอช่วยประสานงานจนกว่าจะส่งหมอบ",
-    "title": "ตัวแทนขายอิสระ - บริการจัดทำเว็บไซต์",
+    "description": "ทำเว็บไซต์เกี่ยวกับสิ่งที่อยากจะบอกกับอีกคนนึงเช่นการสารภาพรักการจ้างงานซึ่งสามารถเข้ากูเกิ้ลเพื่อค้นหาได้มีสติกเกอร์เทมเพลตให้สร้างมีaiช่วยทำและะมีระบบจ่ายเงินเพื่อซื้อสติกเกอร์ใหม่ๆ",
+    "title": "ทำเว็บไซต?",
     "is_owner": false,
     "source": "jobboard_app_jobboard_home_floating-button",
     "files": [],
     "kind": "standard",
-    "budget": "0",
+    "budget": "1000",
     "is_anonymous": false,
-    "inserted_at": "2026-10-27T05:13:53.784663Z",
-    "updated_at": "2026-10-27T05:13:55.518267Z",
+    "inserted_at": "2026-10-28T13:30:13.681781Z",
+    "updated_at": "2026-10-28T13:30:15.814542Z",
+    "brief_url": "https://www.google.com/goto?url=CAESYQHrOzAVH6IqIf4wrK0xknp_Td8YWZp2aR_G3tZHWGbK7cJTdd0JNfGY5Tk5oWPyAMW8ULm2ZEjGeCi2SM7JMBQo_Vq3f_3pLPdc3wmFG8bvVoXnOF8Qz94SCB1Lz_7SpPc",
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPad;11.15.0-6002938"
+    },
     "already_offered": false,
-    "brief_url": "https://ststudio-blw.pages.dev/",
-    "business_type": null,
+    "business_type": "notspecified",
     "company_display_name": null,
     "company_image_url": null,
     "deadline_at": null,
-    "expired_at": "2026-11-26T05:13:53.765965Z",
-    "freelance_offers_count": 0,
+    "expired_at": "2026-11-27T13:30:13.265437Z",
+    "freelance_offers_count": 1,
     "is_fastwork_pick": false,
     "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
-    },
     "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
+    "usage_type": "business",
+    "user_id": "93dd5835-e882-47cc-bc50-4c9bfcb10c0a",
     "user_profile": {
-      "id": "8179f3ac-3c7c-451a-9688-e76cccedb8e8",
-      "username": "punweb",
-      "display_name": "punwebsitedevelopment",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/8179f3ac-3c7c-451a-9688-e76cccedb8e8/profile/277cb70b-3e72-40a1-a8a7-0042af3cbd8c.jpg"
+      "id": "93dd5835-e882-47cc-bc50-4c9bfcb10c0a",
+      "username": "67h3rtue",
+      "display_name": "go",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-28T14:07:53.738Z"
+  },
+  {
+    "id": "4d9e3904-b766-429c-a323-9822aab0f836",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "1.ใช้สำหรับการทำไลฟ์สดเเก้ปัญหาจิ๊กซอตอนไลฟ์สด และอื่นๆ\nตั้งค่าให้เป็นระบบบัญชี 1 : 1 ได้\nอัพเดทระบบได้ รายละเอียดเพิ่มเติมติดต่อมาคุยกันได้เลยครับ",
+    "title": "คนทำโปรแกรมต่อจิ๊กซอว์อัตโนมัติ / AI Bot",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-28T10:51:18.747231Z",
+    "updated_at": "2026-10-28T10:51:20.445830Z",
+    "brief_url": "https://www.tiktok.com/@ballboktor/video/7377703603303238920",
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-27T10:51:18.695235Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "b0253d78-ec1b-4697-b328-03e56b19f0cd",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
     "budget_2": null,
     "matchedCategories": [
-      "พัฒนาเว็บไซต์"
+      "พัฒนาแอปพลิเคชัน"
     ],
-    "matchedAt": "2026-10-27T07:36:30.444Z"
+    "matchedAt": "2026-10-28T14:07:52.552Z"
   }
 ]
