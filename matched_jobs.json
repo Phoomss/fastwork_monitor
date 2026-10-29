@@ -1,5 +1,54 @@
 [
   {
+    "id": "e4e000d8-06aa-4476-a89a-b9090b4072e6",
+    "status": "open",
+    "tag": {
+      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
+      "name": "ไอทีโซลูชั่น",
+      "sort": 18
+    },
+    "type": "contract",
+    "description": "กำลังมองหา Freelance ที่สามารถใช้ **AI เป็นเครื่องมือหลักในการทำ Digital Content แบบครบวงจร** ต้องการคนที่ใช้ AI คล่อง ทำงานได้เร็ว และสามารถนำข้อมูลสินค้า/บริการที่เราให้ไปพัฒนาต่อเป็น Content ได้เอง\n\n**ขอบเขตงาน**\n\n**1. Social Media Content**\n- คิดหัวข้อและ Content จากข้อมูลที่ให้\n- เขียน Caption ด้วย AI และปรับภาษาให้อ่านเป็นธรรมชาติ\n- สร้าง Graphic / Infographic / ภาพประกอบด้วย AI\n- ทำ Content สำหรับ Facebook และ TikTok\n- Post งานลง Facebook / TikTok ตาม Schedule\n\n**2. Short Video / Reels / TikTok**\n- ทำ Short Video จากข้อมูล ภาพ หรือ VDO ที่เราให้\n- ใช้ AI ช่วยสร้างภาพ/VDO/Voice/Subtitle ต���มความเหมาะสม\n- ตัดต่อ ใส่ข้อความ เพลง และ Subtitle\n- ทำให้อยู่ในรูปแบบพร้อม Post บน TikTok / Facebook Reels\n\n**3. Website & SEO Content**\n- Research Keyword เบื้องต้น\n- ใช้ AI ช่วยเขียนบทความ SEO จากสินค้า/บริการของบริษัท\n- ปรับ Content ให้เหมาะกับ Search และ AI Search\n- ลงบทความใน Website พร้อม Title, Heading, Meta Description และรูปประกอบ\n- ไม่ต้องการบทความที่ Copy จาก AI แล้วลงทันที ต้องตรวจสอบและปรับให้อ่านเป็นธรรมชาติ\n\n**ปริมาณงานทดลองต่อเดือน**\n- Social Content + Graphic ประมาณ 8–10 ชิ้น\n- Short Video ประมาณ 4 คลิป\n- SEO Website Content ประมาณ 2 บทความ\n- Post Content ลงช่องทางที่กำหนด\n\n**งบประมาณเริ่มต้น 5,000 บาท/เดือน**\n\nทดลองทำงาน 1 เดือน หากผลง��นดี สามารถทำงานต่อเนื่องและเพิ่มปริมาณงาน/ค่าตอบแทนได้\n\n**คุณสมบัติที่ต้องการ**\n- ใช้ ChatGPT / Gemini / Claude หรือ AI Content Tools ได้คล่อง\n- ใช้ Canva AI / CapCut / AI Image & Video Tools หรือเครื่องมืออื่นได้\n- มีความเข้าใจพื้นฐานเรื่อง SEO\n- มี Sense ด้าน Content และ Graphic\n- สามารถทำงานจาก Brief สั้น ๆ และคิดต่อเองได้\n- ไม่จำเป็นต้องทำ Graphic หรือเขียน Content ทุกอย่างด้วยตัวเอง เราต้องการคนที่ **รู้จักใช้ AI เพื่อลดเวลาและต้นทุนในการทำงาน**\n\n**เวลาสมัคร กรุณาส่ง**\n1. Portfolio\n2. ตัวอย่าง Short Video\n3. ตัวอย่าง Graphic/Content ที่ใช้ AI\n4. ตัวอย่างบทความ SEO ถ้ามี\n5. AI Tools ที่ใช้อยู่\n6. แจ้งว่าสามารถรับ Scope ข��างต้นในงบ 5,000 บาท/เดือนได้หรือไม่",
+    "title": "Freelance AI Content Creator – Social Media / Video / SEO",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "5000",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-29T00:50:43.151509Z",
+    "updated_at": "2026-10-29T00:50:44.908406Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-28T00:50:43.102317Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "a2ace65e-3382-4496-ab5b-02e37f55a68d",
+    "user_profile": {
+      "id": "a2ace65e-3382-4496-ab5b-02e37f55a68d",
+      "username": "dtdltysw",
+      "display_name": "นงนุช สุขใจเจริญกิจ",
+      "image_url": "https://lh3.googleusercontent.com/a-/AOh14GhsNz1n8DQJyb9PnDEQMrUbKr7-NXluzd8SK-K12AY"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-29T02:32:46.695Z"
+  },
+  {
     "id": "12649eba-e51e-4dfe-8ffc-af95983910f5",
     "status": "open",
     "tag": {
