@@ -1,7 +1,5 @@
 [
-  "[2026-10-29T15:37:06.106Z]     Notification sent successfully.",
-  "[2026-10-29T15:37:05.916Z]   FOUND NEW TARGET JOB: หาคนสร้างแบบจำลองชิ้นงานใน astra ai  (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-10-29T15:37:05.334Z] Checking Fastwork for new job posts...",
-  "[2026-10-29T15:37:05.333Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-10-29T15:37:05.331Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
+  "[2026-10-29T20:31:20.935Z] Checking Fastwork for new job posts...",
+  "[2026-10-29T20:31:20.934Z] Auto-cleanup: Removed 28 seen job tracking IDs older than 1 day(s).",
+  "[2026-10-29T20:31:20.932Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
