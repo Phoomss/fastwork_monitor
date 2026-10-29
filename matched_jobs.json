@@ -1,5 +1,54 @@
 [
   {
+    "id": "e68ba069-cb30-4e66-830f-673b8153b20a",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "อยาก���ด้แบบจำลองการทำงานของชิ้นงานวิศกรรมทางการแพทย์ ในแอปastra ai หรือแอปอื่นๆที่สร้างแบบจำลองสามมิติได้",
+    "title": "หาคนสร้างแบบจำลองชิ้นงานใน astra ai ",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-29T13:05:26.177511Z",
+    "updated_at": "2026-10-29T13:05:27.396341Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;SM-S928B;11.16.0-6005976"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-28T13:05:26.129798Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "1ff32b1c-379d-40fe-85b3-c295f34f163d",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-29T15:37:05.916Z"
+  },
+  {
     "id": "1714478b-8900-4bbe-aa9d-c1c26a35efea",
     "status": "open",
     "tag": {
@@ -145,152 +194,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-28T19:29:29.073Z"
-  },
-  {
-    "id": "670308af-b75a-4585-9a1d-a493571ae431",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "หาร้���นรับสอน SQL Workbench และ ร้านสอนเขียนโค๊ดภาษา python\nกี่ชม.ราคากี่บาท\nจ้างเป็นวันไม่เป็นคร์อท\nขอคนมีประสบการณ์",
-    "title": "หาร้านรับสอน SQL Workbench และ ร้านสอนเขียนโค๊ดภาษา python ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-28T13:37:09.814025Z",
-    "updated_at": "2026-10-28T13:37:11.402875Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-27T13:37:09.795571Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "b279a051-00d7-4cb3-bfba-0ec3822f757e",
-    "user_profile": {
-      "id": "b279a051-00d7-4cb3-bfba-0ec3822f757e",
-      "username": "5yu9fe4x",
-      "display_name": "5yu9fe4x",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-28T14:07:54.947Z"
-  },
-  {
-    "id": "23e855a7-de81-48ee-b32d-a6adec778986",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "ทำเว็บไซต์เกี่ยวกับสิ่งที่อยากจะบอกกับอีกคนนึงเช่นการสารภาพรักการจ้างงานซึ่งสามารถเข้ากูเกิ้ลเพื่อค้นหาได้มีสติกเกอร์เทมเพลตให้สร้างมีaiช่วยทำและะมีระบบจ่ายเงินเพื่อซื้อสติกเกอร์ใหม่ๆ",
-    "title": "ทำเว็บไซต?",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-28T13:30:13.681781Z",
-    "updated_at": "2026-10-28T13:30:15.814542Z",
-    "brief_url": "https://www.google.com/goto?url=CAESYQHrOzAVH6IqIf4wrK0xknp_Td8YWZp2aR_G3tZHWGbK7cJTdd0JNfGY5Tk5oWPyAMW8ULm2ZEjGeCi2SM7JMBQo_Vq3f_3pLPdc3wmFG8bvVoXnOF8Qz94SCB1Lz_7SpPc",
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.2;iPad;11.15.0-6002938"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-27T13:30:13.265437Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "93dd5835-e882-47cc-bc50-4c9bfcb10c0a",
-    "user_profile": {
-      "id": "93dd5835-e882-47cc-bc50-4c9bfcb10c0a",
-      "username": "67h3rtue",
-      "display_name": "go",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-28T14:07:53.738Z"
-  },
-  {
-    "id": "4d9e3904-b766-429c-a323-9822aab0f836",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "1.ใช้สำหรับการทำไลฟ์สดเเก้ปัญหาจิ๊กซอตอนไลฟ์สด และอื่นๆ\nตั้งค่าให้เป็นระบบบัญชี 1 : 1 ได้\nอัพเดทระบบได้ รายละเอียดเพิ่มเติมติดต่อมาคุยกันได้เลยครับ",
-    "title": "คนทำโปรแกรมต่อจิ๊กซอว์อัตโนมัติ / AI Bot",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-28T10:51:18.747231Z",
-    "updated_at": "2026-10-28T10:51:20.445830Z",
-    "brief_url": "https://www.tiktok.com/@ballboktor/video/7377703603303238920",
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-27T10:51:18.695235Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "b0253d78-ec1b-4697-b328-03e56b19f0cd",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-28T14:07:52.552Z"
   }
 ]
