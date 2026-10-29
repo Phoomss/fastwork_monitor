@@ -1,5 +1,54 @@
 [
   {
+    "id": "1714478b-8900-4bbe-aa9d-c1c26a35efea",
+    "status": "open",
+    "tag": {
+      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
+      "name": "สื่อออนไลน์",
+      "sort": 1
+    },
+    "type": "freelance",
+    "description": "สวัสดีครับ 😊\n\nกำลังมองหาคนที่มี iPhone หรือ iPad มาช่วยทดลองเล่นเกม Duckling sort บน iOS แนว Puzzle น่ารักๆ เกี่ยวกับการจับกลุ่มและเรียงน้องเป็ด 🐥 เล่นง่าย สบายๆ มีระบบฟาร์มให้ตกแต่ง สร้างบ้าน และกิจกรรมต่างๆ ภายในเกม\n\nhttps://apps.apple.com/th/app/duckling-sort/id6811509098\n\nสิ่งที่อยากให้ช่วย\n\n- ทดลองเล่นเกมประมาณ 30-60 นาที\n- แสดงความคิดเห็นเกี่ยวกับความสนุก ความยากง่าย และความน่าเล่นของเกม\n- ช่วยดูว่ามีจุดไหนที่ใช้งานยาก สับสน หรือควรปรับปรุง\n- หากพบข้อผิดพลาด (Bug) หรือเกม���ำงานผิดปกติ รบกวนแจ้งรายละเอียด พร้อมภาพหน้าจอถ้ามี\n- สรุปความคิดเห็นสั้นๆ หลังเล่น ว่าชอบหรือไม่ชอบอะไร และมีอะไรที่อยากให้เพิ่มหรือแก้ไข\n\nคุณสมบัติ\n\n- มี iPhone หรือ iPad ที่สามารถติดตั้งและเล่นเกมได้\n- ไม่จำเป็นต้องมีประสบการณ์ทดสอบเกมมาก่อน\n- ชอบเล่นเกมมือถือ หรือเป็นคนที่ชอบลองอะไรใหม่ๆ\n- สามารถให้ความคิดเห็นตรงไปตรงมาได้ครับ\n\nรูปแบบงาน: ทดลองเล่นจากที่บ้านได้เลย\n\nขอบคุณทุกคนที่สนใจมาช่วยทดลองเล่นเกมเล็กๆ ที่ผมตั้งใจทำขึ้นครับ 🦆💛",
+    "title": "ทดลองเล่นและรีวิว game iOS",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-10-29T08:41:52.328169Z",
+    "updated_at": "2026-10-29T08:41:53.421851Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "user_id": "28fce4b7-f418-4158-bf1e-535817c656d7",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-11-28T08:41:52.312334Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "28fce4b7-f418-4158-bf1e-535817c656d7",
+      "username": "joeths",
+      "display_name": "joeths",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/28fce4b7-f418-4158-bf1e-535817c656d7/profile/5737c0da-bfac-4bbb-a8ce-495e31299df5.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-10-29T08:49:57.767Z"
+  },
+  {
     "id": "e4e000d8-06aa-4476-a89a-b9090b4072e6",
     "status": "open",
     "tag": {
