@@ -244,54 +244,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-10-30T05:38:58.088Z"
-  },
-  {
-    "id": "e68ba069-cb30-4e66-830f-673b8153b20a",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "อยาก���ด้แบบจำลองการทำงานของชิ้นงานวิศกรรมทางการแพทย์ ในแอปastra ai หรือแอปอื่นๆที่สร้างแบบจำลองสามมิติได้",
-    "title": "หาคนสร้างแบบจำลองชิ้นงานใน astra ai ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-29T13:05:26.177511Z",
-    "updated_at": "2026-10-29T13:05:27.396341Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;SM-S928B;11.16.0-6005976"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-28T13:05:26.129798Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "1ff32b1c-379d-40fe-85b3-c295f34f163d",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-29T15:37:05.916Z"
   }
 ]
