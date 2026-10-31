@@ -1,5 +1,54 @@
 [
   {
+    "id": "04ed8a0b-03c3-40ba-8a4b-8637a873bc0d",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ต้องการ Developer ทำระบบ Automation เชื่อมต่อเว็บไซต์กับ LINE ของ Supplier และ SHIPPOP โดยมีฟังก์ชันดังนี้\n\n* เมื่อมีออเดอร์เข้าเว็บไซต์ ระบบแยกออเดอร์ตาม Supplier อัตโนมัติ\n\n* ส่งรายละเอียดออเดอร์ไปยัง LINE ของ Supplier แต่ละราย\n\n* เชื่อมต่อ SHIPPOP เพื่อสร้างใบปะหน้าพั���ดุและ Tracking Number อัตโนมัติ\n\n* ลดขั้นตอนการทำงานด้วยมือและป้องกันออเดอร์ซ้ำ\n\nคุณสมบัติ: มีประสบการณ์ด้าน n8n / Make, API Integration, LINE API\n\nผู้สนใจรบกวนส่งผลงาน ประเมินราคา และระยะเวลาพัฒนาได้เลยครับ",
+    "title": "ฟรีแลนซ์ทำ Order Automation",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "enterprise",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-10-31T09:06:08.460332Z",
+    "updated_at": "2026-10-31T09:06:10.017225Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.5;iPhone;11.16.0-6005976"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-11-30T09:06:08.415084Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-10-31T12:51:40.488Z"
+  },
+  {
     "id": "1c31f4ce-a1f5-4c62-a38a-11d37b098562",
     "status": "open",
     "tag": {
@@ -47,201 +96,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-10-31T06:24:51.626Z"
-  },
-  {
-    "id": "ca2b4044-be55-4ed7-ba6b-123c48780313",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการทำเว็บไซต์สำหรับธุรกิจเอเจนซี่จัดหาบุคลากรค่ะ เช่น พนักงานรักษาความปลอดภัย แม่บ้าน คนสวน และพนักงานประ���ภทอื่น ๆ โดยให้บริการจัดหาคนให้กับบริษัท องค์กร หรือบุคคลทั่วไปที่ต้องการจ้างทางเราค่ะ\n\nตอนนี้ยังไม่มีแบบเว็บไซต์ในใจ อยากให้ ช่วยแนะนำรูปแบบและระบบที่เหมาะสมค่ะ เบื้องต้นอยากให้มีประมาณนี้\n\n1.แนะนำบริษัทและบริการ\n2.แยกประเภทบุคลากรที่รับจัดหา\n3.หน้าสำหรับบริษัทหรือลูกค้าที่ต้องการจ้าง \n4.สำหรับผู้ที่ต้องการสมัครงาน สามารถฝากประวัติหรือกรอกใบสมัครได้\n5.หน้าผลงานหรือข้อมูลที่ช่วยสร้างความน่าเชื่อถือให้บริษัท\n6.หน้าติดต่อ พร้อมเบอร์โทร LINE และช่องทางติดต่ออื่น ๆ\n7.มีระบบหลังบ��านสำหรับจัดการข้อมูลต่าง ๆ หากทำได้ค่ะ\n8.หน้าสำหรับจัดหายาม แม่บ้าน คนสวน\n\nเรื่องแพ็กเกจและใบเสนอราคา\nและยังไม่มีแบบที่แน่นอน อยากให้ Developer เสนอแพ็กเกจพร้อมราคาให้เลือกได้เลยค่ะ เช่น\n\nรบกวนออกใบเสนอราคาแยกแต่ละแพ็กเกจ พร้อมรายละเอียดสิ่งที่ได้รับ ค่าออกแบบและพัฒนาเว็บไซต์ ค่าdomain กับ hosting ค่าใช้จ่ายรายปี ระยะเวลาทำงาน เงื่อนไขการชำระเงิน และการรับประกันหลังส่งมอบด้วยนะคะ หากมีค่าใช้จ่ายเพิ่มเติม รบกวนแจ้งให้ชัดเจนค่ะ\n\nอยากให้ช่วยแนะนำด้วยว่าควรเริ่มจากแพ็กเกจไหน รถพัฒนาระบบ\n\nหากมีผลงานเว็บไซต์แนวบริษัทจัดหางานหรือธุรกิจบริการ รบกวนแนบ Portfolio ให้ดูด้วยนะคะ\n\nท่านสนใจสามารถเสนอราคาและรายละเอียดมาได้เลยค่ะ ยินดีรับฟังทุกข้อเสนอและคำแนะนำค่ะ ขอบคุณค่ะ 🙏🏻💗",
-    "title": "หาคนรับทำเว็บไซต์ค่ะธุรกิจ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-30T11:32:50.609653Z",
-    "updated_at": "2026-10-30T11:32:51.847757Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-29T11:32:50.564996Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "c4fdaefb-374b-46f7-9639-64dfa61dda29",
-    "user_profile": {
-      "id": "c4fdaefb-374b-46f7-9639-64dfa61dda29",
-      "username": "itiseladzziv",
-      "display_name": "itiseladzz",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/c4fdaefb-374b-46f7-9639-64dfa61dda29/profile/37e7642d-bf54-42f2-ae00-9e58ee261ea4.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-30T11:35:42.608Z"
-  },
-  {
-    "id": "c5e1f837-3b38-4bea-928c-c3f33253b4b5",
-    "status": "open",
-    "tag": {
-      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
-      "name": "รูปภาพและวิดีโอ",
-      "sort": 6
-    },
-    "type": "full-time",
-    "description": "บริษัท โพลี่ มีเดีย จำกัด ผู้ผลิตสื่อโฆษณาออนไลน์ เผยแพร่ทางเว็บไซต์และ Social Media \n🏢 รายละเอียดและรูปแบบการทำงาน\nสถานที่: โฮมออฟฟิศ (Home Office)\nวันทำงาน: จันทร์ - เสาร์ (ผ่านโปร วันเสาร์ WFH 100%)\nเวลาทำงาน: 09:30 - 18:30 น. (งานประจำ)\nเงินเดือน พิจารณาตามความสามารถ 18,000-20,000 บาท\n\n🎬 รายละเอียดและหน้าที่ความรับผิดชอบ\n📸 งานถ่ายทำ & ลงพื้นที่:\nเดินทางไปถ่ายทำวิดีโอแล��ภาพนิ่งตามสถานที่ต่างๆ เช่น สถานที่ท่องเที่ยว, โรงแรม, รีสอร์ต, ร้านอาหาร, คาเฟ่ ตามที่ได้รับมอบหมาย (ถ่ายได้ทั้ง Indoor และ Outdoor)\nยืดหยุ่นเรื่องเวลา สามารถทำงานในวันหยุดได้ (กรณีมีคิวงานถ่ายทำ)\n\n✂️ งานตัดต่อ & Sound Design:\nแต่งรูปภาพ ตัดต่อวิดีโอเพื่อใช้เป็นสื่อการตลาดบน Social Media ทุกช่องทาง (Website, FB, TikTok, IG, YT, LINE OA ฯลฯ)\nสามารถลงเสียง พากย์เสียง (Voice Over) ได้\nปรับแต่งสี เสียง และจัดการ Sound Design ให้ได้มาตรฐานและน่าสนใจ\n\n🎨 งานออกแบบ Graphic & Layout:\nออกแบบภาพกราฟิกและวาง Layout ให้เหมาะสมกับการตลาดออนไลน์ในแต่ละแพลตฟอร์มตาม Size ที่ถูกต้อง\nวางแผนการทำกราฟิกล่วงหน้า บริหารเวลาทำงานได้ทันตามกำหนด\n\n🤝 งานบริหารและทำงานร่วมกับทีม:\nทำงานร่วมกับทีม Creative และ Marketing ในการพัฒนาแนวคิด คอนเทนต์ และการทำงานร่วมกัน\nจัดการระบบไฟล์วิดีโอ รูปภาพ และดูแลคลังสื่อของบริษัทให้อยู่ในระเบียบ\n\n📩 ช่องทางการสมัครและติดต่อ สนใจร่วมงานกับพวกเรา ส่ง Resume / Portfolio (ผลงานภาพถ่าย/วิดีโอ/กราฟิก) \nมาได้เลยที่:\n 📧 Email: ********** ",
-    "title": "Photographer",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "18000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-30T10:15:14.051394Z",
-    "updated_at": "2026-10-30T10:15:15.704661Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-29T10:15:14.000740Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "b5149cc2-263e-460d-9cc1-e468bb18c683",
-    "user_profile": {
-      "id": "b5149cc2-263e-460d-9cc1-e468bb18c683",
-      "username": "polymedia",
-      "display_name": "polymedia POLY MEDIA",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b5149cc2-263e-460d-9cc1-e468bb18c683/profile/77f78756-c0de-4824-a39c-d47c7feaad73.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "18000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-30T11:35:41.496Z"
-  },
-  {
-    "id": "1d6615ce-49d5-4bcd-83a7-38fcc9f7c49d",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สิ่งที่ฉันต้องการให้คุณดำเนินการมีดังนี้\n1. ศึกษาระบบจัดการวันลา 5 ระบบ\nเริ่มจากระบบต่อไปนี้\n- Vacation Flow – https://vacationflow.app/\n- Staff Leave – https://www.staffleave.com/\n- LeaveBoard – https://leaveboard.com/\n- Jibble – https://www.jibble.io/\n- TimeMint – https://www.timemint.co/\nหากคุณพบระบบอื่นที่เหมาะสมกับเราซึ่งมีพนักงาน ไม่ถึง15คน \n\nสิ่งที่เราให้ความสำคัญเป็นอันดับแรก คือ ระบบต้องตั้งค่าและใช้งานง่าย และควรเป็นระบบฟรีหรือมีค่าใช้จ่ายในราคาที่เหมาะสม\n\n2. สมัครบัญชีทดลองใช้\n\n3.จัดทำรายงานเปรียบเทียบระบบ\nหลังจากทดลองใช้งานแล้ว กรุณาจัดทำรายงานเปรียบเทียบแบบสั้น ๆ โดยครอบคลุมหัวข้อต่อไปนี้\n- ความง่ายในการตั้งค่าและการใช้งานในแต่ละวัน\n- ฟังก์ชันหลักและข้อจำกัดของแต่ละระบบ\n- ข้อจำกัดของแพ็กเกจฟรี และระยะเวลาทดลองใช้งาน\n- ราคาสำหรับจำนวนพนักงาน 15 คน รวมถึงค่าใช้จ่ายเพิ่มเติม (หากมี)\n- ข้อดีและข้อเสียของแต่ละระบบ\n- ปัญหาหรืออุปสรรคที่พบระหว่างการทดลองใช้งาน",
-    "title": "ศึกษาระบบลาออนไลน์เพื่อทำรายงานเปรียบเทียบระบบ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-30T10:05:01.239767Z",
-    "updated_at": "2026-10-30T10:05:02.905034Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-09",
-    "expired_at": "2026-11-29T10:05:01.219527Z",
-    "freelance_offers_count": 4,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.8;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": true,
-    "usage_type": "personal",
-    "user_id": "db8a8cd2-01e4-480f-9821-0dfeee1c0b88",
-    "user_profile": {
-      "id": "db8a8cd2-01e4-480f-9821-0dfeee1c0b88",
-      "username": "decem03",
-      "display_name": "Decem.03",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-10-30T11:35:40.351Z"
-  },
-  {
-    "id": "b2459e8f-c76d-40e9-b962-57eedd78e5cd",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "1.ออกแบบปฏิทินให้สำนักงาน\n2.ระยะเวลา 7 วัน\n3.เรามีตัวอย่างภาพที่ต้องการให้สร้างเป็นตัวการ์ตูนเพื่อใส่ในปฏิทิน",
-    "title": "คนออกแบบปฏิทินตั้งโต๊ะ ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-10-30T07:54:44.315652Z",
-    "updated_at": "2026-10-30T07:54:45.582889Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-05",
-    "expired_at": "2026-11-29T07:54:44.236078Z",
-    "freelance_offers_count": 9,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "81aec566-082c-45b3-a391-b9a1967dde3d",
-    "user_profile": {
-      "id": "81aec566-082c-45b3-a391-b9a1967dde3d",
-      "username": "yhaphi",
-      "display_name": "วัชรี บรรจง",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/81aec566-082c-45b3-a391-b9a1967dde3d/profile/45c354f3-0966-4372-a4d1-359474d03d2b.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-10-30T11:35:38.879Z"
   }
 ]
