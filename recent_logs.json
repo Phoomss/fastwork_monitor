@@ -1,7 +1,4 @@
 [
-  "[2026-10-31T12:51:40.708Z]     Notification sent successfully.",
-  "[2026-10-31T12:51:40.488Z]   FOUND NEW TARGET JOB: ฟรีแลนซ์ทำ Order Automation (Cats: พัฒนาเว็บไซต์) (Budget: 2000 THB)",
-  "[2026-10-31T12:51:39.490Z] Checking Fastwork for new job posts...",
-  "[2026-10-31T12:51:39.489Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-10-31T12:51:39.488Z] Auto-cleanup: Removed 4 matched jobs older than 1 day(s)."
+  "[2026-10-31T17:22:53.552Z] Checking Fastwork for new job posts...",
+  "[2026-10-31T17:22:53.550Z] Auto-cleanup: Removed 39 seen job tracking IDs older than 1 day(s)."
 ]
