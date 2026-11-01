@@ -47,54 +47,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-11-01T02:30:04.854Z"
-  },
-  {
-    "id": "04ed8a0b-03c3-40ba-8a4b-8637a873bc0d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการ Developer ทำระบบ Automation เชื่อมต่อเว็บไซต์กับ LINE ของ Supplier และ SHIPPOP โดยมีฟังก์ชันดังนี้\n\n* เมื่อมีออเดอร์เข้าเว็บไซต์ ระบบแยกออเดอร์ตาม Supplier อัตโนมัติ\n\n* ส่งรายละเอียดออเดอร์ไปยัง LINE ของ Supplier แต่ละราย\n\n* เชื่อมต่อ SHIPPOP เพื่อสร้างใบปะหน้าพั���ดุและ Tracking Number อัตโนมัติ\n\n* ลดขั้นตอนการทำงานด้วยมือและป้องกันออเดอร์ซ้ำ\n\nคุณสมบัติ: มีประสบการณ์ด้าน n8n / Make, API Integration, LINE API\n\nผู้สนใจรบกวนส่งผลงาน ประเมินราคา และระยะเวลาพัฒนาได้เลยครับ",
-    "title": "ฟรีแลนซ์ทำ Order Automation",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "enterprise",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-10-31T09:06:08.460332Z",
-    "updated_at": "2026-10-31T09:06:10.017225Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.5;iPhone;11.16.0-6005976"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-11-30T09:06:08.415084Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7c506f8c-ca1c-4675-b460-e14e830ede63",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-10-31T12:51:40.488Z"
   }
 ]
