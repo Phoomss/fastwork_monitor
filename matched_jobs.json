@@ -1,5 +1,104 @@
 [
   {
+    "id": "a2dca7ec-8db6-491a-8a8c-f4068b561507",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "full-time",
+    "description": "Mechatronics Engineer\nR&D | Mechanical Design | Hardware Integration\nบริษัท: PILLARS NOVA CO., LTD.\nแผนก: IoT / Embedded Systems / Hardware R&D\nสถานที่ทำงาน: นนทบุรี\nจำนวน: 1 อัตรา\nระดับ: Junior – Mid Level (ยินดีรับนักศึกษาจบใหม่)\nรายละเอียดงาน (Responsibilities)\nออกแบบชิ้นส่วน โครงสร้าง และกลไกของผลิตภัณฑ์ด้วย 3D CAD\nพัฒนาและประกอบ Prototype รวมถึงระบบ Mechanical และ Electrical\nติดตั้งและเชื่อมต่อ Sensor, Motor, Actuator และอุปก��ณ์ควบคุม\nออกแบบ Wiring Diagram และระบบเดินสายภายในผลิตภัณฑ์\nทดสอบ วิเคราะห์ และแก้ไขปัญหา Hardware และระบบควบคุม\nทำงานร่วมกับทีม Firmware / IoT เพื่อพัฒนาระบบให้ทำงานร่วมกัน\nจัดทำ Engineering Drawing, BOM และเอกสารทางวิศวกรรม\nคุณสมบัติ (Qualifications)\nปริญญาตรีสาขาเมคคาทรอนิกส์ เครื่องกล ไฟฟ้า อิเล็กทรอนิกส์ หรือสาขาที่เกี่ยวข้อง\nใช้ SolidWorks, Fusion 360 หรือโปรแกรม 3D CAD เทียบเท่าได้\nมีความรู้พื้นฐาน Mechanical, Electrical และ Electronics\nอ่าน Engineering Drawing, Schematic และ Wiring Diagram ได้\nเข้าใจการทำงานของ Sensor, Motor, Actuator และ Control Systems\nสามารถประกอบ ทดสอบ และแก้ไขปัญหา Hardware ได้\nคุณสมบัติพิจารณาเป���นพิเศษ (Preferred Skills)\nมีประสบการณ์สร้าง Prototype หรือพัฒนาผลิตภัณฑ์จริง\nใช้งาน ESP32, Arduino หรือ Raspberry Pi ได้\nมีพื้นฐาน C/C++, Python หรือ PCB Design\nมีประสบการณ์ 3D Printing, CNC หรือ Automation\nสามารถใช้เครื่องมือวัด เช่น Multimeter หรือ Oscilloscope ได้\nสนใจสมัคร: ส่ง Resume พร้อม Portfolio หรือผลงานที่เกี่ยวข้องเพื่อประกอบการพิจารณา",
+    "title": "Mechatronics Engineer",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-02T09:23:03.796680Z",
+    "updated_at": "2026-11-02T09:23:05.119980Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
+    },
+    "already_offered": false,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-02T09:23:03.552612Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "3f85c91f-811e-47f8-9d87-91be4c76b8f0",
+    "user_profile": {
+      "id": "3f85c91f-811e-47f8-9d87-91be4c76b8f0",
+      "username": "pillarsnova",
+      "display_name": "Pillars nova",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-02T09:59:55.031Z"
+  },
+  {
+    "id": "24d0937c-1299-4816-a297-e571c6fd09b4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "เอาโค้ดลงโฮตในออนไลน์\nโดยเอาโค้ดจากเราไปลง\nงานครั้งเดียวเสร็จ และอยากหลังจากเสร็จงานสามารถทักไปสอบถามเพิ่มเติมได้\n\nขอบคุณค่ะ",
+    "title": "หาคนลงโฮตออนไลน์เว็บไซต์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-02T03:46:02.933108Z",
+    "updated_at": "2026-11-02T03:46:04.227136Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.2;iPhone;11.16.0-6005976"
+    },
+    "already_offered": false,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-14",
+    "expired_at": "2026-12-02T03:46:02.917623Z",
+    "freelance_offers_count": 11,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_id": "f2aaf5fe-7780-444a-8720-99083784152b",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-02T09:59:53.437Z"
+  },
+  {
     "id": "54308263-bacf-4e4c-b2d3-bed84c761616",
     "status": "open",
     "tag": {

@@ -1,5 +1,8 @@
 [
-  "[2026-11-02T02:45:54.341Z] Checking Fastwork for new job posts...",
-  "[2026-11-02T02:45:54.341Z] Auto-cleanup: Removed 16 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-02T02:45:54.338Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-11-02T09:59:55.233Z]     Notification sent successfully.",
+  "[2026-11-02T09:59:55.032Z]   FOUND NEW TARGET JOB: Mechatronics Engineer (Cats: พัฒนาแอปพลิเคชัน, ออกแบบ UX UI) (Budget: 0 THB)",
+  "[2026-11-02T09:59:54.029Z]     Notification sent successfully.",
+  "[2026-11-02T09:59:53.437Z]   FOUND NEW TARGET JOB: หาคนลงโฮตออนไลน์เว็บไซต์ (Cats: พัฒนาเว็บไซต์) (Budget: 200 THB)",
+  "[2026-11-02T09:59:52.889Z] Checking Fastwork for new job posts...",
+  "[2026-11-02T09:59:52.888Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s)."
 ]
