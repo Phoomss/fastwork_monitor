@@ -1,9 +1,5 @@
 [
-  "[2026-11-03T17:11:33.498Z]     Notification sent successfully.",
-  "[2026-11-03T17:11:33.298Z]   FOUND NEW TARGET JOB: ออกเเบบระบบบิลขาย sme (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-11-03T17:11:32.295Z]     Notification sent successfully.",
-  "[2026-11-03T17:11:32.028Z]   FOUND NEW TARGET JOB: คัดเลือกฟรีแลนซ์ Developer 3 ตำแหน่ง สอบก่อนร่วมทีม ThaiWay (Cats: พัฒนาเว็บไซต์, ออกแบบ UX UI) (Budget: 0 THB)",
-  "[2026-11-03T17:11:30.961Z] Checking Fastwork for new job posts...",
-  "[2026-11-03T17:11:30.961Z] Auto-cleanup: Removed 45 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-03T17:11:30.958Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-03T22:16:33.579Z] Checking Fastwork for new job posts...",
+  "[2026-11-03T22:16:33.579Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-11-03T22:16:33.577Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
