@@ -1,5 +1,104 @@
 [
   {
+    "id": "63ea052d-113d-40f9-9077-9021bcf99b1b",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "หาคนออกเเบบระบบ ออกบิลขาย ที่่่สามารถออกบิลผ่านมือถือได้ loginเข้าระบบออกบิลได้1-3คน\n\nตอนนี้ใช้ ออกใบกำกับภาษีผ่าน flow account\n\nเเต่บิลขายยังออกบิลมือ เพราะ flow account ไม่สามารถ ระบุรายละเอียดน้ำหนักเเต่ละชิ้นงานได้ ออกได้เเค่น้ำหนักรวม\n\n* ต้องการระบบที่ใช้งานง่าย ออกเอกสารได้รวดเร็ว \n* ไม่ต้องการระบบที่เชื่อมต่อ cloud \n* login ผ่านมือถือ เเละคอมได้\n* ใช้งานได้ 1-3คน\n* ถ้าสามารถเชื่อม บิลขาย กับflow account เพื่อออกใบกำกับภาษีได้จะดีมาก",
+    "title": "ออกเเบบระบบบิลขาย sme",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-03T16:09:45.092584Z",
+    "updated_at": "2026-11-03T16:09:46.845871Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-03T16:09:45.052579Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.16.0-6005976"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "d665d3ac-7c0c-4db6-94a9-2a42923c07f4",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-03T17:11:33.297Z"
+  },
+  {
+    "id": "f8e0b737-ebfc-4b7c-96cc-46123ac33983",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "**ThaiWay Preferred Freelancer Pool — Selection 2026**\n\nThaiWay Smart City Solutions เปิดรับสมัครและสอบคัดเลือกฟรีแลนซ์ 3 ตำแหน่ง เพื่อร่วมพัฒนา ThaiWay LocalLink, สร้างพร้อม by ThaiWay และโครงการในอนาคต\n\n**ตำแหน่งที่รับสมัคร**\n\n1. Backend / Database / Security Developer — API, Supabase, PostgreSQL, Auth, RLS, Security\n2. Full-stack / Frontend & Integration Developer — React, TypeScript, UI/UX, API Integration, Testing\n3. Technical Architect / QA & DevOps — Architecture, Code Review, Security Testing, CI/CD, Deployment\n\n**ขั้นตอนสอบคัดเลือก (100 คะแนน)**\n\n- รอบ 1 ตรวจประวัติและ Portfolio — 30 คะแนน\n- รอบ 2 สอบความรู้และปฏิบัติตามตำแหน่ง — 40 คะแนน\n- รอบ 3 สัมภาษณ์และประเมินความพร้อม — 30 คะแนน\n\nเกณฑ์ผ่านเบื้องต้น 85/100 คะแนน และต้องผ่านข้อกำหนดด้านความปลอดภัยและความน่าเชื่อถือ ผู้สมัครทุกคนรวมถึงผู้เคยร่วมงานกับ ThaiWay ใช้เกณฑ์เดียวกัน\n\n**สิทธิประโยชน์และเงื่อนไข**\n\n- ผู้ผ่านคัดเลือกเข้าทีมหลักได้รับการเสนองานที่ตรงความถนัดก่อนบุคคลภายนอก\n- ทำงานอิสระ รับงานอื่นได้ และมีสิทธิ์ปฏิเสธงาน\n- จ้างเป็นราย Project / Milestone โดยตกลง Scope ราคา และกำหนดส่งก่อนเริ่มงาน\n- ไม่มีเงินเดือนประจำ ไม่รับประกันปริมาณงาน และไม่ผูกขาด\n- ต้องส่งมอบ Source Code เอกสาร และสิทธิ์ในผลงานตามข้อตกลงของแต่ละงาน\n\n**การสมัคร**\n\nแจ้งตำแหน่งที่สนใจ ประสบการณ์ เทคโนโลยีที่ถนัด Portfolio พร้อมระบุบทบาทที่ทำจริง อัตราค่าจ้างที่คาดหวัง และความพร้อมรับงาน ผ่านระบบ Fastwork\n\nเปิดรับสมัคร พฤศจิกายน 2569 สอบคัดเลือก ธันวาคม 2569\n\nหมายเหตุ: การผ่านคัดเลือกไม่ถือเป็นการได้รับงานทันที การว่าจ้างต้องตกลงและอนุมัติแยกเป็นรายงานผ่าน Fastwork",
+    "title": "คัดเลือกฟรีแลนซ์ Developer 3 ตำแหน่ง สอบก่อนร่วมทีม ThaiWay",
+    "is_owner": false,
+    "source": "jobboard_web_web_chat_profile-menu_jobboard",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-03T12:56:19.899476Z",
+    "updated_at": "2026-11-03T12:56:21.452650Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-03T12:56:19.754997Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+    "user_profile": {
+      "id": "59f144a3-c79c-4cfc-8b65-735b49b98da0",
+      "username": "ii0z4bpe",
+      "display_name": "ZOON STUDIO",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/59f144a3-c79c-4cfc-8b65-735b49b98da0/profile/48f6fc13-d501-4eb9-a7d6-a65e03abb374.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-03T17:11:32.028Z"
+  },
+  {
     "id": "5b2c82e9-8058-4625-9980-1a194c436a30",
     "status": "open",
     "tag": {
@@ -47,104 +146,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-11-02T20:00:52.861Z"
-  },
-  {
-    "id": "a2dca7ec-8db6-491a-8a8c-f4068b561507",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "full-time",
-    "description": "Mechatronics Engineer\nR&D | Mechanical Design | Hardware Integration\nบริษัท: PILLARS NOVA CO., LTD.\nแผนก: IoT / Embedded Systems / Hardware R&D\nสถานที่ทำงาน: นนทบุรี\nจำนวน: 1 อัตรา\nระดับ: Junior – Mid Level (ยินดีรับนักศึกษาจบใหม่)\nรายละเอียดงาน (Responsibilities)\nออกแบบชิ้นส่วน โครงสร้าง และกลไกของผลิตภัณฑ์ด้วย 3D CAD\nพัฒนาและประกอบ Prototype รวมถึงระบบ Mechanical และ Electrical\nติดตั้งและเชื่อมต่อ Sensor, Motor, Actuator และอุปก��ณ์ควบคุม\nออกแบบ Wiring Diagram และระบบเดินสายภายในผลิตภัณฑ์\nทดสอบ วิเคราะห์ และแก้ไขปัญหา Hardware และระบบควบคุม\nทำงานร่วมกับทีม Firmware / IoT เพื่อพัฒนาระบบให้ทำงานร่วมกัน\nจัดทำ Engineering Drawing, BOM และเอกสารทางวิศวกรรม\nคุณสมบัติ (Qualifications)\nปริญญาตรีสาขาเมคคาทรอนิกส์ เครื่องกล ไฟฟ้า อิเล็กทรอนิกส์ หรือสาขาที่เกี่ยวข้อง\nใช้ SolidWorks, Fusion 360 หรือโปรแกรม 3D CAD เทียบเท่าได้\nมีความรู้พื้นฐาน Mechanical, Electrical และ Electronics\nอ่าน Engineering Drawing, Schematic และ Wiring Diagram ได้\nเข้าใจการทำงานของ Sensor, Motor, Actuator และ Control Systems\nสามารถประกอบ ทดสอบ และแก้ไขปัญหา Hardware ได้\nคุณสมบัติพิจารณาเป���นพิเศษ (Preferred Skills)\nมีประสบการณ์สร้าง Prototype หรือพัฒนาผลิตภัณฑ์จริง\nใช้งาน ESP32, Arduino หรือ Raspberry Pi ได้\nมีพื้นฐาน C/C++, Python หรือ PCB Design\nมีประสบการณ์ 3D Printing, CNC หรือ Automation\nสามารถใช้เครื่องมือวัด เช่น Multimeter หรือ Oscilloscope ได้\nสนใจสมัคร: ส่ง Resume พร้อม Portfolio หรือผลงานที่เกี่ยวข้องเพื่อประกอบการพิจารณา",
-    "title": "Mechatronics Engineer",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-02T09:23:03.796680Z",
-    "updated_at": "2026-11-02T09:23:05.119980Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
-    },
-    "already_offered": false,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-02T09:23:03.552612Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "3f85c91f-811e-47f8-9d87-91be4c76b8f0",
-    "user_profile": {
-      "id": "3f85c91f-811e-47f8-9d87-91be4c76b8f0",
-      "username": "pillarsnova",
-      "display_name": "Pillars nova",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-02T09:59:55.031Z"
-  },
-  {
-    "id": "24d0937c-1299-4816-a297-e571c6fd09b4",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "เอาโค้ดลงโฮตในออนไลน์\nโดยเอาโค้ดจากเราไปลง\nงานครั้งเดียวเสร็จ และอยากหลังจากเสร็จงานสามารถทักไปสอบถามเพิ่มเติมได้\n\nขอบคุณค่ะ",
-    "title": "หาคนลงโฮตออนไลน์เว็บไซต์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "200",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-02T03:46:02.933108Z",
-    "updated_at": "2026-11-02T03:46:04.227136Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.2;iPhone;11.16.0-6005976"
-    },
-    "already_offered": false,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-12-14",
-    "expired_at": "2026-12-02T03:46:02.917623Z",
-    "freelance_offers_count": 11,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "f2aaf5fe-7780-444a-8720-99083784152b",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "200",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-02T09:59:53.437Z"
   }
 ]
