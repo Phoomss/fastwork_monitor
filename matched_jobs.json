@@ -1,5 +1,103 @@
 [
   {
+    "id": "ecbfb447-d3b0-4e3f-bbb4-d2f26188212b",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนช่วยเทรน ai ใช้เวลา 1-2 ชม.\nไม่จำกัดวุฒิ เพศ อายุ\nขอแค่บ้านค่อนข้างเงียบและมีโทรศัพท์ก็พอ           ",
+    "title": "คนช่วยสอน ai",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "400",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-06T09:04:08.416949Z",
+    "updated_at": "2026-11-06T09:04:09.747579Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-06T09:04:08.369742Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;RMX3771;11.16.0-6005976"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "03d11d78-c323-4223-9def-ab93cc7aeba3",
+    "user_profile": {
+      "id": "03d11d78-c323-4223-9def-ab93cc7aeba3",
+      "username": "spaziba",
+      "display_name": "spaziba",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/03d11d78-c323-4223-9def-ab93cc7aeba3/profile/a2d1a176-9055-4759-92e2-211b7e4dae09.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "400",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-06T09:57:20.598Z"
+  },
+  {
+    "id": "a3edf211-ff0d-4131-abbd-30758f5b6fc1",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "บริษัทกำลังมองหาฟรีแลนซ์สำหรับดูแลเว็บไซต์ 2 เว็บไซต์ ได้แก่\n\n1. เว็บไซต์บริษัททั่วไป (WordPress)\n2. เว็บไ���ต์ระบบฝึกอบรมพนักงาน (LearnDash LMS)\n\n**ขอบเขตงาน**\n- ดูแลและแก้ไขปัญหาเว็บไซต์เมื่อจำเป็น\n- ตรวจสอบ Website Security และ Plugin\n- มีความสามารถใช้งาน Terminal และ SSH\n- สามารถใช้ AI Tools ช่วยในการจัดการเว็บไซต์ได้จะพิจารณาเป็นพิเศษ\n- พร้อมให้ความช่วยเหลือเมื่อเว็บไซต์เกิดปัญหา\n\n**รูปแบบการจ้าง:** Monthly Retainer (จ่ายค่าบริการรายเดือน)\n\nรบกวนผู้สนใจแจ้งประสบการณ์ที่เกี่ยวข้อง ผลงานที่ผ่านมา ค่าบริการรายเดือนสำหรับ 2 เว็บไซต์ และระยะเวลาที่สามารถตอบกลับเมื่อเกิดปัญหา",
+    "title": "หาฟรีแลนซ์ดูแลเว็บไซต์ WordPress และ LearnDash LMS แบบรายเดือน (Monthly Retainer)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-06T07:23:46.143278Z",
+    "updated_at": "2026-11-06T07:23:47.460462Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-06T07:23:46.096362Z",
+    "freelance_offers_count": 3,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_id": "a7a6e627-19ee-4714-9207-c4866b69f394",
+    "user_profile": {
+      "id": "a7a6e627-19ee-4714-9207-c4866b69f394",
+      "username": "n3zj2lj5",
+      "display_name": "MinMintra",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-06T09:57:19.369Z"
+  },
+  {
     "id": "0c8e6d23-149e-4d51-a753-ea98a22ed2ef",
     "status": "open",
     "tag": {
@@ -96,152 +194,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-11-05T17:41:15.708Z"
-  },
-  {
-    "id": "37e3f10c-6bdc-4c55-b4da-c1962fcd4608",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "หา partner ที่เป็น designer ดูแลเรื่อง 3D model / Animation และ UI\n---\nทำเกม AR แนว RPG \nตอบโจทย์การออกกำลังกาย \nพร้อมระบบ RPG เต็มรูปแบบ\nตอนนี้ทำระบบ mock up เกมเบื้องต้นไว้แล้ว\n---\nรายละเอียดอื่นๆหลังไมค์ได้, มี demo เกมให้ดู\n---\nอยากหาคนที่ตั้งใจอยากมีเกมของตัวเอง เพื่อหารายได้จริงๆ\nลองทักมาคุยกันก่อนดูได้ครับ",
-    "title": "พาร์ทเนอร์ 3D-Designer ร่วมทำเกม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "9999",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-05T09:24:16.961607Z",
-    "updated_at": "2026-11-05T09:24:18.938909Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-05T09:24:16.919365Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;RMX5131;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "cd52ae9c-09db-4ef1-8fb0-6fb5f4d94b48",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "9999",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-05T09:52:30.901Z"
-  },
-  {
-    "id": "0480dd6a-af05-4333-9f79-175dcf257935",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "รูปแบบการร่วมงาน (เลือกรูปแบบที่คุยกันลงตัว):\n\n​รูปแบบที่ 1: หุ้นส่วนทางเทคโนโลยี (Tech Co-founder) ถือหุ้นร่วมกันในบริษัท\n\n​รูปแบบที่ 2: พัฒนาระบบร่วมกันโดยรับผลตอบแทนเป็นส่วนแบ่งกำไร (Profit Sharing) จากรายได้หลังหักค่าใช้จ่ายของระบบ\n\n​คุณสมบัติที่ต้องการ:\n​มีประสบการณ์พัฒนา Full-stack Web Application / SaaS\n​สามารถออกแบบระบบ ดูแล Database และเชื่อมต่อ API ภายนอกได้\n​มีความตั้งใจอยากสร้างผลิตภัณฑ์ของตัวเองและเติบโตไปพร้อมกัน\n\nทางเราสามารถนัดคุยและเซ็นสัญญากันได้ตามที่ตกลงกัน และทางเรายังมีการตลาดรับรองให้สำหรับตัวระบบนี้",
-    "title": "ฉันหา Developer ทำระบบ มาเป็นหุ้นส่วนธุรกิจ กรุณาอ่านรายละเอียด",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100000",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-05T06:47:53.453363Z",
-    "updated_at": "2026-11-05T06:47:54.631718Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-12-05T06:47:53.384949Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android16;V2538;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "b30654df-e554-4449-a7b6-772abeb9d026",
-    "user_profile": {
-      "id": "b30654df-e554-4449-a7b6-772abeb9d026",
-      "username": "milkycz",
-      "display_name": "มิ้วนะคะ",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b30654df-e554-4449-a7b6-772abeb9d026/profile/3f6e1528-b3b9-4576-b320-ec24439e2626.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-05T09:52:29.096Z"
-  },
-  {
-    "id": "21cce0c2-1817-4286-a3e9-9ad110a72ccf",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "📢 รับสมัครผู้เชี่ยวชาญด้านซอฟต์แวร์ร่วมประเมินแอปพลิเคชัน\n\nขออนุญาตประชาสัมพันธ์ครับ\n\nผมกำลังพัฒนาแอปพลิเคชันและต้องการผู้มีความรู้หรือประสบการณ์ด้านการพัฒนาซอฟต์แวร์มาร่วมทดลองใช้งานและประเมินแอป เพื่อนำผลที่ได้ไปประกอบการจัดทำรายงาน\n\nคุณสมบัติผู้เข้าร่วม\n•  มีความรู้หรือประสบการณ์ด้าน Software Development\n•  มีตำแหน่งงานหรือประสบการณ์ในสายงาน IT / Software Engineer / Developer \n•  หากมี Mac และสามารถใช้งาน Xcode เพื่อ Build แอปพลิเคชันได้ จะเป็นประโยชน์อย่างมาก\n\nรายละเอียดงาน\n•  ทดลอง Build และประเมินแอปพลิเคชัน\n•  ตอบแบบสอบถามผ่าน Google Forms\n•  ใช้เวลาประมาณ 5–10 นาที (หรือตามเวลาที่แจ้งจริง)\n\n💰 ค่าตอบแทน 50 บาท สำหรับผู้เข้าร่วมที่ทำตามเงื่อนไขครบถ้วน\n\nผู้ที่สนใจสามารถติดต่อสอบถามรายละเอียดเพิ่มเติมได้ครับ\n\nขอบคุณทุกท่านที่สละเวลาช่วยเหลือครับ 🙏",
-    "title": "ผู้ทำแบบสอบถามเชี่ยวชาญด้านแอพ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-05T04:56:55.951922Z",
-    "updated_at": "2026-11-05T04:56:57.806737Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-05T04:56:55.934638Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "6c2bcec0-f073-4874-a137-b86b02690416",
-    "user_profile": {
-      "id": "6c2bcec0-f073-4874-a137-b86b02690416",
-      "username": "thynoo",
-      "display_name": "ohm",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6c2bcec0-f073-4874-a137-b86b02690416/profile/fe89407c-80ff-429e-a2c1-19c925cc19ae.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-05T09:52:27.826Z"
   }
 ]
