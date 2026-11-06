@@ -243,54 +243,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-05T09:52:27.826Z"
-  },
-  {
-    "id": "65a10f68-d6fe-46b1-ae1d-5a5535a666ae",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "บริษัท AON KP DATA เปิดรับสมัครผู้สนใจเข้าร่วมโปรเจกต์อัดคำส���่งเสียงเดี่ยวไทย 120 ประโยค (ชายเท่านั้น) รถยนต์ไฟฟ้า Deepal\n\nรายละเอียด\n- ต้องการผู้ที่สนใจเข้าร่วมโปรเจกต์จำนวน 30 คนไม่จำกัดอายุ (เพศชายเท่านั้น)\n- การอัดเสียงแบบคำสั่งไทยล้วน เป็นประโยคคำสั่งรถยนต์ไฟฟ้า Deepal\n- ต้องอ่านคำสั่งเสียง 120 ประโยค แต่ละประโยคจะใช้เวลาประมาณ 3-5 วินาที (เวลาโดยรวมในการทำงานอยู่ที่ 10-15 นาที)\n- ต้องการคนที่มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวนใด ๆ งานนี้สามารถหาสถานที่หรืออัดได้ที่บ้านตนเอง\n- จำเป็นต้องมีการเทสการอ่านเพื่อพิจารณาว่าสามารถทำงานกับโปรเจกต์นี้ไ���้ (มีการเทส 5 ประโยค ไม่มีค่าตอบแทนสำหรับการเทส)\nค่าตอบแทน\n- จะได้รับคนละ 270 บาทหลังตรวจสอบคุณภาพเสียงเรียบร้อยแล้ว\n- ผู้ที่ทำงานเสร็จเรียบร้อยมีโอกาสที่จะร่วมงานโปรเจกต์อื่น ๆ ในอนาคตกับทางบริษัท\n\nสำคัญ!!! คนที่เคยเข้าร่วมการอัดเสียงเดียวกันนี้มาก่อน จะไม่สามารถเข้าร่วมซ้ำได้",
-    "title": "คนที่สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยวไทย 120 ประโยค (ชายเท่านั้น)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "270",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-05T02:42:26.816461Z",
-    "updated_at": "2026-11-05T02:42:28.633716Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-05T02:42:26.770626Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-    "user_profile": {
-      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-      "username": "6t9jskml",
-      "display_name": "aonkpdata",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "270",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-05T02:47:34.386Z"
   }
 ]
