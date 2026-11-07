@@ -1,6 +1,6 @@
 [
   {
-    "id": "ecbfb447-d3b0-4e3f-bbb4-d2f26188212b",
+    "id": "7d073ea9-af7b-4250-8dad-120fd008c156",
     "status": "open",
     "tag": {
       "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
@@ -8,93 +8,44 @@
       "sort": 20
     },
     "type": "freelance",
-    "description": "หาคนช่วยเทรน ai ใช้เวลา 1-2 ชม.\nไม่จำกัดวุฒิ เพศ อายุ\nขอแค่บ้านค่อนข้างเงียบและมีโทรศัพท์ก็พอ           ",
-    "title": "คนช่วยสอน ai",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "400",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-06T09:04:08.416949Z",
-    "updated_at": "2026-11-06T09:04:09.747579Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-06T09:04:08.369742Z",
-    "freelance_offers_count": 3,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android15;RMX3771;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "03d11d78-c323-4223-9def-ab93cc7aeba3",
-    "user_profile": {
-      "id": "03d11d78-c323-4223-9def-ab93cc7aeba3",
-      "username": "spaziba",
-      "display_name": "spaziba",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/03d11d78-c323-4223-9def-ab93cc7aeba3/profile/a2d1a176-9055-4759-92e2-211b7e4dae09.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "400",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-06T09:57:20.598Z"
-  },
-  {
-    "id": "a3edf211-ff0d-4131-abbd-30758f5b6fc1",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "contract",
-    "description": "บริษัทกำลังมองหาฟรีแลนซ์สำหรับดูแลเว็บไซต์ 2 เว็บไซต์ ได้แก่\n\n1. เว็บไซต์บริษัททั่วไป (WordPress)\n2. เว็บไ���ต์ระบบฝึกอบรมพนักงาน (LearnDash LMS)\n\n**ขอบเขตงาน**\n- ดูแลและแก้ไขปัญหาเว็บไซต์เมื่อจำเป็น\n- ตรวจสอบ Website Security และ Plugin\n- มีความสามารถใช้งาน Terminal และ SSH\n- สามารถใช้ AI Tools ช่วยในการจัดการเว็บไซต์ได้จะพิจารณาเป็นพิเศษ\n- พร้อมให้ความช่วยเหลือเมื่อเว็บไซต์เกิดปัญหา\n\n**รูปแบบการจ้าง:** Monthly Retainer (จ่ายค่าบริการรายเดือน)\n\nรบกวนผู้สนใจแจ้งประสบการณ์ที่เกี่ยวข้อง ผลงานที่ผ่านมา ค่าบริการรายเดือนสำหรับ 2 เว็บไซต์ และระยะเวลาที่สามารถตอบกลับเมื่อเกิดปัญหา",
-    "title": "หาฟรีแลนซ์ดูแลเว็บไซต์ WordPress และ LearnDash LMS แบบรายเดือน (Monthly Retainer)",
+    "description": "บริษัท AON KP DATA เปิดรับสมัครผู้ที่สนใจเข้าร่วมโปรเจกต์บันทึกเสียงคำสั่งเดี่ยว (คำสั่งรถยนต์ไฟฟ้า)\n\nรายละเอียด\n- ต้องการผู้ชายไม่จำกัดอายุจำนวนมาก (สามารถแนะนำคนในครอบครัวหรือเพื่อน ๆ มาอัดเสียงได้จะได้รับค่าตอบแทนพิเศษ)\n- การอัดเสียงแบบคำสั่งไทยผสมอังกฤษ (สำหรับคำภาษาอังกฤษได้ถอดเป็นคำภาษาไทยเพื่อง่ายต่อการอ่านให้แล้ว)\n- ต้องอ่านคำสั่งเสียงประมาณ 400-500 ประโยค แต่ละประโยคจะใช้เวลาประมาณ 3-5 วินาที (เวลาโดยรวมในการทำงานอยู่ที่ 1-1.5 ชั่วโมง)\n- ต้องการคนที่มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวนใด ๆ งานนี้สามารถหาสถานที่หรืออัดได้ที่บ้านตนเอง\n- จำเป็นต้องมีการเทสการอ่านเพื่อพิจารณาว่าสามารถทำงานกับโปรเจกต์นี้ได้ (มีการเทส 5 ประโยค ไม่มีค่าตอบแทนสำหรับการเทส)\n\nค่าตอบแทน\n- จะได้รับคนละ 500 บาทหลังตรวจสอบคุณภาพเสียงเรียบร้อยแล้ว\n- หากสามารถพาเพื่อน ๆ หรือคนรู้จักที่เป็นผู้อัดเสียงชายมาเพิ่ม เราจะเพิ่มให้เป็นคนละ 600 บาท(ต่อคน)\n- และหากทำงานเสร็จเรียบร้อยแล้วสามารถแนะนำคนอื่น ๆ มาเพิ่มเติมได้ เราจะมีค่าแนะนำให้\n- ผู้ที่ทำงานเสร็จเรียบร้อยมีโอกาสที่จะร่วมงานโปรเจกต์อื่น ๆ ในอนาคตกับทางบริษัท\n\nสำคัญ!!! คนที่เคยเข้าร่วมการอัดเสียงกับโปรเจกต์แอป Ecai แล้ว จะไม่สามารถเข้าร่วมได้อีก",
+    "title": "คนที่สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยว (คำอ่านไทย) ชายเท่านั้น!!!",
     "is_owner": false,
     "source": "jobboard_web",
     "files": [],
     "kind": "standard",
-    "budget": "0",
+    "budget": "500",
     "is_anonymous": false,
-    "inserted_at": "2026-11-06T07:23:46.143278Z",
-    "updated_at": "2026-11-06T07:23:47.460462Z",
-    "already_offered": false,
+    "inserted_at": "2026-11-07T10:38:26.432805Z",
+    "updated_at": "2026-11-07T10:38:28.427845Z",
     "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    "already_offered": false,
     "business_type": "notspecified",
     "company_display_name": null,
     "company_image_url": null,
     "deadline_at": null,
-    "expired_at": "2026-12-06T07:23:46.096362Z",
-    "freelance_offers_count": 3,
+    "expired_at": "2026-12-07T10:38:26.379710Z",
+    "freelance_offers_count": 2,
     "is_fastwork_pick": false,
     "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": true,
+    "require_english_speaker": false,
     "usage_type": "business",
-    "user_id": "a7a6e627-19ee-4714-9207-c4866b69f394",
+    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
     "user_profile": {
-      "id": "a7a6e627-19ee-4714-9207-c4866b69f394",
-      "username": "n3zj2lj5",
-      "display_name": "MinMintra",
+      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
+      "username": "6t9jskml",
+      "display_name": "aonkpdata",
       "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
-    "budget_2": null,
+    "budget_2": "500",
     "matchedCategories": [
-      "พัฒนาเว็บไซต์"
+      "พัฒนาแอปพลิเคชัน"
     ],
-    "matchedAt": "2026-11-06T09:57:19.369Z"
+    "matchedAt": "2026-11-07T14:22:38.760Z"
   }
 ]
