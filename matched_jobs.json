@@ -1,5 +1,54 @@
 [
   {
+    "id": "de3fcad0-3889-4cd8-a8f9-e8c2afce870d",
+    "status": "open",
+    "tag": {
+      "id": "0936ef0a-50ee-4328-a782-7bc43dc124d0",
+      "name": "ศิลปะและภาพวาด",
+      "sort": 17
+    },
+    "type": "freelance",
+    "description": "รับสมัคร Freelance Illustrator / Character Designer ออกแบบมาสคอตสำหรับเว็บไซต์\n\nกำลังมองหานักวาดมาออกแบบมาสคอตต้นฉบับสำหรับเว็บไซต์ที่ช่วยให้ผู้ใช้ค่อย ๆ จัดระเบียบความคิด แยกเรื่องที่พอลงมือทำได้กับเรื่องที่ไม่ได้ขึ้นอยู่กับเราคนเดียว และเลือกก้าวเล็ก ๆ ที่เหมาะกับตัวเอง\n\n**แนวทางของคาแรกเตอร์**\n\nอยากได้มาสคอตที่ให้ความรู้สึกอบอุ่น เป็นมิตร รับฟัง และอยู่เป็นเพื่อนในวันที่เหนื่อยใจ เหมาะกับผู้ใช้วัยผู้ใหญ่ ไม่ดูเด็กเกินไป และไม่สดใสร่าเริงจนกลบความรู้สึกของผู้ใช้\n\nเปิดรับไอเดียทั้งสัตว์ สิ่งของ หรือคาแรกเตอร์จินตนาการ โดยอยากให้นักวาดช่วยเสนอแนวคิดและบุคลิกที่เข้ากับเว็บ\n\n**ขอบเขตงาน**\n- ออกแบบมาสคอตหลัก 1 ตัว พร้อมแนวคิดและบุคลิกสั้น ๆ\n- เสนอแบบร่าง 2 แนวทาง แล้วพัฒนาแนวทางที่เลือก 1 แบบ\n- วาดภาพใช้งานจริง 2 ท่าหรือสถานการณ์ ได้แก่ ต้อนรับและชวนค่อย ๆ คิด กับอยู่เป็นเพื่อนและให้กำลังใจในหน้าสรุป\n- กำหนดชุดสีและสัดส่วนพื้นฐาน เพื่อใช้วาดท่าอื่นต่อในอนาคต\n- แสดงตัวอย่างการวางภาพบนหน้าเว็บมือถือ เพื่อดูความเข้ากันกับ UI\n\n**สไตล์ภาพที่ต้องการ**\n- รูปทรงเรียบง่าย เส้นโค้งมน รายละเอียดไม่แน่น\n- อ่านท่าทางและอารมณ์ได้เมื่อแสดงภาพขนาดเล็ก\n- เข้ากับโทนสีของเว็บไซต์\n- สีหน้าและภาษากายอ่อนโยน ไม่ตัดสินหรือเร่งเร้าผู้ใช้\n\n**ความเป็นต้นฉบับ**\n\nต้องการคาแรกเตอร์ที่ออกแบบขึ้นใหม่ ภาพที่อยู่ในเว็บปัจจุบันใช้ให้ดูตำแหน่ง ขนาด และบทบาทของภาพเท่านั้น ไม่ใช้เป็นต้นแบบให้วาดตาม เปลี่ยนสี หรือดัดแปลงหน้าตาและเอกลักษณ์เดิม\n\n**ไฟล์ส่งมอบ**\n- ไฟล์ต้นฉบับที่แก้ไขได้ พร้อมแยกเลเยอร์\n- PNG พื้นหลังโปร่งใส ความละเอียดสูง\n- SVG หากเป็นงานเวกเตอร์\n- ชุดสีและแนวทางใช้งานคาแรกเตอร์แบบสั้น ๆ\n\n**รายละเอียดที่ขอให้เสนอราคา**\n- ราคารวมและรายการงานที่ครอบคลุม\n- ระยะเวลาทำงานและจำนวนรอบแก้ไข\n- เงื่อนไขสิทธิ์ใช้งานบนเว็บไซต์ พอร์ตโฟลิโอ และสื่อประชาสัมพันธ์ รวมถึงเงื่อนไขการดัดแปลงหรือจ้างวาดต่อ\n- ค่าใช้จ่ายเพิ่มเติมหากเพิ่มท่าทางหรือตัวละครประกอบ",
+    "title": "คนวาดมาสคอตเว็บไซต์สุขภาพจิต",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1500",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-10T06:29:39.269247Z",
+    "updated_at": "2026-11-10T06:29:41.186809Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-20",
+    "expired_at": "2026-12-10T06:29:39.216780Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.3;iPhone;11.16.0-6005976"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "9a440203-80fe-49e9-b0e8-df6b83d92116",
+    "user_profile": {
+      "id": "9a440203-80fe-49e9-b0e8-df6b83d92116",
+      "username": "katy_kate",
+      "display_name": "kate",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1500",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-10T10:05:00.174Z"
+  },
+  {
     "id": "34991f64-11b0-47e2-9500-30f80a134ccb",
     "status": "open",
     "tag": {
@@ -47,103 +96,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-09T19:43:57.773Z"
-  },
-  {
-    "id": "6605fbbb-de04-4f89-9fc4-91cb6721da78",
-    "status": "open",
-    "tag": {
-      "id": "2a0001e2-d5d9-4fb8-92da-f4a805c47044",
-      "name": "ไอทีโซลูชั่น",
-      "sort": 18
-    },
-    "type": "full-time",
-    "description": "\n💼ตำแหน่ง: Systems Development Expert\n🏙️สถานที่ปฏิบัติงาน: ตึก AIA Capital Center\n💵เงินเดือน: Negotiable (สามารถเจรจาต่อรองได้)\n* วันทำงาน: จันทร์–ศุกร์\n* เวลาทำงาน: 08:00–17:00 น.\n🎯 คุณสมบัติของผู้สมัคร (Qualifications)\n* วุฒิการศึกษาระดับป��ิญญาตรี สาขาวิศวกรรมคอมพิวเตอร์ เทคโนโลยีสารสนเทศ วิศวกรรมซอฟต์แวร์ หรือสาขาอื่น ๆ ที่เกี่ยวข้อง\n* มีประสบการณ์ในตำแหน่ง Programmer ตั้งแต่ 5 ปีขึ้นไป 📌\n\n💻 ความเชี่ยวชาญและทักษะทางเทคนิค (Technical Skills)\n1. Core Development: มีความเชี่ยวชาญในการพัฒนาระบบด้วยภาษา Java และใช้งาน Framework Spring Boot ได้เป็นอย่างดี\n2. Frontend Development: มีความรู้ในการพัฒนาส่วนติดต่อผู้ใช้งานด้วย Angular, React หรือ Vue.js ร่วมกับ JavaScript, HTML5, CSS และ JSP\n3. API Development: มีความเข้าใจหลักการออกแบบและพัฒนา RESTful API เป็นอย่างดี สามารถพัฒนา Web Service และ API ตามรูปแบบที่ได้รับมอบหมายด้วย JSON ได้อย่างมีประสิทธิภาพ\n4. Database: มีความรู้ด้านฐานข้อมูลเชิงสัมพันธ์ เช่น PostgreSQL, MySQL, Oracle หรือเทียบเท่า และสามารถเขียนคำสั่ง SQL Query ได้อย่างถูกต้อง\n5. Code & Project Management Tools: สามารถใช้งานระบบบริหารจัดการซอร์สโค้ด Git และเครื่องมือบริหารจัดการโครงสร้างโปรเจกต์ เช่น Maven หรือ Gradle ได้\n6. Containerization: มีความรู้เบื้องต้นเกี่ยวกับเทคโนโลยี Containerization เช่น Docker และ Kubernetes\n7. Software Quality Assurance: สามารถจัดทำและดำเนินการทดสอบระดับหน่วย (Unit Test) และสร้างกรณีทดสอบ (Test Case) ได้\n\n🏆 คุณสมบัติเพิ่มเติมที่จะได้รับการพิจารณา (Preferred Qualifications)\nผู้สมัครที่มีคุณสมบัติเหล่านี้จะได้รับการพิจารณาเป็นพิเศษ\n\n* ใบรับรองวิชาชีพด้านภาษาและการพัฒนาระบบ เช่น Oracle Certified Professional (OCP) Java หรือ Spring Certified Professional\n* ใบรับรองวิชาชีพด้าน Cloud หรือ Container เช่น Certified Kubernetes Application Developer (CKAD), AWS Certified Developer หรือ Azure Developer Associate\n* มีใบรับรองวิชาชีพอื่น ๆ ที่เกี่ยวข้องกับการบริหารจัดการฐานข้อมูลหรือกระบวนการพัฒนาซอฟต์แวร์",
-    "title": "Systems Development Expert",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-09T07:12:22.432841Z",
-    "updated_at": "2026-11-09T07:12:24.199878Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-09T07:12:22.039856Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.4.1;iPhone;11.15.0-6002938"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "65a461b3-d8f8-453d-83f6-1c64d75973e5",
-    "user_profile": {
-      "id": "65a461b3-d8f8-453d-83f6-1c64d75973e5",
-      "username": "natthnicha13",
-      "display_name": "natthnicha User x",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/65a461b3-d8f8-453d-83f6-1c64d75973e5/profile/a9b4660d-5825-4a8e-93b3-ff22f44cf845.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-09T09:07:31.174Z"
-  },
-  {
-    "id": "153424de-7411-449e-b1af-848f105d499f",
-    "status": "open",
-    "tag": {
-      "id": "a815a968-f264-4ff0-8713-8a7dc4c4b513",
-      "name": "สื่อออนไลน์",
-      "sort": 1
-    },
-    "type": "freelance",
-    "description": "สวัสดีครับ ผมกำลังทำแอปเล็กๆ ที่ให้ผู้ใช้เลือกประเภทรถ คล้ายๆ หน้าเลือกรถในแอปเรียกรถ เลยอยากได้คนทำงาน 3D มาช่วยครับ\n\nลำดับงาน\n1. โมเดลรถต้นแบบ 1 คันก่อน เป็นรถ 3D ดูนุ่มๆ น่ารักแบบของเล่น สไตล์ Uber/Grab ตัวรถสีขาว กระจกเป็นสี มุมเฉียงหน้า 3/4 คันนี้จะใช้เป็นฐานของรถคันอื่น\n2. ไอคอนแอป 3D ไอเดียของผมคือรถที่วิ่งทิ้งรอยเป็นรูปตัว W อยากได้สเก็ตช์คร่าวๆ 2–3 แบบก่อนขึ้นงาน 3D จริง ฟีลประมาณ Flighty หรือ Blackjack คือมีวัตถุ 3D สีขาวชิ้นเดียวบนพื้นสี่เหลี่ยมมุมมนสีเข้ม\n3. รถคันอื่นที่ทำต่อจากโมเดลฐาน รวม 7 แบบ คือ รถแฮทช์แบ็ก มอเตอร์ไซค์ รถกระบะ รถเก๋ง SUV แท็กซี่ และรถตู้ ทุกคันใช้มุมกล้อง แสง และวัสดุเดียวกัน\n\nไฟล์ที่ต้องการ\n- PNG พื้นหลังใส ความละเอียดสูง ใช้กับ iOS ได้\n- ไฟล์ต้นฉบับ Blender\n- สิทธิ์ใช้งานเชิงพาณิชย์เต็มรูปแบบ\n\nรูปอ้างอิงและสเก็ตช์จะส่งให้ในแชทครับ ดูบทความเรื่องรถ 3D ของ Uber ประกอบได้ที่ https://medium.com/uber-design/upgrading-ubers-3d-fleet-4662c3e1081\n\nตอนเสนองาน รบกวนบอกด้วยนะครับ\n- ตัวอย่างงานรถหรือไอคอน 3D สไตล์นุ่มๆ ที่เคยทำ\n- ราคาแยกแต่ละขั้น เพราะงบมีจำกัด\n- ราคาต่อคันถ้ามีประเภทรถเพิ่มทีหลัง\n- ใช้เวลาประมาณกี่วัน และแก้ได้กี่รอบ\n\nขอบคุณครับ",
-    "title": "คนทำไอคอนแอป 3D + ไอคอนรถ 3D สไตล์ของเล่น 7 แบบ",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-09T05:43:43.677935Z",
-    "updated_at": "2026-11-09T05:43:45.593971Z",
-    "already_offered": false,
-    "brief_url": "https://drive.google.com/drive/folders/1v8D2N32ii009UpPEAa8JI5dKr7SOQ8Pb?usp=drive_link",
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-09T05:43:43.558771Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "48cc994a-f3c6-4f6a-841c-fafd80b8b372",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-09T09:07:30.026Z"
   }
 ]
