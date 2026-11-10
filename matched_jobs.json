@@ -97,54 +97,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-11-10T10:05:00.174Z"
-  },
-  {
-    "id": "34991f64-11b0-47e2-9500-30f80a134ccb",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "เราเป็นสตาร์ทอัพเล็กๆ ทำแอปฟรีสำหรับคนกรุงเทพฯ ไว้แชร์ร้านอาหารและคาเฟ่ใกล้ตัว\n\nขอบเขตงาน:\n1. แนะนำแอปให้คนไทยวัย 20–35 ในกรุงเทพฯ ผ่านเครือข่ายและชุมชนของคุณ\n2. เป้าหมาย: ผู้ใช้จริง 50 คน ที่สมัครและโพสต์คลิปร้านในกรุงเทพฯ 1 คลิป\n3. รายงานความคืบหน้าสั้นๆ ทุกวันใน Fastwork\n\nเงื่อนไข: ผู้ใช้ต้องเป็นคนจริง อายุ 20+ ไม่รับบัญชีปลอมหรือซื้อยอด\n\nงบประมาณ ฿5,000 แบ่งจ่ายตามผลงานผ่าน Fastwork\n\nกรุณาเสนอราคาพร้อมแผนสั้นๆ และตัวอย่างงานที่เคยทำ\n\n---\nWe are a small startup building a free app for Bangkok people to share nearby food spots and cafés.\nScope: (1) introduce the app to Bangkok Thais aged 20–35 through your own network and communities; (2) target: 50 real users who sign up and post one clip of a Bangkok spot; (3) short daily progress report in Fastwork.\nConditions: real people aged 20+, no fake accounts or bought sign-ups.\nBudget ฿5,000, paid in milestones by results via Fastwork. Please quote with a short plan and past work examples.",
-    "title": "จ้างฟรีแลนซ์การตลาดชุมชน: หาผู้ใช้จริง 50 คนให้แอปใหม่ในกรุงเทพฯ (โปรเจกต์นำร่อง 14 วัน)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "5000",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-09T13:01:34.115243Z",
-    "updated_at": "2026-11-09T13:01:35.998555Z",
-    "user_id": "e96c52d4-e90a-4de0-963b-2a6be4f9c8d3",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-09T13:01:34.066682Z",
-    "freelance_offers_count": 6,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "e96c52d4-e90a-4de0-963b-2a6be4f9c8d3",
-      "username": "v7zym4j5",
-      "display_name": "BKK Concierge",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "5000",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-09T19:43:57.773Z"
   }
 ]
