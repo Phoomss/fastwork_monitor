@@ -97,55 +97,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-11T02:07:25.062Z"
-  },
-  {
-    "id": "ad6b8530-1a03-4e91-bb31-4b586f1dcc6b",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "ต้องการหา Web Developer มืออาชีพ มาช่วยพัฒนาต่อยอดและเป็นที่ปรึกษาดูแลเว็บไซต์ของเรา โดยมีขอบเขตงานดังนี้ครับ\n\n1. ขอบเขตงานหลัก\nRe-design & Interactive ปรับโฉมเว็บไซต์ให้ดูทันสมัย น่าดึงดูด ใช้งานง่าย (UX/UI) ทั้งบนมือถือและคอมพิวเตอร์\n\nAI Integration เพิ่มลูกเล่น AI แบบ Interactive บนหน้าเว็บ เพื่อช่วยโต้ตอบ แนะนำห้องพัก หรือสร้างประสบการณ์ใหม่ๆ ให้กับลูกค้าที่เข้ามาใช้งาน\n\nSystem & Plugin Audit ตรวจสอบความสมบูรณ์หลังย้ายโฮสต์ จัดการระบบปลั๊กอินทั้งหมด ให้คำปรึกษาเรื่อง License รายปี ตัวไหนควรต่ออายุ ตัวไหนควรเปลี่ยนเพื่อให้คุ้มค่าและปลอดภัยที่สุด\n\nMaintenance ดูแลความเสถียร ความเร็ว และอัปเดตเนื้อหา/โปรโมชันของเราต่อเนื่อง\n\n2. คุณสมบัติที่ต้องการ\nเชี่ยวชาญการทำเว็บยุคใหม่ และมีประสบการณ์นำ AI (เช่น AI Chatbot / AI Assistant) มาเชื่อมต่อกับเว็บไซต์จริง\n\nแม่นยำเรื่องโครงสร้างเว็บ ปลั๊กอิน และการบริหารจัดการค่าใช้จ่ายด้านระบบ\n\nให้คำแนะนำภาษาคนทั่วไปเข้าใจง่าย ไม่ทิ้งงาน\n\n3. สิ่งที่ต้องส่งมาเพื่อพิจารณา\nผลงานเว็บที่เคยรีดีไซน์ หรือตัวอย่างงานที่เคยใส่ระบบ AI/Interactive\n\nแนวคิดเบื้องต้นในการนำ AI มาใส่ในเว็บของเรา\n\nมาร่วมงานกัน",
-    "title": "Web Developer รีดีไซน์เว็บโรงแรมให้ทันสมัย เพิ่มลูกเล่น AI Interactive และดูแลระบบหลังบ้าน",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "3000",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-10T12:16:32.078325Z",
-    "updated_at": "2026-11-10T12:16:33.886798Z",
-    "user_id": "b842fda8-e56e-4892-8698-1878adbf5f5e",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-12-10T12:16:32.058337Z",
-    "freelance_offers_count": 10,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "b842fda8-e56e-4892-8698-1878adbf5f5e",
-      "username": "adsgood",
-      "display_name": "good ads",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b842fda8-e56e-4892-8698-1878adbf5f5e/profile/ce4ec5f0-bdd8-4231-a037-079d868185eb.png"
-    },
-    "freelance_offers": null,
-    "budget_2": "3000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-10T17:40:49.631Z"
   }
 ]
