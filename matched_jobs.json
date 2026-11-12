@@ -1,51 +1,51 @@
 [
   {
-    "id": "eeef4725-dbc8-4265-a004-52b23645643f",
+    "id": "c342d379-973b-4d6c-bfe1-af9fba564861",
     "status": "open",
     "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
     },
-    "type": "freelance",
-    "description": "มีรายละเอียดการสกรีนแก้วให้ เช่น คิวอาร์ไลน์ ชื่อเพจต่างๆ  มีโลโก้ที่ใช้ตัวอักษรจากแอปแคนวา\nต้องการเป็นไฟล์ AiหรือEPS พร้อมทำ Mockup ให้ด้วย",
-    "title": "ทำไฟล์สกรีนโลโก้แก้ว แบบไม่มีพื้นหลัง เพื่อส่งใ��้โรงงาน ด่วนนนน",
+    "type": "part-time",
+    "description": "เช่ามือถือรายวัน 4เครื่อง android เช่าเช้าเย็นคืน เอาไปถ่ายงานค่ะ มี1เครื่องก็ติดต่อมาได้ฝากด้วยนะคะ วันที่14นี้ค่ะ",
+    "title": "เช่าโทรศัพท์มือถือรายวัน ขอนแก่น",
     "is_owner": false,
     "source": "jobboard_app_jobboard_home_floating-button",
     "files": [],
     "kind": "standard",
-    "budget": "300",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-11T08:38:05.074913Z",
-    "updated_at": "2026-11-11T08:38:06.388867Z",
+    "budget": "2400",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-12T07:54:22.292899Z",
+    "updated_at": "2026-11-12T07:54:23.646080Z",
     "already_offered": false,
     "brief_url": null,
-    "business_type": "notspecified",
+    "business_type": null,
     "company_display_name": null,
     "company_image_url": null,
-    "deadline_at": "2026-11-11",
-    "expired_at": "2026-12-11T08:38:05.024112Z",
-    "freelance_offers_count": 4,
+    "deadline_at": "2026-11-13",
+    "expired_at": "2026-12-12T07:54:22.275011Z",
+    "freelance_offers_count": 0,
     "is_fastwork_pick": false,
     "is_official": false,
     "processed_user_agent": {
       "isMobile": true,
-      "source": "iOS27.2;iPhone;11.16.0-6005976"
+      "source": "iOS26.6.1;iPhone;11.16.0-6005976"
     },
     "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "67ff70d0-2961-4fe9-ae36-88d1d18f0489",
+    "usage_type": "personal",
+    "user_id": "196dbecf-49e6-4c3b-9d34-f6ad3e08c1a8",
     "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "id": "196dbecf-49e6-4c3b-9d34-f6ad3e08c1a8",
+      "username": "vzkfr8cm",
+      "display_name": "vzkfr8cm",
       "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
-    "budget_2": "300",
+    "budget_2": "2400",
     "matchedCategories": [
-      "ออกแบบ UX UI"
+      "พัฒนาแอปพลิเคชัน"
     ],
-    "matchedAt": "2026-11-11T09:15:31.536Z"
+    "matchedAt": "2026-11-12T12:08:38.511Z"
   }
 ]
