@@ -47,55 +47,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-11-11T09:15:31.536Z"
-  },
-  {
-    "id": "f0104ee8-4b6d-480f-b261-0d41566ade37",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "สวัสดีค่ะ สนใจจ้างพัฒนาเว็บไซต์ระบบ Boat Dispatch สำหรับบริหารจัดการคิวเรือหางยาวค่ะ\n\nต้องการระบบแบบสำเร็จรูปที่��ัฒนาเสร็จพร้อมใช้งานจริง มีระบบ Login แยกเจ้าของและคนขับเรือ มี Dashboard, Booking Management, Boat Management และระบบจัดคิวที่สามารถตรวจสอบเวลาและแนะนำคนขับที่ว่างได้\n\nสิ่งสำคัญคือ ต้องการเป็นเจ้าของ Source Code, Database, Domain และบัญชีระบบทั้งหมด 100% สามารถนำไปแก้ไขหรือจ้าง Developer รายอื่นพัฒนาต่อได้ โดยไม่ต้องพึ่งผู้พัฒนารายเดิม\n\nต้องการให้มีหน้า Admin ที่สามารถจัดการข้อมูลเรือ คนขับ Booking และการตั้งค่าต่าง ๆ ได้เองโดยไม่ต้องเขียนโค้ด\n\nไม่ทราบว่าทางคุณสามารถรับพัฒนาแบบครบวงจร พร้อมส่งมอบระบบทั้งหมดตามรายละเอียดนี้ได้หรือไม่คะ\n\n���ากทำได้ รบกวนเสนอราคา ระยะเวลาพัฒนา และตัวอย่างผลงานที่เคยทำให้พิจารณาด้วยค่ะ",
-    "title": "สนใจจ้างพัฒนาเว็บไซต์ระบบ Boat Dispatch สำหรับบริหารจัดการคิวเรือหางยาว",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-11T02:05:56.706362Z",
-    "updated_at": "2026-11-11T02:05:58.483541Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-11T02:05:56.653951Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-S938B;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "6c2c0644-f241-449e-af56-aa0e43381e63",
-    "user_profile": {
-      "id": "6c2c0644-f241-449e-af56-aa0e43381e63",
-      "username": "fastworkco_tira",
-      "display_name": "Tira",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6c2c0644-f241-449e-af56-aa0e43381e63/profile/963e18ee-b352-4858-98e2-343da35ba801.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-11T02:07:25.062Z"
   }
 ]
