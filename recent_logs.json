@@ -1,9 +1,5 @@
 [
-  "[2026-11-13T15:28:30.100Z]     Notification sent successfully.",
-  "[2026-11-13T15:28:29.810Z]   FOUND NEW TARGET JOB: ออกแบบ Test Doccument Test Case พร้อมให้คำปรึกษา (Cats: พัฒนาแอปพลิเคชัน, ออกแบบ UX UI) (Budget: 0 THB)",
-  "[2026-11-13T15:28:28.810Z]     Notification sent successfully.",
-  "[2026-11-13T15:28:28.616Z]   FOUND NEW TARGET JOB: ผู้ชายจำนวนมาก ทำทดสอบบันทึกเสียงคำสั่งรถไฟฟ้า Deepal (Cats: พัฒนาแอปพลิเคชัน) (Budget: 300 THB)",
-  "[2026-11-13T15:28:27.713Z] Checking Fastwork for new job posts...",
-  "[2026-11-13T15:28:27.712Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-13T15:28:27.711Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
+  "[2026-11-13T21:29:16.192Z] Checking Fastwork for new job posts...",
+  "[2026-11-13T21:29:16.192Z] Auto-cleanup: Removed 32 seen job tracking IDs older than 1 day(s).",
+  "[2026-11-13T21:29:16.189Z] Auto-cleanup: Removed 1 matched jobs older than 1 day(s)."
 ]
