@@ -1,5 +1,8 @@
 [
-  "[2026-11-14T19:29:24.348Z] Checking Fastwork for new job posts...",
-  "[2026-11-14T19:29:24.348Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-14T19:29:24.345Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-14T23:14:43.176Z]     Notification sent successfully.",
+  "[2026-11-14T23:14:43.055Z]   FOUND NEW TARGET JOB: หาคนแก้โปรแกรม tts ใช้เวลาแปลงนาน (Cats: พัฒนาแอปพลิเคชัน) (Budget: 200 THB)",
+  "[2026-11-14T23:14:42.052Z]     Notification sent successfully.",
+  "[2026-11-14T23:14:41.840Z]   FOUND NEW TARGET JOB: หาคนแก้แอป tts แปลงข้อความนาน (Cats: พัฒนาแอปพลิเคชัน) (Budget: 200 THB)",
+  "[2026-11-14T23:14:40.888Z] Checking Fastwork for new job posts...",
+  "[2026-11-14T23:14:40.886Z] Auto-cleanup: Removed 12 seen job tracking IDs older than 1 day(s)."
 ]
