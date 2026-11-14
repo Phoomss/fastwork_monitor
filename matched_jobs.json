@@ -1,5 +1,104 @@
 [
   {
+    "id": "2c72bda7-4447-402c-9f68-e272223f930e",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "สร้าง landing page ให้เเบรนด์ค่ะ มีบรีฟ/direction/รูป/ข้อมูล ดีไซนไอเดียคล่าวๆของเว็บที่อยากได้ ux/ui เบื้องต้น เเค่ต้องการคนทำออกมาให้ค่ะ",
+    "title": "Website ทำเว็บไซท",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-14T04:10:23.004321Z",
+    "updated_at": "2026-11-14T04:10:24.591180Z",
+    "user_id": "9b76cb37-3f9d-40dc-8290-31f5dd97e40c",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-14T04:10:22.956776Z",
+    "freelance_offers_count": 12,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.16.0-6005976"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "9b76cb37-3f9d-40dc-8290-31f5dd97e40c",
+      "username": "encme0l1",
+      "display_name": "PeiPei",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-14T07:58:03.807Z"
+  },
+  {
+    "id": "80f9b1e3-90af-4791-9516-9b64b8e7ef76",
+    "status": "open",
+    "tag": {
+      "id": "15dcbf80-836a-475c-bda2-7505c565ce29",
+      "name": "งานสอน",
+      "sort": 12
+    },
+    "type": "freelance",
+    "description": "คนช่วยสอนการลง git , github เพื่อ up web ขึ้นhost free อธิบายเข้าใจง่ายสำหรับคนไม่ใช่สายเทค\nในเวลา 1-2 ชม (หรือหากเนื้อหาเยอะ เพิ่มเวลาได้)\n\n- เปิดคอมพ์ พาจับมือทำ\n- สอนเข้าใจง่ายๆ ใจเย็น\n-มีประสบการณ์จริง\n-เสนอแนะ ฟรีโฮสต์ที่ไว้ใจได้\n\nทักมาคุยได้จ้า",
+    "title": "คนช่วยสอนการลง git , github เพื่อ up web ขึ้นhost free อธิบายเข้าใจง่ายสำหรับคนไม่ใช่สายเทค",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "300",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-14T04:02:41.439427Z",
+    "updated_at": "2026-11-14T04:02:42.761867Z",
+    "user_id": "2452a0de-a85e-40fc-a315-43f6b7a30e2f",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-05",
+    "expired_at": "2026-12-14T04:02:41.421630Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "300",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-14T07:58:02.036Z"
+  },
+  {
     "id": "1700b686-6474-465e-9a5d-60f19451c9b8",
     "status": "open",
     "tag": {
@@ -97,103 +196,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-13T15:28:28.616Z"
-  },
-  {
-    "id": "c14620d6-ab6a-45e9-85c5-b5b97acb321d",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "บริษัท AON KP DATA เปิดรับสมัครผู้สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยวไทย 120 ประโยค (ชายเท่านั้น) รถยนต์ไฟฟ้า Deepal\n\nรายละเอียด\n- ต้องการผู้ที่สนใจเข้าร่วมโปรเจกต์จำนวน 40 คนไม่จำกัดอายุ (เพศชายเท่านั้น)\n- การอัดเสียงแบบคำสั่งไทยล้วน เป็นประโยคคำสั่งรถยนต์ไฟฟ้า Deepal\n- ต้องอ่านคำสั่งเสียง 120 ประโยค แต่ละประโยคจะใช้เวลาประมาณ 3-5 วินาที (เวลาโดยรวมในการทำงานอยู่ที่ 10-15 นาที)\n- ต้องการคนที่มีสถานที่อัดเสียงที่เงียบสงบ ไม่มีเสียงรบกวนใด ๆ งานนี้สามารถหาสถานที่หรืออัดได้ที่บ้านตนเอง\n- จำเป็นต้องมีการเทสการอ่านเพื่อพิจารณาว่าสามารถทำงานกับโปรเจกต์นี้ได้ (มีการเทส 5 ประโยค ไม่มีค่าตอบแทนสำหรับการเทส)\nค่าตอบแทน\n- จะได้รับคนละ 300 บาทหลังตรวจสอบคุณภาพเสียงเรียบร้อยแล้ว\n- ผู้ที่ทำงานเสร็จเรียบร้อยมีโอกาสที่จะร่วมงานโปรเจกต์อื่น ๆ ในอนาคตกับทางบริษัท\n\nสำคัญ!!! คนที่เคยเข้าร่วมการอัดเสียงเดียวกันนี้มาก่อน จะไม่สามารถเข้าร่วมซ้ำได้",
-    "title": "คนที่สนใจเข้าร่วมโปรเจกต์อัดคำสั่งเสียงเดี่ยวไทย 120 ประโยค (ชายเท่านั้น)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "300",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-13T07:17:48.021793Z",
-    "updated_at": "2026-11-13T07:17:49.877624Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-13T07:17:47.973985Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-    "user_profile": {
-      "id": "7a707bdf-8fed-4c8c-806e-c7e9358f2ea4",
-      "username": "6t9jskml",
-      "display_name": "aonkpdata",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "300",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-13T07:18:42.944Z"
-  },
-  {
-    "id": "15a44c12-a21d-4c63-abce-6ac60c862b0d",
-    "status": "open",
-    "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
-    },
-    "type": "freelance",
-    "description": "เอเจนซี่ออกแบบเว็บไซต์จากยุโรป กำลังมองหา Freelance Advertising Specialist มาร่วมงานกับทีม \n\nสิ่งที่เรากำลังมองหา\n\n* มีประสบการณ์ทำ Meta Ads และ Google Ads โดยเฉพาะแคมเปญ Lead Generation สำหรับธุรกิจบริการ\n\n* สามารถดูแลแคมเปญได้ตั้งแต่เริ่มต้นจนจบ ทั้งการตั้งค่า ติดตามผล ปรับปรุง แก้ไขปัญหา และสรุปรายงาน\n\n* เคยดูแลหลายบัญชีโฆษณา (Multiple Ad Accounts)\n\n* มีความรู้เกี่ยวกับ Meta Pixel, Google Tag Manager และ Google Analytics\n\n* มีความรับผิดชอบ ทำงานด้วยตัวเองได้ และสามารถสื่อสารภาษาอังกฤษในการทำงานได้\n\n\nรูปแบบการทำงาน\n* Freelance (Remote 100%)\n* มีโอกาสร่วมงานระยะยาว\n* ประชุมออนไลน์กับทีมอย่างน้อยสัปดาห์ละ 1 ครั้ง\n* หากร่วมงานกันได้ดี มีโอกาสเติบโตไปพร้อมกับทีมและดูแลลูกค้าเพิ่มขึ้นในอนาคต\n\n\nหากสนใจ รบกวนส่ง\n* CV หรือ LinkedIn Profile\n* Portfolio / Case Studies \n* Rate ที่คาดหวัง (รายเดือน หรือรูปแบบการคิดค่าบริการ)\n\n*ค่าตอบแทนสามารถพูดคุยและต่อรองได้ ตามประสบการณ์และความสามารถ*\n\nขอบคุณค่ะ 🙏🏻",
-    "title": "Freelance Advertising Specialist (Meta Ads & Google Ads)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "15000",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-13T05:10:01.693163Z",
-    "updated_at": "2026-11-13T05:10:02.910789Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-13T05:10:01.640273Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.7.7;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": true,
-    "usage_type": "business",
-    "user_id": "8e014dbd-5792-4303-b8f9-6ae3fb64810b",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "15000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-13T07:18:41.587Z"
   }
 ]
