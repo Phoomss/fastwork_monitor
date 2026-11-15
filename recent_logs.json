@@ -1,5 +1,6 @@
 [
-  "[2026-11-15T16:39:01.702Z] Checking Fastwork for new job posts...",
-  "[2026-11-15T16:39:01.701Z] Auto-cleanup: Removed 49 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-15T16:39:01.699Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-15T21:14:52.616Z]     Notification sent successfully.",
+  "[2026-11-15T21:14:52.427Z]   FOUND NEW TARGET JOB: หาคนรับเขียนโค้ด, ซอร์สโค้ด, แม่แบบ, มอดูล (Lua) และพัฒนาเทคนิคไอทีเว็บไซต์ mediawiki ส่วนตัวได้ (Cats: พัฒนาเว็บไซต์) (Budget: 3500 THB)",
+  "[2026-11-15T21:14:51.377Z] Checking Fastwork for new job posts...",
+  "[2026-11-15T21:14:51.376Z] Auto-cleanup: Removed 19 seen job tracking IDs older than 1 day(s)."
 ]

@@ -1,5 +1,54 @@
 [
   {
+    "id": "00b8acfd-0fca-4b71-9dba-6366f01f24b2",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "contract",
+    "description": "หาคนที่เก่งเทคนิคไอทีค่ะ ช่วยเขียนโค้ด แม่แบบ มอดูล lua พัฒนามีเดียวิกิให้เราได้บ้างคะ คือเรื่องมีอยู���ว่า เราติดตั้ง mediawiki ใช้เองค่ะ เพื่อที่จะทำเว็บไซต์รวบรวมบทความเกี่ยวกับดาราที่ชื่นชอบ ศิลปินที่ชื่นชอบ ซึงเราเป็นคนที่ชื่นชอบดาราเกาหลี ดาราไทย และเราก็ชอบเขียนบทความมุมมองแฟนคลับด้วย ซึ่งวิกิพีเดียเขามีคนอาสาสมัครมากมายมาพัฒนา แต่เราหาคนมาพัฒนาไม่ได้ เลยอยากจะขออาสาพี่ๆที่เป็นโปรแกรมเมอร์ที่เชี่ยวชาญเรื่องโค้ดไอที ( ปล. พัฒนาระบบวิกิ ได้ดีเรามีค่าจ้างตอบแทนค่ะ เราไม่ได้คิดจะมาจ้างฟรีๆนะคะ ขอคนที่อาสาทำให้จริงๆแล้ว ถ้าทำงานได้ดีเรามีค่าตอบแทนให้ 3500 บาท ติดต่อเราม่ได้เ��ยค่ะ\n\nเว็บเราค่ะ https://veripedia.online ",
+    "title": "หาคนรับเขียนโค้ด, ซอร์สโค้ด, แม่แบบ, มอดูล (Lua) และพัฒนาเทคนิคไอทีเว็บไซต์ mediawiki ส่วนตัวได้",
+    "is_owner": false,
+    "source": "jobboard_web_web_marketplace_top-navbar",
+    "files": [],
+    "kind": "standard",
+    "budget": "3500",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-15T17:06:29.225047Z",
+    "updated_at": "2026-11-15T17:06:31.097454Z",
+    "user_id": "352ee178-ea00-4a3f-9c98-86f260420be9",
+    "already_offered": false,
+    "brief_url": "https://veripedia.online",
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-30",
+    "expired_at": "2026-12-15T17:06:29.208338Z",
+    "freelance_offers_count": 4,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "352ee178-ea00-4a3f-9c98-86f260420be9",
+      "username": "ili.illi",
+      "display_name": "ly",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/352ee178-ea00-4a3f-9c98-86f260420be9/profile/b01f016e-ec64-4655-a8b7-329cba59d7cf.jfif"
+    },
+    "freelance_offers": null,
+    "budget_2": "3500",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-15T21:14:52.427Z"
+  },
+  {
     "id": "4a4360e5-1259-4f48-bc12-a22328ebb1a2",
     "status": "open",
     "tag": {
