@@ -1,5 +1,54 @@
 [
   {
+    "id": "8eb1d10b-e484-44b0-acbe-60db8189ba43",
+    "status": "open",
+    "tag": {
+      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
+      "name": "ออกแบบ UX UI",
+      "sort": 21
+    },
+    "type": "freelance",
+    "description": "จุดประสงค์ สร้างเว็บสำหรับจัดแสดงผลงานให้ดูเป็นมืออาชีพ โดดเด่น และน่าจดจำ\n\nหัวข้อย่อย สไตล์ที่ต้องการ \nดีไซน์ทันสมัย (Modern) เน้นประสบการณ์ผู้ใช้งาน (UX/UI) ที่ดี และ ต้องมีลูกเล่นการนำเสนอแบบ Interactive หรือ Animation ล้ำๆ (เช่น Scroll Effect, Parallax หรือ 3D elements)\n\nหัวข้อย่อย ขอบเขตงาน\n\nหัวข้อย่อย ออ��แบบหน้าตาเว็บไซต์และพัฒนาส่วน Front-end (รองรับ Responsive Design ทุกหน้าจอและโหลดไว)\nหัวข้อย่อย มีระบบจัดการหลังบ้าน (CMS) ง่ายๆ เพื่อให้อัปเดตและเพิ่มผลงานใหม่ได้เองในอนาคต (ถ้ามีจะพิจารณาเป็นพิเศษ)\nหัวข้อย่อย \n\n⚠️ เงื่อนไขสำคัญ: ผู้เสนอราคา \"ต้องแนบลิงก์เว็บไซต์ Portfolio ของตัวเอง\" หรือลิงก์ผลงานเว็บสไตล์ล้ำๆ ที่เคยพัฒนามาประกอบการพิจารณาด้วย (ขอพิจารณาจากสไตล์ผลงานที่แนบมาเป็นหลักครับ)\n",
+    "title": "หาฟรีแลนซ์สร้างเว็บไซต์ Portfolio ส่วนตัว (เน้น UI/UX สวยงาม มีลูกเล่น Interactive ทันสมัย)",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "2000",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-17T14:58:36.291747Z",
+    "updated_at": "2026-11-17T14:58:38.497019Z",
+    "user_id": "e9c1f2ae-533e-4a14-8cbe-efc31eb7aca9",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": null,
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-30",
+    "expired_at": "2026-12-17T14:58:36.274982Z",
+    "freelance_offers_count": 7,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.1;iPhone;11.16.0-6005976"
+    },
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "2000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-17T17:54:51.288Z"
+  },
+  {
     "id": "2044665d-7e8d-4f2a-b4ea-d1d39d5db7e7",
     "status": "open",
     "tag": {
@@ -47,201 +96,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-17T00:58:22.884Z"
-  },
-  {
-    "id": "a54806a6-fff8-4778-bb91-722039802e17",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "part-time",
-    "description": "หาผู้สอนงานด้าน Business Process Improvement (BPI) / Business Analyst สำหรับเตรียมความพร้อมสมัครงาน\n\nต้องการหาผู้มีประสบการณ์ทำงานด้าน Business Process Improvement (BPI), Business Analyst หรือ Process Engineering ช่วยสอนตั้งแต่พื้นฐานจนสามารถนำความรู้ไปใช้ในการทำงานจริงได้\n\nหัวข้อที่ต้องการเรียนรู้\n\n1. การวิเคราะห์กระบวนการทำงานขององค์กร (Business Process Analysis)\n2. การเขียน Flowchart และ Process Mapping\n3. การออกแบบและปรับปรุง Workflow\n4. การวิเคราะห์ปัญหาและหา Bottleneck ในกระบวนการทำงาน\n5. การใช้งาน SQL สำหรับดึงและวิเคราะห์ข้อมูล\n6. การใช้ Excel ขั้นสูงและการทำ Dashboard\n7. การใช้ Power BI สำหรับนำเสนอข้อมูล\n8. ความรู้พื้นฐานเกี่ยวกับ ERP และ System Integration\n9. การทดสอบระบบ Function Test / User Test (UAT)\n10. การทำความเข้าใจ SOP และการปรับปรุงกระบวนการทำงาน\n\nคุณสมบัติผู้สอน\n\n* มีประสบการณ์ทำงานจริงในสาย BPI หรือ Business Analyst\n* สามารถสอนแบบเป็นขั้นตอน เข้าใจง่าย\n* มีตัวอย่าง Case Study จากการทำงานจริง\n* เน้นการฝึกปฏิบัติและสามารถนำไปประยุกต์ใช้กับงานได้\n*มีผลงาน\n\nวัตถุประสงค์: ต้องการเตรียมความพร้อมสำหรับสมัครงานตำแหน่ง Business Process Improvement (BPI) โดยเฉพาะ",
-    "title": "gbbbbbbbbb",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-16T16:12:08.592826Z",
-    "updated_at": "2026-11-16T16:12:10.145713Z",
-    "user_id": "d97e954a-7c1f-4a18-b244-49c21392f580",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-16T16:12:08.572609Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS18.6.2;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-16T17:29:50.632Z"
-  },
-  {
-    "id": "ceb42281-2f56-45bd-b8db-e5a43341f85c",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "📢 ประกาศหาผู้ให้บริการ Projection Mapping\n\nทางเรากำลังมองหาทีมงานหรือบริษัทที่ให้บริการด้าน Projection Mapping สำหรับงานอีเวนต์\n\nหากท่านใดมีประสบการณ์หรือให้บริการด้านนี้ รบกวนส่งข้อมูลเพิ่มเติม ดังนี้ครับ\n\n- Portfolio / ผลงานที่ผ่านมา\n\nสามารถส่งรายละเอียดหรือช่องทางติดต่อกลับมาได้เลยครับ\n",
-    "title": "หาด่วน!! ออกแบบทำ Projection Mapping ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-16T13:56:41.680842Z",
-    "updated_at": "2026-11-16T13:56:42.959563Z",
-    "user_id": "e142cdf6-d1be-46f4-8d8e-4750bd0f7b4a",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-16T13:56:41.633416Z",
-    "freelance_offers_count": 1,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.2.1;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "e142cdf6-d1be-46f4-8d8e-4750bd0f7b4a",
-      "username": "fourthtoto",
-      "display_name": "ระพีพัฒน์ ตุ้ยดง",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/e142cdf6-d1be-46f4-8d8e-4750bd0f7b4a/profile/362c98dd-372e-4c24-afbb-4919bd36075c.jpeg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-16T17:29:49.474Z"
-  },
-  {
-    "id": "977e74b1-33dd-425b-be0a-02ed3c23c171",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "เป็นโปรเจค AI แชทบอต มี 2 ส่วนคือ web application และ LINE interface\n\nการเทสแบ่งเป็น 2 ส่วน\n1. Functionality ต้องทำงานถูกต้อง\n2. ความถูกต้องของคำตอบจาก AI\n\nต้องการให้ฟรีแลนซ์ดูในส่วนที่ 1 คือ functionality ต่าง ๆ ต้องทำงานได้ครบถ้วน โดยเน้นไปที่ Happy case และ Basic edge case เทสเคสไม่ต้องพิศดารมากสำหรับเฟสนี้\n\nและในส่วนที่ 2 ฟรีแลนซ์ไม่ต้องรัน evaluation แต่ให้ดูในส่วนของ tools ต่าง ๆ ของ agent ว่าทำงานได้อย่างถูกต้อง",
-    "title": "Software Tester (ต้องการ ความละเอียดปานกลาง + ด่วน)",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-16T13:17:49.157362Z",
-    "updated_at": "2026-11-16T13:17:50.926846Z",
-    "user_id": "aa5d6583-a0b6-4455-b65d-491f3d883014",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-20",
-    "expired_at": "2026-12-16T13:17:49.108614Z",
-    "freelance_offers_count": 12,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-16T17:29:48.323Z"
-  },
-  {
-    "id": "a3a5b7d3-430c-411a-8b9e-f2f2f6d644c1",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "ต้องการหาคนมาช่วยทำเรื่อง stock สินค้า ตอนนี้ทำมาคร่าวๆแล้วแต่ไม่สามารถแชร์ไปให้ทีมงานใช้ได้เพราะไม่มีพรีเมียม Claude อยากได้คนที่ทำให้เป็นหน้าเว็บแทนหรือแอพก็ได้ ในใลน์หรือยังไงก็ได้",
-    "title": "หาคนทำลิ้งหน้าเว็บ Stock สินค้า",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-16T12:18:34.158265Z",
-    "updated_at": "2026-11-16T12:18:36.007455Z",
-    "user_id": "46f41e16-d40a-49a9-b740-8100c7badc9c",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-16T12:18:34.096453Z",
-    "freelance_offers_count": 13,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.2.1;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "46f41e16-d40a-49a9-b740-8100c7badc9c",
-      "username": "reallylazyboyz",
-      "display_name": "Natjapon Krungna",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/46f41e16-d40a-49a9-b740-8100c7badc9c/profile/2238aaeb-625f-4bb9-b3ab-7a0b2ce826a6.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์"
-    ],
-    "matchedAt": "2026-11-16T17:29:47.030Z"
   }
 ]
