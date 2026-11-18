@@ -194,54 +194,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-18T07:14:57.404Z"
-  },
-  {
-    "id": "8eb1d10b-e484-44b0-acbe-60db8189ba43",
-    "status": "open",
-    "tag": {
-      "id": "e8760e83-3f44-43dc-8ce1-0c5b5cab0a6f",
-      "name": "ออกแบบ UX UI",
-      "sort": 21
-    },
-    "type": "freelance",
-    "description": "จุดประสงค์ สร้างเว็บสำหรับจัดแสดงผลงานให้ดูเป็นมืออาชีพ โดดเด่น และน่าจดจำ\n\nหัวข้อย่อย สไตล์ที่ต้องการ \nดีไซน์ทันสมัย (Modern) เน้นประสบการณ์ผู้ใช้งาน (UX/UI) ที่ดี และ ต้องมีลูกเล่นการนำเสนอแบบ Interactive หรือ Animation ล้ำๆ (เช่น Scroll Effect, Parallax หรือ 3D elements)\n\nหัวข้อย่อย ขอบเขตงาน\n\nหัวข้อย่อย ออ��แบบหน้าตาเว็บไซต์และพัฒนาส่วน Front-end (รองรับ Responsive Design ทุกหน้าจอและโหลดไว)\nหัวข้อย่อย มีระบบจัดการหลังบ้าน (CMS) ง่ายๆ เพื่อให้อัปเดตและเพิ่มผลงานใหม่ได้เองในอนาคต (ถ้ามีจะพิจารณาเป็นพิเศษ)\nหัวข้อย่อย \n\n⚠️ เงื่อนไขสำคัญ: ผู้เสนอราคา \"ต้องแนบลิงก์เว็บไซต์ Portfolio ของตัวเอง\" หรือลิงก์ผลงานเว็บสไตล์ล้ำๆ ที่เคยพัฒนามาประกอบการพิจารณาด้วย (ขอพิจารณาจากสไตล์ผลงานที่แนบมาเป็นหลักครับ)\n",
-    "title": "หาฟรีแลนซ์สร้างเว็บไซต์ Portfolio ส่วนตัว (เน้น UI/UX สวยงาม มีลูกเล่น Interactive ทันสมัย)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "2000",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-17T14:58:36.291747Z",
-    "updated_at": "2026-11-17T14:58:38.497019Z",
-    "user_id": "e9c1f2ae-533e-4a14-8cbe-efc31eb7aca9",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-30",
-    "expired_at": "2026-12-17T14:58:36.274982Z",
-    "freelance_offers_count": 7,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS26.6.1;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "2000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-17T17:54:51.288Z"
   }
 ]
