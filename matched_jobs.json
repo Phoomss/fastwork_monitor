@@ -1,5 +1,103 @@
 [
   {
+    "id": "3e55f70f-6af2-43e2-9f33-2b0e62347d16",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "รับสมัครผู้ที่สนใจร่วมบันทึกเสียงเพื่อพัฒนาระบบรู้จำเสียงพูด \"เพศชาย\" อายุตั้งแต่ 18-60 ปี\n\nลักษณะงาน\n- อ่านตามสคริปต์ 400-600 ประโยค เป็นประโยคง่ายๆ เช่น นำทางไปตัวเมืองหน่อยครับ, วันอังคารนี้ฝนจะตกไหม, โทรศัพท์ของฉันแบตเหลือกี่เปอร์เซ็นต์ เป็นต้น\n- ระยะเวลาการทำงานเบื้องต้น: ประมาณ 1-2 ชั่วโมง (ทำที่บ้านได้)\n- สามารถอ่านทีละประโยคและหยุดพักได้ ไม่จำเป็นต้องอ่านทีเดียวจนครบ\n- เลือกสถานที่เงียบ ไม่มีเสียงรบกวนในการบันทึกเสียง\n- เมื่อรับงานแล้วต้องทำงานทั้งหมดให้เสร็จภายใน 72 ชั่วโมง (3 วัน)",
+    "title": "ผู้เข้าร่วมอัดเสียง \"เพศชาย\" (ประโยคภาษาไทย)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "400",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-18T03:00:40.784907Z",
+    "updated_at": "2026-11-18T03:00:42.348536Z",
+    "user_id": "6e61d166-3ed8-4bed-9962-476ee4e62535",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": null,
+    "expired_at": "2026-12-18T03:00:40.693979Z",
+    "freelance_offers_count": 8,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "6e61d166-3ed8-4bed-9962-476ee4e62535",
+      "username": "workkrubth",
+      "display_name": "Work Krub",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/6e61d166-3ed8-4bed-9962-476ee4e62535/profile/582c80ca-c38b-47b1-afe8-c6aecc68d969.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "400",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-18T07:14:58.703Z"
+  },
+  {
+    "id": "fd8f4bd9-7358-4db4-9eaf-c179c161994e",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "กำลังมองหาผู้ที่มีความรู้และประสบการณ์ในการสร้างเกม Roblox มาร่วมพัฒนาเกมแนว Simulation และ Farming\n\nรายละเอียดโปรเจกต์\n\n- ชื่อเกม: Mangosteen Farm\n- แนวเกม: จำลองชีวิตชาวสวนมังคุด\n- แพลตฟอร์ม: Roblox\n- รูปแบบการเล่น: Multiplayer\n- มุมมองเกม: Third Person\n- ขนาดแผนที่: Large Map\n- ระบบสภาพอากาศ: Dynamic Weather\n\nสิ่งที่ต้องการให้ช่วยพัฒนา\n\n1. ออกแบบและสร้างแผนที่สวนมังคุด\n2. สร้างระบบปลูกและเก็บเกี่ยวผลไม้\n3. ระบบซื้อขายและบริหารจัดการสวน\n4. ระบบเงินและร้านค้า\n5. ระบบผู้เล่นหลายคน\n6. ระบบสภาพอากาศและกลางวันกลางคืน\n\nคุณสมบัติผู้ร่วมงาน\n\n- มีประสบการณ์ใช้ Roblox Studio\n- สามารถเขียน Script ภาษา Lua\n- มีความคิดสร้างสรรค์และออกแบบเกมได้\n- สามารถให้คำแนะนำและร่วมพัฒนาเกมในระยะยาว\n\nสนใจร่วมโปรเจกต์สามารถติดต่อเพื่อพูดคุยรายละเอียดเพิ่มเติมได้",
+    "title": "หาคนช่วยสร้างแมพRoblox",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-18T01:33:30.918267Z",
+    "updated_at": "2026-11-18T01:33:32.931339Z",
+    "user_id": "ea8a58d7-ffbd-450b-8777-75535b61ed36",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-20",
+    "expired_at": "2026-12-18T01:33:30.848277Z",
+    "freelance_offers_count": 2,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android14;SM-A055F;11.16.0-6005976"
+    },
+    "require_english_speaker": true,
+    "usage_type": "business",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-18T07:14:57.404Z"
+  },
+  {
     "id": "8eb1d10b-e484-44b0-acbe-60db8189ba43",
     "status": "open",
     "tag": {
@@ -47,54 +145,5 @@
       "ออกแบบ UX UI"
     ],
     "matchedAt": "2026-11-17T17:54:51.288Z"
-  },
-  {
-    "id": "2044665d-7e8d-4f2a-b4ea-d1d39d5db7e7",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "หาคนปั้นโมเดลในmayaตามรูปมีรูปต้นฉบับเป็นเป็นงานง่ายๆ แค่สร้างห้องนอนตามรูปที่ให้ไป ต่อเป็นบล็อคminecraft",
-    "title": "ฉันหาคนปั้นmodel Maya งานเล็กๆครับ",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-16T19:08:52.485383Z",
-    "updated_at": "2026-11-16T19:08:55.229207Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": "2026-11-26",
-    "expired_at": "2026-12-16T19:08:52.447355Z",
-    "freelance_offers_count": 2,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.0.1;iPhone;11.16.0-6005976"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "3529bdb5-3580-4057-a902-a8ee00c2cacf",
-    "user_profile": {
-      "id": "3529bdb5-3580-4057-a902-a8ee00c2cacf",
-      "username": "pxterpannn",
-      "display_name": "pxterpannn",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/3529bdb5-3580-4057-a902-a8ee00c2cacf/profile/cea14743-97a8-493b-b62e-120fee260107.png"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-17T00:58:22.884Z"
   }
 ]
