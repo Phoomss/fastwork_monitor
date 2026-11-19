@@ -1,5 +1,54 @@
 [
   {
+    "id": "a6cd9925-d825-4087-bfdb-125824963a2f",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอป��ลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "เปิดรับผู้เข้าร่วมโครงการบันทึกเสียงภาษาไทย เพื่อนำข้อมูลไปพัฒนาระบบ AI คำสั่งเสียงรถยนต์\n\n📱 รายละเอียดงาน\nอ่านประโยคภาษาไทยสั้น ๆ ประมาณ 350–400 ประโยค\nบันทึกเสียงผ่านแอป ECAI บนมือถือ\nใช้เวลาทำงานประมาณ 1–1.5 ชั่วโมง\nทำจากที่บ้านได้ ขอเพียงมีมุมเงียบ ๆ สำหรับอัดเสียง\nมีแอดมินแนะนำขั้นตอนการทำงาน\n\n✅ คุณสมบัติผู้สมัคร\nเพศชาย สัญชาติไทย เติบโตในประเทศไทย\nพูดภาษาไทยชัดเจน เป็นธรรมชาติ\nมีสมาร์ตโฟนสำหรับบันทึกเสียง\nไม่เคยอัดเสียงผ่านแอป ECAI มาก่อน\n\n💰 ค่าตอบแทน 550 บาท / งาน\n🔒 ไม่มีค่าสมัคร ไม่มีค่ามัดจำ และไม่ต้องเสียค่าใช้จ่ายเพื่อเริ่มงาน",
+    "title": "คนอัดเสียงเพื่อพัฒนาระบบสั่งงานด้วยเสียงในรถยนต์ (ใช้โทรศัพท์ เน้นห้องต้องเงียบสนิท ไม่ต้องเป็นนักพากย์)",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "550",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-19T03:02:24.231142Z",
+    "updated_at": "2026-11-19T03:02:26.131330Z",
+    "user_id": "d44db32e-5043-490a-85f3-4ac2d23a7401",
+    "already_offered": false,
+    "brief_url": "https://canva.link/pwcr6sjojqeqlyb",
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-12-10",
+    "expired_at": "2026-12-19T03:02:24.179916Z",
+    "freelance_offers_count": 1,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d44db32e-5043-490a-85f3-4ac2d23a7401",
+      "username": "aonkpdata04",
+      "display_name": "AONKP DATA 04",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/d44db32e-5043-490a-85f3-4ac2d23a7401/profile/2b9ee21c-b0fb-4baf-931a-98550fa7a68c.webp"
+    },
+    "freelance_offers": null,
+    "budget_2": "550",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-19T03:59:29.633Z"
+  },
+  {
     "id": "b03db288-097e-4626-ade6-ae205fc7be5f",
     "status": "open",
     "tag": {
