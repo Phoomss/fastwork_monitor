@@ -1,9 +1,5 @@
 [
-  "[2026-11-19T12:33:47.053Z]     Notification sent successfully.",
-  "[2026-11-19T12:33:46.170Z]   FOUND NEW TARGET JOB: ผู้ร่วมโครงการพัฒนา AI บันทึกเสียงผ่านมือถือ ค่าตอบแทน 550 – 1,000 บาท (Cats: พัฒนาเว็บไซต์) (Budget: 1000 THB)",
-  "[2026-11-19T12:33:45.168Z]     Notification sent successfully.",
-  "[2026-11-19T12:33:44.962Z]   FOUND NEW TARGET JOB: หาคนช่วยสอนใช้ proxy กับเเอพ x (Cats: พัฒนาเว็บไซต์) (Budget: 0 THB)",
-  "[2026-11-19T12:33:43.876Z] Checking Fastwork for new job posts...",
-  "[2026-11-19T12:33:43.876Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-19T12:33:43.874Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-19T20:55:12.111Z] Checking Fastwork for new job posts...",
+  "[2026-11-19T20:55:12.111Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-11-19T20:55:12.109Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
 ]
