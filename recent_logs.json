@@ -1,5 +1,8 @@
 [
-  "[2026-11-19T20:55:12.111Z] Checking Fastwork for new job posts...",
-  "[2026-11-19T20:55:12.111Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-19T20:55:12.109Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-20T01:56:33.568Z]     Notification sent successfully.",
+  "[2026-11-20T01:56:32.964Z]   FOUND NEW TARGET JOB: หาคนพัฒนาเครื่องชั่งอัจฉริยะ (Smart Scale) ด้วย ESP32 และ Sensor (Cats: พัฒนาเว็บไซต์) (Budget: 999 THB)",
+  "[2026-11-20T01:56:31.963Z]     Notification sent successfully.",
+  "[2026-11-20T01:56:31.753Z]   FOUND NEW TARGET JOB: หาคนช่วยสอนทำ เวป Wix (Cats: พัฒนาเว็บไซต์) (Budget: 1500 THB)",
+  "[2026-11-20T01:56:31.226Z] Checking Fastwork for new job posts...",
+  "[2026-11-20T01:56:31.224Z] Auto-cleanup: Removed 20 seen job tracking IDs older than 1 day(s)."
 ]
