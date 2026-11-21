@@ -1,7 +1,5 @@
 [
-  "[2026-11-21T12:34:46.814Z]     Notification sent successfully.",
-  "[2026-11-21T12:34:46.381Z]   FOUND NEW TARGET JOB: Event Staff ด้าน IT หรือ มี ปสก กับจอ Kiosk (Cats: พัฒนาแอปพลิเคชัน) (Budget: 1500 THB)",
-  "[2026-11-21T12:34:45.356Z] Checking Fastwork for new job posts...",
-  "[2026-11-21T12:34:45.356Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
-  "[2026-11-21T12:34:45.354Z] Auto-cleanup: Removed 2 matched jobs older than 1 day(s)."
+  "[2026-11-21T19:43:14.528Z] Checking Fastwork for new job posts...",
+  "[2026-11-21T19:43:14.528Z] Auto-cleanup: Removed 50 seen job tracking IDs older than 1 day(s).",
+  "[2026-11-21T19:43:14.526Z] Auto-cleanup: Removed 3 matched jobs older than 1 day(s)."
 ]
