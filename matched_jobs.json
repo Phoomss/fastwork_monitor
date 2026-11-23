@@ -1,5 +1,54 @@
 [
   {
+    "id": "de2cf8d4-9c4c-4220-92fd-b68d296699dc",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "หาคนใส่ข้อมูลเพิ่มเติมในเว็ปบริษัท\n1. มีเว็บไซต์อยู่แล้ว ต้องการเพิ่มข้อมูลผลิตภัณฑ์เพิ่มเติม\n\nระยะเวลา 5 วัน  หลังจากที่ตกลงกัน",
+    "title": "ทำเว็ปไซต์บริษัท",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "5000",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-23T11:03:24.963628Z",
+    "updated_at": "2026-11-23T11:03:27.268645Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-30",
+    "expired_at": "2026-12-23T11:03:24.902325Z",
+    "freelance_offers_count": 15,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS26.6.2;iPhone;11.17.0-6005985"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "8c69737b-f657-4565-b517-ba303600fd3f",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "5000",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-23T19:55:41.080Z"
+  },
+  {
     "id": "133fc17f-87b9-42d1-82d8-2570d9d62204",
     "status": "open",
     "tag": {
@@ -47,104 +96,5 @@
       "พัฒนาเว็บไซต์"
     ],
     "matchedAt": "2026-11-23T07:59:50.594Z"
-  },
-  {
-    "id": "7a5b5e91-93df-4d27-b57b-9026011efd4e",
-    "status": "open",
-    "tag": {
-      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
-      "name": "กราฟิกดีไซน์",
-      "sort": 7
-    },
-    "type": "freelance",
-    "description": "ต้องการฮีโร่ 🔥เข้ามาช่วยออกแบบการ์ดของบอร์ดเกมที่กำลังทำอยู่ค่ะ มีบรีฟกับตัวอย่างที่ต้องการให้ค่ะ งานออกแบบที่ต้องการขอเน้นการจัดวางองค์ประกอบ ux ui กับไอคอนค่ะ",
-    "title": "ออดแบบการ์ดเกม",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "1000",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-22T15:07:45.312151Z",
-    "updated_at": "2026-11-22T15:07:46.477527Z",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": null,
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-22T15:07:45.292844Z",
-    "freelance_offers_count": 8,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.2.1;iPhone;11.17.0-6005985"
-    },
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_id": "90776b89-ced1-4ead-8366-c93ec598be7d",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "1000",
-    "matchedCategories": [
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-22T19:50:42.420Z"
-  },
-  {
-    "id": "0fc19556-750b-461c-b73d-c857da10b54f",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "\nพอดีทีมเรากำลังพัฒนาเว็บไซต์รวบรวมประกาศซื้อ-ขาย-เช่าอสังหาฯ ตัวใหม่ (Moniter Asia) เลยอยากหาคนในวงการอสังหาฯ ตัวจร��ง มาช่วยลองกดใช้งานและคอมเมนต์ฟีดแบคให้หน่อยครับ ว่าใช้งานจริงเป็นยังไง ติดตรงไหน หรืออยากได้ฟีเจอร์อะไรเพิ่มบ้าง เพื่อเอาไปปรับปรุงระบบต่อครับ\nสิ่งที่ต้องทำ (ใช้เวลาประมาณ 15–20 นาที):\n1. กดเข้าลิงก์ทดลองใช้งานเว็บไซต์ (เปิดผ่านคอมหรือมือถือได้เลย ไม่ต้องโหลดแอป)\n2. ลองเล่นฟีเจอร์ต่างๆ เช่น ค้นหาทรัพย์ เช็กข้อมูลประกาศ พร้อม แคปหน้าจอตอนใช้งานส่งมาให้ดูในแชท \n3. กรอกแบบสอบถามประเมินความพึงพอใจ (ขอคอมเมนต์ตามจริง ทั้งข้อดีและจุดที่อยากให้แก้ครับ)\nคุณสมบัติผู้สมัคร (ขอคนในวงการจริ���นะครับ):\n* เป็น Real Estate Agent, นายหน้าอิสระ, Broker หรือทำงานในบริษัทอสังหาฯ (ฝ่ายขาย / การตลาด / แอดมิน)\n* สามารถบอกฟีดแบคจากมุมมองคนทำงานจริงได้ (ไม่รับตอบส่งๆ หรือก๊อปปี้ข้อความวางนะครับ)\nรูปแบบงานและค่าตอบแทน:\n* ค่าตอบแทน: [100บาท / ท่าน (ตรวจงานเสร็จโอนให้ทันที)\n* ทำงานออนไลน์ 100% ทำเวลาไหนก็ได้ภายใน 24 ชม. หลังรับลิงก์\n* รับจำนวนจำกัด 30 ท่าน (ครบแล้วปิดรับทันที)\nวิธีสมัคร: ทักแชทมาได้เลยครับ รบกวนส่ง ชื่อบริษัท/เพจ หรือลิงก์ประกาศขาย-เช่าที่เคยลงไว้ มาให้ดูนิดนึงเพื่อยืนยันว่าทำงานสายอสังหาฯ จริง ถ้าผ่านเกณฑ์ผมส่งลิงก์เว็บให้เริ่มงานได้เลยครับ\n",
-    "title": "หานายหน้า / เอเจนซี่อสังหาฯ ทดลองใช้เว็บใหม่ + ให้ Feedback (รับ 30 ท่าน / งานออนไลน์ 15-20 นาที)",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-22T12:18:46.179229Z",
-    "updated_at": "2026-11-22T12:18:47.982233Z",
-    "user_id": "440eef71-e72a-4d25-b7a1-130de327ddfb",
-    "already_offered": false,
-    "brief_url": null,
-    "business_type": "notspecified",
-    "company_display_name": null,
-    "company_image_url": null,
-    "deadline_at": null,
-    "expired_at": "2026-12-22T12:18:46.125446Z",
-    "freelance_offers_count": 0,
-    "is_fastwork_pick": false,
-    "is_official": false,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "iOS27.2.1;iPhone;11.17.0-6005985"
-    },
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "440eef71-e72a-4d25-b7a1-130de327ddfb",
-      "username": "sarinalyn",
-      "display_name": "Sarinalyn",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-22T12:21:32.886Z"
   }
 ]
