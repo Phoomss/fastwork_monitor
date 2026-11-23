@@ -1,5 +1,54 @@
 [
   {
+    "id": "133fc17f-87b9-42d1-82d8-2570d9d62204",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "part-time",
+    "description": "รายละเ��ียดงาน\nเรากำลังเปิดรับ Freelance ที่ทำงานในวงการอสังหาริมทรัพย์ เช่น Real Estate Agent, Broker หรือผู้ที่ทำงานเกี่ยวกับการซื้อ ขาย และเช่าอสังหาริมทรัพย์ เพื่อเข้าร่วมทดลองใช้งานแพลตฟอร์มเว็บไซต์อสังหาริมทรัพย์ของเรา\n\nสิ่งที่ต้องทำ\n\n* ทดลองใช้งานเว็บไซต์และฟังก์ชันต่าง ๆ\n* แสดงความคิดเห็นเกี่ยวกับการใช้งานเว็บไซต์\n* ตอบแบบสอบถามเกี่ยวกับประสบการณ์ใช้งาน\n* ให้ข้อเสนอแนะเกี่ยวกับข้อดี ข้อเสีย และสิ่งที่ควรปรับปรุง\n\nคุณสมบัติผู้สมัคร\n\n* มีประสบการณ์ทำงานเป็น Real Estate Agent, Broker หรือทำงานในบริษัทอสังหาริมทร��พย์\n* สามารถให้ความคิดเห็นจากประสบการณ์การทำงานจริงได้\n* ใช้เวลาในการทดสอบและตอบแบบสอบถามประมาณ 15–30 นาที\n\nรูปแบบงาน\n\n* Freelance / Remote\n* ทำงานออนไลน์\n* รับค่าตอบแทนหลังทำงานเสร็จ\n\nผู้ที่สนใจสามารถส่งรายละเอียดเกี่ยวกับประสบการณ์ทำงานด้านอสังหาริมทรัพย์เพื่อสมัครงานได้เลย",
+    "title": "น: รับ Freelance สายอสังหาริมทรัพย์ ทดลองใช้งานเว็บไซต์และให้ Feedback",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-23T07:53:01.416786Z",
+    "updated_at": "2026-11-23T07:53:02.953084Z",
+    "already_offered": false,
+    "brief_url": null,
+    "business_type": "notspecified",
+    "company_display_name": null,
+    "company_image_url": null,
+    "deadline_at": "2026-11-26",
+    "expired_at": "2026-12-23T07:53:01.273054Z",
+    "freelance_offers_count": 0,
+    "is_fastwork_pick": false,
+    "is_official": false,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.2.1;iPhone;11.17.0-6005985"
+    },
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_id": "ed1d8e35-fea7-44f4-835b-5e305423e7ac",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-23T07:59:50.594Z"
+  },
+  {
     "id": "7a5b5e91-93df-4d27-b57b-9026011efd4e",
     "status": "open",
     "tag": {
