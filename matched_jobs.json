@@ -1,5 +1,103 @@
 [
   {
+    "id": "61c0ce47-f9dd-4a38-9a65-1bb069812c87",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "กำลังมองหา Technical Partner มาร่วมพัฒนาและสร้างธุรกิจแพลตฟอร์ม Marketplace สำหรับวงการการ์ดสะสม โดยมีคอนเซปต์ แผนธุรกิจ และระบบบางส่วนที่พัฒนาไว้แล้ว\n\nต้องการคนที่สนใจสร้างธุรกิจร่วมกันในระยะยาว ไม่ใช่เพียงรับจ้างพัฒนาเว็บไซต์แล้วจบงาน\n\nหน้าที่รับผิดชอบ\n\n* พัฒนาและดูแลระบบเว็บไซต์\n* วางโครงสร้างระบบให้รองรับการเติบโตของธุรกิจ\n* พัฒนาฟีเจอร์ใหม่และปรับปรุงระบบ\n* ร่วมเสนอไอเดียและวางแผนพัฒนาธุรกิจ\n\nคุณสมบัติ\n\n* มีความรู้ด้าน Full-stack Development\n* สามารถใช้งาน React, Supabase, Vercel และ GitHub\n* สามารถใช้ AI Tools ช่วยในการพัฒนาได้\n* มีความสนใจในการสร้าง Startup หรือธุรกิจของตัวเอง\n* หากอยู่ในวงการการ์ดสะสมจะพิจารณาเป็นพิเศษ\n\nรูปแบบการร่วมงาน\n\n* ร่วมงานในฐานะ Business Partner\n* มีโอกาสได้รับส่วนแบ่งรายได้หรือสัดส่วนความเป็นเจ้าของธุรกิจ ตามข้อตกลงร่วมกัน\n* ทำงานยืดหยุ่น ไม่จำกัดสถานที่\n\nยินดีพูดคุยกับนักศึกษาหรือคนรุ่นใหม่ที่มีความสามารถและอยากสร้างธุรกิจไปด้วยกัน",
+    "title": "กำลังมองหา Technical Partner มาร่วมพัฒนาและสร้างธุรกิจแพ���ตฟอร์ม Marketplace สำหรับวงการการ์ดสะสม",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-25T05:09:59.553170Z",
+    "updated_at": "2026-11-25T05:10:01.472743Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.2.1;iPhone;11.18.0-6005992"
+    },
+    "user_id": "f45466df-3a04-423b-8b77-d89ec94ce7f8",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-25T05:09:59.505179Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "f45466df-3a04-423b-8b77-d89ec94ce7f8",
+      "username": "paparm",
+      "display_name": "Panas",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f45466df-3a04-423b-8b77-d89ec94ce7f8/profile/f4506644-6d78-467e-970d-4608bff522d3.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-25T05:42:34.816Z"
+  },
+  {
+    "id": "3497bf52-6118-4015-b6b9-f5e74ff199bf",
+    "status": "open",
+    "tag": {
+      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
+      "name": "การตลาด",
+      "sort": 4
+    },
+    "type": "freelance",
+    "description": "ทางโรงแรม Zen Essence Khao Yai กำลังมองหาบริษัทหรือเอเจนซี่ที่มีความเชี่ยวชาญในการออกแบบ ติดตั้ง และบริหารระบบ **AI Chatbot & Automated Customer Messaging** สำหรับธุรกิจโรงแรม\n\n**1. ช่องทางที่ต้องการเชื่อมต่อ (Communication Channels)**\n\n**ช่องทางหลัก**\n- Facebook Messenger (Inbox)\n- LINE Official Account (LINE OA)\n\n**ช่องทางเพิ่มเติมที่ต้องการพิจารณา**\n- Instagram Direct Message\n- WhatsApp Business\n- Website Live Chat\n- Google Business Profile (ช่องทางสื่อสารที่ระบบรองรับ)\n\n**2. ขอบเขตการให้บริการ (Scope of Work)**\n\n- ระบบ AI ตอบคำถามลูกค้าอัตโนมัติภาษาไทยและภาษาอังกฤษตลอด 24 ชั่วโมง\n- ตอบคำถามเกี่ยวกับห้องพัก ราคา โปรโมชั่น และบริการของโรงแรม\n- ระบ���รวมข้อความจากหลายแพลตฟอร์มไว้ในหน้า Dashboard เดียว\n- ระบบส่งต่อบทสนทนาให้เจ้าหน้าที่ (Human Handover)\n- รองรับการเชื่อมต่อระบบจองห้องพักและข้อมูลราคาแบบ Dynamic Rate ในอนาคต\n- ระบบจัดเก็บข้อมูลลูกค้าและประวัติการสนทนา\n- Dashboard และรายงานประสิทธิภาพการตอบแชต\n\n**3. สิ่งที่ต้องการให้บริษัทนำเสนอ (Proposal Requirements)**\n\n- Company Profile และผลงานที่ผ่านมา\n- รายละเอียดระบบและฟังก์ชันที่รองรับ\n- ค่าใช้จ่ายในการติดตั้งระบบ (One-Time Setup Fee)\n- ค่าบริการรายเดือนหรือรายปี (Subscription Fee)\n- ค่าใช้จ่ายเพิ่มเติม เช่น AI Usage, API และ Messaging Fees\n- ระยะเวลาดำเนินการติดตั้ง\n- การฝึกอบรมทีมงานและบริการหลังการขาย\n- ตัวอย่างระบบหรือ Demo สำหรับทดลองใช้งาน\n\n**4. Quotation Options**\n\nขอให้เสนอราคาแยกเป็น 2 ทางเลือก\n\n**Option A — Essential Package**  \nFacebook Messenger + LINE OA\n\n**Option B — Full Omnichannel Package**  \nFacebook Messenger + LINE OA + Instagram + WhatsApp Business + Website Live Chat และช่องทางอื่นที่รองรับ\n\nบริษัทที่มีประสบการณ์พัฒนาระบบสำหรับธุรกิจโรงแรมหรือ Hospitality จะได้รับการพิจารณาเป็นพิเศษ\n\nทางโรงแรมยินดีรับข้อเสนอและใบเสนอราคาจากบริษัทที่มีความเชี่ยวชาญ เพื่อพิจารณาเลือกโซลูชันที่เหมาะสมที่สุด\n\n**ZEN ESSENCE KHAO YAI**  \nWhere Calm Meets Energy.",
+    "title": "**LOOKING FOR AI CHATBOT & OMNICHANNEL AUTOMATION SOLUTIONS**",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "10000",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-25T03:08:40.418362Z",
+    "updated_at": "2026-11-25T03:08:42.688786Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
+    },
+    "user_id": "b0f618a7-6be3-4458-b8e8-23b14c56f60a",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-25T03:08:40.291297Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "b0f618a7-6be3-4458-b8e8-23b14c56f60a",
+      "username": "yamcha",
+      "display_name": "yamcha",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b0f618a7-6be3-4458-b8e8-23b14c56f60a/profile/4773cc9d-e0f1-4555-b8f9-16d16bb32ec3.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "10000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-25T05:42:32.733Z"
+  },
+  {
     "id": "c052a986-be6e-4d46-8b64-3a385ec3781a",
     "status": "open",
     "tag": {
