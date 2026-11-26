@@ -1,33 +1,131 @@
 [
   {
-    "id": "61c0ce47-f9dd-4a38-9a65-1bb069812c87",
+    "id": "2f6ecdb9-99fb-445b-b39c-f2bc3e8ddc81",
     "status": "open",
     "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
     },
     "type": "freelance",
-    "description": "กำลังมองหา Technical Partner มาร่วมพัฒนาและสร้างธุรกิจแพลตฟอร์ม Marketplace สำหรับวงการการ์ดสะสม โดยมีคอนเซปต์ แผนธุรกิจ และระบบบางส่วนที่พัฒนาไว้แล้ว\n\nต้องการคนที่สนใจสร้างธุรกิจร่วมกันในระยะยาว ไม่ใช่เพียงรับจ้างพัฒนาเว็บไซต์แล้วจบงาน\n\nหน้าที่รับผิดชอบ\n\n* พัฒนาและดูแลระบบเว็บไซต์\n* วางโครงสร้างระบบให้รองรับการเติบโตของธุรกิจ\n* พัฒนาฟีเจอร์ใหม่และปรับปรุงระบบ\n* ร่วมเสนอไอเดียและวางแผนพัฒนาธุรกิจ\n\nคุณสมบัติ\n\n* มีความรู้ด้าน Full-stack Development\n* สามารถใช้งาน React, Supabase, Vercel และ GitHub\n* สามารถใช้ AI Tools ช่วยในการพัฒนาได้\n* มีความสนใจในการสร้าง Startup หรือธุรกิจของตัวเอง\n* หากอยู่ในวงการการ์ดสะสมจะพิจารณาเป็นพิเศษ\n\nรูปแบบการร่วมงาน\n\n* ร่วมงานในฐานะ Business Partner\n* มีโอกาสได้รับส่วนแบ่งรายได้หรือสัดส่วนความเป็นเจ้าของธุรกิจ ตามข้อตกลงร่วมกัน\n* ทำงานยืดหยุ่น ไม่จำกัดสถานที่\n\nยินดีพูดคุยกับนักศึกษาหรือคนรุ่นใหม่ที่มีความสามารถและอยากสร้างธุรกิจไปด้วยกัน",
-    "title": "กำลังมองหา Technical Partner มาร่วมพัฒนาและสร้างธุรกิจแพ���ตฟอร์ม Marketplace สำหรับวงการการ์ดสะสม",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
     "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
+    "source": "jobboard_app_me-job_floating-button",
     "files": [],
     "kind": "standard",
-    "budget": "0",
+    "budget": "100",
     "is_anonymous": false,
-    "inserted_at": "2026-11-25T05:09:59.553170Z",
-    "updated_at": "2026-11-25T05:10:01.472743Z",
+    "inserted_at": "2026-11-26T07:58:28.305343Z",
+    "updated_at": "2026-11-26T07:58:29.196981Z",
     "brief_url": null,
     "processed_user_agent": {
       "isMobile": true,
-      "source": "iOS27.2.1;iPhone;11.18.0-6005992"
+      "source": "Android17;SM-A576B;11.18.0-6005992"
     },
-    "user_id": "f45466df-3a04-423b-8b77-d89ec94ce7f8",
+    "user_id": "38cadee5-5ccf-4b62-af3c-24ce18a48e29",
     "is_fastwork_pick": false,
     "company_display_name": null,
     "company_image_url": null,
-    "expired_at": "2026-12-25T05:09:59.505179Z",
+    "expired_at": "2026-12-26T07:58:28.260121Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "38cadee5-5ccf-4b62-af3c-24ce18a48e29",
+      "username": "3fe73ull",
+      "display_name": "อารยา",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:35.983Z"
+  },
+  {
+    "id": "1d168466-5121-49d1-bffb-d13db3f8f097",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือ��ือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-26T07:58:04.458780Z",
+    "updated_at": "2026-11-26T07:58:05.920520Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android17;SM-A576B;11.18.0-6005992"
+    },
+    "user_id": "38cadee5-5ccf-4b62-af3c-24ce18a48e29",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:58:04.431141Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "38cadee5-5ccf-4b62-af3c-24ce18a48e29",
+      "username": "3fe73ull",
+      "display_name": "อารยา",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:34.713Z"
+  },
+  {
+    "id": "9787a36b-8244-48a1-917d-7115b2c10a63",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "\nราย��ะเอียดงาน:\nต้องการหาฟรีแลนซ์ที่มีประสบการณ์พัฒนา Web Application สำหรับใช้งานภายในองค์กร เพื่อพัฒนาระบบคำนวณต้นทุนและประเมินราคางานพิมพ์ พร้อมระบบจัดการสูตรคำนวณที่ผู้ดูแลสามารถเพิ่ม แก้ไข และปรับเปลี่ยนสูตรได้เองผ่านหน้า Admin โดยไม่ต้องแก้ไข Source Code\n\nขอบเขตงานหลัก:\n\n1. ระบบจัดการข้อมูลกระดาษ วัสดุ เครื่องพิมพ์ และงานหลังพิมพ์\n2. ระบบนำเข้าข้อมูลจาก Excel\n3. ระบบคำนวณต้นทุนและราคาขายตามประเภทงานพิมพ์\n4. ระบบจัดการสูตรคำนวณแบบ Dynamic Formula Engine\n5. ระบบจัดการผู้ใช้งานและกำหนดสิทธิ์\n6. ระบบสร้างใบประเมินราคา��ละใบเสนอราคา พร้อมส่งออก PDF\n7. ระบบจัดเก็บประวัติและตรวจสอบข้อมูลย้อนหลัง\n\nคุณสมบัติที่ต้องการ:\n\n* มีประสบการณ์พัฒนา Web Application แบบ Full-stack\n* มีความรู้ด้าน Database Design และ API Development\n* มีประสบการณ์พัฒนาระบบคำนวณหรือระบบ Business Logic\n* หากเคยพัฒนาระบบ ERP, Accounting หรือระบบจัดการต้นทุน จะได้รับการพิจารณาเป็นพิเศษ\n* สามารถอธิบายแนวทางการพัฒนาและสื่อสารกับทีมงานได้\n\nสิ่งที่ต้องการให้เสนอ:\n\n1. Portfolio หรือผลงานที่เกี่ยวข้อง\n2. แนวทางการออกแบบระบบและ Tech Stack ที่แนะนำ\n3. รายละเอียด Scope of Work\n4. ราคาประเมินแยกตามฟีเจอร์หรือ Phase\n5. ระยะเวลาพัฒน��และแผนการส่งมอบ\n6. เงื่อนไขการชำระเงิน\n7. รายละเอียด Source Code และเอกสารที่จะส่งมอบ\n\nหมายเหตุ:\nเปิดรับข้อเสนอด้านราคาและระยะเวลา โดยให้ความสำคัญกับความสามารถในการออกแบบระบบที่ยืดหยุ่น ดูแลต่อได้ง่าย และรองรับการเพิ่มเติมสูตรคำนวณในอนาคต",
+    "title": "[Freelance Dev] รับสมัคร Full-stack Developer พัฒนา Web Application ระบบคำนวณต้นทุนและออกใบเสนอราคางานพิมพ์",
+    "is_owner": false,
+    "source": "jobboard_web_seller-center_top-nav-bar",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-26T07:56:22.660449Z",
+    "updated_at": "2026-11-26T07:56:24.398081Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.2.1 Mobile/15E148 Safari/604.1 Brave"
+    },
+    "user_id": "8afc6c71-099d-4f62-8a97-8ef20915b44e",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:56:22.607507Z",
     "already_offered": false,
     "business_type": "notspecified",
     "deadline_at": null,
@@ -36,65 +134,262 @@
     "require_english_speaker": false,
     "usage_type": "business",
     "user_profile": {
-      "id": "f45466df-3a04-423b-8b77-d89ec94ce7f8",
-      "username": "paparm",
-      "display_name": "Panas",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/f45466df-3a04-423b-8b77-d89ec94ce7f8/profile/f4506644-6d78-467e-970d-4608bff522d3.jpg"
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
     },
     "freelance_offers": null,
     "budget_2": null,
     "matchedCategories": [
-      "พัฒนาเว็บไซต์"
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
     ],
-    "matchedAt": "2026-11-25T05:42:34.816Z"
+    "matchedAt": "2026-11-26T08:10:33.558Z"
   },
   {
-    "id": "3497bf52-6118-4015-b6b9-f5e74ff199bf",
+    "id": "39c1ec51-9ad7-4d7b-8516-66433f9a0829",
     "status": "open",
     "tag": {
-      "id": "cedd5edf-03fa-40d4-9266-39af6992dc7b",
-      "name": "การตลาด",
-      "sort": 4
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "part-time",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-26T07:55:31.717607Z",
+    "updated_at": "2026-11-26T07:55:32.794691Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2603;11.18.0-6005992"
+    },
+    "user_id": "c135283f-19d5-41c3-afdc-a362a19785dd",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:55:31.701491Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 2,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "c135283f-19d5-41c3-afdc-a362a19785dd",
+      "username": "vbutlx9g",
+      "display_name": "vbutlx9g",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:32.383Z"
+  },
+  {
+    "id": "23801865-e14b-4f79-9e98-48aac732b6ac",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
     },
     "type": "freelance",
-    "description": "ทางโรงแรม Zen Essence Khao Yai กำลังมองหาบริษัทหรือเอเจนซี่ที่มีความเชี่ยวชาญในการออกแบบ ติดตั้ง และบริหารระบบ **AI Chatbot & Automated Customer Messaging** สำหรับธุรกิจโรงแรม\n\n**1. ช่องทางที่ต้องการเชื่อมต่อ (Communication Channels)**\n\n**ช่องทางหลัก**\n- Facebook Messenger (Inbox)\n- LINE Official Account (LINE OA)\n\n**ช่องทางเพิ่มเติมที่ต้องการพิจารณา**\n- Instagram Direct Message\n- WhatsApp Business\n- Website Live Chat\n- Google Business Profile (ช่องทางสื่อสารที่ระบบรองรับ)\n\n**2. ขอบเขตการให้บริการ (Scope of Work)**\n\n- ระบบ AI ตอบคำถามลูกค้าอัตโนมัติภาษาไทยและภาษาอังกฤษตลอด 24 ชั่วโมง\n- ตอบคำถามเกี่ยวกับห้องพัก ราคา โปรโมชั่น และบริการของโรงแรม\n- ระบ���รวมข้อความจากหลายแพลตฟอร์มไว้ในหน้า Dashboard เดียว\n- ระบบส่งต่อบทสนทนาให้เจ้าหน้าที่ (Human Handover)\n- รองรับการเชื่อมต่อระบบจองห้องพักและข้อมูลราคาแบบ Dynamic Rate ในอนาคต\n- ระบบจัดเก็บข้อมูลลูกค้าและประวัติการสนทนา\n- Dashboard และรายงานประสิทธิภาพการตอบแชต\n\n**3. สิ่งที่ต้องการให้บริษัทนำเสนอ (Proposal Requirements)**\n\n- Company Profile และผลงานที่ผ่านมา\n- รายละเอียดระบบและฟังก์ชันที่รองรับ\n- ค่าใช้จ่ายในการติดตั้งระบบ (One-Time Setup Fee)\n- ค่าบริการรายเดือนหรือรายปี (Subscription Fee)\n- ค่าใช้จ่ายเพิ่มเติม เช่น AI Usage, API และ Messaging Fees\n- ระยะเวลาดำเนินการติดตั้ง\n- การฝึกอบรมทีมงานและบริการหลังการขาย\n- ตัวอย่างระบบหรือ Demo สำหรับทดลองใช้งาน\n\n**4. Quotation Options**\n\nขอให้เสนอราคาแยกเป็น 2 ทางเลือก\n\n**Option A — Essential Package**  \nFacebook Messenger + LINE OA\n\n**Option B — Full Omnichannel Package**  \nFacebook Messenger + LINE OA + Instagram + WhatsApp Business + Website Live Chat และช่องทางอื่นที่รองรับ\n\nบริษัทที่มีประสบการณ์พัฒนาระบบสำหรับธุรกิจโรงแรมหรือ Hospitality จะได้รับการพิจารณาเป็นพิเศษ\n\nทางโรงแรมยินดีรับข้อเสนอและใบเสนอราคาจากบริษัทที่มีความเชี่ยวชาญ เพื่อพิจารณาเลือกโซลูชันที่เหมาะสมที่สุด\n\n**ZEN ESSENCE KHAO YAI**  \nWhere Calm Meets Energy.",
-    "title": "**LOOKING FOR AI CHATBOT & OMNICHANNEL AUTOMATION SOLUTIONS**",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-26T07:53:30.488849Z",
+    "updated_at": "2026-11-26T07:53:32.503952Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android16;CPH2603;11.18.0-6005992"
+    },
+    "user_id": "c135283f-19d5-41c3-afdc-a362a19785dd",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:53:30.473085Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 1,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "c135283f-19d5-41c3-afdc-a362a19785dd",
+      "username": "vbutlx9g",
+      "display_name": "vbutlx9g",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:31.172Z"
+  },
+  {
+    "id": "817708ff-a8c2-4d5a-bdc9-9b532dfb4553",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-26T07:23:48.237143Z",
+    "updated_at": "2026-11-26T07:23:49.945326Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android17;SM-A576B;11.18.0-6005992"
+    },
+    "user_id": "c2d46bae-09ca-488c-97dc-523bcab6a1ca",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:23:48.213814Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 14,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "c2d46bae-09ca-488c-97dc-523bcab6a1ca",
+      "username": "z916rpq0",
+      "display_name": "อารยา",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:28.100Z"
+  },
+  {
+    "id": "325fac40-a722-4ac7-91d7-e89bc6809f20",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
+    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
+    "is_owner": false,
+    "source": "jobboard_app_me-job_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "100",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-26T07:19:46.632523Z",
+    "updated_at": "2026-11-26T07:19:48.267717Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android17;SM-A576B;11.18.0-6005992"
+    },
+    "user_id": "c2d46bae-09ca-488c-97dc-523bcab6a1ca",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-26T07:19:46.617249Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2026-11-26",
+    "freelance_offers_count": 7,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "c2d46bae-09ca-488c-97dc-523bcab6a1ca",
+      "username": "z916rpq0",
+      "display_name": "อารยา",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "100",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-26T08:10:26.928Z"
+  },
+  {
+    "id": "7012f82f-b6ea-483c-8cd5-4f81f7ec7947",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "full-time",
+    "description": "หน้าที่และความรับผิดชอบ\n- คัดเลือกใบสมัคร ตามความต้องการของลูกค้า เช่น ตำแหน่ง C# .Net Programmer, Software Tester, IT Support, System Engineer\n- บันทึกข้อมูลการคัดเลือกพนักงานลงระบบบริษัท\n- สัมภาษณ์ผู้สมัคร, ทำ CV และติดตามผลสัมภาษณ์\n- ลงประกาศรับสมัครงานใน Facebook และอัพเดตตำแหน่งงานใน Web Job\n- ดูแลสวัสดิการพนักงาน และเอกสารพนักงาน\n- ดูแลพนักงานเริ่มงานใหม่และเก็บรวบรวม Time Report ทุกสิ้นเดือน\n\n* ปฏิบัติงานที่อาคารพี.บี.ทาวเวอร์ ถ.สุขุมวิท 71 แขวงคลองตันเหนือ เขตวัฒนา BTS พระโขนงและ ARL รามคำแหง *",
+    "title": "Recruiter ประจำสำนักงานถนนสุขุมวิท 71",
     "is_owner": false,
     "source": "jobboard_web",
     "files": [],
     "kind": "standard",
-    "budget": "10000",
+    "budget": "23000",
     "is_anonymous": false,
-    "inserted_at": "2026-11-25T03:08:40.418362Z",
-    "updated_at": "2026-11-25T03:08:42.688786Z",
+    "inserted_at": "2026-11-26T05:03:47.369003Z",
+    "updated_at": "2026-11-26T05:03:49.106076Z",
     "brief_url": null,
     "processed_user_agent": {
       "isMobile": false,
       "source": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
     },
-    "user_id": "b0f618a7-6be3-4458-b8e8-23b14c56f60a",
+    "user_id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
     "is_fastwork_pick": false,
     "company_display_name": null,
     "company_image_url": null,
-    "expired_at": "2026-12-25T03:08:40.291297Z",
+    "expired_at": "2026-12-26T05:03:47.322101Z",
     "already_offered": false,
     "business_type": "notspecified",
     "deadline_at": null,
-    "freelance_offers_count": 3,
+    "freelance_offers_count": 0,
     "is_official": false,
     "require_english_speaker": false,
     "usage_type": "business",
     "user_profile": {
-      "id": "b0f618a7-6be3-4458-b8e8-23b14c56f60a",
-      "username": "yamcha",
-      "display_name": "yamcha",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/b0f618a7-6be3-4458-b8e8-23b14c56f60a/profile/4773cc9d-e0f1-4555-b8f9-16d16bb32ec3.jpg"
+      "id": "fc8eff43-ebdd-4aa6-894f-70395c409132",
+      "username": "psp2005",
+      "display_name": "Professional Service Provider",
+      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/fc8eff43-ebdd-4aa6-894f-70395c409132/profile/c8312539-b70a-4fb3-a21e-4625e45b81e9.jpg"
     },
     "freelance_offers": null,
-    "budget_2": "10000",
+    "budget_2": "23000",
     "matchedCategories": [
       "พัฒนาเว็บไซต์"
     ],
-    "matchedAt": "2026-11-25T05:42:32.733Z"
+    "matchedAt": "2026-11-26T08:10:25.629Z"
   }
 ]
