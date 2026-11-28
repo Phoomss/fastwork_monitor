@@ -1,5 +1,54 @@
 [
   {
+    "id": "7c5e872c-cc84-4b02-8d6b-12710a52812b",
+    "status": "open",
+    "tag": {
+      "id": "09c9348f-da0e-4389-a70a-78ef58f8b7b7",
+      "name": "อินฟลูเอนเซอร์",
+      "sort": 11
+    },
+    "type": "freelance",
+    "description": "หาKOC/ครีเอเตอร์สายท่องเที่ยวที่กำลังจะไปเที่ยวภาคเหนือ\nใครมีทริปเชียงใหม่ หรือจังหวัดอื่นในภาคเหนืออยู่แล้ว อยากได้คนที่รีวิวแอปเกี่ยวกับการท่องเที่ยว โดยเป็นแอปที่ไปถึงแต่ละที่แล้วเช็กอินเก็บแสตมป์ ฉายาได้ และยังมี feature อื่นๆอีกเพียบ เช่นเขียนบันทึก เก็บประวัติการท่องเที่ยว\nงานที่ขอคร่าวๆ\n* เที่ยวตามแผนเดิมได้เลย แค่เช็กอินในแอปในสถานที่ที่ไป\n* คลิปสั้น 1 คลิป เล่าทริปแบบของตัวเอง โดยมีตอนที่ใช้แอปอยู่ในคลิปด้วย\n* สตอรี่ 1 อัน พร้อมลิงก์ดาวน��โหลดแอป\n* แท็ก [เพจ/แฮชแท็ก]\nค่าตอบแทน 700 บาท\nโพสต์ภายใน 7 วันหลังกลับจากทริป\nมือใหม่สมัครได้ ใช้ได้ทั้ง iPhone และ Android\nใครสนใจ comment ช่องทางติดต่อ ไว้เลยน้า เผื่อได้เป็น partner กันระยะยาว รับทั้งมือใหม่มือเก่า\n",
+    "title": "KOC/ครีเอเตอร์สายท่องเที่ยวที่กำลังจะไปเที่ยวภาคเหนือ",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "700",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-28T08:39:54.785931Z",
+    "updated_at": "2026-11-28T08:39:56.145926Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
+    },
+    "user_id": "2c1fa09b-3244-4929-9f8f-6a3bdd92ae0a",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T08:39:54.734131Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "2c1fa09b-3244-4929-9f8f-6a3bdd92ae0a",
+      "username": "columns",
+      "display_name": "column",
+      "image_url": "https://storage.googleapis.com/fastwork-static/458623f2-c49c-4c48-84de-7bcdd7ee21f6.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "700",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-28T10:10:58.386Z"
+  },
+  {
     "id": "47d05c06-34fa-4280-befd-fd22085705c1",
     "status": "open",
     "tag": {
@@ -146,153 +195,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-27T19:26:21.847Z"
-  },
-  {
-    "id": "17daeb06-98cc-4c17-bb0b-b2cbf194e287",
-    "status": "open",
-    "tag": {
-      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
-      "name": "พัฒนาเว็บไซต์",
-      "sort": 16
-    },
-    "type": "freelance",
-    "description": "Looking for Freelance Developer / Programmer\n\nกำลังมองหาคนรับเขียนโปรแกรมเพื่อพัฒนาระบบสำหรับโปรเจกต์  Photo Booth\n\nเป็นโปรเจกต์ Photo Booth ที่ถ่ายภาพ 4 ช็อต และพิมพ์ออกมาเป็นภาพขาวดำบนกระดาษ Thermal Receipt \n\n**รายละเอียดโปรเจกต์**\n- รูปแบบงาน: Freelance / Project-based\n- อุปกรณ์หลัก: MacBook และ iPhone\n- มีงบประมาณสำหรับพัฒนาระบบ\n- ต้องการทำ Prototype เพื่อทดลองใช้งานจริง\n\nหากมีประสบการณ์ด้าน Software Development, Python, Web Application, Camera Integration หรือ Printer Integration จะพิจารณาเป็นพิเศษ\n\nสนใจติดต่อพร้อมแนบ Portfolio หรือผลงานที่ผ่านมา และแจ้งเรทราคาประเมินเบื้องต้นได้เลย\n\nขอบคุณค่ะ",
-    "title": "โปรแกรมเมอร์",
-    "is_owner": false,
-    "source": "jobboard_web",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-27T09:44:49.491502Z",
-    "updated_at": "2026-11-27T09:44:50.653072Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": false,
-      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
-    },
-    "user_id": "cf2b9fca-b421-4356-96ca-223b07644950",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-12-27T09:44:49.345708Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": "cf2b9fca-b421-4356-96ca-223b07644950",
-      "username": "anothewriter",
-      "display_name": "anotherwriter",
-      "image_url": "https://fw-fileupload-th.s3.ap-southeast-1.amazonaws.com/users/cf2b9fca-b421-4356-96ca-223b07644950/profile/dae26440-2d44-4542-aaf6-6ee0169e9559.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาเว็บไซต์",
-      "ออกแบบ UX UI"
-    ],
-    "matchedAt": "2026-11-27T10:09:40.375Z"
-  },
-  {
-    "id": "33c0b861-e297-4c77-9e58-b0538609e3c4",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "ต้องการพัฒนาระบบ AI สำหรับช่วยตอบลูกค้าและช่วยค้นหาสินค้า สำหรับธุรกิจ B2B Industrial Supply / รับจัดหาและนำเข้าสินค้าโรงงาน\n\nช่องทางที่ต้องการเชื่อม:\n\n- LINE OA\n- Facebook Page\n\nความสามารถที่ต้องการ:\n\n- AI รับข้อความลูกค้าและถามข้อมูลต่อ เช่น ชื่อสินค้า รุ่น Part No. จำนวน สเปก และรูปสินค้า\n- อ่านรูปสินค้า / Nameplate / Part No. ได้\n- ดึงข้อมูลจากฐานข้อมูลบ��ิษัทมาตอบได้\n- หากไม่มีข้อมูลในฐาน สามารถค้นข้อมูลจากเว็บไซต์ผู้ผลิต / Supplier / Marketplace / Internet ได้\n- หา Brand / Model / Specification / Datasheet / แหล่งซื้อ\n- หากรุ่นเดิมไม่มี สามารถหาสินค้าเทียบและแจ้งความแตกต่างได้\n- ไม่ตอบหรือเดาสเปกเมื่อข้อมูลไม่พอ\n- แยกประเภทแชต เช่น ขอราคา ตามสินค้า ขอเอกสาร เคลม และขอคุยเจ้าหน้าที่\n- เมื่อลูกค้าต้องการคุยกับคน ให้หยุด AI และส่งต่อแอดมินได้ทันที\n- สรุป Requirement ของลูกค้าก่อนส่งต่อ เช่น สินค้า รุ่น จำนวน สเปก ความเร่งด่วน\n- เก็บ Lead / ประวัติลูกค้า / Requirement ลง Google Sheets หรือ Database\n- รองรับลูกค้าจำนวนมาก\n\nธุรกิจมีสินค้าและ Part No. ไม่ตายตัว เพราะสามารถจัดหาและนำเข้าสินค้าได้หลากหลาย จึงต้องการ AI ที่สามารถค้นหาสินค้าใหม่ให้ลูกค้าได้ ไม่ใช่เฉพาะตอบ FAQ หรือข้อมูลที่มีอยู่ในระบบเท่านั้น\n\nรบกวนแจ้ง:\n\n- แนวทางระบบที่แนะนำ\n- Technology / Platform ที่จะใช้\n- สิ่งที่ทำได้และทำไม่ได้\n- ค่าใช้จ่ายพัฒนา\n- ค่าใช้จ่ายรายเดือน เช่น AI API, Server, Database, LINE/Facebook API, Make/n8n\n- ระยะเวลาพัฒนา\n- การดูแลหลังส่งมอบ\n- ตัวอย่างผลงานที่ใกล้เคียง\n\nต้องการผู้ที่มีประสบการณ์ด้าน AI Agent / API Integration / LINE OA / Facebook Messenger / Automation จริง",
-    "title": "พัฒนาระบบ AI Sales + Sourcing Agent เชื่อม LINE OA และ Facebook Page",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "0",
-    "is_anonymous": true,
-    "inserted_at": "2026-11-27T09:20:36.212577Z",
-    "updated_at": "2026-11-27T09:20:38.252975Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-S948B;11.17.0-6005985"
-    },
-    "user_id": "5ecfde5d-23f9-4ca1-88ee-a877daff5f4d",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-12-27T09:20:36.158603Z",
-    "already_offered": false,
-    "business_type": "notspecified",
-    "deadline_at": null,
-    "freelance_offers_count": 4,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "business",
-    "user_profile": {
-      "id": null,
-      "username": null,
-      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": null,
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-27T10:09:39.159Z"
-  },
-  {
-    "id": "fb5b99f6-2666-4883-87c6-09c84476d33b",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
-    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-27T07:15:43.428482Z",
-    "updated_at": "2026-11-27T07:15:45.226979Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-A576B;11.18.0-6005992"
-    },
-    "user_id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-12-27T07:15:43.409560Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 4,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-      "username": "7riaqidr",
-      "display_name": "ไม่รับคนที่เคยสมัครชอปปี้เพย์",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-27T10:09:38.009Z"
   }
 ]
