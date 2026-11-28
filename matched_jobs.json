@@ -1,5 +1,251 @@
 [
   {
+    "id": "d119893e-ef68-4fe9-be78-d384518774cd",
+    "status": "open",
+    "tag": {
+      "id": "186f6d74-04f4-4516-add6-065fc7afb284",
+      "name": "กราฟิกดีไซน์",
+      "sort": 7
+    },
+    "type": "freelance",
+    "description": "🎨🧦 ตามหา Freelance Designer — Fashion & Lifestyle Brand\n\nกำลังมองหา Designer สำหรับร่วมออกแบบ Collection แรกของแบรนด์ Fashion & Lifestyle Accessories ค่ะ\n\nScope of Work\n\n* Brand Identity & Logo Design\n* Original Character Illustration\n* Textile / Surface Pattern Design\n* Sock Collection Design (ประมาณ 12 Product Variations)\n* Packaging Design (3 Formats)\n* Product Mockup & Production-ready Artwork\n\nDesign Direction\n\n* Retro & Playful\n* Premium but approachable\n* Bold typography\n* Character-based illustration\n* Cute but not too childish\n\nหากมีประสบการณ์ออกแบบลายผ้า งานปัก งานทอ หรือ Packaging สำหรับสินค้า Lifestyle จะพิจารณาเป็นพิเศษค่ะ\n\nProject Requirements\n\n* สามารถส่งมอบไฟล์ต้นฉบับที่แก้ไขได้\n* สามารถปรับ Artwork ตาม Specification ของโรงงาน\n* รองรับการตกลงเรื่องลิขสิทธิ์และ Confidentiality Agreement\n* สามารถเริ่มงานได้ทันที\n\nสนใจรบกวนส่ง Portfolio, เรทราคาโดยประมาณ และ Timeline ทาง Inbox หรือ line ********** ได้เลยค่ะ\n\nมีโอกาสร่วมงานกันระยะยาวสำหรับ Collection ถัดไปด้วยนะคะ 😊",
+    "title": "🎨🧦 ตามหา Freelance Designer — Fashion & Lifestyle Brand",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "15000",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-28T15:33:58.490373Z",
+    "updated_at": "2026-11-28T15:33:59.634954Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.2;iPhone;11.18.0-6005992"
+    },
+    "user_id": "d08bd609-fa51-40f2-99e8-f59e4e75d456",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T15:33:58.442158Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": "2026-12-01",
+    "freelance_offers_count": 3,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "d08bd609-fa51-40f2-99e8-f59e4e75d456",
+      "username": "zvvyymfi",
+      "display_name": "zvvyymfi",
+      "image_url": "https://lh3.googleusercontent.com/a/AAcHTteBYXCl1mWWULpO1DapO9wSLmP95MgzpMfR3IWo=s96-c"
+    },
+    "freelance_offers": null,
+    "budget_2": "15000",
+    "matchedCategories": [
+      "ออกแบบ UX UI"
+    ],
+    "matchedAt": "2026-11-28T18:13:11.447Z"
+  },
+  {
+    "id": "4f803797-c852-4c57-9b72-cfed91e6a6d4",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ฉันหาคนเขียนโค้ดเกม สร้างโปรแกรมต่างๆ สร้างเกมได้  เข้าใจในการสร้างเกม ใครสนใจส่งรายละเอียดได้เลยครับ\n  ",
+    "title": "ฉันหานักเขียนโปรแกรม",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-28T14:33:43.777308Z",
+    "updated_at": "2026-11-28T14:33:45.563977Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.2.1;iPhone;11.18.0-6005992"
+    },
+    "user_id": "99af2dd1-3652-4d86-9cb8-87f034ce4c27",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T14:33:43.734880Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 4,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "99af2dd1-3652-4d86-9cb8-87f034ce4c27",
+      "username": "kanomm67",
+      "display_name": "Kanomm",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-28T18:13:10.242Z"
+  },
+  {
+    "id": "3996d6c2-95ab-4c4b-9f5d-030b21c41eb3",
+    "status": "open",
+    "tag": {
+      "id": "4c7ee9da-5509-4ff1-b7c2-df81fb2ef06c",
+      "name": "พัฒนาเว็บไซต์",
+      "sort": 16
+    },
+    "type": "freelance",
+    "description": "ทดสอบเสียงก่อนเริ่มงาน รับเฉพาะผู้ชายเท่านั้นไม่จำกัดอายุ ทำงานผ่านแอพECAI มีประโยคให้อ่านตาม ประโยคสั้นๆ350-400+- ประโยค ขึ้นอยู่กับงานที่กดเลือก ���ะได้รับค่าจ้างหลังงานผ่านการตรวจสอบทุกประโยค",
+    "title": "ฉันหา ผู้ชายอัดเสียงพัฒนาAIยานยนต์ผ่านแอพECAI",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "400",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-28T14:04:33.536098Z",
+    "updated_at": "2026-11-28T14:04:35.518479Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "iOS27.0.1;iPhone;11.18.0-6005992"
+    },
+    "user_id": "d7efa952-4837-4512-9593-700cb511b301",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T14:04:33.515525Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "400",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-28T18:13:09.095Z"
+  },
+  {
+    "id": "5b0fe759-5c66-452d-b92c-b8225ef2ea9b",
+    "status": "open",
+    "tag": {
+      "id": "b561a88b-03e5-4f03-8a6d-ba169671797d",
+      "name": "อื่นๆ",
+      "sort": 99
+    },
+    "type": "freelance",
+    "description": "ต้องการนักเรียนที่กำลังศึกษาอยู่ชั้นมัธยม ที่มีความสนใจเรื่องโรงเรียน, กิจกรรม และระบบสภานักเรียน มาทดลองเล่นเกมฉบับทดสอบบน Android พร้อมรับฟังไอเดียเกมที่ผมกำลังทำ แล้วจากนั้นก็ให้ข้อเสนอกับรายละเอียดที่ควรจะเพิ่มหรือแก้อะไรเพื่อความสมจริงในบริบทสถานศึกษาไทย เพื่อที่จะนำฟีดแบ็คไปพัฒนาให้เหมาะสมเมื่อปล่อยเกมเต็มออกมาแล้ว ส่วนฟอร์แมตการนำเสนอได้ทุกรูปแบบ ขอแค่เป็นความเห็นจากคุณพอ",
+    "title": "คนเสนอไอเดียให้เกมแนวโรงเรียนและการเมือง",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "200",
+    "is_anonymous": true,
+    "inserted_at": "2026-11-28T12:19:50.990708Z",
+    "updated_at": "2026-11-28T12:19:52.293055Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android15;SM-A057F;11.18.0-6005992"
+    },
+    "user_id": "09fe715f-b89a-4a59-a89e-c2e50cfa5149",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T12:19:50.969966Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": null,
+    "freelance_offers_count": 5,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": null,
+      "username": null,
+      "display_name": "***** (บัญชีไม่ระบุชื่อ)",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "200",
+    "matchedCategories": [
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-28T18:13:07.999Z"
+  },
+  {
+    "id": "97f41b90-c5ee-471b-aa18-9249fcb8bad8",
+    "status": "open",
+    "tag": {
+      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
+      "name": "พัฒนาแอปพลิเคชัน",
+      "sort": 20
+    },
+    "type": "freelance",
+    "description": "ฉันหา หาคนสอนแปลนิยาย นิยาย จีน, อื่นๆ แปล ที ละหลายๆตอน ด้วย ai\n\nหาคนสอนแปลนิยาย หรือมีโปรแกรมแปลนิยาย\n\n-ทีละเยอะๆ\n\n-ขัดเกลา\n\n-ประโยค สถานที่ วิชา ไม่เรียน\n\nทักมาได้เลยครับขอคนมีประสบการยิ่งดี\n\n*อาจจะเขียนโปรแกรมหรืออื่นๆ\n\n*สามารถแปลได้ หลายตอนๆ *แปลไม่เพี้ยน ขัดเกลา",
+    "title": "หาคนสอนแปลนิยาย นิยาย จีน, อื่นๆ แปล ที ละหลายๆตอน ด้วย ai",
+    "is_owner": false,
+    "source": "jobboard_app_jobboard_home_floating-button",
+    "files": [],
+    "kind": "standard",
+    "budget": "1000",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-28T10:18:02.981138Z",
+    "updated_at": "2026-11-28T10:18:04.743749Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": true,
+      "source": "Android17;SM-S938B;11.18.0-6005992"
+    },
+    "user_id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T10:18:02.964585Z",
+    "already_offered": false,
+    "business_type": null,
+    "deadline_at": "2028-11-28",
+    "freelance_offers_count": 5,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "personal",
+    "user_profile": {
+      "id": "a6a7e7b7-aa7b-405d-a1e6-5899a940e5e4",
+      "username": "supawit.14",
+      "display_name": "supawitma.14",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": "1000",
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์",
+      "พัฒนาแอปพลิเคชัน"
+    ],
+    "matchedAt": "2026-11-28T18:13:06.814Z"
+  },
+  {
     "id": "7c5e872c-cc84-4b02-8d6b-12710a52812b",
     "status": "open",
     "tag": {
