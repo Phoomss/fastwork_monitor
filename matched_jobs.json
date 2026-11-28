@@ -1,5 +1,54 @@
 [
   {
+    "id": "47d05c06-34fa-4280-befd-fd22085705c1",
+    "status": "open",
+    "tag": {
+      "id": "74361190-6891-4bcc-b244-30f90133f7e0",
+      "name": "รูปภาพและวิดีโอ",
+      "sort": 6
+    },
+    "type": "freelance",
+    "description": "Khao Yai Vanilla วานิลลาปลูกเองจากเขาใหญ่ หาช่างภาพอาหารมืออาชีพ (กล้องจริง + จัดสไตล์อาหาร) ถ่ายสินค้า 3 ตัว: Vanilla Honey Vinegar, Vanilla Honey, Vanilla Paste เราส่งสินค้าไปให้\n\nต่อ 1 สินค้า:\n- รูป 6-8 รูป: พื้นขาว 2 รูป, จัดจานอาหาร 2-3, ภาพใกล้เนื้อสินค้า 1-2, มือกำลังใช้ 1\n- คลิป 1: อาหาร/ASMR 10-15 วิ\n- คลิป 2: คลิปโฆษณา 15-20 วิ แนวตั้ง 9:16 (แนวนอนเพิ่มได้ บอกราคา)\nเว้นที่ว่างรอบสินค้า ให้ครอปได้ 1:1, 4:5, 9:16\n\nไฟล์ที่ต้องได้:\n- รูปความละเอียดสูง ไม่มีลายน้ำ + ไฟล์ RAW\n- รูปพื้นขาวแบบไดคัท PNG พื้นใส\n- คลิปตัดต่อแล้ว + ฟุตเทจดิบทั้งหมด\n- เพลงต้องมีลิขสิทธิ์ใช้โฆษณาได้\n\nสิทธิ์: ร้านใช้ได้ตลอดไป ทุกช่องทาง รวมโฆษณา แก้ไข ตัด ครอปเองได้ ไม่ต้องให้เครดิต\nแก้ได้ 2 ครั้ง\n\nตอนเสนองาน ส่งมาด้วย:\n1) ผลงานถ่ายอาหารหรือสินค้า\n2) ราคารวม (วัตถุดิบ พร็อพ ค่าส่งคืนของ)\n3) กล้องที่ใช้\n4) กี่วันหลังได้รับของ\n\nเว็บ: https://khaoyaivanilla.com\n\n---\n\nKhao Yai Vanilla (single-origin vanilla) needs a professional food photographer (real camera + food styling) for 3 products: Vanilla Honey Vinegar, Vanilla Honey, Vanilla Paste. We ship the products.\n\nPer product:\n- 6-8 photos: 2 white background, 2-3 styled food, 1-2 texture close-up, 1 hands in use\n- Clip 1: food/ASMR 10-15 s\n- Clip 2: ad 15-20 s, 9:16 (horizontal: tell us the price)\nLeave space to crop 1:1, 4:5, 9:16.\n\nFiles: high-res photos, no watermark + RAW; white-background cut-outs as transparent PNG; edited clips + all raw footage; music licensed for ads.\n\nRights: we can use, edit and crop forever, on all channels including ads. No credit needed. 2 rounds of changes.\n\nPlease send: food/product portfolio, total price (ingredients, props, return shipping), camera, days to deliver.\n\nWebsite: https://khaoyaivanilla.com",
+    "title": "ถ่ายภาพ + วิดีโอสินค้าอาหารแบบมืออาชีพ 3 ชิ้น / Pro food photo + video shoot, 3 products",
+    "is_owner": false,
+    "source": "jobboard_web",
+    "files": [],
+    "kind": "standard",
+    "budget": "0",
+    "is_anonymous": false,
+    "inserted_at": "2026-11-28T01:29:30.504237Z",
+    "updated_at": "2026-11-28T01:29:31.673505Z",
+    "brief_url": null,
+    "processed_user_agent": {
+      "isMobile": false,
+      "source": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36"
+    },
+    "user_id": "25ea2d33-b2b0-4e66-a93a-60e7f4f2eafb",
+    "is_fastwork_pick": false,
+    "company_display_name": null,
+    "company_image_url": null,
+    "expired_at": "2026-12-28T01:29:30.436047Z",
+    "already_offered": false,
+    "business_type": "notspecified",
+    "deadline_at": null,
+    "freelance_offers_count": 0,
+    "is_official": false,
+    "require_english_speaker": false,
+    "usage_type": "business",
+    "user_profile": {
+      "id": "25ea2d33-b2b0-4e66-a93a-60e7f4f2eafb",
+      "username": "bonnyb",
+      "display_name": "Bonny",
+      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
+    },
+    "freelance_offers": null,
+    "budget_2": null,
+    "matchedCategories": [
+      "พัฒนาเว็บไซต์"
+    ],
+    "matchedAt": "2026-11-28T02:03:51.282Z"
+  },
+  {
     "id": "7ab6e67f-bdd7-4d8d-ab33-89c9f3d42201",
     "status": "open",
     "tag": {
@@ -245,103 +294,5 @@
       "พัฒนาแอปพลิเคชัน"
     ],
     "matchedAt": "2026-11-27T10:09:38.009Z"
-  },
-  {
-    "id": "2aa5a233-2f73-43fe-8311-6d62ab0504c3",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเ���ื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
-    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
-    "is_owner": false,
-    "source": "jobboard_app_me-job_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-26T23:34:24.795773Z",
-    "updated_at": "2026-11-26T23:34:26.453434Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-A576B;11.18.0-6005992"
-    },
-    "user_id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-12-26T23:34:24.773197Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 10,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-      "username": "7riaqidr",
-      "display_name": "อารยา",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-27T01:48:34.036Z"
-  },
-  {
-    "id": "1a8d17b4-08c9-455b-bde3-33d267a70cf0",
-    "status": "open",
-    "tag": {
-      "id": "c82d3ff0-c1c1-4b39-b9e3-124e513eb66c",
-      "name": "พัฒนาแอปพลิเคชัน",
-      "sort": 20
-    },
-    "type": "freelance",
-    "description": "รายละเอียดงาน:\nรับสมัครผู้สนใจตอบแบบสอบถามเกี่ยวกับการซื้อสินค้าออนไลน์\nใช้เวลาประมาณ 5–10 นาที\nตอบคำถามตามความเป็นจริง\nค่าตอบแทน 100 บาท เมื่อทำแบบสอบถามครบถ้วนตามเงื่อนไข\nเป็นงานออนไลน์ ทำได้ผ่านโทรศัพท์มือถือ",
-    "title": "รับสมัครผู้เข้าร่วมตอบแบบสอบถามเกี่ยวกับพฤติกรรมการซื้อสินค้าออนไลน์",
-    "is_owner": false,
-    "source": "jobboard_app_jobboard_home_floating-button",
-    "files": [],
-    "kind": "standard",
-    "budget": "100",
-    "is_anonymous": false,
-    "inserted_at": "2026-11-26T23:33:58.729672Z",
-    "updated_at": "2026-11-26T23:34:01.299168Z",
-    "brief_url": null,
-    "processed_user_agent": {
-      "isMobile": true,
-      "source": "Android17;SM-A576B;11.18.0-6005992"
-    },
-    "user_id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-    "is_fastwork_pick": false,
-    "company_display_name": null,
-    "company_image_url": null,
-    "expired_at": "2026-12-26T23:33:58.710272Z",
-    "already_offered": false,
-    "business_type": null,
-    "deadline_at": null,
-    "freelance_offers_count": 2,
-    "is_official": false,
-    "require_english_speaker": false,
-    "usage_type": "personal",
-    "user_profile": {
-      "id": "d1e5817d-dcd4-4ab4-9026-84f8c65b088f",
-      "username": "7riaqidr",
-      "display_name": "อารยา",
-      "image_url": "https://storage.googleapis.com/fastwork-static/1194f09c-cb5d-47e3-99e0-6f7bb85cdad2.jpg"
-    },
-    "freelance_offers": null,
-    "budget_2": "100",
-    "matchedCategories": [
-      "พัฒนาแอปพลิเคชัน"
-    ],
-    "matchedAt": "2026-11-27T01:48:32.711Z"
   }
 ]
